@@ -1,5 +1,10 @@
 [
   {
+    "title": "TeamViewer Portable 15.80.6 (pc control, screen sharing) Released",
+    "link": "https://portableapps.com/news/2026-08-17--teamviewer-portable-15.80.6-released",
+    "pubDate": "Mon, 17 Aug 2026 16:45:20 +0000"
+  },
+  {
     "title": "PuTTY Portable 0.85 (telnet and SSH client) Released",
     "link": "https://portableapps.com/news/2026-08-17-putty-portable-0.85-released",
     "pubDate": "Mon, 17 Aug 2026 16:40:54 +0000"
@@ -68,10 +73,5 @@
     "title": "r3dfox Portable 153.0.3 (web browser for Vista and Windows 7) Released",
     "link": "https://portableapps.com/news/2026-08-09--r3dfox-portable-153.0.3-released",
     "pubDate": "Sun, 09 Aug 2026 18:53:33 +0000"
-  },
-  {
-    "title": "calibre Portable 9.13.0 (ebook manager, viewer, converter) Released",
-    "link": "https://portableapps.com/news/2026-08-09--calibre-portable-9.13.0-released",
-    "pubDate": "Sun, 09 Aug 2026 18:52:08 +0000"
   }
 ]
