@@ -1,5 +1,30 @@
 [
   {
+    "title": "PowerFolder 28.0.100",
+    "link": "https://www.computerbase.de/downloads/office/dateimanager/powerfolder/",
+    "pubDate": "2026-08-17T19:15:00.000Z"
+  },
+  {
+    "title": "Slack 4.51.191 (Win 11)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/slack/",
+    "pubDate": "2026-08-17T19:15:00.000Z"
+  },
+  {
+    "title": "Slack 4.51.191 (macOS)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/slack/",
+    "pubDate": "2026-08-17T19:14:00.000Z"
+  },
+  {
+    "title": "Slack 4.51.191 Beta (Linux)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/slack/",
+    "pubDate": "2026-08-17T19:13:00.000Z"
+  },
+  {
+    "title": "Internet Download Manager 6.43 Build 9",
+    "link": "https://www.computerbase.de/downloads/office/dateitransfer/internet-download-manager/",
+    "pubDate": "2026-08-17T19:13:00.000Z"
+  },
+  {
     "title": "croc 11.1.2",
     "link": "https://www.computerbase.de/downloads/office/dateitransfer/croc/",
     "pubDate": "2026-08-17T18:12:00.000Z"
@@ -223,30 +248,5 @@
     "title": "HWiNFO 8.51 Build 6057 Beta",
     "link": "https://www.computerbase.de/downloads/systemtools/hwinfo/",
     "pubDate": "2026-08-14T13:42:00.000Z"
-  },
-  {
-    "title": "mp3Tag 3.36 Beta 5",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/mp3tag/",
-    "pubDate": "2026-08-14T13:34:00.000Z"
-  },
-  {
-    "title": "Signal 8.23.0",
-    "link": "https://www.computerbase.de/downloads/kommunikation/signal/",
-    "pubDate": "2026-08-14T04:33:00.000Z"
-  },
-  {
-    "title": "Java SE Development Kit 28.0 Build 11 Dev",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/java-se-development-kit/",
-    "pubDate": "2026-08-13T19:50:00.000Z"
-  },
-  {
-    "title": "Dropbox 266.3.3869 Beta",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/dropbox/",
-    "pubDate": "2026-08-13T19:09:00.000Z"
-  },
-  {
-    "title": "Veeam Agent for Windows 13.1.1.700",
-    "link": "https://www.computerbase.de/downloads/sicherheit/backup/veeam-agent/",
-    "pubDate": "2026-08-13T18:54:00.000Z"
   }
 ]
