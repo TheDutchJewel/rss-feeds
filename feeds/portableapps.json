@@ -1,5 +1,20 @@
 [
   {
+    "title": "mssPortable 1.457.201 (Microsoft Safety Scanner antivirus launcher) Released",
+    "link": "https://portableapps.com/news/2026-08-17--mssportable-1.457.201-released",
+    "pubDate": "Mon, 17 Aug 2026 04:57:34 +0000"
+  },
+  {
+    "title": "gVim Portable 9.2.0957 (advanced text editor) Released",
+    "link": "https://portableapps.com/news/2026-08-17--gvim-portable-9.2.0957-released",
+    "pubDate": "Mon, 17 Aug 2026 04:55:29 +0000"
+  },
+  {
+    "title": "QOwnNotes Portable 26.8.4 (markdown note taker) Released",
+    "link": "https://portableapps.com/news/2026-08-17--qownnotes-portable-26.8.4-released",
+    "pubDate": "Mon, 17 Aug 2026 04:54:08 +0000"
+  },
+  {
     "title": "Process Explorer Portable 17.13 (task manager and process analyzer) Released",
     "link": "https://portableapps.com/news/2026-08-14--process-explorer-portable-17.13-released",
     "pubDate": "Fri, 14 Aug 2026 22:39:49 +0000"
@@ -58,20 +73,5 @@
     "title": "Thunderbird, Portable Edition 153.0.2 (email client) Released",
     "link": "https://portableapps.com/news/2026-08-07--thunderbird-portable-153.0.2-released",
     "pubDate": "Fri, 07 Aug 2026 22:48:01 +0000"
-  },
-  {
-    "title": "Telegram Desktop Portable 7.0.9 (secure instant messaging) Released",
-    "link": "https://portableapps.com/news/2026-08-07--telegram-desktop-portable-7.0.9-released",
-    "pubDate": "Fri, 07 Aug 2026 22:41:24 +0000"
-  },
-  {
-    "title": "LibreWolf Portable 153.0.3-1 (web browser) Released",
-    "link": "https://portableapps.com/news/2026-08-07--librewolf-portable-153.0.3-1-released",
-    "pubDate": "Fri, 07 Aug 2026 22:39:04 +0000"
-  },
-  {
-    "title": "Google Chrome Portable 151.0.7922.109 Stable (web browser) Released",
-    "link": "https://portableapps.com/news/2026-08-07--google-chrome-portable-151.0.7922.109-released",
-    "pubDate": "Fri, 07 Aug 2026 20:03:11 +0000"
   }
 ]

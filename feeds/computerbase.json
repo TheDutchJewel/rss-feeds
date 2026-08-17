@@ -1,5 +1,55 @@
 [
   {
+    "title": "Avast Free Antivirus 26.8.11125 Beta",
+    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/avast-free-antivirus/",
+    "pubDate": "2026-08-17T13:58:00.000Z"
+  },
+  {
+    "title": "WhatsApp 2.26.33.12 (macOS)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/whatsapp/",
+    "pubDate": "2026-08-17T13:56:00.000Z"
+  },
+  {
+    "title": "AnyDesk 9.7.15",
+    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/anydesk/",
+    "pubDate": "2026-08-17T13:55:00.000Z"
+  },
+  {
+    "title": "W10Privacy 6.2.0.1",
+    "link": "https://www.computerbase.de/downloads/systemtools/w10privacy/",
+    "pubDate": "2026-08-17T13:47:00.000Z"
+  },
+  {
+    "title": "LibreOffice 26.2.6 RC1",
+    "link": "https://www.computerbase.de/downloads/office/libreoffice/",
+    "pubDate": "2026-08-17T10:16:00.000Z"
+  },
+  {
+    "title": "BetterTouchTool 6.716 (macOS)",
+    "link": "https://www.computerbase.de/downloads/systemtools/bettertouchtool/",
+    "pubDate": "2026-08-17T10:15:00.000Z"
+  },
+  {
+    "title": "SteelSeries GG 117.0.0",
+    "link": "https://www.computerbase.de/downloads/treiber/eingabegeraete/steelseries-gg/",
+    "pubDate": "2026-08-17T10:14:00.000Z"
+  },
+  {
+    "title": "Asus GPU Tweak III v2.1.8.0",
+    "link": "https://www.computerbase.de/downloads/systemtools/grafikkarten/asus-gpu-tweak/",
+    "pubDate": "2026-08-17T10:13:00.000Z"
+  },
+  {
+    "title": "LastPass 5.4.5 Universal",
+    "link": "https://www.computerbase.de/downloads/sicherheit/passwortmanager/lastpass/",
+    "pubDate": "2026-08-17T10:12:00.000Z"
+  },
+  {
+    "title": "Linux Kernel 7.2 (Linux)",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/linux-kernel/",
+    "pubDate": "2026-08-17T06:12:00.000Z"
+  },
+  {
     "title": "XMedia Recode 3.6.3.8",
     "link": "https://www.computerbase.de/downloads/audio-und-video/xmedia-recode/",
     "pubDate": "2026-08-16T21:59:00.000Z"
@@ -115,11 +165,6 @@
     "pubDate": "2026-08-14T17:25:00.000Z"
   },
   {
-    "title": "W10Privacy 6.1.0.0",
-    "link": "https://www.computerbase.de/downloads/systemtools/w10privacy/",
-    "pubDate": "2026-08-14T16:12:00.000Z"
-  },
-  {
     "title": "Raspberry Pi Imager 2.0.11",
     "link": "https://www.computerbase.de/downloads/betriebssysteme/raspberry-pi-imager/",
     "pubDate": "2026-08-14T16:09:00.000Z"
@@ -203,50 +248,5 @@
     "title": "EA-App 13.768.7.6285",
     "link": "https://www.computerbase.de/downloads/games/ea-app/",
     "pubDate": "2026-08-13T18:49:00.000Z"
-  },
-  {
-    "title": "Box Drive 2.53",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/box-drive/",
-    "pubDate": "2026-08-13T18:48:00.000Z"
-  },
-  {
-    "title": "Adobe AIR SDK 51.3.4.1",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/adobe-air-sdk/",
-    "pubDate": "2026-08-13T18:45:00.000Z"
-  },
-  {
-    "title": "pdfFactory 9.32",
-    "link": "https://www.computerbase.de/downloads/office/pdf/pdffactory/",
-    "pubDate": "2026-08-13T18:43:00.000Z"
-  },
-  {
-    "title": "Avast Free Antivirus 26.8.11122 Beta",
-    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/avast-free-antivirus/",
-    "pubDate": "2026-08-13T15:13:00.000Z"
-  },
-  {
-    "title": "Brave 1.93.136",
-    "link": "https://www.computerbase.de/downloads/browser/brave/",
-    "pubDate": "2026-08-13T15:11:00.000Z"
-  },
-  {
-    "title": "Everything 1.5.0.1422 Beta",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/everything/",
-    "pubDate": "2026-08-13T15:09:00.000Z"
-  },
-  {
-    "title": "PeaZip 11.2.0",
-    "link": "https://www.computerbase.de/downloads/office/packprogramme/peazip/",
-    "pubDate": "2026-08-13T15:07:00.000Z"
-  },
-  {
-    "title": "Visual Studio 2017 v15.9.82",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/visual-studio-2017/",
-    "pubDate": "2026-08-13T15:06:00.000Z"
-  },
-  {
-    "title": "Visual Studio 2019 v16.11.59",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/visual-studio-2019/",
-    "pubDate": "2026-08-13T15:06:00.000Z"
   }
 ]

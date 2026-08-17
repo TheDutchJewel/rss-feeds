@@ -1,5 +1,25 @@
 [
   {
+    "title": "PuTTY updated to 0.85.",
+    "link": "https://ninite.com/putty/",
+    "pubDate": "Mon, 17 Aug 2026 07:52:00 -0000"
+  },
+  {
+    "title": "Brave updated to 1.93.136.",
+    "link": "https://ninite.com/brave/",
+    "pubDate": "Mon, 17 Aug 2026 07:38:27 -0000"
+  },
+  {
+    "title": "Cursor updated to 3.16.17.",
+    "link": "https://ninite.com/cursor/",
+    "pubDate": "Mon, 17 Aug 2026 07:38:03 -0000"
+  },
+  {
+    "title": "OneDrive updated to 26.139.0720.0007.",
+    "link": "https://ninite.com/onedrive/",
+    "pubDate": "Mon, 17 Aug 2026 07:37:44 -0000"
+  },
+  {
     "title": "Discord updated to 1.0.9253.",
     "link": "https://ninite.com/discord/",
     "pubDate": "Sat, 15 Aug 2026 02:42:23 -0000"
@@ -433,25 +453,5 @@
     "title": "Chrome updated to 151.0.7922.72.",
     "link": "https://ninite.com/chrome/",
     "pubDate": "Wed, 29 Jul 2026 22:59:02 -0000"
-  },
-  {
-    "title": "Krita updated to 5.3.3.",
-    "link": "https://ninite.com/krita/",
-    "pubDate": "Wed, 29 Jul 2026 22:41:32 -0000"
-  },
-  {
-    "title": "Firefox updated to 153.0.1.",
-    "link": "https://ninite.com/firefox/",
-    "pubDate": "Tue, 28 Jul 2026 22:54:58 -0000"
-  },
-  {
-    "title": "Thunderbird updated to 153.0.1.",
-    "link": "https://ninite.com/thunderbird/",
-    "pubDate": "Tue, 28 Jul 2026 22:54:13 -0000"
-  },
-  {
-    "title": "Evernote updated to 11.27.5.",
-    "link": "https://ninite.com/evernote/",
-    "pubDate": "Tue, 28 Jul 2026 14:23:16 -0000"
   }
 ]
