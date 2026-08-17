@@ -1,5 +1,10 @@
 [
   {
+    "title": "PuTTY Portable 0.85 (telnet and SSH client) Released",
+    "link": "https://portableapps.com/news/2026-08-17-putty-portable-0.85-released",
+    "pubDate": "Mon, 17 Aug 2026 16:40:54 +0000"
+  },
+  {
     "title": "mssPortable 1.457.201 (Microsoft Safety Scanner antivirus launcher) Released",
     "link": "https://portableapps.com/news/2026-08-17--mssportable-1.457.201-released",
     "pubDate": "Mon, 17 Aug 2026 04:57:34 +0000"
@@ -68,10 +73,5 @@
     "title": "calibre Portable 9.13.0 (ebook manager, viewer, converter) Released",
     "link": "https://portableapps.com/news/2026-08-09--calibre-portable-9.13.0-released",
     "pubDate": "Sun, 09 Aug 2026 18:52:08 +0000"
-  },
-  {
-    "title": "Thunderbird, Portable Edition 153.0.2 (email client) Released",
-    "link": "https://portableapps.com/news/2026-08-07--thunderbird-portable-153.0.2-released",
-    "pubDate": "Fri, 07 Aug 2026 22:48:01 +0000"
   }
 ]
