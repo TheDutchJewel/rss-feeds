@@ -1,0 +1,8 @@
+{
+  "name": "rss-feeds",
+  "version": "1.0.0",
+  "description": "RSS to JSON converter",
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}
