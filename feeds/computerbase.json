@@ -1,5 +1,15 @@
 [
   {
+    "title": "LibreWolf 154.0-2",
+    "link": "https://www.computerbase.de/downloads/browser/librewolf/",
+    "pubDate": "2026-08-18T09:30:00.000Z"
+  },
+  {
+    "title": "O&O ShutUp10 v3.4.1124",
+    "link": "https://www.computerbase.de/downloads/systemtools/o-und-o-shutup10/",
+    "pubDate": "2026-08-18T09:29:00.000Z"
+  },
+  {
     "title": "Nero Burning ROM 28.5.10120",
     "link": "https://www.computerbase.de/downloads/office/brennprogramme/nero/",
     "pubDate": "2026-08-18T04:32:00.000Z"
@@ -238,15 +248,5 @@
     "title": "Asus GPU Tweak II v2.4.1.0",
     "link": "https://www.computerbase.de/downloads/systemtools/grafikkarten/asus-gpu-tweak/",
     "pubDate": "2026-08-14T15:11:00.000Z"
-  },
-  {
-    "title": "Apache NetBeans IDE 31 (Inoffiziell)",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/netbeans/",
-    "pubDate": "2026-08-14T15:07:00.000Z"
-  },
-  {
-    "title": "ClipGrab 4.0.0 Beta 2 (macOS)",
-    "link": "https://www.computerbase.de/downloads/office/dateitransfer/clipgrab/",
-    "pubDate": "2026-08-14T14:10:00.000Z"
   }
 ]
