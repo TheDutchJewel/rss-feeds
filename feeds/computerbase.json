@@ -1,5 +1,20 @@
 [
   {
+    "title": "Visual Studio 2026 v18.10.12113.136 Insider",
+    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/visual-studio-2026/",
+    "pubDate": "2026-08-18T18:22:00.000Z"
+  },
+  {
+    "title": "Visual Studio 2026 v18.9.1",
+    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/visual-studio-2026/",
+    "pubDate": "2026-08-18T18:21:00.000Z"
+  },
+  {
+    "title": "Betterbird 153.1.0esr-bb7",
+    "link": "https://www.computerbase.de/downloads/kommunikation/betterbird/",
+    "pubDate": "2026-08-18T18:14:00.000Z"
+  },
+  {
     "title": "Java SE Development Kit 26.0.2.1",
     "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/java-se-development-kit/",
     "pubDate": "2026-08-18T17:54:00.000Z"
@@ -50,13 +65,13 @@
     "pubDate": "2026-08-18T15:08:00.000Z"
   },
   {
-    "title": "AVG AntiVirus Free 26.8.11125",
-    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/avg-antivirus-free/",
+    "title": "Avast Free Antivirus 26.8.11125",
+    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/avast-free-antivirus/",
     "pubDate": "2026-08-18T15:05:00.000Z"
   },
   {
-    "title": "Avast Free Antivirus 26.8.11125",
-    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/avast-free-antivirus/",
+    "title": "AVG AntiVirus Free 26.8.11125",
+    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/avg-antivirus-free/",
     "pubDate": "2026-08-18T15:05:00.000Z"
   },
   {
@@ -233,20 +248,5 @@
     "title": "W10Privacy 6.2.0.1",
     "link": "https://www.computerbase.de/downloads/systemtools/w10privacy/",
     "pubDate": "2026-08-17T13:47:00.000Z"
-  },
-  {
-    "title": "LibreOffice 26.2.6 RC1",
-    "link": "https://www.computerbase.de/downloads/office/libreoffice/",
-    "pubDate": "2026-08-17T10:16:00.000Z"
-  },
-  {
-    "title": "BetterTouchTool 6.716 (macOS)",
-    "link": "https://www.computerbase.de/downloads/systemtools/bettertouchtool/",
-    "pubDate": "2026-08-17T10:15:00.000Z"
-  },
-  {
-    "title": "SteelSeries GG 117.0.0",
-    "link": "https://www.computerbase.de/downloads/treiber/eingabegeraete/steelseries-gg/",
-    "pubDate": "2026-08-17T10:14:00.000Z"
   }
 ]
