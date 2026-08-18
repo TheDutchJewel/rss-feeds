@@ -1,5 +1,50 @@
 [
   {
+    "title": "Java SE Development Kit 26.0.2.1",
+    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/java-se-development-kit/",
+    "pubDate": "2026-08-18T17:54:00.000Z"
+  },
+  {
+    "title": "Java SE Development Kit 25.0.4.1 (LTS)",
+    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/java-se-development-kit/",
+    "pubDate": "2026-08-18T17:53:00.000Z"
+  },
+  {
+    "title": "Java SE Development Kit 21.0.12.1 (LTS)",
+    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/java-se-development-kit/",
+    "pubDate": "2026-08-18T17:52:00.000Z"
+  },
+  {
+    "title": "Java SE Development Kit 17.0.20.1 (LTS)",
+    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/java-se-development-kit/",
+    "pubDate": "2026-08-18T17:51:00.000Z"
+  },
+  {
+    "title": "Java SE Development Kit 8.0 Update 503 (LTS)",
+    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/java-se-development-kit/",
+    "pubDate": "2026-08-18T17:50:00.000Z"
+  },
+  {
+    "title": "Joomla! 5.4.8v1",
+    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/joomla/",
+    "pubDate": "2026-08-18T17:49:00.000Z"
+  },
+  {
+    "title": "Joomla! 6.1.3v1",
+    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/joomla/",
+    "pubDate": "2026-08-18T17:49:00.000Z"
+  },
+  {
+    "title": "Java SE Runtime Environment 8.0 Update 503",
+    "link": "https://www.computerbase.de/downloads/systemtools/java-se-runtime-environment/",
+    "pubDate": "2026-08-18T17:46:00.000Z"
+  },
+  {
+    "title": "Element 1.12.26",
+    "link": "https://www.computerbase.de/downloads/kommunikation/element/",
+    "pubDate": "2026-08-18T17:45:00.000Z"
+  },
+  {
     "title": "Oracle VM VirtualBox 7.2.16",
     "link": "https://www.computerbase.de/downloads/systemtools/oracle-vm-virtualbox/",
     "pubDate": "2026-08-18T15:08:00.000Z"
@@ -203,50 +248,5 @@
     "title": "SteelSeries GG 117.0.0",
     "link": "https://www.computerbase.de/downloads/treiber/eingabegeraete/steelseries-gg/",
     "pubDate": "2026-08-17T10:14:00.000Z"
-  },
-  {
-    "title": "Asus GPU Tweak III v2.1.8.0",
-    "link": "https://www.computerbase.de/downloads/systemtools/grafikkarten/asus-gpu-tweak/",
-    "pubDate": "2026-08-17T10:13:00.000Z"
-  },
-  {
-    "title": "LastPass 5.4.5 Universal",
-    "link": "https://www.computerbase.de/downloads/sicherheit/passwortmanager/lastpass/",
-    "pubDate": "2026-08-17T10:12:00.000Z"
-  },
-  {
-    "title": "Linux Kernel 7.2 (Linux)",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/linux-kernel/",
-    "pubDate": "2026-08-17T06:12:00.000Z"
-  },
-  {
-    "title": "Files 4.2.7",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/files/",
-    "pubDate": "2026-08-16T21:59:00.000Z"
-  },
-  {
-    "title": "RealVNC Connect Viewer 8.5.0",
-    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/vnc-connect/",
-    "pubDate": "2026-08-16T18:20:00.000Z"
-  },
-  {
-    "title": "Microsoft OneDrive 26.139.0720.0007",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/microsoft-onedrive/",
-    "pubDate": "2026-08-16T18:19:00.000Z"
-  },
-  {
-    "title": "Sandboxie Plus 1.18.2",
-    "link": "https://www.computerbase.de/downloads/sicherheit/sandboxie/",
-    "pubDate": "2026-08-16T18:13:00.000Z"
-  },
-  {
-    "title": "Sandboxie Classic 5.73.2",
-    "link": "https://www.computerbase.de/downloads/sicherheit/sandboxie/",
-    "pubDate": "2026-08-16T18:12:00.000Z"
-  },
-  {
-    "title": "CS Browser 13.5.7",
-    "link": "https://www.computerbase.de/downloads/office/dateitransfer/s3-browser/",
-    "pubDate": "2026-08-16T18:11:00.000Z"
   }
 ]
