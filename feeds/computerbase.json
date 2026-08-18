@@ -1,5 +1,10 @@
 [
   {
+    "title": "Oracle VM VirtualBox 7.2.16",
+    "link": "https://www.computerbase.de/downloads/systemtools/oracle-vm-virtualbox/",
+    "pubDate": "2026-08-18T15:08:00.000Z"
+  },
+  {
     "title": "AVG AntiVirus Free 26.8.11125",
     "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/avg-antivirus-free/",
     "pubDate": "2026-08-18T15:05:00.000Z"
@@ -55,12 +60,17 @@
     "pubDate": "2026-08-18T14:52:00.000Z"
   },
   {
+    "title": "Mozilla Firefox 154.0",
+    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
+    "pubDate": "2026-08-18T14:51:00.000Z"
+  },
+  {
     "title": "Tor Browser 15.0.20",
     "link": "https://www.computerbase.de/downloads/browser/tor-browser/",
     "pubDate": "2026-08-18T14:50:00.000Z"
   },
   {
-    "title": "Mozilla Firefox 154.0",
+    "title": "Mozilla Firefox 153.1.0 ESR",
     "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
     "pubDate": "2026-08-18T14:50:00.000Z"
   },
@@ -238,15 +248,5 @@
     "title": "CS Browser 13.5.7",
     "link": "https://www.computerbase.de/downloads/office/dateitransfer/s3-browser/",
     "pubDate": "2026-08-16T18:11:00.000Z"
-  },
-  {
-    "title": "AIDA64 v8.35.8405 Beta",
-    "link": "https://www.computerbase.de/downloads/systemtools/aida64/",
-    "pubDate": "2026-08-16T18:11:00.000Z"
-  },
-  {
-    "title": "PuTTY 0.85",
-    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/putty/",
-    "pubDate": "2026-08-16T13:54:00.000Z"
   }
 ]
