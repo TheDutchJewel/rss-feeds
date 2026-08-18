@@ -1,5 +1,15 @@
 [
   {
+    "title": "Edge updated to 151.0.4129.93.",
+    "link": "https://ninite.com/edge/",
+    "pubDate": "Tue, 18 Aug 2026 02:35:26 -0000"
+  },
+  {
+    "title": "AnyDesk updated to 9.7.15.",
+    "link": "https://ninite.com/anydesk/",
+    "pubDate": "Tue, 18 Aug 2026 02:35:18 -0000"
+  },
+  {
     "title": "PuTTY updated to 0.85.",
     "link": "https://ninite.com/putty/",
     "pubDate": "Mon, 17 Aug 2026 07:52:00 -0000"
@@ -438,20 +448,5 @@
     "title": "JDK (AdoptOpenJDK) x64 11 updated to 11.0.32.",
     "link": "https://ninite.com/adoptjdkx11/",
     "pubDate": "Wed, 29 Jul 2026 23:00:26 -0000"
-  },
-  {
-    "title": "Java (AdoptOpenJDK) x64 11 updated to 11.0.32.",
-    "link": "https://ninite.com/adoptjavax11/",
-    "pubDate": "Wed, 29 Jul 2026 23:00:15 -0000"
-  },
-  {
-    "title": "Visual Studio Code updated to 1.131.0.",
-    "link": "https://ninite.com/vscode/",
-    "pubDate": "Wed, 29 Jul 2026 22:59:24 -0000"
-  },
-  {
-    "title": "Chrome updated to 151.0.7922.72.",
-    "link": "https://ninite.com/chrome/",
-    "pubDate": "Wed, 29 Jul 2026 22:59:02 -0000"
   }
 ]
