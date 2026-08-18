@@ -1,5 +1,85 @@
 [
   {
+    "title": "AVG AntiVirus Free 26.8.11125",
+    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/avg-antivirus-free/",
+    "pubDate": "2026-08-18T15:05:00.000Z"
+  },
+  {
+    "title": "Avast Free Antivirus 26.8.11125",
+    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/avast-free-antivirus/",
+    "pubDate": "2026-08-18T15:05:00.000Z"
+  },
+  {
+    "title": "LastPass 2.2.0 for Desktop",
+    "link": "https://www.computerbase.de/downloads/sicherheit/passwortmanager/lastpass/",
+    "pubDate": "2026-08-18T15:04:00.000Z"
+  },
+  {
+    "title": "Joplin 3.7.12 Beta",
+    "link": "https://www.computerbase.de/downloads/office/joplin/",
+    "pubDate": "2026-08-18T15:02:00.000Z"
+  },
+  {
+    "title": "Camtasia 2026.2.1",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/camtasia-studio/",
+    "pubDate": "2026-08-18T15:01:00.000Z"
+  },
+  {
+    "title": "Copernic Desktop Search 8.3.6.18559",
+    "link": "https://www.computerbase.de/downloads/office/dateimanager/copernic-desktop-search/",
+    "pubDate": "2026-08-18T14:58:00.000Z"
+  },
+  {
+    "title": "ShareMouse for Windows 7.0.27",
+    "link": "https://www.computerbase.de/downloads/treiber/eingabegeraete/sharemouse/",
+    "pubDate": "2026-08-18T14:56:00.000Z"
+  },
+  {
+    "title": "Evernote 11.30.6",
+    "link": "https://www.computerbase.de/downloads/office/evernote/",
+    "pubDate": "2026-08-18T14:55:00.000Z"
+  },
+  {
+    "title": "WhatsApp 2.26.33.15 (macOS)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/whatsapp/",
+    "pubDate": "2026-08-18T14:55:00.000Z"
+  },
+  {
+    "title": "Opera 134.0.5954.66",
+    "link": "https://www.computerbase.de/downloads/browser/opera/",
+    "pubDate": "2026-08-18T14:54:00.000Z"
+  },
+  {
+    "title": "XnConvert 1.115",
+    "link": "https://www.computerbase.de/downloads/foto-und-grafik/xnconvert/",
+    "pubDate": "2026-08-18T14:52:00.000Z"
+  },
+  {
+    "title": "Tor Browser 15.0.20",
+    "link": "https://www.computerbase.de/downloads/browser/tor-browser/",
+    "pubDate": "2026-08-18T14:50:00.000Z"
+  },
+  {
+    "title": "Mozilla Firefox 154.0",
+    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
+    "pubDate": "2026-08-18T14:50:00.000Z"
+  },
+  {
+    "title": "Mozilla Firefox 140.14.0 ESR",
+    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
+    "pubDate": "2026-08-18T14:49:00.000Z"
+  },
+  {
+    "title": "Mozilla Firefox 115.39.0 ESR",
+    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
+    "pubDate": "2026-08-18T14:48:00.000Z"
+  },
+  {
+    "title": "croc 11.2.1",
+    "link": "https://www.computerbase.de/downloads/office/dateitransfer/croc/",
+    "pubDate": "2026-08-18T14:47:00.000Z"
+  },
+  {
     "title": "MSI Center 2.0.73.0",
     "link": "https://www.computerbase.de/downloads/systemtools/msi-center/",
     "pubDate": "2026-08-18T10:05:00.000Z"
@@ -75,16 +155,6 @@
     "pubDate": "2026-08-17T19:13:00.000Z"
   },
   {
-    "title": "croc 11.1.2",
-    "link": "https://www.computerbase.de/downloads/office/dateitransfer/croc/",
-    "pubDate": "2026-08-17T18:12:00.000Z"
-  },
-  {
-    "title": "WhatsApp 2.26.32.21 (macOS)",
-    "link": "https://www.computerbase.de/downloads/kommunikation/whatsapp/",
-    "pubDate": "2026-08-17T18:12:00.000Z"
-  },
-  {
     "title": "Wing FTP Server 8.2.2",
     "link": "https://www.computerbase.de/downloads/office/dateitransfer/wing-ftp-server/",
     "pubDate": "2026-08-17T18:11:00.000Z"
@@ -98,11 +168,6 @@
     "title": "Raspberry Pi Imager 2.0.11.1",
     "link": "https://www.computerbase.de/downloads/betriebssysteme/raspberry-pi-imager/",
     "pubDate": "2026-08-17T18:09:00.000Z"
-  },
-  {
-    "title": "Avast Free Antivirus 26.8.11125 Beta",
-    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/avast-free-antivirus/",
-    "pubDate": "2026-08-17T13:58:00.000Z"
   },
   {
     "title": "AnyDesk 9.7.15",
@@ -183,70 +248,5 @@
     "title": "PuTTY 0.85",
     "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/putty/",
     "pubDate": "2026-08-16T13:54:00.000Z"
-  },
-  {
-    "title": "Auto Dark Mode 11.1.1.1",
-    "link": "https://www.computerbase.de/downloads/systemtools/auto-dark-mode/",
-    "pubDate": "2026-08-16T12:37:00.000Z"
-  },
-  {
-    "title": "Opera GX 134.0.5954.67 Early Access",
-    "link": "https://www.computerbase.de/downloads/browser/opera-gx/",
-    "pubDate": "2026-08-15T20:43:00.000Z"
-  },
-  {
-    "title": "NirLauncher 1.30.25",
-    "link": "https://www.computerbase.de/downloads/systemtools/nirlauncher/",
-    "pubDate": "2026-08-15T20:42:00.000Z"
-  },
-  {
-    "title": "Groovy 5.1.0",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/groovy/",
-    "pubDate": "2026-08-15T09:13:00.000Z"
-  },
-  {
-    "title": "Intel Arc & Xe Grafiktreiber 32.0.101.8974 WHQL",
-    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/intel-grafiktreiber/",
-    "pubDate": "2026-08-15T09:11:00.000Z"
-  },
-  {
-    "title": "FreeBSD 14.5 Beta 2",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/freebsd/",
-    "pubDate": "2026-08-15T09:09:00.000Z"
-  },
-  {
-    "title": "OBS Studio 32.2.2",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/obs-studio/",
-    "pubDate": "2026-08-15T09:07:00.000Z"
-  },
-  {
-    "title": "Discord 0.0.408 (macOS)",
-    "link": "https://www.computerbase.de/downloads/kommunikation/discord/",
-    "pubDate": "2026-08-14T21:30:00.000Z"
-  },
-  {
-    "title": "Discord 1.0.154 (Linux)",
-    "link": "https://www.computerbase.de/downloads/kommunikation/discord/",
-    "pubDate": "2026-08-14T21:30:00.000Z"
-  },
-  {
-    "title": "AMD Chipsatztreiber 8.08.12.551",
-    "link": "https://www.computerbase.de/downloads/treiber/mainboards/amd-chipsatztreiber/",
-    "pubDate": "2026-08-14T17:28:00.000Z"
-  },
-  {
-    "title": "Malwarebytes 5.26.0.4151 (macOS)",
-    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/malwarebytes/",
-    "pubDate": "2026-08-14T17:26:00.000Z"
-  },
-  {
-    "title": "Discord 1.0.9253",
-    "link": "https://www.computerbase.de/downloads/kommunikation/discord/",
-    "pubDate": "2026-08-14T17:25:00.000Z"
-  },
-  {
-    "title": "Raspberry Pi Imager 2.0.11 (Linux)",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/raspberry-pi-imager/",
-    "pubDate": "2026-08-14T16:09:00.000Z"
   }
 ]
