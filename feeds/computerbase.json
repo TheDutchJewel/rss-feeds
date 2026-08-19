@@ -1,5 +1,60 @@
 [
   {
+    "title": "Viber für Desktop 28.6.0.0",
+    "link": "https://www.computerbase.de/downloads/kommunikation/viber-fuer-desktop/",
+    "pubDate": "2026-08-19T12:40:00.000Z"
+  },
+  {
+    "title": "Vivaldi 8.1 Build 4087.68",
+    "link": "https://www.computerbase.de/downloads/browser/vivaldi/",
+    "pubDate": "2026-08-19T12:39:00.000Z"
+  },
+  {
+    "title": "Multi Commander 16.2 Build 3205",
+    "link": "https://www.computerbase.de/downloads/office/dateimanager/multi-commander/",
+    "pubDate": "2026-08-19T12:38:00.000Z"
+  },
+  {
+    "title": "Trellix Stinger 26.08.34.1",
+    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/mcafee-labs-stinger/",
+    "pubDate": "2026-08-19T12:38:00.000Z"
+  },
+  {
+    "title": "Malwarebytes 5.26.1.4152 (macOS)",
+    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/malwarebytes/",
+    "pubDate": "2026-08-19T12:38:00.000Z"
+  },
+  {
+    "title": "Visual Studio Code (VS Code) 1.134.0",
+    "link": "https://www.computerbase.de/downloads/office/editoren/visual-studio-code/",
+    "pubDate": "2026-08-19T12:37:00.000Z"
+  },
+  {
+    "title": "W10Privacy 6.2.0.2",
+    "link": "https://www.computerbase.de/downloads/systemtools/w10privacy/",
+    "pubDate": "2026-08-19T12:37:00.000Z"
+  },
+  {
+    "title": "croc 11.2.2",
+    "link": "https://www.computerbase.de/downloads/office/dateitransfer/croc/",
+    "pubDate": "2026-08-19T12:36:00.000Z"
+  },
+  {
+    "title": "WhatsApp 2.26.33.17 (macOS)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/whatsapp/",
+    "pubDate": "2026-08-19T12:36:00.000Z"
+  },
+  {
+    "title": "Geek Uninstaller 1.5.4.180",
+    "link": "https://www.computerbase.de/downloads/systemtools/geek-uninstaller/",
+    "pubDate": "2026-08-19T12:35:00.000Z"
+  },
+  {
+    "title": "Nextcloud Client 34.0.2",
+    "link": "https://www.computerbase.de/downloads/office/dateimanager/nextcloud/",
+    "pubDate": "2026-08-19T12:35:00.000Z"
+  },
+  {
     "title": "Dropbox 268.3.4018 Beta",
     "link": "https://www.computerbase.de/downloads/office/dateimanager/dropbox/",
     "pubDate": "2026-08-19T04:25:00.000Z"
@@ -145,11 +200,6 @@
     "pubDate": "2026-08-18T14:55:00.000Z"
   },
   {
-    "title": "WhatsApp 2.26.33.15 (macOS)",
-    "link": "https://www.computerbase.de/downloads/kommunikation/whatsapp/",
-    "pubDate": "2026-08-18T14:55:00.000Z"
-  },
-  {
     "title": "Opera 134.0.5954.66",
     "link": "https://www.computerbase.de/downloads/browser/opera/",
     "pubDate": "2026-08-18T14:54:00.000Z"
@@ -185,11 +235,6 @@
     "pubDate": "2026-08-18T14:48:00.000Z"
   },
   {
-    "title": "croc 11.2.1",
-    "link": "https://www.computerbase.de/downloads/office/dateitransfer/croc/",
-    "pubDate": "2026-08-18T14:47:00.000Z"
-  },
-  {
     "title": "MSI Center 2.0.73.0",
     "link": "https://www.computerbase.de/downloads/systemtools/msi-center/",
     "pubDate": "2026-08-18T10:05:00.000Z"
@@ -203,50 +248,5 @@
     "title": "O&O ShutUp10 v3.4.1124",
     "link": "https://www.computerbase.de/downloads/systemtools/o-und-o-shutup10/",
     "pubDate": "2026-08-18T09:29:00.000Z"
-  },
-  {
-    "title": "Nero Burning ROM 28.5.10120",
-    "link": "https://www.computerbase.de/downloads/office/brennprogramme/nero/",
-    "pubDate": "2026-08-18T04:32:00.000Z"
-  },
-  {
-    "title": "Microsoft Edge 151.0.4129.93",
-    "link": "https://www.computerbase.de/downloads/browser/microsoft-edge/",
-    "pubDate": "2026-08-18T04:29:00.000Z"
-  },
-  {
-    "title": "CPU-Z 2.21",
-    "link": "https://www.computerbase.de/downloads/systemtools/cpu-z/",
-    "pubDate": "2026-08-18T04:26:00.000Z"
-  },
-  {
-    "title": "1Password 8.12.34-29 Beta",
-    "link": "https://www.computerbase.de/downloads/sicherheit/passwortmanager/1password/",
-    "pubDate": "2026-08-18T04:25:00.000Z"
-  },
-  {
-    "title": "Mozilla Firefox 155.0 Beta 1",
-    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
-    "pubDate": "2026-08-18T04:24:00.000Z"
-  },
-  {
-    "title": "Mozilla Thunderbird 155.0 Beta 1",
-    "link": "https://www.computerbase.de/downloads/kommunikation/mozilla-thunderbird/",
-    "pubDate": "2026-08-18T04:23:00.000Z"
-  },
-  {
-    "title": "XMedia Recode 3.6.3.9",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/xmedia-recode/",
-    "pubDate": "2026-08-18T04:22:00.000Z"
-  },
-  {
-    "title": "PowerFolder 28.0.100",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/powerfolder/",
-    "pubDate": "2026-08-17T19:15:00.000Z"
-  },
-  {
-    "title": "Slack 4.51.191 (Win 11)",
-    "link": "https://www.computerbase.de/downloads/kommunikation/slack/",
-    "pubDate": "2026-08-17T19:15:00.000Z"
   }
 ]
