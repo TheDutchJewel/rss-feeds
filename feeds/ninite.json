@@ -1,5 +1,15 @@
 [
   {
+    "title": "JRE (Amazon Corretto) x64 8 updated to 8u504-b01.",
+    "link": "https://ninite.com/correttojrex8/",
+    "pubDate": "Wed, 19 Aug 2026 07:41:27 -0000"
+  },
+  {
+    "title": "JRE (Amazon Corretto) 8 updated to 8u504-b01.",
+    "link": "https://ninite.com/correttojre8/",
+    "pubDate": "Wed, 19 Aug 2026 07:41:18 -0000"
+  },
+  {
     "title": "Dropbox updated to 266.4.3911.",
     "link": "https://ninite.com/dropbox/",
     "pubDate": "Wed, 19 Aug 2026 07:24:39 -0000"
@@ -433,10 +443,5 @@
     "title": "Cursor updated to 3.14.7.",
     "link": "https://ninite.com/cursor/",
     "pubDate": "Sat, 01 Aug 2026 04:44:03 -0000"
-  },
-  {
-    "title": "Edge updated to 151.0.4129.59.",
-    "link": "https://ninite.com/edge/",
-    "pubDate": "Fri, 31 Jul 2026 23:59:15 -0000"
   }
 ]
