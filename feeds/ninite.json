@@ -1,5 +1,10 @@
 [
   {
+    "title": "Dropbox updated to 266.4.3911.",
+    "link": "https://ninite.com/dropbox/",
+    "pubDate": "Wed, 19 Aug 2026 07:24:39 -0000"
+  },
+  {
     "title": "Cursor updated to 3.16.29.",
     "link": "https://ninite.com/cursor/",
     "pubDate": "Wed, 19 Aug 2026 06:15:48 -0000"
@@ -433,10 +438,5 @@
     "title": "Edge updated to 151.0.4129.59.",
     "link": "https://ninite.com/edge/",
     "pubDate": "Fri, 31 Jul 2026 23:59:15 -0000"
-  },
-  {
-    "title": "JDK (AdoptOpenJDK) x64 8 updated to 8u502-b07.",
-    "link": "https://ninite.com/adoptjdkx8/",
-    "pubDate": "Fri, 31 Jul 2026 23:59:00 -0000"
   }
 ]
