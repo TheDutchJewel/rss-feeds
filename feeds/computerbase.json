@@ -1,5 +1,20 @@
 [
   {
+    "title": "Microsoft Power Automate for desktop 2.71.115.26224",
+    "link": "https://www.computerbase.de/downloads/systemtools/microsoft-power-automate-desktop/",
+    "pubDate": "2026-08-19T17:38:00.000Z"
+  },
+  {
+    "title": "Microsoft Teams 26213.1006.5011.1671 (macOS)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/microsoft-teams/",
+    "pubDate": "2026-08-19T17:38:00.000Z"
+  },
+  {
+    "title": "Zotac FireStorm 5.0.0.016E (Win 11)",
+    "link": "https://www.computerbase.de/downloads/systemtools/grafikkarten/zotac-firestorm-utility/",
+    "pubDate": "2026-08-19T17:36:00.000Z"
+  },
+  {
     "title": "Linux Kernel 7.1.9 (Linux)",
     "link": "https://www.computerbase.de/downloads/betriebssysteme/linux-kernel/",
     "pubDate": "2026-08-19T17:06:00.000Z"
@@ -200,13 +215,13 @@
     "pubDate": "2026-08-18T15:08:00.000Z"
   },
   {
-    "title": "Avast Free Antivirus 26.8.11125",
-    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/avast-free-antivirus/",
+    "title": "AVG AntiVirus Free 26.8.11125",
+    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/avg-antivirus-free/",
     "pubDate": "2026-08-18T15:05:00.000Z"
   },
   {
-    "title": "AVG AntiVirus Free 26.8.11125",
-    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/avg-antivirus-free/",
+    "title": "Avast Free Antivirus 26.8.11125",
+    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/avast-free-antivirus/",
     "pubDate": "2026-08-18T15:05:00.000Z"
   },
   {
@@ -233,20 +248,5 @@
     "title": "ShareMouse for Windows 7.0.27",
     "link": "https://www.computerbase.de/downloads/treiber/eingabegeraete/sharemouse/",
     "pubDate": "2026-08-18T14:56:00.000Z"
-  },
-  {
-    "title": "Evernote 11.30.6",
-    "link": "https://www.computerbase.de/downloads/office/evernote/",
-    "pubDate": "2026-08-18T14:55:00.000Z"
-  },
-  {
-    "title": "Opera 134.0.5954.66",
-    "link": "https://www.computerbase.de/downloads/browser/opera/",
-    "pubDate": "2026-08-18T14:54:00.000Z"
-  },
-  {
-    "title": "XnConvert 1.115",
-    "link": "https://www.computerbase.de/downloads/foto-und-grafik/xnconvert/",
-    "pubDate": "2026-08-18T14:52:00.000Z"
   }
 ]
