@@ -1,5 +1,10 @@
 [
   {
+    "title": "Cursor updated to 3.16.29.",
+    "link": "https://ninite.com/cursor/",
+    "pubDate": "Wed, 19 Aug 2026 06:15:48 -0000"
+  },
+  {
     "title": "Firefox updated to 154.0.",
     "link": "https://ninite.com/firefox/",
     "pubDate": "Wed, 19 Aug 2026 02:14:49 -0000"
@@ -433,10 +438,5 @@
     "title": "JDK (AdoptOpenJDK) x64 8 updated to 8u502-b07.",
     "link": "https://ninite.com/adoptjdkx8/",
     "pubDate": "Fri, 31 Jul 2026 23:59:00 -0000"
-  },
-  {
-    "title": "Java (AdoptOpenJDK) x64 8 updated to 8u502-b07.",
-    "link": "https://ninite.com/adoptjavax8/",
-    "pubDate": "Fri, 31 Jul 2026 23:58:45 -0000"
   }
 ]
