@@ -1,5 +1,20 @@
 [
   {
+    "title": "FileZilla 3.71.0",
+    "link": "https://www.computerbase.de/downloads/office/dateitransfer/filezilla/",
+    "pubDate": "2026-08-19T14:52:00.000Z"
+  },
+  {
+    "title": "eM Client 10.4.5674.0",
+    "link": "https://www.computerbase.de/downloads/kommunikation/em-client/",
+    "pubDate": "2026-08-19T14:48:00.000Z"
+  },
+  {
+    "title": "Rocket.Chat Server 8.7.1 (Linux)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/rocket.chat/",
+    "pubDate": "2026-08-19T14:47:00.000Z"
+  },
+  {
     "title": "Viber für Desktop 28.6.0.0",
     "link": "https://www.computerbase.de/downloads/kommunikation/viber-fuer-desktop/",
     "pubDate": "2026-08-19T12:40:00.000Z"
@@ -233,20 +248,5 @@
     "title": "Mozilla Firefox 115.39.0 ESR",
     "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
     "pubDate": "2026-08-18T14:48:00.000Z"
-  },
-  {
-    "title": "MSI Center 2.0.73.0",
-    "link": "https://www.computerbase.de/downloads/systemtools/msi-center/",
-    "pubDate": "2026-08-18T10:05:00.000Z"
-  },
-  {
-    "title": "LibreWolf 154.0-2",
-    "link": "https://www.computerbase.de/downloads/browser/librewolf/",
-    "pubDate": "2026-08-18T09:30:00.000Z"
-  },
-  {
-    "title": "O&O ShutUp10 v3.4.1124",
-    "link": "https://www.computerbase.de/downloads/systemtools/o-und-o-shutup10/",
-    "pubDate": "2026-08-18T09:29:00.000Z"
   }
 ]
