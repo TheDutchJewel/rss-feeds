@@ -1,5 +1,10 @@
 [
   {
+    "title": "Mozilla Firefox 155.0 Beta 2",
+    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
+    "pubDate": "2026-08-19T16:05:00.000Z"
+  },
+  {
     "title": "FileZilla 3.71.0",
     "link": "https://www.computerbase.de/downloads/office/dateitransfer/filezilla/",
     "pubDate": "2026-08-19T14:52:00.000Z"
@@ -243,10 +248,5 @@
     "title": "Mozilla Firefox 140.14.0 ESR",
     "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
     "pubDate": "2026-08-18T14:49:00.000Z"
-  },
-  {
-    "title": "Mozilla Firefox 115.39.0 ESR",
-    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
-    "pubDate": "2026-08-18T14:48:00.000Z"
   }
 ]
