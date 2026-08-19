@@ -1,5 +1,10 @@
 [
   {
+    "title": "Visual Studio Code updated to 1.134.0.",
+    "link": "https://ninite.com/vscode/",
+    "pubDate": "Wed, 19 Aug 2026 14:09:38 -0000"
+  },
+  {
     "title": "JRE (Amazon Corretto) x64 8 updated to 8u504-b01.",
     "link": "https://ninite.com/correttojrex8/",
     "pubDate": "Wed, 19 Aug 2026 07:41:27 -0000"
@@ -413,25 +418,5 @@
     "title": "Firefox updated to 153.0.3.",
     "link": "https://ninite.com/firefox/",
     "pubDate": "Tue, 04 Aug 2026 22:16:23 -0000"
-  },
-  {
-    "title": "Cursor updated to 3.14.27.",
-    "link": "https://ninite.com/cursor/",
-    "pubDate": "Tue, 04 Aug 2026 11:28:26 -0000"
-  },
-  {
-    "title": "Malwarebytes updated to 5.6.3.277.",
-    "link": "https://ninite.com/malwarebytes/",
-    "pubDate": "Tue, 04 Aug 2026 01:55:30 -0000"
-  },
-  {
-    "title": "AnyDesk updated to 9.7.13.",
-    "link": "https://ninite.com/anydesk/",
-    "pubDate": "Mon, 03 Aug 2026 23:46:19 -0000"
-  },
-  {
-    "title": "LibreOffice updated to 26.2.5.",
-    "link": "https://ninite.com/libreoffice/",
-    "pubDate": "Sat, 01 Aug 2026 05:01:40 -0000"
   }
 ]
