@@ -1,5 +1,40 @@
 [
   {
+    "title": "Firefox updated to 154.0.",
+    "link": "https://ninite.com/firefox/",
+    "pubDate": "Wed, 19 Aug 2026 02:14:49 -0000"
+  },
+  {
+    "title": "Chrome updated to 151.0.7922.170.",
+    "link": "https://ninite.com/chrome/",
+    "pubDate": "Wed, 19 Aug 2026 02:12:28 -0000"
+  },
+  {
+    "title": "JDK (Amazon Corretto) 8 updated to 8u504-b01.",
+    "link": "https://ninite.com/correttojdk8/",
+    "pubDate": "Wed, 19 Aug 2026 01:23:47 -0000"
+  },
+  {
+    "title": "JDK (Amazon Corretto) x64 8 updated to 8u504-b01.",
+    "link": "https://ninite.com/correttojdkx8/",
+    "pubDate": "Wed, 19 Aug 2026 01:20:25 -0000"
+  },
+  {
+    "title": "Opera Chromium updated to 134.0.5954.66.",
+    "link": "https://ninite.com/operaChromium/",
+    "pubDate": "Wed, 19 Aug 2026 01:19:59 -0000"
+  },
+  {
+    "title": "Evernote updated to 11.30.6.",
+    "link": "https://ninite.com/evernote/",
+    "pubDate": "Wed, 19 Aug 2026 01:19:49 -0000"
+  },
+  {
+    "title": "Thunderbird updated to 154.0.",
+    "link": "https://ninite.com/thunderbird/",
+    "pubDate": "Wed, 19 Aug 2026 01:19:30 -0000"
+  },
+  {
     "title": "Edge updated to 151.0.4129.93.",
     "link": "https://ninite.com/edge/",
     "pubDate": "Tue, 18 Aug 2026 02:35:26 -0000"
@@ -403,50 +438,5 @@
     "title": "Java (AdoptOpenJDK) x64 8 updated to 8u502-b07.",
     "link": "https://ninite.com/adoptjavax8/",
     "pubDate": "Fri, 31 Jul 2026 23:58:45 -0000"
-  },
-  {
-    "title": "Discord updated to 1.0.9250.",
-    "link": "https://ninite.com/discord/",
-    "pubDate": "Fri, 31 Jul 2026 23:58:28 -0000"
-  },
-  {
-    "title": "OneDrive updated to 26.129.0706.0003.",
-    "link": "https://ninite.com/onedrive/",
-    "pubDate": "Fri, 31 Jul 2026 23:58:20 -0000"
-  },
-  {
-    "title": "Opera Chromium updated to 134.0.5954.26.",
-    "link": "https://ninite.com/operaChromium/",
-    "pubDate": "Fri, 31 Jul 2026 23:58:14 -0000"
-  },
-  {
-    "title": "TeamViewer 15 updated to 15.80.4.",
-    "link": "https://ninite.com/teamviewer15/",
-    "pubDate": "Thu, 30 Jul 2026 08:15:11 -0000"
-  },
-  {
-    "title": "Java (AdoptOpenJDK) x64 21 updated to 21.0.12.",
-    "link": "https://ninite.com/adoptjavax21/",
-    "pubDate": "Wed, 29 Jul 2026 23:01:51 -0000"
-  },
-  {
-    "title": "JDK (AdoptOpenJDK) x64 21 updated to 21.0.12.",
-    "link": "https://ninite.com/adoptjdkx21/",
-    "pubDate": "Wed, 29 Jul 2026 23:01:40 -0000"
-  },
-  {
-    "title": "Java (AdoptOpenJDK) x64 17 updated to 17.0.20.",
-    "link": "https://ninite.com/adoptjavax17/",
-    "pubDate": "Wed, 29 Jul 2026 23:01:30 -0000"
-  },
-  {
-    "title": "JDK (AdoptOpenJDK) x64 17 updated to 17.0.20.",
-    "link": "https://ninite.com/adoptjdkx17/",
-    "pubDate": "Wed, 29 Jul 2026 23:01:17 -0000"
-  },
-  {
-    "title": "JDK (AdoptOpenJDK) x64 11 updated to 11.0.32.",
-    "link": "https://ninite.com/adoptjdkx11/",
-    "pubDate": "Wed, 29 Jul 2026 23:00:26 -0000"
   }
 ]
