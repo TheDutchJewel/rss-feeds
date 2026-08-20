@@ -22,15 +22,15 @@ Created as a replacement for the FeedEk RSS service after feed.jquery-plugins.ne
 
 ## Hosting
 
-Primary:
+### Primary (GitHub)
 
-- [GitHub Pages](https://thedutchjewel.github.io/rss-feeds/rss.html)
+- RSS Viewer: [GitHub Pages](https://thedutchjewel.github.io/rss-feeds/rss.html)
 
-Backup:
+### Backup (GitLab)
 
-- [GitLab Pages](https://thedutchjewel.gitlab.io/rss-feeds/)
+- RSS Viewer: [GitLab Pages](https://thedutchjewel.gitlab.io/rss-feeds/)
 
-Both platforms automatically generate and publish the same JSON feeds and RSS viewer.
+Both platforms automatically generate and publish the same feeds and viewer page.
 
 ## Files
 
