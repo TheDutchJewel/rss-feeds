@@ -14,7 +14,7 @@ const feeds = [
   },
   {
     name: 'pfc',
-    url: 'https://feeds.feedburner.com/pfc'
+    url: 'https://www.portablefreeware.com/feed.php'
   },
   {
     name: 'portableapps',
