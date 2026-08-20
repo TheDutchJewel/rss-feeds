@@ -1,5 +1,20 @@
 [
   {
+    "title": "Vivaldi updated to 8.1.4087.68.",
+    "link": "https://ninite.com/vivaldi/",
+    "pubDate": "Thu, 20 Aug 2026 02:10:49 -0000"
+  },
+  {
+    "title": "Brave updated to 1.93.137.",
+    "link": "https://ninite.com/brave/",
+    "pubDate": "Thu, 20 Aug 2026 01:56:32 -0000"
+  },
+  {
+    "title": "FileZilla updated to 3.71.0.",
+    "link": "https://ninite.com/filezilla/",
+    "pubDate": "Thu, 20 Aug 2026 01:54:59 -0000"
+  },
+  {
     "title": "Visual Studio Code updated to 1.134.0.",
     "link": "https://ninite.com/vscode/",
     "pubDate": "Wed, 19 Aug 2026 14:09:38 -0000"
@@ -403,20 +418,5 @@
     "title": "Evernote updated to 11.28.2.",
     "link": "https://ninite.com/evernote/",
     "pubDate": "Tue, 04 Aug 2026 22:17:32 -0000"
-  },
-  {
-    "title": "Spotify updated to 1.2.95.452.",
-    "link": "https://ninite.com/spotify/",
-    "pubDate": "Tue, 04 Aug 2026 22:17:25 -0000"
-  },
-  {
-    "title": "Thunderbird updated to 153.0.2.",
-    "link": "https://ninite.com/thunderbird/",
-    "pubDate": "Tue, 04 Aug 2026 22:17:09 -0000"
-  },
-  {
-    "title": "Firefox updated to 153.0.3.",
-    "link": "https://ninite.com/firefox/",
-    "pubDate": "Tue, 04 Aug 2026 22:16:23 -0000"
   }
 ]
