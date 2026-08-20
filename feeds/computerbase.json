@@ -1,5 +1,30 @@
 [
   {
+    "title": "Opera 135.0.5973.41",
+    "link": "https://www.computerbase.de/downloads/browser/opera/",
+    "pubDate": "2026-08-20T15:03:00.000Z"
+  },
+  {
+    "title": "WhatsApp 2.26.33.19 (macOS)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/whatsapp/",
+    "pubDate": "2026-08-20T15:02:00.000Z"
+  },
+  {
+    "title": "Bandizip 8.0 Beta 40",
+    "link": "https://www.computerbase.de/downloads/office/packprogramme/bandizip/",
+    "pubDate": "2026-08-20T15:01:00.000Z"
+  },
+  {
+    "title": "W10Privacy 6.2.0.3",
+    "link": "https://www.computerbase.de/downloads/systemtools/w10privacy/",
+    "pubDate": "2026-08-20T15:00:00.000Z"
+  },
+  {
+    "title": "Java SE Development Kit 27.0 Build 35 RC",
+    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/java-se-development-kit/",
+    "pubDate": "2026-08-20T14:57:00.000Z"
+  },
+  {
     "title": "KDE neon 20260820-0522",
     "link": "https://www.computerbase.de/downloads/betriebssysteme/kde-neon/",
     "pubDate": "2026-08-20T14:52:00.000Z"
@@ -155,16 +180,6 @@
     "pubDate": "2026-08-19T12:37:00.000Z"
   },
   {
-    "title": "W10Privacy 6.2.0.2",
-    "link": "https://www.computerbase.de/downloads/systemtools/w10privacy/",
-    "pubDate": "2026-08-19T12:37:00.000Z"
-  },
-  {
-    "title": "WhatsApp 2.26.33.17 (macOS)",
-    "link": "https://www.computerbase.de/downloads/kommunikation/whatsapp/",
-    "pubDate": "2026-08-19T12:36:00.000Z"
-  },
-  {
     "title": "Geek Uninstaller 1.5.4.180",
     "link": "https://www.computerbase.de/downloads/systemtools/geek-uninstaller/",
     "pubDate": "2026-08-19T12:35:00.000Z"
@@ -233,20 +248,5 @@
     "title": "Java SE Development Kit 26.0.2.1",
     "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/java-se-development-kit/",
     "pubDate": "2026-08-18T17:54:00.000Z"
-  },
-  {
-    "title": "Java SE Development Kit 25.0.4.1 (LTS)",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/java-se-development-kit/",
-    "pubDate": "2026-08-18T17:53:00.000Z"
-  },
-  {
-    "title": "Java SE Development Kit 21.0.12.1 (LTS)",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/java-se-development-kit/",
-    "pubDate": "2026-08-18T17:52:00.000Z"
-  },
-  {
-    "title": "Java SE Development Kit 17.0.20.1 (LTS)",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/java-se-development-kit/",
-    "pubDate": "2026-08-18T17:51:00.000Z"
   }
 ]
