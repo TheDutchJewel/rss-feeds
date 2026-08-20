@@ -1,5 +1,20 @@
 [
   {
+    "title": "KDE neon 20260820-0522",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/kde-neon/",
+    "pubDate": "2026-08-20T14:52:00.000Z"
+  },
+  {
+    "title": "croc 11.2.3",
+    "link": "https://www.computerbase.de/downloads/office/dateitransfer/croc/",
+    "pubDate": "2026-08-20T14:51:00.000Z"
+  },
+  {
+    "title": "AMD Adrenalin Radeon-Treiber 26.8.1 (WHQL)",
+    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/amd-adrenalin-treiber/",
+    "pubDate": "2026-08-20T14:48:00.000Z"
+  },
+  {
     "title": "Files 4.2.9",
     "link": "https://www.computerbase.de/downloads/office/dateimanager/files/",
     "pubDate": "2026-08-20T04:51:00.000Z"
@@ -145,11 +160,6 @@
     "pubDate": "2026-08-19T12:37:00.000Z"
   },
   {
-    "title": "croc 11.2.2",
-    "link": "https://www.computerbase.de/downloads/office/dateitransfer/croc/",
-    "pubDate": "2026-08-19T12:36:00.000Z"
-  },
-  {
     "title": "WhatsApp 2.26.33.17 (macOS)",
     "link": "https://www.computerbase.de/downloads/kommunikation/whatsapp/",
     "pubDate": "2026-08-19T12:36:00.000Z"
@@ -238,15 +248,5 @@
     "title": "Java SE Development Kit 17.0.20.1 (LTS)",
     "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/java-se-development-kit/",
     "pubDate": "2026-08-18T17:51:00.000Z"
-  },
-  {
-    "title": "Java SE Development Kit 8.0 Update 503 (LTS)",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/java-se-development-kit/",
-    "pubDate": "2026-08-18T17:50:00.000Z"
-  },
-  {
-    "title": "Joomla! 5.4.8v1",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/joomla/",
-    "pubDate": "2026-08-18T17:49:00.000Z"
   }
 ]
