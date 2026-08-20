@@ -1,5 +1,10 @@
 [
   {
+    "title": "AVG updated to 26.8.11125.3788.",
+    "link": "https://ninite.com/avg/",
+    "pubDate": "Thu, 20 Aug 2026 03:30:16 -0000"
+  },
+  {
     "title": "Vivaldi updated to 8.1.4087.68.",
     "link": "https://ninite.com/vivaldi/",
     "pubDate": "Thu, 20 Aug 2026 02:10:49 -0000"
@@ -413,10 +418,5 @@
     "title": "Chrome updated to 151.0.7922.76.",
     "link": "https://ninite.com/chrome/",
     "pubDate": "Tue, 04 Aug 2026 22:21:23 -0000"
-  },
-  {
-    "title": "Evernote updated to 11.28.2.",
-    "link": "https://ninite.com/evernote/",
-    "pubDate": "Tue, 04 Aug 2026 22:17:32 -0000"
   }
 ]
