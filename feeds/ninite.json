@@ -1,5 +1,10 @@
 [
   {
+    "title": "Avast updated to 26.8.11125.3784.",
+    "link": "https://ninite.com/avast/",
+    "pubDate": "Thu, 20 Aug 2026 08:22:43 -0000"
+  },
+  {
     "title": "Cursor updated to 3.17.8.",
     "link": "https://ninite.com/cursor/",
     "pubDate": "Thu, 20 Aug 2026 07:51:56 -0000"
@@ -418,10 +423,5 @@
     "title": "WizTree updated to 4.32.",
     "link": "https://ninite.com/wiztree/",
     "pubDate": "Wed, 05 Aug 2026 07:30:10 -0000"
-  },
-  {
-    "title": "Chrome updated to 151.0.7922.76.",
-    "link": "https://ninite.com/chrome/",
-    "pubDate": "Tue, 04 Aug 2026 22:21:23 -0000"
   }
 ]
