@@ -1,5 +1,40 @@
 [
   {
+    "title": "Files 4.2.9",
+    "link": "https://www.computerbase.de/downloads/office/dateimanager/files/",
+    "pubDate": "2026-08-20T04:51:00.000Z"
+  },
+  {
+    "title": "Windows Sysinternals 2026-08-19",
+    "link": "https://www.computerbase.de/downloads/systemtools/sysinternals/",
+    "pubDate": "2026-08-20T04:48:00.000Z"
+  },
+  {
+    "title": "Process Monitor 4.1",
+    "link": "https://www.computerbase.de/downloads/systemtools/process-monitor/",
+    "pubDate": "2026-08-20T04:48:00.000Z"
+  },
+  {
+    "title": "Internet Download Manager 6.43 Build 10",
+    "link": "https://www.computerbase.de/downloads/office/dateitransfer/internet-download-manager/",
+    "pubDate": "2026-08-20T04:46:00.000Z"
+  },
+  {
+    "title": "Mozilla Thunderbird 155.0 Beta 2",
+    "link": "https://www.computerbase.de/downloads/kommunikation/mozilla-thunderbird/",
+    "pubDate": "2026-08-20T04:45:00.000Z"
+  },
+  {
+    "title": "Signal 8.24.0",
+    "link": "https://www.computerbase.de/downloads/kommunikation/signal/",
+    "pubDate": "2026-08-20T04:45:00.000Z"
+  },
+  {
+    "title": "Brave 1.93.137",
+    "link": "https://www.computerbase.de/downloads/browser/brave/",
+    "pubDate": "2026-08-20T04:44:00.000Z"
+  },
+  {
     "title": "HyperX NGENUITY 3.0.0",
     "link": "https://www.computerbase.de/downloads/treiber/eingabegeraete/hyperx-ngenuity/",
     "pubDate": "2026-08-19T21:59:00.000Z"
@@ -213,40 +248,5 @@
     "title": "Joomla! 5.4.8v1",
     "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/joomla/",
     "pubDate": "2026-08-18T17:49:00.000Z"
-  },
-  {
-    "title": "Joomla! 6.1.3v1",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/joomla/",
-    "pubDate": "2026-08-18T17:49:00.000Z"
-  },
-  {
-    "title": "Java SE Runtime Environment 8.0 Update 503",
-    "link": "https://www.computerbase.de/downloads/systemtools/java-se-runtime-environment/",
-    "pubDate": "2026-08-18T17:46:00.000Z"
-  },
-  {
-    "title": "Element 1.12.26",
-    "link": "https://www.computerbase.de/downloads/kommunikation/element/",
-    "pubDate": "2026-08-18T17:45:00.000Z"
-  },
-  {
-    "title": "Oracle VM VirtualBox 7.2.16",
-    "link": "https://www.computerbase.de/downloads/systemtools/oracle-vm-virtualbox/",
-    "pubDate": "2026-08-18T15:08:00.000Z"
-  },
-  {
-    "title": "AVG AntiVirus Free 26.8.11125",
-    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/avg-antivirus-free/",
-    "pubDate": "2026-08-18T15:05:00.000Z"
-  },
-  {
-    "title": "Avast Free Antivirus 26.8.11125",
-    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/avast-free-antivirus/",
-    "pubDate": "2026-08-18T15:05:00.000Z"
-  },
-  {
-    "title": "LastPass 2.2.0 for Desktop",
-    "link": "https://www.computerbase.de/downloads/sicherheit/passwortmanager/lastpass/",
-    "pubDate": "2026-08-18T15:04:00.000Z"
   }
 ]
