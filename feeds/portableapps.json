@@ -1,5 +1,15 @@
 [
   {
+    "title": "Mozilla Firefox, Portable Edition Nightly 156 (web browser) Released",
+    "link": "https://portableapps.com/news/2026-08-20--firefox-portable-nightly-156-released",
+    "pubDate": "Thu, 20 Aug 2026 22:03:04 +0000"
+  },
+  {
+    "title": "Google Chrome Portable 151.0.7922.174 Stable (web browser) Released",
+    "link": "https://portableapps.com/news/2026-08-20--google-chrome-portable-151.0.7922.174-released",
+    "pubDate": "Thu, 20 Aug 2026 21:39:11 +0000"
+  },
+  {
     "title": "Thunderbird, Portable Edition 153.0.3 (email client) Released",
     "link": "https://portableapps.com/news/2026-08-17--thunderbird-portable-153.0.3-released",
     "pubDate": "Mon, 17 Aug 2026 19:45:47 +0000"
@@ -63,15 +73,5 @@
     "title": "mssPortable 1.457.164 (Microsoft Safety Scanner antivirus launcher) Released",
     "link": "https://portableapps.com/news/2026-08-14--mssportable-1.457.164-released",
     "pubDate": "Fri, 14 Aug 2026 21:13:02 +0000"
-  },
-  {
-    "title": "Media Player Classic - Black Edition (MPC-BE) Portable 1.9.1 (lightweight media player) Released",
-    "link": "https://portableapps.com/news/2026-08-09--mpc-be-portable-1.9.1-released",
-    "pubDate": "Mon, 10 Aug 2026 04:39:55 +0000"
-  },
-  {
-    "title": "Chromium Portable 151.0.7922.109 (web browser) Released",
-    "link": "https://portableapps.com/news/2026-08-09--chromium-portable-151.0.7922.109-released",
-    "pubDate": "Sun, 09 Aug 2026 21:42:41 +0000"
   }
 ]
