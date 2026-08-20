@@ -1,5 +1,40 @@
 [
   {
+    "title": "Betterbird 153.1.0esr-bb7-build2",
+    "link": "https://www.computerbase.de/downloads/kommunikation/betterbird/",
+    "pubDate": "2026-08-20T18:56:00.000Z"
+  },
+  {
+    "title": "mIRC 7.84.1893 Beta",
+    "link": "https://www.computerbase.de/downloads/kommunikation/mirc/",
+    "pubDate": "2026-08-20T18:55:00.000Z"
+  },
+  {
+    "title": "DiskInternals Linux Reader 5.2",
+    "link": "https://www.computerbase.de/downloads/systemtools/festplatten/diskinternals-linux-reader/",
+    "pubDate": "2026-08-20T18:54:00.000Z"
+  },
+  {
+    "title": "Bitwarden 2026.8.0",
+    "link": "https://www.computerbase.de/downloads/sicherheit/passwortmanager/bitwarden/",
+    "pubDate": "2026-08-20T18:53:00.000Z"
+  },
+  {
+    "title": "CPU-Z 3.01",
+    "link": "https://www.computerbase.de/downloads/systemtools/cpu-z/",
+    "pubDate": "2026-08-20T18:50:00.000Z"
+  },
+  {
+    "title": "Git for Windows 2.55.0(5)",
+    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/git-windows/",
+    "pubDate": "2026-08-20T18:48:00.000Z"
+  },
+  {
+    "title": "croc 11.2.4",
+    "link": "https://www.computerbase.de/downloads/office/dateitransfer/croc/",
+    "pubDate": "2026-08-20T18:47:00.000Z"
+  },
+  {
     "title": "FydeOS 23.0 Chromatic Cadence",
     "link": "https://www.computerbase.de/downloads/betriebssysteme/fydeos/",
     "pubDate": "2026-08-20T15:07:00.000Z"
@@ -33,11 +68,6 @@
     "title": "KDE neon 20260820-0522",
     "link": "https://www.computerbase.de/downloads/betriebssysteme/kde-neon/",
     "pubDate": "2026-08-20T14:52:00.000Z"
-  },
-  {
-    "title": "croc 11.2.3",
-    "link": "https://www.computerbase.de/downloads/office/dateitransfer/croc/",
-    "pubDate": "2026-08-20T14:51:00.000Z"
   },
   {
     "title": "AMD Adrenalin Radeon-Treiber 26.8.1 (WHQL)",
@@ -218,35 +248,5 @@
     "title": "Mozilla Thunderbird 153.1.0esr",
     "link": "https://www.computerbase.de/downloads/kommunikation/mozilla-thunderbird/",
     "pubDate": "2026-08-19T04:21:00.000Z"
-  },
-  {
-    "title": "Mozilla Thunderbird 140.14.0esr",
-    "link": "https://www.computerbase.de/downloads/kommunikation/mozilla-thunderbird/",
-    "pubDate": "2026-08-19T04:20:00.000Z"
-  },
-  {
-    "title": "Display Driver Uninstaller (DDU) 18.1.5.7",
-    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/display-driver-uninstaller-ddu/",
-    "pubDate": "2026-08-19T04:17:00.000Z"
-  },
-  {
-    "title": "NTLite Free 2026.08.11704",
-    "link": "https://www.computerbase.de/downloads/systemtools/ntlite-free/",
-    "pubDate": "2026-08-19T04:17:00.000Z"
-  },
-  {
-    "title": "Visual Studio 2026 v18.10.12113.136 Insider",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/visual-studio-2026/",
-    "pubDate": "2026-08-18T18:22:00.000Z"
-  },
-  {
-    "title": "Visual Studio 2026 v18.9.1",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/visual-studio-2026/",
-    "pubDate": "2026-08-18T18:21:00.000Z"
-  },
-  {
-    "title": "Betterbird 153.1.0esr-bb7",
-    "link": "https://www.computerbase.de/downloads/kommunikation/betterbird/",
-    "pubDate": "2026-08-18T18:14:00.000Z"
   }
 ]
