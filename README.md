@@ -20,6 +20,18 @@ Created as a replacement for the FeedEk RSS service after feed.jquery-plugins.ne
 - GitHub Pages hosting
 - No dependency on external RSS parsing services
 
+## Hosting
+
+Primary:
+
+- [GitHub Pages](https://thedutchjewel.github.io/rss-feeds/rss.html)
+
+Backup:
+
+- [GitLab Pages](https://thedutchjewel.gitlab.io/rss-feeds/)
+
+Both platforms automatically generate and publish the same JSON feeds and RSS viewer.
+
 ## Files
 
     .github/workflows/update-rss.yml
