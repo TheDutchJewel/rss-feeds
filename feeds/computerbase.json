@@ -1,5 +1,10 @@
 [
   {
+    "title": "FydeOS 23.0 Chromatic Cadence",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/fydeos/",
+    "pubDate": "2026-08-20T15:07:00.000Z"
+  },
+  {
     "title": "Opera 135.0.5973.41",
     "link": "https://www.computerbase.de/downloads/browser/opera/",
     "pubDate": "2026-08-20T15:03:00.000Z"
@@ -243,10 +248,5 @@
     "title": "Betterbird 153.1.0esr-bb7",
     "link": "https://www.computerbase.de/downloads/kommunikation/betterbird/",
     "pubDate": "2026-08-18T18:14:00.000Z"
-  },
-  {
-    "title": "Java SE Development Kit 26.0.2.1",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/java-se-development-kit/",
-    "pubDate": "2026-08-18T17:54:00.000Z"
   }
 ]
