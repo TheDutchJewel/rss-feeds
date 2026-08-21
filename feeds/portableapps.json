@@ -1,5 +1,20 @@
 [
   {
+    "title": "Process Monitor Portable 4.1 (real-time file, registry and process monitor) Released",
+    "link": "https://portableapps.com/news/2026-08-21--process-monitor-portable-4.1-released",
+    "pubDate": "Fri, 21 Aug 2026 22:27:52 +0000"
+  },
+  {
+    "title": "Mozilla Firefox, Portable Edition Legacy 115.39.0 (web browser) Released",
+    "link": "https://portableapps.com/news/2026-08-21--firefox-portable-legacy-115.39.0-released",
+    "pubDate": "Fri, 21 Aug 2026 22:11:27 +0000"
+  },
+  {
+    "title": "The Powder Toy Portable 100.1.400 (physics sandbox game) Released",
+    "link": "https://portableapps.com/news/2026-08-21--powder-toy-portable-100.1.400-released",
+    "pubDate": "Fri, 21 Aug 2026 22:00:21 +0000"
+  },
+  {
     "title": "Chromium Portable 151.0.7922.174 (web browser) Released",
     "link": "https://portableapps.com/news/2026-08-21--chromium-portable-151.0.7922.174-released",
     "pubDate": "Fri, 21 Aug 2026 20:49:46 +0000"
@@ -58,20 +73,5 @@
     "title": "Google Chrome Portable 151.0.7922.174 Stable (web browser) Released",
     "link": "https://portableapps.com/news/2026-08-20--google-chrome-portable-151.0.7922.174-released",
     "pubDate": "Thu, 20 Aug 2026 21:39:11 +0000"
-  },
-  {
-    "title": "Thunderbird, Portable Edition 153.0.3 (email client) Released",
-    "link": "https://portableapps.com/news/2026-08-17--thunderbird-portable-153.0.3-released",
-    "pubDate": "Mon, 17 Aug 2026 19:45:47 +0000"
-  },
-  {
-    "title": "Chromium Portable 151.0.7922.138 (web browser) Released",
-    "link": "https://portableapps.com/news/2026-08-17--chromium-portable-151.0.7922.138-released",
-    "pubDate": "Mon, 17 Aug 2026 19:12:03 +0000"
-  },
-  {
-    "title": "Mozilla Firefox, Portable Edition Stable 153.0.4 (web browser) Released",
-    "link": "https://portableapps.com/news/2026-08-17--firefox-portable-153.0.4-released",
-    "pubDate": "Mon, 17 Aug 2026 19:09:19 +0000"
   }
 ]
