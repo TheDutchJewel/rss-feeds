@@ -1,5 +1,40 @@
 [
   {
+    "title": "Microsoft Edge 151.0.4129.101",
+    "link": "https://www.computerbase.de/downloads/browser/microsoft-edge/",
+    "pubDate": "2026-08-21T04:44:00.000Z"
+  },
+  {
+    "title": "Google Chrome 153.0.8010.5  Beta",
+    "link": "https://www.computerbase.de/downloads/browser/google-chrome/",
+    "pubDate": "2026-08-21T04:42:00.000Z"
+  },
+  {
+    "title": "Google Chrome 151.0.7922.173/.174",
+    "link": "https://www.computerbase.de/downloads/browser/google-chrome/",
+    "pubDate": "2026-08-21T04:40:00.000Z"
+  },
+  {
+    "title": "Signal 8.24.1",
+    "link": "https://www.computerbase.de/downloads/kommunikation/signal/",
+    "pubDate": "2026-08-21T04:39:00.000Z"
+  },
+  {
+    "title": "Blizzard Battle.net 2.52.9.17709",
+    "link": "https://www.computerbase.de/downloads/games/blizzard-battle.net/",
+    "pubDate": "2026-08-21T04:38:00.000Z"
+  },
+  {
+    "title": "Joplin 3.6.16",
+    "link": "https://www.computerbase.de/downloads/office/joplin/",
+    "pubDate": "2026-08-21T04:38:00.000Z"
+  },
+  {
+    "title": "Ferdium 7.2.1",
+    "link": "https://www.computerbase.de/downloads/kommunikation/ferdium/",
+    "pubDate": "2026-08-21T04:37:00.000Z"
+  },
+  {
     "title": "Betterbird 153.1.0esr-bb7-build2",
     "link": "https://www.computerbase.de/downloads/kommunikation/betterbird/",
     "pubDate": "2026-08-20T18:56:00.000Z"
@@ -100,11 +135,6 @@
     "pubDate": "2026-08-20T04:45:00.000Z"
   },
   {
-    "title": "Signal 8.24.0",
-    "link": "https://www.computerbase.de/downloads/kommunikation/signal/",
-    "pubDate": "2026-08-20T04:45:00.000Z"
-  },
-  {
     "title": "Brave 1.93.137",
     "link": "https://www.computerbase.de/downloads/browser/brave/",
     "pubDate": "2026-08-20T04:44:00.000Z"
@@ -153,16 +183,6 @@
     "title": "Linux Kernel 6.18.45 (Linux)",
     "link": "https://www.computerbase.de/downloads/betriebssysteme/linux-kernel/",
     "pubDate": "2026-08-19T17:05:00.000Z"
-  },
-  {
-    "title": "Google Chrome 152.0.7977.54 Beta",
-    "link": "https://www.computerbase.de/downloads/browser/google-chrome/",
-    "pubDate": "2026-08-19T17:04:00.000Z"
-  },
-  {
-    "title": "Ferdium 7.2.0",
-    "link": "https://www.computerbase.de/downloads/kommunikation/ferdium/",
-    "pubDate": "2026-08-19T17:02:00.000Z"
   },
   {
     "title": "Mozilla Firefox 155.0 Beta 2",
@@ -228,25 +248,5 @@
     "title": "Dropbox 268.3.4018 Beta",
     "link": "https://www.computerbase.de/downloads/office/dateimanager/dropbox/",
     "pubDate": "2026-08-19T04:25:00.000Z"
-  },
-  {
-    "title": "Dropbox 266.4.3911",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/dropbox/",
-    "pubDate": "2026-08-19T04:24:00.000Z"
-  },
-  {
-    "title": "Google Chrome 151.0.7922.169/.170",
-    "link": "https://www.computerbase.de/downloads/browser/google-chrome/",
-    "pubDate": "2026-08-19T04:23:00.000Z"
-  },
-  {
-    "title": "Mozilla Thunderbird 154.0",
-    "link": "https://www.computerbase.de/downloads/kommunikation/mozilla-thunderbird/",
-    "pubDate": "2026-08-19T04:22:00.000Z"
-  },
-  {
-    "title": "Mozilla Thunderbird 153.1.0esr",
-    "link": "https://www.computerbase.de/downloads/kommunikation/mozilla-thunderbird/",
-    "pubDate": "2026-08-19T04:21:00.000Z"
   }
 ]
