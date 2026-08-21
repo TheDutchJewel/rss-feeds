@@ -1,5 +1,35 @@
 [
   {
+    "title": "Chromium Portable 151.0.7922.174 (web browser) Released",
+    "link": "https://portableapps.com/news/2026-08-21--chromium-portable-151.0.7922.174-released",
+    "pubDate": "Fri, 21 Aug 2026 20:49:46 +0000"
+  },
+  {
+    "title": "Thunderbird, Portable Edition 155.0 Beta 2 (email client) Released",
+    "link": "https://portableapps.com/node/82835",
+    "pubDate": "Fri, 21 Aug 2026 20:48:28 +0000"
+  },
+  {
+    "title": "Thunderbird ESR, Portable Edition 153.1.0 (email client) Released",
+    "link": "https://portableapps.com/news/2026-08-21--thunderbird-portable-esr-153.1.0-released",
+    "pubDate": "Fri, 21 Aug 2026 20:46:11 +0000"
+  },
+  {
+    "title": "Thunderbird, Portable Edition 154.0 (email client) Released",
+    "link": "https://portableapps.com/news/2026-08-21--thunderbird-portable-154.0-released",
+    "pubDate": "Fri, 21 Aug 2026 20:43:49 +0000"
+  },
+  {
+    "title": "Google Chrome Portable 154 Dev (web browser) Released",
+    "link": "https://portableapps.com/news/2026-08-21--google-chrome-portable-154-dev-released",
+    "pubDate": "Fri, 21 Aug 2026 19:47:20 +0000"
+  },
+  {
+    "title": "Google Chrome Portable 153 Beta (web browser) Released",
+    "link": "https://portableapps.com/news/2026-08-21--google-chrome-portable-153-beta-released",
+    "pubDate": "Fri, 21 Aug 2026 19:47:02 +0000"
+  },
+  {
     "title": "Mozilla Firefox, Portable Edition Stable 154.0 (web browser) Released",
     "link": "https://portableapps.com/news/2026-08-21--firefox-portable-154.0-released",
     "pubDate": "Fri, 21 Aug 2026 16:38:34 +0000"
@@ -43,35 +73,5 @@
     "title": "Mozilla Firefox, Portable Edition Stable 153.0.4 (web browser) Released",
     "link": "https://portableapps.com/news/2026-08-17--firefox-portable-153.0.4-released",
     "pubDate": "Mon, 17 Aug 2026 19:09:19 +0000"
-  },
-  {
-    "title": "TeamViewer Portable 15.80.6 (pc control, screen sharing) Released",
-    "link": "https://portableapps.com/news/2026-08-17--teamviewer-portable-15.80.6-released",
-    "pubDate": "Mon, 17 Aug 2026 16:45:20 +0000"
-  },
-  {
-    "title": "PuTTY Portable 0.85 (telnet and SSH client) Released",
-    "link": "https://portableapps.com/news/2026-08-17-putty-portable-0.85-released",
-    "pubDate": "Mon, 17 Aug 2026 16:40:54 +0000"
-  },
-  {
-    "title": "mssPortable 1.457.201 (Microsoft Safety Scanner antivirus launcher) Released",
-    "link": "https://portableapps.com/news/2026-08-17--mssportable-1.457.201-released",
-    "pubDate": "Mon, 17 Aug 2026 04:57:34 +0000"
-  },
-  {
-    "title": "gVim Portable 9.2.0957 (advanced text editor) Released",
-    "link": "https://portableapps.com/news/2026-08-17--gvim-portable-9.2.0957-released",
-    "pubDate": "Mon, 17 Aug 2026 04:55:29 +0000"
-  },
-  {
-    "title": "QOwnNotes Portable 26.8.4 (markdown note taker) Released",
-    "link": "https://portableapps.com/news/2026-08-17--qownnotes-portable-26.8.4-released",
-    "pubDate": "Mon, 17 Aug 2026 04:54:08 +0000"
-  },
-  {
-    "title": "Process Explorer Portable 17.13 (task manager and process analyzer) Released",
-    "link": "https://portableapps.com/news/2026-08-14--process-explorer-portable-17.13-released",
-    "pubDate": "Fri, 14 Aug 2026 22:39:49 +0000"
   }
 ]
