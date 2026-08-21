@@ -1,5 +1,30 @@
 [
   {
+    "title": "Chrome updated to 151.0.7922.174.",
+    "link": "https://ninite.com/chrome/",
+    "pubDate": "Fri, 21 Aug 2026 00:26:14 -0000"
+  },
+  {
+    "title": "Git updated to 2.55.0.5.",
+    "link": "https://ninite.com/git/",
+    "pubDate": "Fri, 21 Aug 2026 00:25:59 -0000"
+  },
+  {
+    "title": "Edge updated to 151.0.4129.101.",
+    "link": "https://ninite.com/edge/",
+    "pubDate": "Fri, 21 Aug 2026 00:25:44 -0000"
+  },
+  {
+    "title": "Opera Chromium updated to 135.0.5973.41.",
+    "link": "https://ninite.com/operaChromium/",
+    "pubDate": "Fri, 21 Aug 2026 00:24:55 -0000"
+  },
+  {
+    "title": "Google Earth updated to 7.3.7.1327.",
+    "link": "https://ninite.com/googleearth/",
+    "pubDate": "Fri, 21 Aug 2026 00:23:59 -0000"
+  },
+  {
     "title": "Avast updated to 26.8.11125.3784.",
     "link": "https://ninite.com/avast/",
     "pubDate": "Thu, 20 Aug 2026 08:22:43 -0000"
@@ -398,30 +423,5 @@
     "title": "Python arm64 3 updated to 3.14.7.",
     "link": "https://ninite.com/pythona3/",
     "pubDate": "Wed, 05 Aug 2026 13:46:25 -0000"
-  },
-  {
-    "title": "Python 3 updated to 3.14.7.",
-    "link": "https://ninite.com/python3/",
-    "pubDate": "Wed, 05 Aug 2026 13:46:03 -0000"
-  },
-  {
-    "title": "Vivaldi updated to 8.1.4087.61.",
-    "link": "https://ninite.com/vivaldi/",
-    "pubDate": "Wed, 05 Aug 2026 07:54:37 -0000"
-  },
-  {
-    "title": "WinDirStat updated to 2.8.0.2147.",
-    "link": "https://ninite.com/windirstat/",
-    "pubDate": "Wed, 05 Aug 2026 07:31:42 -0000"
-  },
-  {
-    "title": "Teams updated to 26198.304.4946.9672.",
-    "link": "https://ninite.com/teams/",
-    "pubDate": "Wed, 05 Aug 2026 07:30:19 -0000"
-  },
-  {
-    "title": "WizTree updated to 4.32.",
-    "link": "https://ninite.com/wiztree/",
-    "pubDate": "Wed, 05 Aug 2026 07:30:10 -0000"
   }
 ]
