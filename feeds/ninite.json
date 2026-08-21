@@ -1,5 +1,10 @@
 [
   {
+    "title": "MediaMonkey updated to 2024.2.2.3222.",
+    "link": "https://ninite.com/mediamonkey/",
+    "pubDate": "Fri, 21 Aug 2026 06:48:42 -0000"
+  },
+  {
     "title": "Chrome updated to 151.0.7922.174.",
     "link": "https://ninite.com/chrome/",
     "pubDate": "Fri, 21 Aug 2026 00:26:14 -0000"
@@ -418,10 +423,5 @@
     "title": "Python x64 3 updated to 3.14.7.",
     "link": "https://ninite.com/pythonx3/",
     "pubDate": "Wed, 05 Aug 2026 13:46:52 -0000"
-  },
-  {
-    "title": "Python arm64 3 updated to 3.14.7.",
-    "link": "https://ninite.com/pythona3/",
-    "pubDate": "Wed, 05 Aug 2026 13:46:25 -0000"
   }
 ]
