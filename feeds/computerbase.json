@@ -1,5 +1,20 @@
 [
   {
+    "title": "Spotify 1.2.97.270",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/spotify/",
+    "pubDate": "2026-08-21T15:35:00.000Z"
+  },
+  {
+    "title": "Mozilla Firefox 155.0 Beta 3",
+    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
+    "pubDate": "2026-08-21T15:34:00.000Z"
+  },
+  {
+    "title": "ImageGlass 10.0.4.819",
+    "link": "https://www.computerbase.de/downloads/foto-und-grafik/imageglass/",
+    "pubDate": "2026-08-21T15:07:00.000Z"
+  },
+  {
     "title": "Wise Disk Cleaner 11.3.9",
     "link": "https://www.computerbase.de/downloads/systemtools/festplatten/wise-disk-cleaner/",
     "pubDate": "2026-08-21T15:02:00.000Z"
@@ -215,11 +230,6 @@
     "pubDate": "2026-08-19T17:05:00.000Z"
   },
   {
-    "title": "Mozilla Firefox 155.0 Beta 2",
-    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
-    "pubDate": "2026-08-19T16:05:00.000Z"
-  },
-  {
     "title": "FileZilla 3.71.0",
     "link": "https://www.computerbase.de/downloads/office/dateitransfer/filezilla/",
     "pubDate": "2026-08-19T14:52:00.000Z"
@@ -238,15 +248,5 @@
     "title": "Viber für Desktop 28.6.0.0",
     "link": "https://www.computerbase.de/downloads/kommunikation/viber-fuer-desktop/",
     "pubDate": "2026-08-19T12:40:00.000Z"
-  },
-  {
-    "title": "Vivaldi 8.1 Build 4087.68",
-    "link": "https://www.computerbase.de/downloads/browser/vivaldi/",
-    "pubDate": "2026-08-19T12:39:00.000Z"
-  },
-  {
-    "title": "Multi Commander 16.2 Build 3205",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/multi-commander/",
-    "pubDate": "2026-08-19T12:38:00.000Z"
   }
 ]
