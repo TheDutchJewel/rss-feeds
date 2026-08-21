@@ -1,5 +1,40 @@
 [
   {
+    "title": "Google Earth Pro 7.3.7.1327",
+    "link": "https://www.computerbase.de/downloads/systemtools/google-earth-pro/",
+    "pubDate": "2026-08-21T20:19:00.000Z"
+  },
+  {
+    "title": "NTLite Free 2026.08.11723",
+    "link": "https://www.computerbase.de/downloads/systemtools/ntlite-free/",
+    "pubDate": "2026-08-21T20:15:00.000Z"
+  },
+  {
+    "title": "Malwarebytes 5.6.5.306",
+    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/malwarebytes/",
+    "pubDate": "2026-08-21T20:14:00.000Z"
+  },
+  {
+    "title": "mp3Tag 3.36 Beta 6",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/mp3tag/",
+    "pubDate": "2026-08-21T20:10:00.000Z"
+  },
+  {
+    "title": "FreeBSD 14.5 Beta 3",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/freebsd/",
+    "pubDate": "2026-08-21T20:09:00.000Z"
+  },
+  {
+    "title": "YUMI Py 1.0.7",
+    "link": "https://www.computerbase.de/downloads/systemtools/festplatten/yumi/",
+    "pubDate": "2026-08-21T20:07:00.000Z"
+  },
+  {
+    "title": "Vivaldi 8.1 Build 4087.70",
+    "link": "https://www.computerbase.de/downloads/browser/vivaldi/",
+    "pubDate": "2026-08-21T20:06:00.000Z"
+  },
+  {
     "title": "Spotify 1.2.97.270",
     "link": "https://www.computerbase.de/downloads/audio-und-video/spotify/",
     "pubDate": "2026-08-21T15:35:00.000Z"
@@ -213,40 +248,5 @@
     "title": "Microsoft Teams 26213.1006.5011.1671 (macOS)",
     "link": "https://www.computerbase.de/downloads/kommunikation/microsoft-teams/",
     "pubDate": "2026-08-19T17:38:00.000Z"
-  },
-  {
-    "title": "Zotac FireStorm 5.0.0.016E (Win 11)",
-    "link": "https://www.computerbase.de/downloads/systemtools/grafikkarten/zotac-firestorm-utility/",
-    "pubDate": "2026-08-19T17:36:00.000Z"
-  },
-  {
-    "title": "Linux Kernel 7.1.9 (Linux)",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/linux-kernel/",
-    "pubDate": "2026-08-19T17:06:00.000Z"
-  },
-  {
-    "title": "Linux Kernel 6.18.45 (Linux)",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/linux-kernel/",
-    "pubDate": "2026-08-19T17:05:00.000Z"
-  },
-  {
-    "title": "FileZilla 3.71.0",
-    "link": "https://www.computerbase.de/downloads/office/dateitransfer/filezilla/",
-    "pubDate": "2026-08-19T14:52:00.000Z"
-  },
-  {
-    "title": "eM Client 10.4.5674.0",
-    "link": "https://www.computerbase.de/downloads/kommunikation/em-client/",
-    "pubDate": "2026-08-19T14:48:00.000Z"
-  },
-  {
-    "title": "Rocket.Chat Server 8.7.1 (Linux)",
-    "link": "https://www.computerbase.de/downloads/kommunikation/rocket.chat/",
-    "pubDate": "2026-08-19T14:47:00.000Z"
-  },
-  {
-    "title": "Viber für Desktop 28.6.0.0",
-    "link": "https://www.computerbase.de/downloads/kommunikation/viber-fuer-desktop/",
-    "pubDate": "2026-08-19T12:40:00.000Z"
   }
 ]
