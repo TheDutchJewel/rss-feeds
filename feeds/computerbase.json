@@ -1,5 +1,10 @@
 [
   {
+    "title": "Microsoft Teams 26213.1006.5014.9784",
+    "link": "https://www.computerbase.de/downloads/kommunikation/microsoft-teams/",
+    "pubDate": "2026-08-21T20:23:00.000Z"
+  },
+  {
     "title": "Google Earth Pro 7.3.7.1327",
     "link": "https://www.computerbase.de/downloads/systemtools/google-earth-pro/",
     "pubDate": "2026-08-21T20:19:00.000Z"
@@ -242,11 +247,6 @@
   {
     "title": "Microsoft Power Automate for desktop 2.71.115.26224",
     "link": "https://www.computerbase.de/downloads/systemtools/microsoft-power-automate-desktop/",
-    "pubDate": "2026-08-19T17:38:00.000Z"
-  },
-  {
-    "title": "Microsoft Teams 26213.1006.5011.1671 (macOS)",
-    "link": "https://www.computerbase.de/downloads/kommunikation/microsoft-teams/",
     "pubDate": "2026-08-19T17:38:00.000Z"
   }
 ]
