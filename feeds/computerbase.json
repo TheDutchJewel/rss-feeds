@@ -1,5 +1,35 @@
 [
   {
+    "title": "Wise Disk Cleaner 11.3.9",
+    "link": "https://www.computerbase.de/downloads/systemtools/festplatten/wise-disk-cleaner/",
+    "pubDate": "2026-08-21T15:02:00.000Z"
+  },
+  {
+    "title": "Bandizip 7.46",
+    "link": "https://www.computerbase.de/downloads/office/packprogramme/bandizip/",
+    "pubDate": "2026-08-21T15:00:00.000Z"
+  },
+  {
+    "title": "Bitdefender Antivirus Free 27.0.62.352",
+    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/bitdefender-antivirus/",
+    "pubDate": "2026-08-21T14:59:00.000Z"
+  },
+  {
+    "title": "BetterTouchTool 6.745 (macOS)",
+    "link": "https://www.computerbase.de/downloads/systemtools/bettertouchtool/",
+    "pubDate": "2026-08-21T14:59:00.000Z"
+  },
+  {
+    "title": "ReNamer 7.9.0.5 Beta",
+    "link": "https://www.computerbase.de/downloads/office/dateimanager/renamer/",
+    "pubDate": "2026-08-21T14:57:00.000Z"
+  },
+  {
+    "title": "LocalSend 1.18.2",
+    "link": "https://www.computerbase.de/downloads/office/dateitransfer/localsend/",
+    "pubDate": "2026-08-21T14:56:00.000Z"
+  },
+  {
     "title": "Microsoft Edge 151.0.4129.101",
     "link": "https://www.computerbase.de/downloads/browser/microsoft-edge/",
     "pubDate": "2026-08-21T04:44:00.000Z"
@@ -218,35 +248,5 @@
     "title": "Multi Commander 16.2 Build 3205",
     "link": "https://www.computerbase.de/downloads/office/dateimanager/multi-commander/",
     "pubDate": "2026-08-19T12:38:00.000Z"
-  },
-  {
-    "title": "Trellix Stinger 26.08.34.1",
-    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/mcafee-labs-stinger/",
-    "pubDate": "2026-08-19T12:38:00.000Z"
-  },
-  {
-    "title": "Malwarebytes 5.26.1.4152 (macOS)",
-    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/malwarebytes/",
-    "pubDate": "2026-08-19T12:38:00.000Z"
-  },
-  {
-    "title": "Visual Studio Code (VS Code) 1.134.0",
-    "link": "https://www.computerbase.de/downloads/office/editoren/visual-studio-code/",
-    "pubDate": "2026-08-19T12:37:00.000Z"
-  },
-  {
-    "title": "Geek Uninstaller 1.5.4.180",
-    "link": "https://www.computerbase.de/downloads/systemtools/geek-uninstaller/",
-    "pubDate": "2026-08-19T12:35:00.000Z"
-  },
-  {
-    "title": "Nextcloud Client 34.0.2",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/nextcloud/",
-    "pubDate": "2026-08-19T12:35:00.000Z"
-  },
-  {
-    "title": "Dropbox 268.3.4018 Beta",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/dropbox/",
-    "pubDate": "2026-08-19T04:25:00.000Z"
   }
 ]
