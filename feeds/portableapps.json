@@ -1,5 +1,20 @@
 [
   {
+    "title": "Mozilla Firefox Developer Edition, Portable 155b2 (web browser) Released",
+    "link": "https://portableapps.com/news/2026-08-20--firefox-portable-developer-155b2-released",
+    "pubDate": "Fri, 21 Aug 2026 01:36:06 +0000"
+  },
+  {
+    "title": "Mozilla Firefox, Portable Edition 155.0 Beta 2 (web browser) Released",
+    "link": "https://portableapps.com/news/2026-08-20--firefox-portable-155.0-beta-2-released",
+    "pubDate": "Fri, 21 Aug 2026 01:33:26 +0000"
+  },
+  {
+    "title": "Mozilla Firefox ESR, Portable Edition 153.1.0 (web browser) Released",
+    "link": "https://portableapps.com/news/2026-08-20--firefox-portable-esr-153.1.0-released",
+    "pubDate": "Fri, 21 Aug 2026 00:33:51 +0000"
+  },
+  {
     "title": "Mozilla Firefox, Portable Edition Nightly 156 (web browser) Released",
     "link": "https://portableapps.com/news/2026-08-20--firefox-portable-nightly-156-released",
     "pubDate": "Thu, 20 Aug 2026 22:03:04 +0000"
@@ -58,20 +73,5 @@
     "title": "ZoomIt Portable 12.2 (screen zoom and draw for presentations) Released",
     "link": "https://portableapps.com/news/2026-08-14--zoomit-portable-12.2-released",
     "pubDate": "Fri, 14 Aug 2026 22:35:09 +0000"
-  },
-  {
-    "title": "Google Chrome Portable 151.0.7922.138 Stable (web browser) Released",
-    "link": "https://portableapps.com/news/2026-08-14--google-chrome-portable-151.0.7922.138-released",
-    "pubDate": "Fri, 14 Aug 2026 21:29:12 +0000"
-  },
-  {
-    "title": "Trellix Stinger Portable 26.08.33.1 (common virus remover) Released",
-    "link": "https://portableapps.com/news/2026-08-14--trellix-stinger-portable-26.08.33.1-released",
-    "pubDate": "Fri, 14 Aug 2026 21:14:58 +0000"
-  },
-  {
-    "title": "mssPortable 1.457.164 (Microsoft Safety Scanner antivirus launcher) Released",
-    "link": "https://portableapps.com/news/2026-08-14--mssportable-1.457.164-released",
-    "pubDate": "Fri, 14 Aug 2026 21:13:02 +0000"
   }
 ]
