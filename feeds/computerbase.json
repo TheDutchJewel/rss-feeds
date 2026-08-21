@@ -1,5 +1,10 @@
 [
   {
+    "title": "Wine 11.16 Beta (Linux)",
+    "link": "https://www.computerbase.de/downloads/systemtools/wine/",
+    "pubDate": "2026-08-21T21:15:00.000Z"
+  },
+  {
     "title": "Microsoft Teams 26213.1006.5014.9784",
     "link": "https://www.computerbase.de/downloads/kommunikation/microsoft-teams/",
     "pubDate": "2026-08-21T20:23:00.000Z"
@@ -243,10 +248,5 @@
     "title": "DriverMax 18.0.286",
     "link": "https://www.computerbase.de/downloads/treiber/drivermax/",
     "pubDate": "2026-08-19T18:09:00.000Z"
-  },
-  {
-    "title": "Microsoft Power Automate for desktop 2.71.115.26224",
-    "link": "https://www.computerbase.de/downloads/systemtools/microsoft-power-automate-desktop/",
-    "pubDate": "2026-08-19T17:38:00.000Z"
   }
 ]
