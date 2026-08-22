@@ -1,5 +1,10 @@
 [
   {
+    "title": "Media Player Classic Home Cinema 2.8.1",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/media-player-classic-home-cinema/",
+    "pubDate": "2026-08-22T20:23:00.000Z"
+  },
+  {
     "title": "Telegram Desktop 7.1.1",
     "link": "https://www.computerbase.de/downloads/kommunikation/telegram-desktop/",
     "pubDate": "2026-08-22T19:12:00.000Z"
@@ -243,10 +248,5 @@
     "title": "Brave 1.93.137",
     "link": "https://www.computerbase.de/downloads/browser/brave/",
     "pubDate": "2026-08-20T04:44:00.000Z"
-  },
-  {
-    "title": "HyperX NGENUITY 3.0.0",
-    "link": "https://www.computerbase.de/downloads/treiber/eingabegeraete/hyperx-ngenuity/",
-    "pubDate": "2026-08-19T21:59:00.000Z"
   }
 ]
