@@ -1,5 +1,10 @@
 [
   {
+    "title": "K-Lite Codec Pack Update 19.9.5",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/k-lite-codec-pack/",
+    "pubDate": "2026-08-22T20:51:00.000Z"
+  },
+  {
     "title": "Media Player Classic Home Cinema 2.8.1",
     "link": "https://www.computerbase.de/downloads/audio-und-video/media-player-classic-home-cinema/",
     "pubDate": "2026-08-22T20:23:00.000Z"
@@ -243,10 +248,5 @@
     "title": "Mozilla Thunderbird 155.0 Beta 2",
     "link": "https://www.computerbase.de/downloads/kommunikation/mozilla-thunderbird/",
     "pubDate": "2026-08-20T04:45:00.000Z"
-  },
-  {
-    "title": "Brave 1.93.137",
-    "link": "https://www.computerbase.de/downloads/browser/brave/",
-    "pubDate": "2026-08-20T04:44:00.000Z"
   }
 ]
