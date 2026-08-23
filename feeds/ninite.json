@@ -1,5 +1,10 @@
 [
   {
+    "title": "K-Lite Codecs updated to 19.9.5.",
+    "link": "https://ninite.com/klitecodecs/",
+    "pubDate": "Sun, 23 Aug 2026 00:57:56 -0000"
+  },
+  {
     "title": "Vivaldi updated to 8.1.4087.70.",
     "link": "https://ninite.com/vivaldi/",
     "pubDate": "Sat, 22 Aug 2026 01:06:23 -0000"
@@ -418,10 +423,5 @@
     "title": "Cursor updated to 3.15.6.",
     "link": "https://ninite.com/cursor/",
     "pubDate": "Thu, 06 Aug 2026 15:53:29 -0000"
-  },
-  {
-    "title": "Brave updated to 1.93.132.",
-    "link": "https://ninite.com/brave/",
-    "pubDate": "Thu, 06 Aug 2026 02:42:20 -0000"
   }
 ]
