@@ -1,5 +1,10 @@
 [
   {
+    "title": "Dropbox 268.3.4026 Beta",
+    "link": "https://www.computerbase.de/downloads/office/dateimanager/dropbox/",
+    "pubDate": "2026-08-23T08:52:00.000Z"
+  },
+  {
     "title": "Brave 1.93.138",
     "link": "https://www.computerbase.de/downloads/browser/brave/",
     "pubDate": "2026-08-23T07:14:00.000Z"
@@ -243,10 +248,5 @@
     "title": "Process Monitor 4.1",
     "link": "https://www.computerbase.de/downloads/systemtools/process-monitor/",
     "pubDate": "2026-08-20T04:48:00.000Z"
-  },
-  {
-    "title": "Internet Download Manager 6.43 Build 10",
-    "link": "https://www.computerbase.de/downloads/office/dateitransfer/internet-download-manager/",
-    "pubDate": "2026-08-20T04:46:00.000Z"
   }
 ]
