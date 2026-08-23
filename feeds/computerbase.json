@@ -1,5 +1,10 @@
 [
   {
+    "title": "Wipe 2610.00",
+    "link": "https://www.computerbase.de/downloads/systemtools/wipe/",
+    "pubDate": "2026-08-23T12:44:00.000Z"
+  },
+  {
     "title": "mIRC 7.84.2013 Beta",
     "link": "https://www.computerbase.de/downloads/kommunikation/mirc/",
     "pubDate": "2026-08-23T09:07:00.000Z"
@@ -242,11 +247,6 @@
   {
     "title": "Windows Sysinternals 2026-08-19",
     "link": "https://www.computerbase.de/downloads/systemtools/sysinternals/",
-    "pubDate": "2026-08-20T04:48:00.000Z"
-  },
-  {
-    "title": "Process Monitor 4.1",
-    "link": "https://www.computerbase.de/downloads/systemtools/process-monitor/",
     "pubDate": "2026-08-20T04:48:00.000Z"
   }
 ]
