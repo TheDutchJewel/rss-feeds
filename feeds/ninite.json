@@ -1,5 +1,10 @@
 [
   {
+    "title": "Notepad++ updated to 8.9.8.",
+    "link": "https://ninite.com/notepadplusplus/",
+    "pubDate": "Sun, 23 Aug 2026 23:04:07 -0000"
+  },
+  {
     "title": "K-Lite Codecs updated to 19.9.5.",
     "link": "https://ninite.com/klitecodecs/",
     "pubDate": "Sun, 23 Aug 2026 00:57:56 -0000"
@@ -418,10 +423,5 @@
     "title": "Chrome updated to 151.0.7922.109.",
     "link": "https://ninite.com/chrome/",
     "pubDate": "Fri, 07 Aug 2026 02:18:32 -0000"
-  },
-  {
-    "title": "Cursor updated to 3.15.6.",
-    "link": "https://ninite.com/cursor/",
-    "pubDate": "Thu, 06 Aug 2026 15:53:29 -0000"
   }
 ]
