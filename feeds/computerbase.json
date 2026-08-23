@@ -1,5 +1,10 @@
 [
   {
+    "title": "Brave 1.93.138",
+    "link": "https://www.computerbase.de/downloads/browser/brave/",
+    "pubDate": "2026-08-23T07:14:00.000Z"
+  },
+  {
     "title": "K-Lite Codec Pack Update 19.9.5",
     "link": "https://www.computerbase.de/downloads/audio-und-video/k-lite-codec-pack/",
     "pubDate": "2026-08-22T20:51:00.000Z"
@@ -243,10 +248,5 @@
     "title": "Internet Download Manager 6.43 Build 10",
     "link": "https://www.computerbase.de/downloads/office/dateitransfer/internet-download-manager/",
     "pubDate": "2026-08-20T04:46:00.000Z"
-  },
-  {
-    "title": "Mozilla Thunderbird 155.0 Beta 2",
-    "link": "https://www.computerbase.de/downloads/kommunikation/mozilla-thunderbird/",
-    "pubDate": "2026-08-20T04:45:00.000Z"
   }
 ]
