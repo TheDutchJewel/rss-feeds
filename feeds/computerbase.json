@@ -1,5 +1,10 @@
 [
   {
+    "title": "mIRC 7.84.2013 Beta",
+    "link": "https://www.computerbase.de/downloads/kommunikation/mirc/",
+    "pubDate": "2026-08-23T09:07:00.000Z"
+  },
+  {
     "title": "Dropbox 268.3.4026 Beta",
     "link": "https://www.computerbase.de/downloads/office/dateimanager/dropbox/",
     "pubDate": "2026-08-23T08:52:00.000Z"
@@ -168,11 +173,6 @@
     "title": "Betterbird 153.1.0esr-bb7-build2",
     "link": "https://www.computerbase.de/downloads/kommunikation/betterbird/",
     "pubDate": "2026-08-20T18:56:00.000Z"
-  },
-  {
-    "title": "mIRC 7.84.1893 Beta",
-    "link": "https://www.computerbase.de/downloads/kommunikation/mirc/",
-    "pubDate": "2026-08-20T18:55:00.000Z"
   },
   {
     "title": "DiskInternals Linux Reader 5.2",
