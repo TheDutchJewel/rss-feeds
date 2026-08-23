@@ -1,5 +1,15 @@
 [
   {
+    "title": "Microsoft OneDrive 26.145.0728.0011",
+    "link": "https://www.computerbase.de/downloads/office/dateimanager/microsoft-onedrive/",
+    "pubDate": "2026-08-23T17:36:00.000Z"
+  },
+  {
+    "title": "W10Privacy 6.3.0.0",
+    "link": "https://www.computerbase.de/downloads/systemtools/w10privacy/",
+    "pubDate": "2026-08-23T17:35:00.000Z"
+  },
+  {
     "title": "Ferdium 7.2.2",
     "link": "https://www.computerbase.de/downloads/kommunikation/ferdium/",
     "pubDate": "2026-08-23T16:14:00.000Z"
@@ -235,18 +245,8 @@
     "pubDate": "2026-08-20T15:01:00.000Z"
   },
   {
-    "title": "W10Privacy 6.2.0.3",
-    "link": "https://www.computerbase.de/downloads/systemtools/w10privacy/",
-    "pubDate": "2026-08-20T15:00:00.000Z"
-  },
-  {
     "title": "Java SE Development Kit 27.0 Build 35 RC",
     "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/java-se-development-kit/",
     "pubDate": "2026-08-20T14:57:00.000Z"
-  },
-  {
-    "title": "KDE neon 20260820-0522",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/kde-neon/",
-    "pubDate": "2026-08-20T14:52:00.000Z"
   }
 ]
