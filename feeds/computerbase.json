@@ -1,5 +1,15 @@
 [
   {
+    "title": "Ferdium 7.2.2",
+    "link": "https://www.computerbase.de/downloads/kommunikation/ferdium/",
+    "pubDate": "2026-08-23T16:14:00.000Z"
+  },
+  {
+    "title": "Notepad++ 8.9.8",
+    "link": "https://www.computerbase.de/downloads/office/editoren/notepad-plus-plus/",
+    "pubDate": "2026-08-23T16:13:00.000Z"
+  },
+  {
     "title": "Linux Kernel 7.1.10 (Linux)",
     "link": "https://www.computerbase.de/downloads/betriebssysteme/linux-kernel/",
     "pubDate": "2026-08-23T13:43:00.000Z"
@@ -180,11 +190,6 @@
     "pubDate": "2026-08-21T04:38:00.000Z"
   },
   {
-    "title": "Ferdium 7.2.1",
-    "link": "https://www.computerbase.de/downloads/kommunikation/ferdium/",
-    "pubDate": "2026-08-21T04:37:00.000Z"
-  },
-  {
     "title": "Betterbird 153.1.0esr-bb7-build2",
     "link": "https://www.computerbase.de/downloads/kommunikation/betterbird/",
     "pubDate": "2026-08-20T18:56:00.000Z"
@@ -243,10 +248,5 @@
     "title": "KDE neon 20260820-0522",
     "link": "https://www.computerbase.de/downloads/betriebssysteme/kde-neon/",
     "pubDate": "2026-08-20T14:52:00.000Z"
-  },
-  {
-    "title": "AMD Adrenalin Radeon-Treiber 26.8.1 (WHQL)",
-    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/amd-adrenalin-treiber/",
-    "pubDate": "2026-08-20T14:48:00.000Z"
   }
 ]
