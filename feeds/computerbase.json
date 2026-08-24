@@ -1,5 +1,40 @@
 [
   {
+    "title": "AIMP 6.00 Build 3081 Beta 5",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/aimp/",
+    "pubDate": "2026-08-24T15:07:00.000Z"
+  },
+  {
+    "title": "AIMP 5.40 Build 2725",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/aimp/",
+    "pubDate": "2026-08-24T15:06:00.000Z"
+  },
+  {
+    "title": "ProtonVPN 4.18.0 (Linux)",
+    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/protonvpn/",
+    "pubDate": "2026-08-24T15:05:00.000Z"
+  },
+  {
+    "title": "Wing FTP Server 8.2.3",
+    "link": "https://www.computerbase.de/downloads/office/dateitransfer/wing-ftp-server/",
+    "pubDate": "2026-08-24T15:05:00.000Z"
+  },
+  {
+    "title": "LibreOffice 26.8.0 RC3",
+    "link": "https://www.computerbase.de/downloads/office/libreoffice/",
+    "pubDate": "2026-08-24T15:03:00.000Z"
+  },
+  {
+    "title": "WhatsApp 2.26.34.12 (macOS)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/whatsapp/",
+    "pubDate": "2026-08-24T15:02:00.000Z"
+  },
+  {
+    "title": "croc 11.3.0",
+    "link": "https://www.computerbase.de/downloads/office/dateitransfer/croc/",
+    "pubDate": "2026-08-24T15:01:00.000Z"
+  },
+  {
     "title": "OpenRGB 1.0 RC3.1",
     "link": "https://www.computerbase.de/downloads/systemtools/openrgb/",
     "pubDate": "2026-08-24T04:23:00.000Z"
@@ -73,11 +108,6 @@
     "title": "WinMute 2.6.0.0",
     "link": "https://www.computerbase.de/downloads/systemtools/winmute/",
     "pubDate": "2026-08-22T18:53:00.000Z"
-  },
-  {
-    "title": "croc 11.2.5",
-    "link": "https://www.computerbase.de/downloads/office/dateitransfer/croc/",
-    "pubDate": "2026-08-22T18:52:00.000Z"
   },
   {
     "title": "XMedia Recode 3.6.4.0",
@@ -218,35 +248,5 @@
     "title": "Bitwarden 2026.8.0",
     "link": "https://www.computerbase.de/downloads/sicherheit/passwortmanager/bitwarden/",
     "pubDate": "2026-08-20T18:53:00.000Z"
-  },
-  {
-    "title": "CPU-Z 3.01",
-    "link": "https://www.computerbase.de/downloads/systemtools/cpu-z/",
-    "pubDate": "2026-08-20T18:50:00.000Z"
-  },
-  {
-    "title": "Git for Windows 2.55.0(5)",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/git-windows/",
-    "pubDate": "2026-08-20T18:48:00.000Z"
-  },
-  {
-    "title": "FydeOS 23.0 Chromatic Cadence",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/fydeos/",
-    "pubDate": "2026-08-20T15:07:00.000Z"
-  },
-  {
-    "title": "Opera 135.0.5973.41",
-    "link": "https://www.computerbase.de/downloads/browser/opera/",
-    "pubDate": "2026-08-20T15:03:00.000Z"
-  },
-  {
-    "title": "WhatsApp 2.26.33.19 (macOS)",
-    "link": "https://www.computerbase.de/downloads/kommunikation/whatsapp/",
-    "pubDate": "2026-08-20T15:02:00.000Z"
-  },
-  {
-    "title": "Bandizip 8.0 Beta 40",
-    "link": "https://www.computerbase.de/downloads/office/packprogramme/bandizip/",
-    "pubDate": "2026-08-20T15:01:00.000Z"
   }
 ]
