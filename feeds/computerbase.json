@@ -1,5 +1,25 @@
 [
   {
+    "title": "Avast Free Antivirus 26.9.11140 Beta",
+    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/avast-free-antivirus/",
+    "pubDate": "2026-08-24T15:22:00.000Z"
+  },
+  {
+    "title": "AVG AntiVirus Free 26.9.11140 Beta",
+    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/avg-antivirus-free/",
+    "pubDate": "2026-08-24T15:21:00.000Z"
+  },
+  {
+    "title": "Microsoft Edge 151.0.4129.107",
+    "link": "https://www.computerbase.de/downloads/browser/microsoft-edge/",
+    "pubDate": "2026-08-24T15:19:00.000Z"
+  },
+  {
+    "title": "RealVNC Connect Server 2.4.0",
+    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/vnc-connect/",
+    "pubDate": "2026-08-24T15:12:00.000Z"
+  },
+  {
     "title": "AIMP 6.00 Build 3081 Beta 5",
     "link": "https://www.computerbase.de/downloads/audio-und-video/aimp/",
     "pubDate": "2026-08-24T15:07:00.000Z"
@@ -205,11 +225,6 @@
     "pubDate": "2026-08-21T14:56:00.000Z"
   },
   {
-    "title": "Microsoft Edge 151.0.4129.101",
-    "link": "https://www.computerbase.de/downloads/browser/microsoft-edge/",
-    "pubDate": "2026-08-21T04:44:00.000Z"
-  },
-  {
     "title": "Google Chrome 153.0.8010.5  Beta",
     "link": "https://www.computerbase.de/downloads/browser/google-chrome/",
     "pubDate": "2026-08-21T04:42:00.000Z"
@@ -233,20 +248,5 @@
     "title": "Joplin 3.6.16",
     "link": "https://www.computerbase.de/downloads/office/joplin/",
     "pubDate": "2026-08-21T04:38:00.000Z"
-  },
-  {
-    "title": "Betterbird 153.1.0esr-bb7-build2",
-    "link": "https://www.computerbase.de/downloads/kommunikation/betterbird/",
-    "pubDate": "2026-08-20T18:56:00.000Z"
-  },
-  {
-    "title": "DiskInternals Linux Reader 5.2",
-    "link": "https://www.computerbase.de/downloads/systemtools/festplatten/diskinternals-linux-reader/",
-    "pubDate": "2026-08-20T18:54:00.000Z"
-  },
-  {
-    "title": "Bitwarden 2026.8.0",
-    "link": "https://www.computerbase.de/downloads/sicherheit/passwortmanager/bitwarden/",
-    "pubDate": "2026-08-20T18:53:00.000Z"
   }
 ]
