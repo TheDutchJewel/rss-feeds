@@ -1,5 +1,15 @@
 [
   {
+    "title": "Ubisoft Connect 173.0.0.13316",
+    "link": "https://www.computerbase.de/downloads/games/ubisoft-connect/",
+    "pubDate": "2026-08-24T17:31:00.000Z"
+  },
+  {
+    "title": "YUMI Py 1.0.8",
+    "link": "https://www.computerbase.de/downloads/systemtools/festplatten/yumi/",
+    "pubDate": "2026-08-24T17:29:00.000Z"
+  },
+  {
     "title": "Mozilla Firefox 155.0 Beta 4",
     "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
     "pubDate": "2026-08-24T16:10:00.000Z"
@@ -175,11 +185,6 @@
     "pubDate": "2026-08-21T20:09:00.000Z"
   },
   {
-    "title": "YUMI Py 1.0.7",
-    "link": "https://www.computerbase.de/downloads/systemtools/festplatten/yumi/",
-    "pubDate": "2026-08-21T20:07:00.000Z"
-  },
-  {
     "title": "Vivaldi 8.1 Build 4087.70",
     "link": "https://www.computerbase.de/downloads/browser/vivaldi/",
     "pubDate": "2026-08-21T20:06:00.000Z"
@@ -242,11 +247,6 @@
   {
     "title": "Blizzard Battle.net 2.52.9.17709",
     "link": "https://www.computerbase.de/downloads/games/blizzard-battle.net/",
-    "pubDate": "2026-08-21T04:38:00.000Z"
-  },
-  {
-    "title": "Joplin 3.6.16",
-    "link": "https://www.computerbase.de/downloads/office/joplin/",
     "pubDate": "2026-08-21T04:38:00.000Z"
   }
 ]
