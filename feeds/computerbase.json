@@ -1,5 +1,10 @@
 [
   {
+    "title": "Windows Package Manager (Winget) 1.29.290",
+    "link": "https://www.computerbase.de/downloads/systemtools/windows-package-manager/",
+    "pubDate": "2026-08-24T18:42:00.000Z"
+  },
+  {
     "title": "Ubisoft Connect 173.0.0.13316",
     "link": "https://www.computerbase.de/downloads/games/ubisoft-connect/",
     "pubDate": "2026-08-24T17:31:00.000Z"
@@ -243,10 +248,5 @@
     "title": "Signal 8.24.1",
     "link": "https://www.computerbase.de/downloads/kommunikation/signal/",
     "pubDate": "2026-08-21T04:39:00.000Z"
-  },
-  {
-    "title": "Blizzard Battle.net 2.52.9.17709",
-    "link": "https://www.computerbase.de/downloads/games/blizzard-battle.net/",
-    "pubDate": "2026-08-21T04:38:00.000Z"
   }
 ]
