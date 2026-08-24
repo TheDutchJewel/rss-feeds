@@ -1,5 +1,10 @@
 [
   {
+    "title": "OpenRGB 1.0 RC3.1",
+    "link": "https://www.computerbase.de/downloads/systemtools/openrgb/",
+    "pubDate": "2026-08-24T04:23:00.000Z"
+  },
+  {
     "title": "Microsoft OneDrive 26.145.0728.0011",
     "link": "https://www.computerbase.de/downloads/office/dateimanager/microsoft-onedrive/",
     "pubDate": "2026-08-23T17:36:00.000Z"
@@ -243,10 +248,5 @@
     "title": "Bandizip 8.0 Beta 40",
     "link": "https://www.computerbase.de/downloads/office/packprogramme/bandizip/",
     "pubDate": "2026-08-20T15:01:00.000Z"
-  },
-  {
-    "title": "Java SE Development Kit 27.0 Build 35 RC",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/java-se-development-kit/",
-    "pubDate": "2026-08-20T14:57:00.000Z"
   }
 ]
