@@ -1,5 +1,25 @@
 [
   {
+    "title": "Google Drive for desktop 130.0.2",
+    "link": "https://www.computerbase.de/downloads/office/dateimanager/google-drive/",
+    "pubDate": "2026-08-25T18:08:00.000Z"
+  },
+  {
+    "title": "Google Drive for desktop 130.0.2 ARM64-Beta (Win 11)",
+    "link": "https://www.computerbase.de/downloads/office/dateimanager/google-drive/",
+    "pubDate": "2026-08-25T18:07:00.000Z"
+  },
+  {
+    "title": "VDownloader 5.0.4510",
+    "link": "https://www.computerbase.de/downloads/office/dateitransfer/vdownloader/",
+    "pubDate": "2026-08-25T18:07:00.000Z"
+  },
+  {
+    "title": "Threema für Desktop 2.0 Beta 64",
+    "link": "https://www.computerbase.de/downloads/kommunikation/threema-desktop/",
+    "pubDate": "2026-08-25T18:04:00.000Z"
+  },
+  {
     "title": "1Password 8.12.34",
     "link": "https://www.computerbase.de/downloads/sicherheit/passwortmanager/1password/",
     "pubDate": "2026-08-25T16:35:00.000Z"
@@ -228,25 +248,5 @@
     "title": "Linux Kernel 6.18.46 (Linux)",
     "link": "https://www.computerbase.de/downloads/betriebssysteme/linux-kernel/",
     "pubDate": "2026-08-23T13:42:00.000Z"
-  },
-  {
-    "title": "Wipe 2610.00",
-    "link": "https://www.computerbase.de/downloads/systemtools/wipe/",
-    "pubDate": "2026-08-23T12:44:00.000Z"
-  },
-  {
-    "title": "mIRC 7.84.2013 Beta",
-    "link": "https://www.computerbase.de/downloads/kommunikation/mirc/",
-    "pubDate": "2026-08-23T09:07:00.000Z"
-  },
-  {
-    "title": "Dropbox 268.3.4026 Beta",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/dropbox/",
-    "pubDate": "2026-08-23T08:52:00.000Z"
-  },
-  {
-    "title": "Brave 1.93.138",
-    "link": "https://www.computerbase.de/downloads/browser/brave/",
-    "pubDate": "2026-08-23T07:14:00.000Z"
   }
 ]
