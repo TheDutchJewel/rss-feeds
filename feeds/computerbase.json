@@ -1,5 +1,40 @@
 [
   {
+    "title": "croc 11.3.2",
+    "link": "https://www.computerbase.de/downloads/office/dateitransfer/croc/",
+    "pubDate": "2026-08-25T12:25:00.000Z"
+  },
+  {
+    "title": "Evernote 11.31.5",
+    "link": "https://www.computerbase.de/downloads/office/evernote/",
+    "pubDate": "2026-08-25T12:25:00.000Z"
+  },
+  {
+    "title": "CCleaner 7.11.1504",
+    "link": "https://www.computerbase.de/downloads/systemtools/ccleaner/",
+    "pubDate": "2026-08-25T12:25:00.000Z"
+  },
+  {
+    "title": "ImageGlass 10.0.5.825",
+    "link": "https://www.computerbase.de/downloads/foto-und-grafik/imageglass/",
+    "pubDate": "2026-08-25T12:23:00.000Z"
+  },
+  {
+    "title": "AIDA64 v8.35.8410 Beta",
+    "link": "https://www.computerbase.de/downloads/systemtools/aida64/",
+    "pubDate": "2026-08-25T12:23:00.000Z"
+  },
+  {
+    "title": "Blender 4.5.13 LTS",
+    "link": "https://www.computerbase.de/downloads/foto-und-grafik/blender/",
+    "pubDate": "2026-08-25T12:22:00.000Z"
+  },
+  {
+    "title": "WhatsApp 2.26.34.15 (macOS)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/whatsapp/",
+    "pubDate": "2026-08-25T12:12:00.000Z"
+  },
+  {
     "title": "PowerToys 0.101.2362.0",
     "link": "https://www.computerbase.de/downloads/systemtools/powertoys/",
     "pubDate": "2026-08-25T08:40:00.000Z"
@@ -110,16 +145,6 @@
     "pubDate": "2026-08-24T15:03:00.000Z"
   },
   {
-    "title": "WhatsApp 2.26.34.12 (macOS)",
-    "link": "https://www.computerbase.de/downloads/kommunikation/whatsapp/",
-    "pubDate": "2026-08-24T15:02:00.000Z"
-  },
-  {
-    "title": "croc 11.3.0",
-    "link": "https://www.computerbase.de/downloads/office/dateitransfer/croc/",
-    "pubDate": "2026-08-24T15:01:00.000Z"
-  },
-  {
     "title": "OpenRGB 1.0 RC3.1",
     "link": "https://www.computerbase.de/downloads/systemtools/openrgb/",
     "pubDate": "2026-08-24T04:23:00.000Z"
@@ -223,30 +248,5 @@
     "title": "mp3Tag 3.36 Beta 6",
     "link": "https://www.computerbase.de/downloads/audio-und-video/mp3tag/",
     "pubDate": "2026-08-21T20:10:00.000Z"
-  },
-  {
-    "title": "FreeBSD 14.5 Beta 3",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/freebsd/",
-    "pubDate": "2026-08-21T20:09:00.000Z"
-  },
-  {
-    "title": "Vivaldi 8.1 Build 4087.70",
-    "link": "https://www.computerbase.de/downloads/browser/vivaldi/",
-    "pubDate": "2026-08-21T20:06:00.000Z"
-  },
-  {
-    "title": "Spotify 1.2.97.270",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/spotify/",
-    "pubDate": "2026-08-21T15:35:00.000Z"
-  },
-  {
-    "title": "ImageGlass 10.0.4.819",
-    "link": "https://www.computerbase.de/downloads/foto-und-grafik/imageglass/",
-    "pubDate": "2026-08-21T15:07:00.000Z"
-  },
-  {
-    "title": "Wise Disk Cleaner 11.3.9",
-    "link": "https://www.computerbase.de/downloads/systemtools/festplatten/wise-disk-cleaner/",
-    "pubDate": "2026-08-21T15:02:00.000Z"
   }
 ]
