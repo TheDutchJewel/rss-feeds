@@ -1,5 +1,15 @@
 [
   {
+    "title": "Cursor updated to 3.17.19.",
+    "link": "https://ninite.com/cursor/",
+    "pubDate": "Tue, 25 Aug 2026 00:00:32 -0000"
+  },
+  {
+    "title": "Edge updated to 151.0.4129.107.",
+    "link": "https://ninite.com/edge/",
+    "pubDate": "Tue, 25 Aug 2026 00:00:20 -0000"
+  },
+  {
     "title": "Notepad++ updated to 8.9.8.",
     "link": "https://ninite.com/notepadplusplus/",
     "pubDate": "Sun, 23 Aug 2026 23:04:07 -0000"
@@ -408,20 +418,5 @@
     "title": "Edge updated to 151.0.4129.72.",
     "link": "https://ninite.com/edge/",
     "pubDate": "Sat, 08 Aug 2026 00:20:17 -0000"
-  },
-  {
-    "title": "Visual Studio Code updated to 1.132.0.",
-    "link": "https://ninite.com/vscode/",
-    "pubDate": "Sat, 08 Aug 2026 00:20:02 -0000"
-  },
-  {
-    "title": "Super updated to 10.0.1290.",
-    "link": "https://ninite.com/super/",
-    "pubDate": "Fri, 07 Aug 2026 22:49:16 -0000"
-  },
-  {
-    "title": "Chrome updated to 151.0.7922.109.",
-    "link": "https://ninite.com/chrome/",
-    "pubDate": "Fri, 07 Aug 2026 02:18:32 -0000"
   }
 ]
