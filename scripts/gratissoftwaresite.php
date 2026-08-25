@@ -69,8 +69,8 @@ $json = json_encode(
 );
 
 file_put_contents(
-    __DIR__ . '/gratissoftwaresite.json',
+    __DIR__ . '/../feeds/gratissoftwaresite.json',
     $json
 );
 
-echo count($feed) . " items opgeslagen in gratissoftwaresite.json";
+echo count($feed) . " items opgeslagen";
