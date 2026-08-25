@@ -1,5 +1,20 @@
 [
   {
+    "title": "PowerToys 0.101.2362.0",
+    "link": "https://www.computerbase.de/downloads/systemtools/powertoys/",
+    "pubDate": "2026-08-25T08:40:00.000Z"
+  },
+  {
+    "title": "HWiNFO 8.52",
+    "link": "https://www.computerbase.de/downloads/systemtools/hwinfo/",
+    "pubDate": "2026-08-25T08:39:00.000Z"
+  },
+  {
+    "title": "Telegram Desktop 7.1.2",
+    "link": "https://www.computerbase.de/downloads/kommunikation/telegram-desktop/",
+    "pubDate": "2026-08-25T08:38:00.000Z"
+  },
+  {
     "title": "MKVToolnix 101.0 “Time To Turn”",
     "link": "https://www.computerbase.de/downloads/audio-und-video/mkvtoolnix/",
     "pubDate": "2026-08-25T04:28:00.000Z"
@@ -170,11 +185,6 @@
     "pubDate": "2026-08-22T20:23:00.000Z"
   },
   {
-    "title": "Telegram Desktop 7.1.1",
-    "link": "https://www.computerbase.de/downloads/kommunikation/telegram-desktop/",
-    "pubDate": "2026-08-22T19:12:00.000Z"
-  },
-  {
     "title": "WinMute 2.6.0.0",
     "link": "https://www.computerbase.de/downloads/systemtools/winmute/",
     "pubDate": "2026-08-22T18:53:00.000Z"
@@ -238,15 +248,5 @@
     "title": "Wise Disk Cleaner 11.3.9",
     "link": "https://www.computerbase.de/downloads/systemtools/festplatten/wise-disk-cleaner/",
     "pubDate": "2026-08-21T15:02:00.000Z"
-  },
-  {
-    "title": "Bandizip 7.46",
-    "link": "https://www.computerbase.de/downloads/office/packprogramme/bandizip/",
-    "pubDate": "2026-08-21T15:00:00.000Z"
-  },
-  {
-    "title": "Bitdefender Antivirus Free 27.0.62.352",
-    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/bitdefender-antivirus/",
-    "pubDate": "2026-08-21T14:59:00.000Z"
   }
 ]
