@@ -20,10 +20,6 @@ const feeds = [
     name: 'portableapps',
     url: 'https://feeds.feedburner.com/PortableAppscom'
   }
-  {
-    name: 'gratissoftwaresite',
-    url: 'https://feeds.feedburner.com/gratissoftwaresite.json'
-  }
 ];
 
 async function updateFeeds() {
