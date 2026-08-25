@@ -1,5 +1,40 @@
 [
   {
+    "title": "MKVToolnix 101.0 “Time To Turn”",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/mkvtoolnix/",
+    "pubDate": "2026-08-25T04:28:00.000Z"
+  },
+  {
+    "title": "Java SE Development Kit 28.0 Build 12 Dev",
+    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/java-se-development-kit/",
+    "pubDate": "2026-08-25T04:26:00.000Z"
+  },
+  {
+    "title": "AIMP 6.00 Build 3082 Beta 5",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/aimp/",
+    "pubDate": "2026-08-25T04:25:00.000Z"
+  },
+  {
+    "title": "Discord 0.0.409 (macOS)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/discord/",
+    "pubDate": "2026-08-25T04:24:00.000Z"
+  },
+  {
+    "title": "Discord 1.0.155 (Linux)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/discord/",
+    "pubDate": "2026-08-25T04:24:00.000Z"
+  },
+  {
+    "title": "Blizzard Battle.net 2.52.10.17731",
+    "link": "https://www.computerbase.de/downloads/games/blizzard-battle.net/",
+    "pubDate": "2026-08-25T04:24:00.000Z"
+  },
+  {
+    "title": "Mozilla Thunderbird 155.0 Beta 3",
+    "link": "https://www.computerbase.de/downloads/kommunikation/mozilla-thunderbird/",
+    "pubDate": "2026-08-25T04:23:00.000Z"
+  },
+  {
     "title": "Windows Package Manager (Winget) 1.29.290",
     "link": "https://www.computerbase.de/downloads/systemtools/windows-package-manager/",
     "pubDate": "2026-08-24T18:42:00.000Z"
@@ -38,11 +73,6 @@
     "title": "RealVNC Connect Server 2.4.0",
     "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/vnc-connect/",
     "pubDate": "2026-08-24T15:12:00.000Z"
-  },
-  {
-    "title": "AIMP 6.00 Build 3081 Beta 5",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/aimp/",
-    "pubDate": "2026-08-24T15:07:00.000Z"
   },
   {
     "title": "AIMP 5.40 Build 2725",
@@ -218,35 +248,5 @@
     "title": "Bitdefender Antivirus Free 27.0.62.352",
     "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/bitdefender-antivirus/",
     "pubDate": "2026-08-21T14:59:00.000Z"
-  },
-  {
-    "title": "BetterTouchTool 6.745 (macOS)",
-    "link": "https://www.computerbase.de/downloads/systemtools/bettertouchtool/",
-    "pubDate": "2026-08-21T14:59:00.000Z"
-  },
-  {
-    "title": "ReNamer 7.9.0.5 Beta",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/renamer/",
-    "pubDate": "2026-08-21T14:57:00.000Z"
-  },
-  {
-    "title": "LocalSend 1.18.2",
-    "link": "https://www.computerbase.de/downloads/office/dateitransfer/localsend/",
-    "pubDate": "2026-08-21T14:56:00.000Z"
-  },
-  {
-    "title": "Google Chrome 153.0.8010.5  Beta",
-    "link": "https://www.computerbase.de/downloads/browser/google-chrome/",
-    "pubDate": "2026-08-21T04:42:00.000Z"
-  },
-  {
-    "title": "Google Chrome 151.0.7922.173/.174",
-    "link": "https://www.computerbase.de/downloads/browser/google-chrome/",
-    "pubDate": "2026-08-21T04:40:00.000Z"
-  },
-  {
-    "title": "Signal 8.24.1",
-    "link": "https://www.computerbase.de/downloads/kommunikation/signal/",
-    "pubDate": "2026-08-21T04:39:00.000Z"
   }
 ]
