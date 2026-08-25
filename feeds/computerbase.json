@@ -1,5 +1,10 @@
 [
   {
+    "title": "1Password 8.12.34",
+    "link": "https://www.computerbase.de/downloads/sicherheit/passwortmanager/1password/",
+    "pubDate": "2026-08-25T16:35:00.000Z"
+  },
+  {
     "title": "TeamViewer 15.81.5",
     "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/teamviewer/",
     "pubDate": "2026-08-25T15:55:00.000Z"
@@ -243,10 +248,5 @@
     "title": "Brave 1.93.138",
     "link": "https://www.computerbase.de/downloads/browser/brave/",
     "pubDate": "2026-08-23T07:14:00.000Z"
-  },
-  {
-    "title": "K-Lite Codec Pack Update 19.9.5",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/k-lite-codec-pack/",
-    "pubDate": "2026-08-22T20:51:00.000Z"
   }
 ]
