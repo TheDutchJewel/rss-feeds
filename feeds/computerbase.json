@@ -1,7 +1,32 @@
 [
   {
+    "title": "1Password 8.12.36-31 Beta",
+    "link": "https://www.computerbase.de/downloads/sicherheit/passwortmanager/1password/",
+    "pubDate": "2026-08-26T15:21:00.000Z"
+  },
+  {
+    "title": "FileZilla 3.71.1",
+    "link": "https://www.computerbase.de/downloads/office/dateitransfer/filezilla/",
+    "pubDate": "2026-08-26T14:57:00.000Z"
+  },
+  {
+    "title": "Visual Studio Code (VS Code) 1.135.0",
+    "link": "https://www.computerbase.de/downloads/office/editoren/visual-studio-code/",
+    "pubDate": "2026-08-26T14:53:00.000Z"
+  },
+  {
+    "title": "Nvidia Studio-Treiber 616.56",
+    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/nvidia-studio-treiber/",
+    "pubDate": "2026-08-26T14:25:00.000Z"
+  },
+  {
     "title": "Opera 135.0.5973.55",
     "link": "https://www.computerbase.de/downloads/browser/opera/",
+    "pubDate": "2026-08-26T14:24:00.000Z"
+  },
+  {
+    "title": "Nvidia GeForce-Treiber 616.56",
+    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/nvidia-geforce-treiber/",
     "pubDate": "2026-08-26T14:24:00.000Z"
   },
   {
@@ -223,30 +248,5 @@
     "title": "HWiNFO 8.52",
     "link": "https://www.computerbase.de/downloads/systemtools/hwinfo/",
     "pubDate": "2026-08-25T08:39:00.000Z"
-  },
-  {
-    "title": "Telegram Desktop 7.1.2",
-    "link": "https://www.computerbase.de/downloads/kommunikation/telegram-desktop/",
-    "pubDate": "2026-08-25T08:38:00.000Z"
-  },
-  {
-    "title": "MKVToolnix 101.0 “Time To Turn”",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/mkvtoolnix/",
-    "pubDate": "2026-08-25T04:28:00.000Z"
-  },
-  {
-    "title": "Java SE Development Kit 28.0 Build 12 Dev",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/java-se-development-kit/",
-    "pubDate": "2026-08-25T04:26:00.000Z"
-  },
-  {
-    "title": "AIMP 6.00 Build 3082 Beta 5",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/aimp/",
-    "pubDate": "2026-08-25T04:25:00.000Z"
-  },
-  {
-    "title": "Discord 0.0.409 (macOS)",
-    "link": "https://www.computerbase.de/downloads/kommunikation/discord/",
-    "pubDate": "2026-08-25T04:24:00.000Z"
   }
 ]
