@@ -80,6 +80,12 @@ foreach ($tables as $table) {
     }
 }
 
+/*
+|--------------------------------------------------------------------------
+| JSON opslaan
+|--------------------------------------------------------------------------
+*/
+
 $json = json_encode(
     $feed,
     JSON_PRETTY_PRINT |
@@ -92,4 +98,81 @@ file_put_contents(
     $json
 );
 
-echo count($feed) . " items opgeslagen in gratissoftwaresite.json";
+/*
+|--------------------------------------------------------------------------
+| RSS XML opslaan
+|--------------------------------------------------------------------------
+*/
+
+$rss = new DOMDocument('1.0', 'UTF-8');
+$rss->formatOutput = true;
+
+$rssRoot = $rss->createElement('rss');
+$rssRoot->setAttribute('version', '2.0');
+$rss->appendChild($rssRoot);
+
+$channel = $rss->createElement('channel');
+$rssRoot->appendChild($channel);
+
+$channel->appendChild(
+    $rss->createElement(
+        'title',
+        'GratisSoftwareSite Updates'
+    )
+);
+
+$channel->appendChild(
+    $rss->createElement(
+        'link',
+        'https://www.gratissoftwaresite.nl/downloads/nieuwe-updates'
+    )
+);
+
+$channel->appendChild(
+    $rss->createElement(
+        'description',
+        'Nieuwste software-updates van GratisSoftwareSite'
+    )
+);
+
+foreach ($feed as $entry) {
+
+    $item = $rss->createElement('item');
+
+    $item->appendChild(
+        $rss->createElement(
+            'title',
+            $entry['title']
+        )
+    );
+
+    $item->appendChild(
+        $rss->createElement(
+            'link',
+            $entry['link']
+        )
+    );
+
+    $item->appendChild(
+        $rss->createElement(
+            'guid',
+            $entry['link']
+        )
+    );
+
+    $item->appendChild(
+        $rss->createElement(
+            'pubDate',
+            $entry['pubDate']
+        )
+    );
+
+    $channel->appendChild($item);
+}
+
+$rss->save(
+    __DIR__ . '/../feeds/gratissoftwaresite.xml'
+);
+
+echo count($feed) .
+     " items opgeslagen in gratissoftwaresite.json en gratissoftwaresite.xml";
