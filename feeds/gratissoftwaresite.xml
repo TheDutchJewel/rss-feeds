@@ -5,6 +5,18 @@
     <link>https://www.gratissoftwaresite.nl/downloads/nieuwe-updates</link>
     <description>Nieuwste software-updates van GratisSoftwareSite</description>
     <item>
+      <title>HWiNFO 8.52</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/hwinfo-werktuigen-systeeminformatie</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/hwinfo-werktuigen-systeeminformatie</guid>
+      <pubDate>26 augustus 2026</pubDate>
+    </item>
+    <item>
+      <title>LibreOffice 26.8.0</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/libreoffice-kantoorpakket-writer-calc-impress-draw-math</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/libreoffice-kantoorpakket-writer-calc-impress-draw-math</guid>
+      <pubDate>26 augustus 2026</pubDate>
+    </item>
+    <item>
       <title>TeamViewer 15.81.5</title>
       <link>https://www.gratissoftwaresite.nl/downloads/teamviewer-werktuigen-hulp-op-afstand-remote-desktop</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/teamviewer-werktuigen-hulp-op-afstand-remote-desktop</guid>
@@ -539,12 +551,6 @@
       <pubDate>26 juli 2026</pubDate>
     </item>
     <item>
-      <title>LibreOffice 26.2.5</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/libreoffice-kantoorpakket-writer-calc-impress-draw-math</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/libreoffice-kantoorpakket-writer-calc-impress-draw-math</guid>
-      <pubDate>25 juli 2026</pubDate>
-    </item>
-    <item>
       <title>Ventoy 1.1.17</title>
       <link>https://www.gratissoftwaresite.nl/downloads/ventoy-opstartbare-usb-maken-os-rescue-disk-installeren</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/ventoy-opstartbare-usb-maken-os-rescue-disk-installeren</guid>
@@ -567,12 +573,6 @@
       <link>https://www.gratissoftwaresite.nl/downloads/workrave-anti-rsi-tools</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/workrave-anti-rsi-tools</guid>
       <pubDate>22 juli 2026</pubDate>
-    </item>
-    <item>
-      <title>Glary Utilities 6.45.0.49</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/glary-utilities-pc-opruimen-cleaner</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/glary-utilities-pc-opruimen-cleaner</guid>
-      <pubDate>21 juli 2026</pubDate>
     </item>
   </channel>
 </rss>
