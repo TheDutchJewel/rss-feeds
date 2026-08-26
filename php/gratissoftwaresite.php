@@ -80,38 +80,6 @@ foreach ($tables as $table) {
     }
 }
 
-function nlDatumNaarRss($datum)
-{
-    $maanden = [
-        'januari' => 'January',
-        'februari' => 'February',
-        'maart' => 'March',
-        'april' => 'April',
-        'mei' => 'May',
-        'juni' => 'June',
-        'juli' => 'July',
-        'augustus' => 'August',
-        'september' => 'September',
-        'oktober' => 'October',
-        'november' => 'November',
-        'december' => 'December'
-    ];
-
-    $engels = str_ireplace(
-        array_keys($maanden),
-        array_values($maanden),
-        $datum
-    );
-
-    $timestamp = strtotime($engels);
-
-    if ($timestamp === false) {
-        return gmdate(DATE_RSS);
-    }
-
-    return gmdate(DATE_RSS, $timestamp);
-}
-
 /*
 |--------------------------------------------------------------------------
 | JSON opslaan
@@ -195,7 +163,7 @@ foreach ($feed as $entry) {
     $item->appendChild(
         $rss->createElement(
             'pubDate',
-            nlDatumNaarRss($entry['pubDate'])
+            $entry['pubDate']
         )
     );
 
