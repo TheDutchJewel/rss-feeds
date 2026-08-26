@@ -73,4 +73,4 @@ file_put_contents(
     $json
 );
 
-echo count($feed) . " items opgeslagen";
+echo count($feed) . " items opgeslagen in gratissoftwaresite.json";
