@@ -16,49 +16,68 @@ $dom = new DOMDocument();
 
 $xpath = new DOMXPath($dom);
 
-$rows = $xpath->query('//tr');
-
 $feed = [];
 
-foreach ($rows as $row) {
+$tables = $xpath->query('//table[contains(@class,"views-table")]');
 
-    $tds = $xpath->query('./td', $row);
+foreach ($tables as $table) {
 
-    if ($tds->length < 3) {
+    $captionNode = $xpath->query('./caption', $table)->item(0);
+
+    if (!$captionNode) {
         continue;
     }
 
-    $linkNode = $xpath->query('.//a', $row)->item(0);
+    $datum = trim($captionNode->textContent);
 
-    if (!$linkNode) {
-        continue;
+    $rows = $xpath->query('./tbody/tr', $table);
+
+    foreach ($rows as $row) {
+
+        $linkNode = $xpath->query(
+            './/td[contains(@class,"views-field-title")]//a',
+            $row
+        )->item(0);
+
+        if (!$linkNode) {
+            continue;
+        }
+
+        $naam = trim($linkNode->textContent);
+
+        $versieNode = $xpath->query(
+            './/td[contains(@class,"views-field-field-versienummer")]',
+            $row
+        )->item(0);
+
+        if (!$versieNode) {
+            continue;
+        }
+
+        $versie = trim(
+            preg_replace(
+                '/\s+/',
+                ' ',
+                $versieNode->textContent
+            )
+        );
+
+        if ($naam === '' || $versie === '') {
+            continue;
+        }
+
+        $href = trim($linkNode->getAttribute('href'));
+
+        if (!preg_match('/^https?:\/\//', $href)) {
+            $href = 'https://www.gratissoftwaresite.nl' . $href;
+        }
+
+        $feed[] = [
+            'title'   => $naam . ' ' . $versie,
+            'link'    => $href,
+            'pubDate' => $datum
+        ];
     }
-
-    $naam = trim($linkNode->textContent);
-
-    $versie = trim(
-        preg_replace(
-            '/\s+/',
-            ' ',
-            $tds->item(2)->textContent
-        )
-    );
-
-    if ($naam === '' || $versie === '') {
-        continue;
-    }
-
-    $href = trim($linkNode->getAttribute('href'));
-
-    if (!preg_match('/^https?:\/\//', $href)) {
-        $href = 'https://www.gratissoftwaresite.nl' . $href;
-    }
-
-    $feed[] = [
-        'title'   => $naam . ' ' . $versie,
-        'link'    => $href,
-        'pubDate' => gmdate('D, d M Y H:i:s O')
-    ];
 }
 
 $json = json_encode(
