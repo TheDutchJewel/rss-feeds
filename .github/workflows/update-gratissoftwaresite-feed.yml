@@ -28,5 +28,6 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add feeds/gratissoftwaresite.json
+          git add feeds/gratissoftwaresite.xml
           git diff --quiet && git diff --staged --quiet || git commit -m "Update GratisSoftwareSite feed"
           git push
