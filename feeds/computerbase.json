@@ -1,5 +1,50 @@
 [
   {
+    "title": "Intel Arc & Xe Grafiktreiber 32.0.101.8991",
+    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/intel-grafiktreiber/",
+    "pubDate": "2026-08-26T04:35:00.000Z"
+  },
+  {
+    "title": "HyperSnap 10.3.1",
+    "link": "https://www.computerbase.de/downloads/foto-und-grafik/hypersnap/",
+    "pubDate": "2026-08-26T04:31:00.000Z"
+  },
+  {
+    "title": "PHP 8.5.10",
+    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/php/",
+    "pubDate": "2026-08-26T04:31:00.000Z"
+  },
+  {
+    "title": "PHP 8.4.25",
+    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/php/",
+    "pubDate": "2026-08-26T04:30:00.000Z"
+  },
+  {
+    "title": "Bandizip 8.0 Beta 41",
+    "link": "https://www.computerbase.de/downloads/office/packprogramme/bandizip/",
+    "pubDate": "2026-08-26T04:29:00.000Z"
+  },
+  {
+    "title": "Mozilla Thunderbird 140.14.1esr",
+    "link": "https://www.computerbase.de/downloads/kommunikation/mozilla-thunderbird/",
+    "pubDate": "2026-08-26T04:28:00.000Z"
+  },
+  {
+    "title": "Google Chrome 152.0.7977.64/.65",
+    "link": "https://www.computerbase.de/downloads/browser/google-chrome/",
+    "pubDate": "2026-08-26T04:27:00.000Z"
+  },
+  {
+    "title": "Fan Control V275",
+    "link": "https://www.computerbase.de/downloads/systemtools/fan-control/",
+    "pubDate": "2026-08-26T04:26:00.000Z"
+  },
+  {
+    "title": "Discord 1.0.9255",
+    "link": "https://www.computerbase.de/downloads/kommunikation/discord/",
+    "pubDate": "2026-08-26T04:25:00.000Z"
+  },
+  {
     "title": "Visual Studio 2026 v18.10.12120.281 Insider",
     "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/visual-studio-2026/",
     "pubDate": "2026-08-25T18:45:00.000Z"
@@ -73,11 +118,6 @@
     "title": "SteelSeries GG 118.0.0",
     "link": "https://www.computerbase.de/downloads/treiber/eingabegeraete/steelseries-gg/",
     "pubDate": "2026-08-25T15:40:00.000Z"
-  },
-  {
-    "title": "Fan Control V274",
-    "link": "https://www.computerbase.de/downloads/systemtools/fan-control/",
-    "pubDate": "2026-08-25T15:39:00.000Z"
   },
   {
     "title": "croc 11.3.2",
@@ -208,45 +248,5 @@
     "title": "AIMP 5.40 Build 2725",
     "link": "https://www.computerbase.de/downloads/audio-und-video/aimp/",
     "pubDate": "2026-08-24T15:06:00.000Z"
-  },
-  {
-    "title": "ProtonVPN 4.18.0 (Linux)",
-    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/protonvpn/",
-    "pubDate": "2026-08-24T15:05:00.000Z"
-  },
-  {
-    "title": "Wing FTP Server 8.2.3",
-    "link": "https://www.computerbase.de/downloads/office/dateitransfer/wing-ftp-server/",
-    "pubDate": "2026-08-24T15:05:00.000Z"
-  },
-  {
-    "title": "LibreOffice 26.8.0 RC3",
-    "link": "https://www.computerbase.de/downloads/office/libreoffice/",
-    "pubDate": "2026-08-24T15:03:00.000Z"
-  },
-  {
-    "title": "OpenRGB 1.0 RC3.1",
-    "link": "https://www.computerbase.de/downloads/systemtools/openrgb/",
-    "pubDate": "2026-08-24T04:23:00.000Z"
-  },
-  {
-    "title": "Microsoft OneDrive 26.145.0728.0011",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/microsoft-onedrive/",
-    "pubDate": "2026-08-23T17:36:00.000Z"
-  },
-  {
-    "title": "W10Privacy 6.3.0.0",
-    "link": "https://www.computerbase.de/downloads/systemtools/w10privacy/",
-    "pubDate": "2026-08-23T17:35:00.000Z"
-  },
-  {
-    "title": "Ferdium 7.2.2",
-    "link": "https://www.computerbase.de/downloads/kommunikation/ferdium/",
-    "pubDate": "2026-08-23T16:14:00.000Z"
-  },
-  {
-    "title": "Notepad++ 8.9.8",
-    "link": "https://www.computerbase.de/downloads/office/editoren/notepad-plus-plus/",
-    "pubDate": "2026-08-23T16:13:00.000Z"
   }
 ]
