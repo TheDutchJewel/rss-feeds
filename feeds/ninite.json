@@ -1,5 +1,25 @@
 [
   {
+    "title": "Evernote updated to 11.31.5.",
+    "link": "https://ninite.com/evernote/",
+    "pubDate": "Wed, 26 Aug 2026 00:36:17 -0000"
+  },
+  {
+    "title": "Google Drive for Desktop updated to 130.0.2.0.",
+    "link": "https://ninite.com/googledrivefordesktop/",
+    "pubDate": "Wed, 26 Aug 2026 00:32:11 -0000"
+  },
+  {
+    "title": "Blender updated to 5.2.1.",
+    "link": "https://ninite.com/blender/",
+    "pubDate": "Wed, 26 Aug 2026 00:31:47 -0000"
+  },
+  {
+    "title": "Chrome updated to 152.0.7977.65.",
+    "link": "https://ninite.com/chrome/",
+    "pubDate": "Wed, 26 Aug 2026 00:31:00 -0000"
+  },
+  {
     "title": "Cursor updated to 3.17.19.",
     "link": "https://ninite.com/cursor/",
     "pubDate": "Tue, 25 Aug 2026 00:00:32 -0000"
@@ -388,35 +408,5 @@
     "title": "Glary updated to 6.46.0.50.",
     "link": "https://ninite.com/glary/",
     "pubDate": "Tue, 11 Aug 2026 04:04:53 -0000"
-  },
-  {
-    "title": "K-Lite Codecs updated to 19.9.0.",
-    "link": "https://ninite.com/klitecodecs/",
-    "pubDate": "Tue, 11 Aug 2026 02:13:19 -0000"
-  },
-  {
-    "title": "Dropbox updated to 264.4.3385.",
-    "link": "https://ninite.com/dropbox/",
-    "pubDate": "Mon, 10 Aug 2026 09:27:16 -0000"
-  },
-  {
-    "title": "Opera Chromium updated to 134.0.5954.46.",
-    "link": "https://ninite.com/operaChromium/",
-    "pubDate": "Sat, 08 Aug 2026 00:33:20 -0000"
-  },
-  {
-    "title": "Vivaldi updated to 8.1.4087.62.",
-    "link": "https://ninite.com/vivaldi/",
-    "pubDate": "Sat, 08 Aug 2026 00:20:35 -0000"
-  },
-  {
-    "title": "Brave updated to 1.93.134.",
-    "link": "https://ninite.com/brave/",
-    "pubDate": "Sat, 08 Aug 2026 00:20:24 -0000"
-  },
-  {
-    "title": "Edge updated to 151.0.4129.72.",
-    "link": "https://ninite.com/edge/",
-    "pubDate": "Sat, 08 Aug 2026 00:20:17 -0000"
   }
 ]
