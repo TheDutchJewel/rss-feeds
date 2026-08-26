@@ -21,7 +21,7 @@ jobs:
           php-version: '8.3'
 
       - name: Generate feed
-        run: php scripts/gratissoftwaresite.php
+        run: php php/gratissoftwaresite.php
 
       - name: Commit changes
         run: |
