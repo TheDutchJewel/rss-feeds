@@ -1,5 +1,65 @@
 [
   {
+    "title": "Opera 135.0.5973.55",
+    "link": "https://www.computerbase.de/downloads/browser/opera/",
+    "pubDate": "2026-08-26T14:24:00.000Z"
+  },
+  {
+    "title": "Spotify 1.2.98.301",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/spotify/",
+    "pubDate": "2026-08-26T14:23:00.000Z"
+  },
+  {
+    "title": "mIRC 7.84.2042 Beta",
+    "link": "https://www.computerbase.de/downloads/kommunikation/mirc/",
+    "pubDate": "2026-08-26T14:23:00.000Z"
+  },
+  {
+    "title": "Duplicati 2.3.1.1 Beta",
+    "link": "https://www.computerbase.de/downloads/sicherheit/backup/duplicati/",
+    "pubDate": "2026-08-26T14:00:00.000Z"
+  },
+  {
+    "title": "Viber für Desktop 28.6.1.0",
+    "link": "https://www.computerbase.de/downloads/kommunikation/viber-fuer-desktop/",
+    "pubDate": "2026-08-26T14:00:00.000Z"
+  },
+  {
+    "title": "EA-App 13.778.0.6291",
+    "link": "https://www.computerbase.de/downloads/games/ea-app/",
+    "pubDate": "2026-08-26T13:59:00.000Z"
+  },
+  {
+    "title": "The Bat! 12.3.1",
+    "link": "https://www.computerbase.de/downloads/kommunikation/the-bat/",
+    "pubDate": "2026-08-26T13:58:00.000Z"
+  },
+  {
+    "title": "LibreWolf 154.0.1-2",
+    "link": "https://www.computerbase.de/downloads/browser/librewolf/",
+    "pubDate": "2026-08-26T13:58:00.000Z"
+  },
+  {
+    "title": "Trellix Stinger 26.08.35.1",
+    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/mcafee-labs-stinger/",
+    "pubDate": "2026-08-26T13:57:00.000Z"
+  },
+  {
+    "title": "Nextcloud Client 34.0.3",
+    "link": "https://www.computerbase.de/downloads/office/dateimanager/nextcloud/",
+    "pubDate": "2026-08-26T13:57:00.000Z"
+  },
+  {
+    "title": "The Bat! Voyager 12.3.1",
+    "link": "https://www.computerbase.de/downloads/kommunikation/the-bat/",
+    "pubDate": "2026-08-26T13:57:00.000Z"
+  },
+  {
+    "title": "LibreOffice 26.8.0",
+    "link": "https://www.computerbase.de/downloads/office/libreoffice/",
+    "pubDate": "2026-08-26T13:56:00.000Z"
+  },
+  {
     "title": "Intel Arc & Xe Grafiktreiber 32.0.101.8991",
     "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/intel-grafiktreiber/",
     "pubDate": "2026-08-26T04:35:00.000Z"
@@ -188,65 +248,5 @@
     "title": "Discord 0.0.409 (macOS)",
     "link": "https://www.computerbase.de/downloads/kommunikation/discord/",
     "pubDate": "2026-08-25T04:24:00.000Z"
-  },
-  {
-    "title": "Discord 1.0.155 (Linux)",
-    "link": "https://www.computerbase.de/downloads/kommunikation/discord/",
-    "pubDate": "2026-08-25T04:24:00.000Z"
-  },
-  {
-    "title": "Blizzard Battle.net 2.52.10.17731",
-    "link": "https://www.computerbase.de/downloads/games/blizzard-battle.net/",
-    "pubDate": "2026-08-25T04:24:00.000Z"
-  },
-  {
-    "title": "Mozilla Thunderbird 155.0 Beta 3",
-    "link": "https://www.computerbase.de/downloads/kommunikation/mozilla-thunderbird/",
-    "pubDate": "2026-08-25T04:23:00.000Z"
-  },
-  {
-    "title": "Windows Package Manager (Winget) 1.29.290",
-    "link": "https://www.computerbase.de/downloads/systemtools/windows-package-manager/",
-    "pubDate": "2026-08-24T18:42:00.000Z"
-  },
-  {
-    "title": "Ubisoft Connect 173.0.0.13316",
-    "link": "https://www.computerbase.de/downloads/games/ubisoft-connect/",
-    "pubDate": "2026-08-24T17:31:00.000Z"
-  },
-  {
-    "title": "YUMI Py 1.0.8",
-    "link": "https://www.computerbase.de/downloads/systemtools/festplatten/yumi/",
-    "pubDate": "2026-08-24T17:29:00.000Z"
-  },
-  {
-    "title": "Mozilla Firefox 155.0 Beta 4",
-    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
-    "pubDate": "2026-08-24T16:10:00.000Z"
-  },
-  {
-    "title": "Avast Free Antivirus 26.9.11140 Beta",
-    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/avast-free-antivirus/",
-    "pubDate": "2026-08-24T15:22:00.000Z"
-  },
-  {
-    "title": "AVG AntiVirus Free 26.9.11140 Beta",
-    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/avg-antivirus-free/",
-    "pubDate": "2026-08-24T15:21:00.000Z"
-  },
-  {
-    "title": "Microsoft Edge 151.0.4129.107",
-    "link": "https://www.computerbase.de/downloads/browser/microsoft-edge/",
-    "pubDate": "2026-08-24T15:19:00.000Z"
-  },
-  {
-    "title": "RealVNC Connect Server 2.4.0",
-    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/vnc-connect/",
-    "pubDate": "2026-08-24T15:12:00.000Z"
-  },
-  {
-    "title": "AIMP 5.40 Build 2725",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/aimp/",
-    "pubDate": "2026-08-24T15:06:00.000Z"
   }
 ]
