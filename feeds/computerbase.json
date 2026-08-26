@@ -1,8 +1,28 @@
 [
   {
+    "title": "Google Chrome 153.0.8010.12  Beta",
+    "link": "https://www.computerbase.de/downloads/browser/google-chrome/",
+    "pubDate": "2026-08-26T17:37:00.000Z"
+  },
+  {
+    "title": "Mozilla Firefox 155.0 Beta 5",
+    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
+    "pubDate": "2026-08-26T17:36:00.000Z"
+  },
+  {
+    "title": "Mozilla Thunderbird 155.0 Beta 4",
+    "link": "https://www.computerbase.de/downloads/kommunikation/mozilla-thunderbird/",
+    "pubDate": "2026-08-26T17:34:00.000Z"
+  },
+  {
     "title": "1Password 8.12.36-31 Beta",
     "link": "https://www.computerbase.de/downloads/sicherheit/passwortmanager/1password/",
     "pubDate": "2026-08-26T15:21:00.000Z"
+  },
+  {
+    "title": "Mozilla Thunderbird 153.1.1esr",
+    "link": "https://www.computerbase.de/downloads/kommunikation/mozilla-thunderbird/",
+    "pubDate": "2026-08-26T15:00:00.000Z"
   },
   {
     "title": "FileZilla 3.71.1",
@@ -228,25 +248,5 @@
     "title": "AIDA64 v8.35.8410 Beta",
     "link": "https://www.computerbase.de/downloads/systemtools/aida64/",
     "pubDate": "2026-08-25T12:23:00.000Z"
-  },
-  {
-    "title": "Blender 4.5.13 LTS",
-    "link": "https://www.computerbase.de/downloads/foto-und-grafik/blender/",
-    "pubDate": "2026-08-25T12:22:00.000Z"
-  },
-  {
-    "title": "WhatsApp 2.26.34.15 (macOS)",
-    "link": "https://www.computerbase.de/downloads/kommunikation/whatsapp/",
-    "pubDate": "2026-08-25T12:12:00.000Z"
-  },
-  {
-    "title": "PowerToys 0.101.2362.0",
-    "link": "https://www.computerbase.de/downloads/systemtools/powertoys/",
-    "pubDate": "2026-08-25T08:40:00.000Z"
-  },
-  {
-    "title": "HWiNFO 8.52",
-    "link": "https://www.computerbase.de/downloads/systemtools/hwinfo/",
-    "pubDate": "2026-08-25T08:39:00.000Z"
   }
 ]
