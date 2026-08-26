@@ -1,5 +1,25 @@
 [
   {
+    "title": "Discord updated to 1.0.9255.",
+    "link": "https://ninite.com/discord/",
+    "pubDate": "Wed, 26 Aug 2026 01:59:41 -0000"
+  },
+  {
+    "title": "Firefox updated to 154.0.1.",
+    "link": "https://ninite.com/firefox/",
+    "pubDate": "Wed, 26 Aug 2026 01:06:34 -0000"
+  },
+  {
+    "title": "Cursor updated to 3.17.21.",
+    "link": "https://ninite.com/cursor/",
+    "pubDate": "Wed, 26 Aug 2026 01:05:44 -0000"
+  },
+  {
+    "title": "TeamViewer 15 updated to 15.81.5.",
+    "link": "https://ninite.com/teamviewer15/",
+    "pubDate": "Wed, 26 Aug 2026 01:05:32 -0000"
+  },
+  {
     "title": "Evernote updated to 11.31.5.",
     "link": "https://ninite.com/evernote/",
     "pubDate": "Wed, 26 Aug 2026 00:36:17 -0000"
@@ -378,35 +398,5 @@
     "title": ".NET Desktop Runtime arm64 9 updated to 9.0.19.36321.",
     "link": "https://ninite.com/.neta9/",
     "pubDate": "Tue, 11 Aug 2026 22:01:27 -0000"
-  },
-  {
-    "title": ".NET Desktop Runtime x64 9 updated to 9.0.19.36321.",
-    "link": "https://ninite.com/.netx9/",
-    "pubDate": "Tue, 11 Aug 2026 22:01:20 -0000"
-  },
-  {
-    "title": ".NET Desktop Runtime arm64 8 updated to 8.0.30.36323.",
-    "link": "https://ninite.com/.neta8/",
-    "pubDate": "Tue, 11 Aug 2026 22:01:12 -0000"
-  },
-  {
-    "title": ".NET Desktop Runtime x64 8 updated to 8.0.30.36323.",
-    "link": "https://ninite.com/.netx8/",
-    "pubDate": "Tue, 11 Aug 2026 22:01:04 -0000"
-  },
-  {
-    "title": ".NET Desktop Runtime 8 updated to 8.0.30.36323.",
-    "link": "https://ninite.com/.net8/",
-    "pubDate": "Tue, 11 Aug 2026 22:00:42 -0000"
-  },
-  {
-    "title": "Thunderbird updated to 153.0.3.",
-    "link": "https://ninite.com/thunderbird/",
-    "pubDate": "Tue, 11 Aug 2026 21:59:21 -0000"
-  },
-  {
-    "title": "Glary updated to 6.46.0.50.",
-    "link": "https://ninite.com/glary/",
-    "pubDate": "Tue, 11 Aug 2026 04:04:53 -0000"
   }
 ]
