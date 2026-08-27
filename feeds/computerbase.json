@@ -1,5 +1,30 @@
 [
   {
+    "title": "Groovy 5.1.1",
+    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/groovy/",
+    "pubDate": "2026-08-27T04:21:00.000Z"
+  },
+  {
+    "title": "AMD Radeon Treiber für Linux 26.14 (Linux)",
+    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/amd-radeon-treiber-linux/",
+    "pubDate": "2026-08-27T04:20:00.000Z"
+  },
+  {
+    "title": "HyperSnap 10.3.2",
+    "link": "https://www.computerbase.de/downloads/foto-und-grafik/hypersnap/",
+    "pubDate": "2026-08-27T04:16:00.000Z"
+  },
+  {
+    "title": "Signal 8.25.0",
+    "link": "https://www.computerbase.de/downloads/kommunikation/signal/",
+    "pubDate": "2026-08-27T04:16:00.000Z"
+  },
+  {
+    "title": "Mozilla Thunderbird 155.0 Beta 5",
+    "link": "https://www.computerbase.de/downloads/kommunikation/mozilla-thunderbird/",
+    "pubDate": "2026-08-27T04:15:00.000Z"
+  },
+  {
     "title": "Google Chrome 153.0.8010.12  Beta",
     "link": "https://www.computerbase.de/downloads/browser/google-chrome/",
     "pubDate": "2026-08-26T17:37:00.000Z"
@@ -8,11 +33,6 @@
     "title": "Mozilla Firefox 155.0 Beta 5",
     "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
     "pubDate": "2026-08-26T17:36:00.000Z"
-  },
-  {
-    "title": "Mozilla Thunderbird 155.0 Beta 4",
-    "link": "https://www.computerbase.de/downloads/kommunikation/mozilla-thunderbird/",
-    "pubDate": "2026-08-26T17:34:00.000Z"
   },
   {
     "title": "1Password 8.12.36-31 Beta",
@@ -108,11 +128,6 @@
     "title": "Intel Arc & Xe Grafiktreiber 32.0.101.8991",
     "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/intel-grafiktreiber/",
     "pubDate": "2026-08-26T04:35:00.000Z"
-  },
-  {
-    "title": "HyperSnap 10.3.1",
-    "link": "https://www.computerbase.de/downloads/foto-und-grafik/hypersnap/",
-    "pubDate": "2026-08-26T04:31:00.000Z"
   },
   {
     "title": "PHP 8.5.10",
@@ -233,20 +248,5 @@
     "title": "Evernote 11.31.5",
     "link": "https://www.computerbase.de/downloads/office/evernote/",
     "pubDate": "2026-08-25T12:25:00.000Z"
-  },
-  {
-    "title": "CCleaner 7.11.1504",
-    "link": "https://www.computerbase.de/downloads/systemtools/ccleaner/",
-    "pubDate": "2026-08-25T12:25:00.000Z"
-  },
-  {
-    "title": "ImageGlass 10.0.5.825",
-    "link": "https://www.computerbase.de/downloads/foto-und-grafik/imageglass/",
-    "pubDate": "2026-08-25T12:23:00.000Z"
-  },
-  {
-    "title": "AIDA64 v8.35.8410 Beta",
-    "link": "https://www.computerbase.de/downloads/systemtools/aida64/",
-    "pubDate": "2026-08-25T12:23:00.000Z"
   }
 ]

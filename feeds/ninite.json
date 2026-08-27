@@ -1,5 +1,35 @@
 [
   {
+    "title": "Java (AdoptOpenJDK) x64 8 updated to 8u504-b01.",
+    "link": "https://ninite.com/adoptjavax8/",
+    "pubDate": "Thu, 27 Aug 2026 07:59:33 -0000"
+  },
+  {
+    "title": "JDK (AdoptOpenJDK) x64 8 updated to 8u504-b01.",
+    "link": "https://ninite.com/adoptjdkx8/",
+    "pubDate": "Thu, 27 Aug 2026 07:59:11 -0000"
+  },
+  {
+    "title": "Visual Studio Code updated to 1.135.0.",
+    "link": "https://ninite.com/vscode/",
+    "pubDate": "Thu, 27 Aug 2026 07:53:51 -0000"
+  },
+  {
+    "title": "Spotify updated to 1.2.98.301.",
+    "link": "https://ninite.com/spotify/",
+    "pubDate": "Thu, 27 Aug 2026 07:53:06 -0000"
+  },
+  {
+    "title": "Opera Chromium updated to 135.0.5973.55.",
+    "link": "https://ninite.com/operaChromium/",
+    "pubDate": "Thu, 27 Aug 2026 07:52:12 -0000"
+  },
+  {
+    "title": "FileZilla updated to 3.71.1.",
+    "link": "https://ninite.com/filezilla/",
+    "pubDate": "Thu, 27 Aug 2026 07:50:57 -0000"
+  },
+  {
     "title": "AIMP updated to 5.40.2725.",
     "link": "https://ninite.com/aimp/",
     "pubDate": "Wed, 26 Aug 2026 03:04:03 -0000"
@@ -368,35 +398,5 @@
     "title": "ASP.NET Core Runtime arm64 9 updated to 9.0.19.26370.",
     "link": "https://ninite.com/aspneta9/",
     "pubDate": "Tue, 11 Aug 2026 22:06:03 -0000"
-  },
-  {
-    "title": "ASP.NET Core Runtime 8 updated to 8.0.30.26373.",
-    "link": "https://ninite.com/aspnet8/",
-    "pubDate": "Tue, 11 Aug 2026 22:05:55 -0000"
-  },
-  {
-    "title": "ASP.NET Core Runtime x64 9 updated to 9.0.19.26370.",
-    "link": "https://ninite.com/aspnetx9/",
-    "pubDate": "Tue, 11 Aug 2026 22:05:48 -0000"
-  },
-  {
-    "title": "ASP.NET Core Runtime x64 8 updated to 8.0.30.26373.",
-    "link": "https://ninite.com/aspnetx8/",
-    "pubDate": "Tue, 11 Aug 2026 22:05:40 -0000"
-  },
-  {
-    "title": "Git updated to 2.55.0.4.",
-    "link": "https://ninite.com/git/",
-    "pubDate": "Tue, 11 Aug 2026 22:05:32 -0000"
-  },
-  {
-    "title": "AnyDesk updated to 9.7.14.",
-    "link": "https://ninite.com/anydesk/",
-    "pubDate": "Tue, 11 Aug 2026 22:05:02 -0000"
-  },
-  {
-    "title": ".NET Desktop Runtime 9 updated to 9.0.19.36321.",
-    "link": "https://ninite.com/.net9/",
-    "pubDate": "Tue, 11 Aug 2026 22:02:19 -0000"
   }
 ]
