@@ -1,5 +1,130 @@
 [
   {
+    "title": "Windows 11 Kumulatives Update 26H1 (Build 28000.2804) KB5120996 Preview (Win 11)",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/windows-11-kumulatives-update/",
+    "pubDate": "2026-08-27T18:54:00.000Z"
+  },
+  {
+    "title": "Windows 11 Kumulatives Update 24H2/25H2 (Build 26200.9278) KB5120998 Preview (Win 11)",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/windows-11-kumulatives-update/",
+    "pubDate": "2026-08-27T18:53:00.000Z"
+  },
+  {
+    "title": "1Password 8.12.36-32 Beta",
+    "link": "https://www.computerbase.de/downloads/sicherheit/passwortmanager/1password/",
+    "pubDate": "2026-08-27T18:47:00.000Z"
+  },
+  {
+    "title": "Hotspot Shield 12.17.1",
+    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/hotspot-shield/",
+    "pubDate": "2026-08-27T18:01:00.000Z"
+  },
+  {
+    "title": "Tunnelblick 10.0 Beta 1 (macOS)",
+    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/tunnelblick/",
+    "pubDate": "2026-08-27T17:58:00.000Z"
+  },
+  {
+    "title": "Tunnelblick 9.0 (macOS)",
+    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/tunnelblick/",
+    "pubDate": "2026-08-27T17:57:00.000Z"
+  },
+  {
+    "title": "TROM-Jaro 2026.08.27",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/trom-jaro/",
+    "pubDate": "2026-08-27T15:18:00.000Z"
+  },
+  {
+    "title": "Nvidia Linux Display Driver 595.99.02 (Linux)",
+    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/nvidia-linux-display-driver/",
+    "pubDate": "2026-08-27T15:13:00.000Z"
+  },
+  {
+    "title": "Nvidia RTX Enterprise Treiber 597.06",
+    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/nvidia-quadro-treiber/",
+    "pubDate": "2026-08-27T15:07:00.000Z"
+  },
+  {
+    "title": "ESET NOD32 Antivirus 2024 v19.2.10.0",
+    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/eset-nod32-antivirus/",
+    "pubDate": "2026-08-27T15:04:00.000Z"
+  },
+  {
+    "title": "ESET Internet Security 2024 v19.2.10.0",
+    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/eset-internet-security/",
+    "pubDate": "2026-08-27T15:04:00.000Z"
+  },
+  {
+    "title": "Avast Free Antivirus 26.9.11145 Beta",
+    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/avast-free-antivirus/",
+    "pubDate": "2026-08-27T15:02:00.000Z"
+  },
+  {
+    "title": "AVG AntiVirus Free 26.9.11145 Beta",
+    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/avg-antivirus-free/",
+    "pubDate": "2026-08-27T15:01:00.000Z"
+  },
+  {
+    "title": "Everything 1.5.0.1423 Beta",
+    "link": "https://www.computerbase.de/downloads/office/dateimanager/everything/",
+    "pubDate": "2026-08-27T14:59:00.000Z"
+  },
+  {
+    "title": "KDE neon 20260827-0521",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/kde-neon/",
+    "pubDate": "2026-08-27T14:58:00.000Z"
+  },
+  {
+    "title": "Vivaldi 8.1 Build 4087.75",
+    "link": "https://www.computerbase.de/downloads/browser/vivaldi/",
+    "pubDate": "2026-08-27T14:58:00.000Z"
+  },
+  {
+    "title": "Opera GX 135.0.5973.57 Early Access",
+    "link": "https://www.computerbase.de/downloads/browser/opera-gx/",
+    "pubDate": "2026-08-27T14:56:00.000Z"
+  },
+  {
+    "title": "WhatsApp 2.26.34.21 (macOS)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/whatsapp/",
+    "pubDate": "2026-08-27T14:55:00.000Z"
+  },
+  {
+    "title": "Personal Backup 6.4.13.0",
+    "link": "https://www.computerbase.de/downloads/sicherheit/backup/personal-backup/",
+    "pubDate": "2026-08-27T14:55:00.000Z"
+  },
+  {
+    "title": "mp3Tag 3.36",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/mp3tag/",
+    "pubDate": "2026-08-27T14:53:00.000Z"
+  },
+  {
+    "title": "WinMerge 2.16.58.2",
+    "link": "https://www.computerbase.de/downloads/office/dateimanager/winmerge/",
+    "pubDate": "2026-08-27T14:51:00.000Z"
+  },
+  {
+    "title": "LibreWolf 154.0.1-3",
+    "link": "https://www.computerbase.de/downloads/browser/librewolf/",
+    "pubDate": "2026-08-27T14:50:00.000Z"
+  },
+  {
+    "title": "Linux Kernel 7.1.11 (Linux)",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/linux-kernel/",
+    "pubDate": "2026-08-27T14:50:00.000Z"
+  },
+  {
+    "title": "Linux Kernel 6.18.47 (Linux)",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/linux-kernel/",
+    "pubDate": "2026-08-27T14:49:00.000Z"
+  },
+  {
+    "title": "Telegram Desktop 7.1.3",
+    "link": "https://www.computerbase.de/downloads/kommunikation/telegram-desktop/",
+    "pubDate": "2026-08-27T14:48:00.000Z"
+  },
+  {
     "title": "Groovy 5.1.1",
     "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/groovy/",
     "pubDate": "2026-08-27T04:21:00.000Z"
@@ -33,11 +158,6 @@
     "title": "Mozilla Firefox 155.0 Beta 5",
     "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
     "pubDate": "2026-08-26T17:36:00.000Z"
-  },
-  {
-    "title": "1Password 8.12.36-31 Beta",
-    "link": "https://www.computerbase.de/downloads/sicherheit/passwortmanager/1password/",
-    "pubDate": "2026-08-26T15:21:00.000Z"
   },
   {
     "title": "Mozilla Thunderbird 153.1.1esr",
@@ -100,11 +220,6 @@
     "pubDate": "2026-08-26T13:58:00.000Z"
   },
   {
-    "title": "LibreWolf 154.0.1-2",
-    "link": "https://www.computerbase.de/downloads/browser/librewolf/",
-    "pubDate": "2026-08-26T13:58:00.000Z"
-  },
-  {
     "title": "Trellix Stinger 26.08.35.1",
     "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/mcafee-labs-stinger/",
     "pubDate": "2026-08-26T13:57:00.000Z"
@@ -133,120 +248,5 @@
     "title": "PHP 8.5.10",
     "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/php/",
     "pubDate": "2026-08-26T04:31:00.000Z"
-  },
-  {
-    "title": "PHP 8.4.25",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/php/",
-    "pubDate": "2026-08-26T04:30:00.000Z"
-  },
-  {
-    "title": "Bandizip 8.0 Beta 41",
-    "link": "https://www.computerbase.de/downloads/office/packprogramme/bandizip/",
-    "pubDate": "2026-08-26T04:29:00.000Z"
-  },
-  {
-    "title": "Mozilla Thunderbird 140.14.1esr",
-    "link": "https://www.computerbase.de/downloads/kommunikation/mozilla-thunderbird/",
-    "pubDate": "2026-08-26T04:28:00.000Z"
-  },
-  {
-    "title": "Google Chrome 152.0.7977.64/.65",
-    "link": "https://www.computerbase.de/downloads/browser/google-chrome/",
-    "pubDate": "2026-08-26T04:27:00.000Z"
-  },
-  {
-    "title": "Fan Control V275",
-    "link": "https://www.computerbase.de/downloads/systemtools/fan-control/",
-    "pubDate": "2026-08-26T04:26:00.000Z"
-  },
-  {
-    "title": "Discord 1.0.9255",
-    "link": "https://www.computerbase.de/downloads/kommunikation/discord/",
-    "pubDate": "2026-08-26T04:25:00.000Z"
-  },
-  {
-    "title": "Visual Studio 2026 v18.10.12120.281 Insider",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/visual-studio-2026/",
-    "pubDate": "2026-08-25T18:45:00.000Z"
-  },
-  {
-    "title": "Visual Studio 2026 v18.9.2",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/visual-studio-2026/",
-    "pubDate": "2026-08-25T18:45:00.000Z"
-  },
-  {
-    "title": "Google Drive for desktop 130.0.2",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/google-drive/",
-    "pubDate": "2026-08-25T18:08:00.000Z"
-  },
-  {
-    "title": "Google Drive for desktop 130.0.2 ARM64-Beta (Win 11)",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/google-drive/",
-    "pubDate": "2026-08-25T18:07:00.000Z"
-  },
-  {
-    "title": "VDownloader 5.0.4510",
-    "link": "https://www.computerbase.de/downloads/office/dateitransfer/vdownloader/",
-    "pubDate": "2026-08-25T18:07:00.000Z"
-  },
-  {
-    "title": "Threema für Desktop 2.0 Beta 64",
-    "link": "https://www.computerbase.de/downloads/kommunikation/threema-desktop/",
-    "pubDate": "2026-08-25T18:04:00.000Z"
-  },
-  {
-    "title": "1Password 8.12.34",
-    "link": "https://www.computerbase.de/downloads/sicherheit/passwortmanager/1password/",
-    "pubDate": "2026-08-25T16:35:00.000Z"
-  },
-  {
-    "title": "TeamViewer 15.81.5",
-    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/teamviewer/",
-    "pubDate": "2026-08-25T15:55:00.000Z"
-  },
-  {
-    "title": "TeamViewer QuickSupport 15.81.5",
-    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/teamviewer/",
-    "pubDate": "2026-08-25T15:54:00.000Z"
-  },
-  {
-    "title": "TeamViewer Host 15.81.5",
-    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/teamviewer/",
-    "pubDate": "2026-08-25T15:53:00.000Z"
-  },
-  {
-    "title": "Camtasia 2026.2.1 (macOS)",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/camtasia-studio/",
-    "pubDate": "2026-08-25T15:50:00.000Z"
-  },
-  {
-    "title": "Cyberduck 9.5.4.45528",
-    "link": "https://www.computerbase.de/downloads/office/dateitransfer/cyberduck/",
-    "pubDate": "2026-08-25T15:48:00.000Z"
-  },
-  {
-    "title": "Blender 5.2.1 LTS",
-    "link": "https://www.computerbase.de/downloads/foto-und-grafik/blender/",
-    "pubDate": "2026-08-25T15:47:00.000Z"
-  },
-  {
-    "title": "Mozilla Firefox 154.0.1",
-    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
-    "pubDate": "2026-08-25T15:43:00.000Z"
-  },
-  {
-    "title": "SteelSeries GG 118.0.0",
-    "link": "https://www.computerbase.de/downloads/treiber/eingabegeraete/steelseries-gg/",
-    "pubDate": "2026-08-25T15:40:00.000Z"
-  },
-  {
-    "title": "croc 11.3.2",
-    "link": "https://www.computerbase.de/downloads/office/dateitransfer/croc/",
-    "pubDate": "2026-08-25T12:25:00.000Z"
-  },
-  {
-    "title": "Evernote 11.31.5",
-    "link": "https://www.computerbase.de/downloads/office/evernote/",
-    "pubDate": "2026-08-25T12:25:00.000Z"
   }
 ]
