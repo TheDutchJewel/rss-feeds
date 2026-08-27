@@ -1,5 +1,25 @@
 [
     {
+        "title": "FileZilla 3.71.1",
+        "link": "https://www.gratissoftwaresite.nl/downloads/filezilla-ftp-client-website-beheer",
+        "pubDate": "27 augustus 2026"
+    },
+    {
+        "title": "Darktable 5.6.1",
+        "link": "https://www.gratissoftwaresite.nl/downloads/darktable-fotobewerking-raw-workflow",
+        "pubDate": "27 augustus 2026"
+    },
+    {
+        "title": "LibreWolf 154.0.1-2",
+        "link": "https://www.gratissoftwaresite.nl/downloads/librewolf-web-browser-privacy",
+        "pubDate": "27 augustus 2026"
+    },
+    {
+        "title": "Thunderbird 154.0 Release...",
+        "link": "https://www.gratissoftwaresite.nl/downloads/thunderbird-mailprogramma-pop3-imap",
+        "pubDate": "27 augustus 2026"
+    },
+    {
         "title": "HWiNFO 8.52",
         "link": "https://www.gratissoftwaresite.nl/downloads/hwinfo-werktuigen-systeeminformatie",
         "pubDate": "26 augustus 2026"
@@ -100,11 +120,6 @@
         "pubDate": "23 augustus 2026"
     },
     {
-        "title": "FileZilla 3.71.0",
-        "link": "https://www.gratissoftwaresite.nl/downloads/filezilla-ftp-client-website-beheer",
-        "pubDate": "22 augustus 2026"
-    },
-    {
         "title": "Google Earth 7.3.7.1327 & 1...",
         "link": "https://www.gratissoftwaresite.nl/downloads/google-earth-satellietbeelden-bekijken-maps-sea-space",
         "pubDate": "22 augustus 2026"
@@ -175,11 +190,6 @@
         "pubDate": "19 augustus 2026"
     },
     {
-        "title": "LibreWolf 154.0-2",
-        "link": "https://www.gratissoftwaresite.nl/downloads/librewolf-web-browser-privacy",
-        "pubDate": "19 augustus 2026"
-    },
-    {
         "title": "AVG Anti-Virus Free 26.8",
         "link": "https://www.gratissoftwaresite.nl/downloads/avg-anti-virus-free-virusscanner",
         "pubDate": "19 augustus 2026"
@@ -197,11 +207,6 @@
     {
         "title": "WinScript 2.23",
         "link": "https://www.gratissoftwaresite.nl/downloads/winscript-tweaks-werktuigen-optimalisatie",
-        "pubDate": "19 augustus 2026"
-    },
-    {
-        "title": "Thunderbird 154.0 Release...",
-        "link": "https://www.gratissoftwaresite.nl/downloads/thunderbird-mailprogramma-pop3-imap",
         "pubDate": "19 augustus 2026"
     },
     {
@@ -468,10 +473,5 @@
         "title": "Java 8 update 501",
         "link": "https://www.gratissoftwaresite.nl/downloads/java-jre-plugin",
         "pubDate": "24 juli 2026"
-    },
-    {
-        "title": "Workrave 1.11.0",
-        "link": "https://www.gratissoftwaresite.nl/downloads/workrave-anti-rsi-tools",
-        "pubDate": "22 juli 2026"
     }
 ]

@@ -5,6 +5,30 @@
     <link>https://www.gratissoftwaresite.nl/downloads/nieuwe-updates</link>
     <description>Nieuwste software-updates van GratisSoftwareSite</description>
     <item>
+      <title>FileZilla 3.71.1</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/filezilla-ftp-client-website-beheer</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/filezilla-ftp-client-website-beheer</guid>
+      <pubDate>27 augustus 2026</pubDate>
+    </item>
+    <item>
+      <title>Darktable 5.6.1</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/darktable-fotobewerking-raw-workflow</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/darktable-fotobewerking-raw-workflow</guid>
+      <pubDate>27 augustus 2026</pubDate>
+    </item>
+    <item>
+      <title>LibreWolf 154.0.1-2</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/librewolf-web-browser-privacy</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/librewolf-web-browser-privacy</guid>
+      <pubDate>27 augustus 2026</pubDate>
+    </item>
+    <item>
+      <title>Thunderbird 154.0 Release...</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/thunderbird-mailprogramma-pop3-imap</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/thunderbird-mailprogramma-pop3-imap</guid>
+      <pubDate>27 augustus 2026</pubDate>
+    </item>
+    <item>
       <title>HWiNFO 8.52</title>
       <link>https://www.gratissoftwaresite.nl/downloads/hwinfo-werktuigen-systeeminformatie</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/hwinfo-werktuigen-systeeminformatie</guid>
@@ -125,12 +149,6 @@
       <pubDate>23 augustus 2026</pubDate>
     </item>
     <item>
-      <title>FileZilla 3.71.0</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/filezilla-ftp-client-website-beheer</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/filezilla-ftp-client-website-beheer</guid>
-      <pubDate>22 augustus 2026</pubDate>
-    </item>
-    <item>
       <title/>
       <link>https://www.gratissoftwaresite.nl/downloads/google-earth-satellietbeelden-bekijken-maps-sea-space</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/google-earth-satellietbeelden-bekijken-maps-sea-space</guid>
@@ -215,12 +233,6 @@
       <pubDate>19 augustus 2026</pubDate>
     </item>
     <item>
-      <title>LibreWolf 154.0-2</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/librewolf-web-browser-privacy</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/librewolf-web-browser-privacy</guid>
-      <pubDate>19 augustus 2026</pubDate>
-    </item>
-    <item>
       <title>AVG Anti-Virus Free 26.8</title>
       <link>https://www.gratissoftwaresite.nl/downloads/avg-anti-virus-free-virusscanner</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/avg-anti-virus-free-virusscanner</guid>
@@ -242,12 +254,6 @@
       <title>WinScript 2.23</title>
       <link>https://www.gratissoftwaresite.nl/downloads/winscript-tweaks-werktuigen-optimalisatie</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/winscript-tweaks-werktuigen-optimalisatie</guid>
-      <pubDate>19 augustus 2026</pubDate>
-    </item>
-    <item>
-      <title>Thunderbird 154.0 Release...</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/thunderbird-mailprogramma-pop3-imap</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/thunderbird-mailprogramma-pop3-imap</guid>
       <pubDate>19 augustus 2026</pubDate>
     </item>
     <item>
@@ -567,12 +573,6 @@
       <link>https://www.gratissoftwaresite.nl/downloads/java-jre-plugin</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/java-jre-plugin</guid>
       <pubDate>24 juli 2026</pubDate>
-    </item>
-    <item>
-      <title>Workrave 1.11.0</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/workrave-anti-rsi-tools</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/workrave-anti-rsi-tools</guid>
-      <pubDate>22 juli 2026</pubDate>
     </item>
   </channel>
 </rss>
