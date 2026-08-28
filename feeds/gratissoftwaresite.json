@@ -1,5 +1,25 @@
 [
     {
+        "title": "Brave 1.94.117",
+        "link": "https://www.gratissoftwaresite.nl/downloads/brave-web-browser-internet-privacy-beveiliging-schilden-trackers-ads",
+        "pubDate": "28 augustus 2026"
+    },
+    {
+        "title": "Ubuntu 26.04.1 LTS",
+        "link": "https://www.gratissoftwaresite.nl/downloads/ubuntu-besturingssysteem-linux-windows-vervanger-os",
+        "pubDate": "28 augustus 2026"
+    },
+    {
+        "title": "Microsoft Edge 152.0.4191.52",
+        "link": "https://www.gratissoftwaresite.nl/downloads/microsoft-edge-internet-browser-ie-opvolger",
+        "pubDate": "28 augustus 2026"
+    },
+    {
+        "title": "Mp3tag 3.36.0",
+        "link": "https://www.gratissoftwaresite.nl/downloads/Mp3tag-mp3-tool-audio",
+        "pubDate": "28 augustus 2026"
+    },
+    {
         "title": "Vivaldi 8.1.4087.75",
         "link": "https://www.gratissoftwaresite.nl/downloads/vivaldi-internet-web-browser",
         "pubDate": "27 augustus 2026"
@@ -97,11 +117,6 @@
     {
         "title": "KillerPDF 1.7.5",
         "link": "https://www.gratissoftwaresite.nl/downloads/killerpdf-bewerken-pdf",
-        "pubDate": "24 augustus 2026"
-    },
-    {
-        "title": "Brave 1.93.138",
-        "link": "https://www.gratissoftwaresite.nl/downloads/brave-web-browser-internet-privacy-beveiliging-schilden-trackers-ads",
         "pubDate": "24 augustus 2026"
     },
     {
@@ -285,6 +300,11 @@
         "pubDate": "13 augustus 2026"
     },
     {
+        "title": "Glary Utilities 6.46.0.50",
+        "link": "https://www.gratissoftwaresite.nl/downloads/glary-utilities-pc-opruimen-cleaner",
+        "pubDate": "12 augustus 2026"
+    },
+    {
         "title": "eM Client 10.4.5663.0",
         "link": "https://www.gratissoftwaresite.nl/downloads/em-client-e-mail",
         "pubDate": "11 augustus 2026"
@@ -307,11 +327,6 @@
     {
         "title": "Eusing Free Registry Cleaner 4.8.5",
         "link": "https://www.gratissoftwaresite.nl/downloads/eusing-free-registry-cleaner-register-opschonen-backup",
-        "pubDate": "11 augustus 2026"
-    },
-    {
-        "title": "Microsoft Edge 151.0.4129.78",
-        "link": "https://www.gratissoftwaresite.nl/downloads/microsoft-edge-internet-browser-ie-opvolger",
         "pubDate": "11 augustus 2026"
     },
     {
@@ -458,20 +473,5 @@
         "title": "FreeCAD 1.1.3",
         "link": "https://www.gratissoftwaresite.nl/downloads/freecad-grafische-vormgeving-3d-modelling-computer-aided-design-ontwerp-tekenen",
         "pubDate": "26 juli 2026"
-    },
-    {
-        "title": "Ventoy 1.1.17",
-        "link": "https://www.gratissoftwaresite.nl/downloads/ventoy-opstartbare-usb-maken-os-rescue-disk-installeren",
-        "pubDate": "25 juli 2026"
-    },
-    {
-        "title": "Gaia Sky 3.8.0",
-        "link": "https://www.gratissoftwaresite.nl/downloads/gaia-sky-satellietbeelden-sterrenkaart-planeten",
-        "pubDate": "24 juli 2026"
-    },
-    {
-        "title": "Java 8 update 501",
-        "link": "https://www.gratissoftwaresite.nl/downloads/java-jre-plugin",
-        "pubDate": "24 juli 2026"
     }
 ]

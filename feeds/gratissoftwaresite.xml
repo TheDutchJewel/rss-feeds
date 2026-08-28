@@ -5,6 +5,30 @@
     <link>https://www.gratissoftwaresite.nl/downloads/nieuwe-updates</link>
     <description>Nieuwste software-updates van GratisSoftwareSite</description>
     <item>
+      <title>Brave 1.94.117</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/brave-web-browser-internet-privacy-beveiliging-schilden-trackers-ads</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/brave-web-browser-internet-privacy-beveiliging-schilden-trackers-ads</guid>
+      <pubDate>28 augustus 2026</pubDate>
+    </item>
+    <item>
+      <title>Ubuntu 26.04.1 LTS</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/ubuntu-besturingssysteem-linux-windows-vervanger-os</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/ubuntu-besturingssysteem-linux-windows-vervanger-os</guid>
+      <pubDate>28 augustus 2026</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Edge 152.0.4191.52</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/microsoft-edge-internet-browser-ie-opvolger</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/microsoft-edge-internet-browser-ie-opvolger</guid>
+      <pubDate>28 augustus 2026</pubDate>
+    </item>
+    <item>
+      <title>Mp3tag 3.36.0</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/Mp3tag-mp3-tool-audio</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/Mp3tag-mp3-tool-audio</guid>
+      <pubDate>28 augustus 2026</pubDate>
+    </item>
+    <item>
       <title>Vivaldi 8.1.4087.75</title>
       <link>https://www.gratissoftwaresite.nl/downloads/vivaldi-internet-web-browser</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/vivaldi-internet-web-browser</guid>
@@ -122,12 +146,6 @@
       <title>KillerPDF 1.7.5</title>
       <link>https://www.gratissoftwaresite.nl/downloads/killerpdf-bewerken-pdf</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/killerpdf-bewerken-pdf</guid>
-      <pubDate>24 augustus 2026</pubDate>
-    </item>
-    <item>
-      <title>Brave 1.93.138</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/brave-web-browser-internet-privacy-beveiliging-schilden-trackers-ads</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/brave-web-browser-internet-privacy-beveiliging-schilden-trackers-ads</guid>
       <pubDate>24 augustus 2026</pubDate>
     </item>
     <item>
@@ -347,6 +365,12 @@
       <pubDate>13 augustus 2026</pubDate>
     </item>
     <item>
+      <title>Glary Utilities 6.46.0.50</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/glary-utilities-pc-opruimen-cleaner</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/glary-utilities-pc-opruimen-cleaner</guid>
+      <pubDate>12 augustus 2026</pubDate>
+    </item>
+    <item>
       <title>eM Client 10.4.5663.0</title>
       <link>https://www.gratissoftwaresite.nl/downloads/em-client-e-mail</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/em-client-e-mail</guid>
@@ -374,12 +398,6 @@
       <title>Eusing Free Registry Cleaner 4.8.5</title>
       <link>https://www.gratissoftwaresite.nl/downloads/eusing-free-registry-cleaner-register-opschonen-backup</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/eusing-free-registry-cleaner-register-opschonen-backup</guid>
-      <pubDate>11 augustus 2026</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Edge 151.0.4129.78</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/microsoft-edge-internet-browser-ie-opvolger</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/microsoft-edge-internet-browser-ie-opvolger</guid>
       <pubDate>11 augustus 2026</pubDate>
     </item>
     <item>
@@ -555,24 +573,6 @@
       <link>https://www.gratissoftwaresite.nl/downloads/freecad-grafische-vormgeving-3d-modelling-computer-aided-design-ontwerp-tekenen</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/freecad-grafische-vormgeving-3d-modelling-computer-aided-design-ontwerp-tekenen</guid>
       <pubDate>26 juli 2026</pubDate>
-    </item>
-    <item>
-      <title>Ventoy 1.1.17</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/ventoy-opstartbare-usb-maken-os-rescue-disk-installeren</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/ventoy-opstartbare-usb-maken-os-rescue-disk-installeren</guid>
-      <pubDate>25 juli 2026</pubDate>
-    </item>
-    <item>
-      <title>Gaia Sky 3.8.0</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/gaia-sky-satellietbeelden-sterrenkaart-planeten</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/gaia-sky-satellietbeelden-sterrenkaart-planeten</guid>
-      <pubDate>24 juli 2026</pubDate>
-    </item>
-    <item>
-      <title>Java 8 update 501</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/java-jre-plugin</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/java-jre-plugin</guid>
-      <pubDate>24 juli 2026</pubDate>
     </item>
   </channel>
 </rss>
