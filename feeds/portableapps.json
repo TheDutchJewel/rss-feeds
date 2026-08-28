@@ -1,5 +1,45 @@
 [
   {
+    "title": "FileZilla Portable 3.71.1 (ftp client) Released",
+    "link": "https://portableapps.com/news/2026-08-27--filezilla-portable-3.71.1-released",
+    "pubDate": "Thu, 27 Aug 2026 23:21:53 +0000"
+  },
+  {
+    "title": "Chromium Portable 152.0.7977.65 (web browser) Released",
+    "link": "https://portableapps.com/news/2026-08-27--chromium-portable-152.0.7977.65-released",
+    "pubDate": "Thu, 27 Aug 2026 23:11:36 +0000"
+  },
+  {
+    "title": "Google Chrome Portable 152.0.7977.65 Stable (web browser) Released",
+    "link": "https://portableapps.com/news/2026-08-27--google-chrome-portable-152.0.7977.65-released",
+    "pubDate": "Thu, 27 Aug 2026 23:10:10 +0000"
+  },
+  {
+    "title": "Notepad++ Portable 8.9.8 Rev 2 (developer's text editor) Released",
+    "link": "https://portableapps.com/news/2026-08-27--notepadpp-portable-8.9.8-rev-2-released",
+    "pubDate": "Thu, 27 Aug 2026 22:16:34 +0000"
+  },
+  {
+    "title": "TeamViewer Portable 15.81.5 (pc control, screen sharing) Released",
+    "link": "https://portableapps.com/news/2026-08-27--teamviewer-portable-15.81.5-released",
+    "pubDate": "Thu, 27 Aug 2026 22:07:06 +0000"
+  },
+  {
+    "title": "HWiNFO 32+64 Portable 8.52.6060 (detailed info about your hardware and software) Released",
+    "link": "https://portableapps.com/news/2026-08-27--hwinfo-portable-8.52.6060-released",
+    "pubDate": "Thu, 27 Aug 2026 22:04:30 +0000"
+  },
+  {
+    "title": "jdkPortable 8 Update 503 (portable Java Development Kit) Released",
+    "link": "https://portableapps.com/news/2026-08-27--jdkportable-8-update-503-released",
+    "pubDate": "Thu, 27 Aug 2026 22:01:52 +0000"
+  },
+  {
+    "title": "jPortable 8 Update 503 (portable Java runtime) Released",
+    "link": "https://portableapps.com/news/2026-08-27--jportable-8-update-503-released",
+    "pubDate": "Thu, 27 Aug 2026 21:59:50 +0000"
+  },
+  {
     "title": "Notepad++ Portable 8.9.8 (developer's text editor) Released",
     "link": "https://portableapps.com/news/2026-08-26--notepadpp-portable-8.9.8-released",
     "pubDate": "Wed, 26 Aug 2026 04:01:54 +0000"
@@ -33,45 +73,5 @@
     "title": "The Powder Toy Portable 100.1.400 (physics sandbox game) Released",
     "link": "https://portableapps.com/news/2026-08-21--powder-toy-portable-100.1.400-released",
     "pubDate": "Fri, 21 Aug 2026 22:00:21 +0000"
-  },
-  {
-    "title": "Chromium Portable 151.0.7922.174 (web browser) Released",
-    "link": "https://portableapps.com/news/2026-08-21--chromium-portable-151.0.7922.174-released",
-    "pubDate": "Fri, 21 Aug 2026 20:49:46 +0000"
-  },
-  {
-    "title": "Thunderbird, Portable Edition 155.0 Beta 2 (email client) Released",
-    "link": "https://portableapps.com/node/82835",
-    "pubDate": "Fri, 21 Aug 2026 20:48:28 +0000"
-  },
-  {
-    "title": "Thunderbird ESR, Portable Edition 153.1.0 (email client) Released",
-    "link": "https://portableapps.com/news/2026-08-21--thunderbird-portable-esr-153.1.0-released",
-    "pubDate": "Fri, 21 Aug 2026 20:46:11 +0000"
-  },
-  {
-    "title": "Thunderbird, Portable Edition 154.0 (email client) Released",
-    "link": "https://portableapps.com/news/2026-08-21--thunderbird-portable-154.0-released",
-    "pubDate": "Fri, 21 Aug 2026 20:43:49 +0000"
-  },
-  {
-    "title": "Google Chrome Portable 154 Dev (web browser) Released",
-    "link": "https://portableapps.com/news/2026-08-21--google-chrome-portable-154-dev-released",
-    "pubDate": "Fri, 21 Aug 2026 19:47:20 +0000"
-  },
-  {
-    "title": "Google Chrome Portable 153 Beta (web browser) Released",
-    "link": "https://portableapps.com/news/2026-08-21--google-chrome-portable-153-beta-released",
-    "pubDate": "Fri, 21 Aug 2026 19:47:02 +0000"
-  },
-  {
-    "title": "Mozilla Firefox, Portable Edition Stable 154.0 (web browser) Released",
-    "link": "https://portableapps.com/news/2026-08-21--firefox-portable-154.0-released",
-    "pubDate": "Fri, 21 Aug 2026 16:38:34 +0000"
-  },
-  {
-    "title": "Mozilla Firefox Developer Edition, Portable 155b2 (web browser) Released",
-    "link": "https://portableapps.com/news/2026-08-20--firefox-portable-developer-155b2-released",
-    "pubDate": "Fri, 21 Aug 2026 01:36:06 +0000"
   }
 ]
