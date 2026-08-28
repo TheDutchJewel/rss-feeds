@@ -1,5 +1,75 @@
 [
   {
+    "title": "Trillian 6.6 Build 18",
+    "link": "https://www.computerbase.de/downloads/kommunikation/trillian/",
+    "pubDate": "2026-08-28T16:12:00.000Z"
+  },
+  {
+    "title": "Microsoft Edge 152.0.4191.53",
+    "link": "https://www.computerbase.de/downloads/browser/microsoft-edge/",
+    "pubDate": "2026-08-28T16:10:00.000Z"
+  },
+  {
+    "title": "Audacity 4.0.0 Beta 4",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/audacity/",
+    "pubDate": "2026-08-28T16:03:00.000Z"
+  },
+  {
+    "title": "Intel Arc & Xe Grafiktreiber 32.0.101.8991 WHQL",
+    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/intel-grafiktreiber/",
+    "pubDate": "2026-08-28T16:00:00.000Z"
+  },
+  {
+    "title": "foobar2000 v2.26 preview 2026-08-28",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/foobar2000/",
+    "pubDate": "2026-08-28T15:59:00.000Z"
+  },
+  {
+    "title": "ReNamer 7.9.0.6 Beta",
+    "link": "https://www.computerbase.de/downloads/office/dateimanager/renamer/",
+    "pubDate": "2026-08-28T15:57:00.000Z"
+  },
+  {
+    "title": "AIDA64 v8.35.8412 Beta",
+    "link": "https://www.computerbase.de/downloads/systemtools/aida64/",
+    "pubDate": "2026-08-28T15:57:00.000Z"
+  },
+  {
+    "title": "Opera 135.0.5973.66",
+    "link": "https://www.computerbase.de/downloads/browser/opera/",
+    "pubDate": "2026-08-28T15:56:00.000Z"
+  },
+  {
+    "title": "Multi Commander 16.2 Build 3210",
+    "link": "https://www.computerbase.de/downloads/office/dateimanager/multi-commander/",
+    "pubDate": "2026-08-28T15:55:00.000Z"
+  },
+  {
+    "title": "Turtle Beach Swarm II 1.0.0.54",
+    "link": "https://www.computerbase.de/downloads/treiber/eingabegeraete/turtle-beach-swarm-ii/",
+    "pubDate": "2026-08-28T15:53:00.000Z"
+  },
+  {
+    "title": "Nvidia PhysX System Software 9.26.0703",
+    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/nvidia-physx-system-software/",
+    "pubDate": "2026-08-28T09:18:00.000Z"
+  },
+  {
+    "title": "WhatsApp 2.26.34.24 (macOS)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/whatsapp/",
+    "pubDate": "2026-08-28T09:17:00.000Z"
+  },
+  {
+    "title": "Linux Kernel 6.18.48 (Linux)",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/linux-kernel/",
+    "pubDate": "2026-08-28T09:17:00.000Z"
+  },
+  {
+    "title": "Linux Kernel 7.2.2 (Linux)",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/linux-kernel/",
+    "pubDate": "2026-08-28T09:17:00.000Z"
+  },
+  {
     "title": "AutoHotkey 2.0.27",
     "link": "https://www.computerbase.de/downloads/systemtools/autohotkey/",
     "pubDate": "2026-08-28T05:10:00.000Z"
@@ -105,11 +175,6 @@
     "pubDate": "2026-08-27T14:56:00.000Z"
   },
   {
-    "title": "WhatsApp 2.26.34.21 (macOS)",
-    "link": "https://www.computerbase.de/downloads/kommunikation/whatsapp/",
-    "pubDate": "2026-08-27T14:55:00.000Z"
-  },
-  {
     "title": "Personal Backup 6.4.13.0",
     "link": "https://www.computerbase.de/downloads/sicherheit/backup/personal-backup/",
     "pubDate": "2026-08-27T14:55:00.000Z"
@@ -133,11 +198,6 @@
     "title": "Linux Kernel 7.1.11 (Linux)",
     "link": "https://www.computerbase.de/downloads/betriebssysteme/linux-kernel/",
     "pubDate": "2026-08-27T14:50:00.000Z"
-  },
-  {
-    "title": "Linux Kernel 6.18.47 (Linux)",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/linux-kernel/",
-    "pubDate": "2026-08-27T14:49:00.000Z"
   },
   {
     "title": "Telegram Desktop 7.1.3",
@@ -188,65 +248,5 @@
     "title": "FileZilla 3.71.1",
     "link": "https://www.computerbase.de/downloads/office/dateitransfer/filezilla/",
     "pubDate": "2026-08-26T14:57:00.000Z"
-  },
-  {
-    "title": "Visual Studio Code (VS Code) 1.135.0",
-    "link": "https://www.computerbase.de/downloads/office/editoren/visual-studio-code/",
-    "pubDate": "2026-08-26T14:53:00.000Z"
-  },
-  {
-    "title": "Nvidia Studio-Treiber 616.56",
-    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/nvidia-studio-treiber/",
-    "pubDate": "2026-08-26T14:25:00.000Z"
-  },
-  {
-    "title": "Opera 135.0.5973.55",
-    "link": "https://www.computerbase.de/downloads/browser/opera/",
-    "pubDate": "2026-08-26T14:24:00.000Z"
-  },
-  {
-    "title": "Nvidia GeForce-Treiber 616.56",
-    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/nvidia-geforce-treiber/",
-    "pubDate": "2026-08-26T14:24:00.000Z"
-  },
-  {
-    "title": "Spotify 1.2.98.301",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/spotify/",
-    "pubDate": "2026-08-26T14:23:00.000Z"
-  },
-  {
-    "title": "mIRC 7.84.2042 Beta",
-    "link": "https://www.computerbase.de/downloads/kommunikation/mirc/",
-    "pubDate": "2026-08-26T14:23:00.000Z"
-  },
-  {
-    "title": "Duplicati 2.3.1.1 Beta",
-    "link": "https://www.computerbase.de/downloads/sicherheit/backup/duplicati/",
-    "pubDate": "2026-08-26T14:00:00.000Z"
-  },
-  {
-    "title": "Viber für Desktop 28.6.1.0",
-    "link": "https://www.computerbase.de/downloads/kommunikation/viber-fuer-desktop/",
-    "pubDate": "2026-08-26T14:00:00.000Z"
-  },
-  {
-    "title": "EA-App 13.778.0.6291",
-    "link": "https://www.computerbase.de/downloads/games/ea-app/",
-    "pubDate": "2026-08-26T13:59:00.000Z"
-  },
-  {
-    "title": "The Bat! 12.3.1",
-    "link": "https://www.computerbase.de/downloads/kommunikation/the-bat/",
-    "pubDate": "2026-08-26T13:58:00.000Z"
-  },
-  {
-    "title": "Trellix Stinger 26.08.35.1",
-    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/mcafee-labs-stinger/",
-    "pubDate": "2026-08-26T13:57:00.000Z"
-  },
-  {
-    "title": "Nextcloud Client 34.0.3",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/nextcloud/",
-    "pubDate": "2026-08-26T13:57:00.000Z"
   }
 ]

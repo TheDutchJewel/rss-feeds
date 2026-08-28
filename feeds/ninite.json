@@ -1,5 +1,15 @@
 [
   {
+    "title": "Edge updated to 152.0.4191.53.",
+    "link": "https://ninite.com/edge/",
+    "pubDate": "Fri, 28 Aug 2026 15:03:58 -0000"
+  },
+  {
+    "title": "Opera Chromium updated to 135.0.5973.66.",
+    "link": "https://ninite.com/operaChromium/",
+    "pubDate": "Fri, 28 Aug 2026 15:03:24 -0000"
+  },
+  {
     "title": "Cursor updated to 3.18.9.",
     "link": "https://ninite.com/cursor/",
     "pubDate": "Thu, 27 Aug 2026 19:27:21 -0000"
@@ -383,20 +393,5 @@
     "title": "ASP.NET Core Runtime 10 updated to 10.0.11.36323.",
     "link": "https://ninite.com/aspnet10/",
     "pubDate": "Tue, 11 Aug 2026 22:34:16 -0000"
-  },
-  {
-    "title": "Chrome updated to 151.0.7922.138.",
-    "link": "https://ninite.com/chrome/",
-    "pubDate": "Tue, 11 Aug 2026 22:27:33 -0000"
-  },
-  {
-    "title": "ASP.NET Core Runtime x64 10 updated to 10.0.11.36323.",
-    "link": "https://ninite.com/aspnetx10/",
-    "pubDate": "Tue, 11 Aug 2026 22:08:39 -0000"
-  },
-  {
-    "title": "ASP.NET Core Runtime arm64 10 updated to 10.0.11.36323.",
-    "link": "https://ninite.com/aspneta10/",
-    "pubDate": "Tue, 11 Aug 2026 22:08:32 -0000"
   }
 ]
