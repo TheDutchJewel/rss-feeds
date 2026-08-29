@@ -1,5 +1,20 @@
 [
   {
+    "title": "Multi Commander 16.2 Build 3211",
+    "link": "https://www.computerbase.de/downloads/office/dateimanager/multi-commander/",
+    "pubDate": "2026-08-29T09:42:00.000Z"
+  },
+  {
+    "title": "Joplin 3.7.13 Beta",
+    "link": "https://www.computerbase.de/downloads/office/joplin/",
+    "pubDate": "2026-08-29T09:32:00.000Z"
+  },
+  {
+    "title": "Pandoc 3.11",
+    "link": "https://www.computerbase.de/downloads/office/pandoc/",
+    "pubDate": "2026-08-29T09:30:00.000Z"
+  },
+  {
     "title": "XnConvert 1.116",
     "link": "https://www.computerbase.de/downloads/foto-und-grafik/xnconvert/",
     "pubDate": "2026-08-28T19:38:00.000Z"
@@ -130,11 +145,6 @@
     "pubDate": "2026-08-28T15:56:00.000Z"
   },
   {
-    "title": "Multi Commander 16.2 Build 3210",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/multi-commander/",
-    "pubDate": "2026-08-28T15:55:00.000Z"
-  },
-  {
     "title": "Turtle Beach Swarm II 1.0.0.54",
     "link": "https://www.computerbase.de/downloads/treiber/eingabegeraete/turtle-beach-swarm-ii/",
     "pubDate": "2026-08-28T15:53:00.000Z"
@@ -238,15 +248,5 @@
     "title": "AVG AntiVirus Free 26.9.11145 Beta",
     "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/avg-antivirus-free/",
     "pubDate": "2026-08-27T15:01:00.000Z"
-  },
-  {
-    "title": "Everything 1.5.0.1423 Beta",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/everything/",
-    "pubDate": "2026-08-27T14:59:00.000Z"
-  },
-  {
-    "title": "KDE neon 20260827-0521",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/kde-neon/",
-    "pubDate": "2026-08-27T14:58:00.000Z"
   }
 ]
