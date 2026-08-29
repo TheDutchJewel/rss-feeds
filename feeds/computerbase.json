@@ -1,5 +1,25 @@
 [
   {
+    "title": "ReactOS 0.4.16",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/reactos/",
+    "pubDate": "2026-08-29T14:37:00.000Z"
+  },
+  {
+    "title": "mp3Tag 3.36.1",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/mp3tag/",
+    "pubDate": "2026-08-29T14:37:00.000Z"
+  },
+  {
+    "title": "croc 11.3.5",
+    "link": "https://www.computerbase.de/downloads/office/dateitransfer/croc/",
+    "pubDate": "2026-08-29T14:36:00.000Z"
+  },
+  {
+    "title": "2FAGuard 1.8.3",
+    "link": "https://www.computerbase.de/downloads/sicherheit/2faguard/",
+    "pubDate": "2026-08-29T14:35:00.000Z"
+  },
+  {
     "title": "Multi Commander 16.2 Build 3211",
     "link": "https://www.computerbase.de/downloads/office/dateimanager/multi-commander/",
     "pubDate": "2026-08-29T09:42:00.000Z"
@@ -98,11 +118,6 @@
     "title": "Java SE Development Kit 28.0 Build 13 Dev",
     "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/java-se-development-kit/",
     "pubDate": "2026-08-28T19:05:00.000Z"
-  },
-  {
-    "title": "croc 11.3.4",
-    "link": "https://www.computerbase.de/downloads/office/dateitransfer/croc/",
-    "pubDate": "2026-08-28T19:04:00.000Z"
   },
   {
     "title": "Trillian 6.6 Build 18",
@@ -233,20 +248,5 @@
     "title": "ESET Internet Security 2024 v19.2.10.0",
     "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/eset-internet-security/",
     "pubDate": "2026-08-27T15:04:00.000Z"
-  },
-  {
-    "title": "ESET NOD32 Antivirus 2024 v19.2.10.0",
-    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/eset-nod32-antivirus/",
-    "pubDate": "2026-08-27T15:04:00.000Z"
-  },
-  {
-    "title": "Avast Free Antivirus 26.9.11145 Beta",
-    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/avast-free-antivirus/",
-    "pubDate": "2026-08-27T15:02:00.000Z"
-  },
-  {
-    "title": "AVG AntiVirus Free 26.9.11145 Beta",
-    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/avg-antivirus-free/",
-    "pubDate": "2026-08-27T15:01:00.000Z"
   }
 ]
