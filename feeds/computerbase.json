@@ -1,5 +1,15 @@
 [
   {
+    "title": "Betterbird 153.2.0esr-bb8",
+    "link": "https://www.computerbase.de/downloads/kommunikation/betterbird/",
+    "pubDate": "2026-08-30T06:27:00.000Z"
+  },
+  {
+    "title": "croc 11.3.6",
+    "link": "https://www.computerbase.de/downloads/office/dateitransfer/croc/",
+    "pubDate": "2026-08-30T06:25:00.000Z"
+  },
+  {
     "title": "ReactOS 0.4.16",
     "link": "https://www.computerbase.de/downloads/betriebssysteme/reactos/",
     "pubDate": "2026-08-29T14:37:00.000Z"
@@ -8,11 +18,6 @@
     "title": "mp3Tag 3.36.1",
     "link": "https://www.computerbase.de/downloads/audio-und-video/mp3tag/",
     "pubDate": "2026-08-29T14:37:00.000Z"
-  },
-  {
-    "title": "croc 11.3.5",
-    "link": "https://www.computerbase.de/downloads/office/dateitransfer/croc/",
-    "pubDate": "2026-08-29T14:36:00.000Z"
   },
   {
     "title": "2FAGuard 1.8.3",
@@ -243,10 +248,5 @@
     "title": "Nvidia RTX Enterprise Treiber 597.06",
     "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/nvidia-quadro-treiber/",
     "pubDate": "2026-08-27T15:07:00.000Z"
-  },
-  {
-    "title": "ESET Internet Security 2024 v19.2.10.0",
-    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/eset-internet-security/",
-    "pubDate": "2026-08-27T15:04:00.000Z"
   }
 ]
