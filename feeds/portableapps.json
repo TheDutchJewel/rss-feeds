@@ -1,5 +1,25 @@
 [
   {
+    "title": "InnoUnpacker Portable 2.2.12.1 (InnoSetup inspector and extractor) Released",
+    "link": "https://portableapps.com/news/2026-08-30--innounpacker-portable-2.2.12.1-released",
+    "pubDate": "Sun, 30 Aug 2026 19:26:51 +0000"
+  },
+  {
+    "title": "PortableApps.com AppCompactor 3.18 (shrink portable apps) Released",
+    "link": "https://portableapps.com/news/2026-08-30--portableapps.com-appcompactor-3.18-released",
+    "pubDate": "Sun, 30 Aug 2026 19:22:39 +0000"
+  },
+  {
+    "title": "FUPX Portable 3.2-5 (file compressor) Released",
+    "link": "https://portableapps.com/news/2026-08-30--free-upx-portable-3.2-5-released",
+    "pubDate": "Sun, 30 Aug 2026 19:16:51 +0000"
+  },
+  {
+    "title": "Iron Portable 150.0.7900.0 (web browser) Released",
+    "link": "https://portableapps.com/news/2026-08-30--iron-portable-150.0.7900.0-released",
+    "pubDate": "Sun, 30 Aug 2026 18:59:50 +0000"
+  },
+  {
     "title": "FileZilla Portable 3.71.1 (ftp client) Released",
     "link": "https://portableapps.com/news/2026-08-27--filezilla-portable-3.71.1-released",
     "pubDate": "Thu, 27 Aug 2026 23:21:53 +0000"
@@ -53,25 +73,5 @@
     "title": "Telegram Desktop Portable 7.1.1 (secure instant messaging) Released",
     "link": "https://portableapps.com/news/2026-08-24--telegram-desktop-portable-7.1.1-released",
     "pubDate": "Mon, 24 Aug 2026 19:34:45 +0000"
-  },
-  {
-    "title": "Mozilla Firefox, Portable Edition Nightly 156 Rev 2 (web browser) Released",
-    "link": "https://portableapps.com/news/2026-08-23--firefox-portable-nightly-156-rev-2-released",
-    "pubDate": "Sun, 23 Aug 2026 20:02:46 +0000"
-  },
-  {
-    "title": "Process Monitor Portable 4.1 (real-time file, registry and process monitor) Released",
-    "link": "https://portableapps.com/news/2026-08-21--process-monitor-portable-4.1-released",
-    "pubDate": "Fri, 21 Aug 2026 22:27:52 +0000"
-  },
-  {
-    "title": "Mozilla Firefox, Portable Edition Legacy 115.39.0 (web browser) Released",
-    "link": "https://portableapps.com/news/2026-08-21--firefox-portable-legacy-115.39.0-released",
-    "pubDate": "Fri, 21 Aug 2026 22:11:27 +0000"
-  },
-  {
-    "title": "The Powder Toy Portable 100.1.400 (physics sandbox game) Released",
-    "link": "https://portableapps.com/news/2026-08-21--powder-toy-portable-100.1.400-released",
-    "pubDate": "Fri, 21 Aug 2026 22:00:21 +0000"
   }
 ]
