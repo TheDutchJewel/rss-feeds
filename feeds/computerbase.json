@@ -1,5 +1,10 @@
 [
   {
+    "title": "Joplin 3.7.14 Beta",
+    "link": "https://www.computerbase.de/downloads/office/joplin/",
+    "pubDate": "2026-08-30T18:08:00.000Z"
+  },
+  {
     "title": "Betterbird 153.2.0esr-bb8",
     "link": "https://www.computerbase.de/downloads/kommunikation/betterbird/",
     "pubDate": "2026-08-30T06:27:00.000Z"
@@ -28,11 +33,6 @@
     "title": "Multi Commander 16.2 Build 3211",
     "link": "https://www.computerbase.de/downloads/office/dateimanager/multi-commander/",
     "pubDate": "2026-08-29T09:42:00.000Z"
-  },
-  {
-    "title": "Joplin 3.7.13 Beta",
-    "link": "https://www.computerbase.de/downloads/office/joplin/",
-    "pubDate": "2026-08-29T09:32:00.000Z"
   },
   {
     "title": "Pandoc 3.11",
