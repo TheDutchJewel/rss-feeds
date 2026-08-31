@@ -1,5 +1,20 @@
 [
   {
+    "title": "Intel Platform Performance Package 26.08.100.3 (Win 11)",
+    "link": "https://www.computerbase.de/downloads/treiber/mainboards/intel-platform-performance-package/",
+    "pubDate": "2026-08-31T18:14:00.000Z"
+  },
+  {
+    "title": "Discord 0.0.410 (macOS)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/discord/",
+    "pubDate": "2026-08-31T18:12:00.000Z"
+  },
+  {
+    "title": "Discord 1.0.156 (Linux)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/discord/",
+    "pubDate": "2026-08-31T18:12:00.000Z"
+  },
+  {
     "title": "XMPlay 4.1.0.16 Beta",
     "link": "https://www.computerbase.de/downloads/audio-und-video/xmplay/",
     "pubDate": "2026-08-31T17:06:00.000Z"
@@ -233,20 +248,5 @@
     "title": "ReNamer 7.9.0.6 Beta",
     "link": "https://www.computerbase.de/downloads/office/dateimanager/renamer/",
     "pubDate": "2026-08-28T15:57:00.000Z"
-  },
-  {
-    "title": "AIDA64 v8.35.8412 Beta",
-    "link": "https://www.computerbase.de/downloads/systemtools/aida64/",
-    "pubDate": "2026-08-28T15:57:00.000Z"
-  },
-  {
-    "title": "Opera 135.0.5973.66",
-    "link": "https://www.computerbase.de/downloads/browser/opera/",
-    "pubDate": "2026-08-28T15:56:00.000Z"
-  },
-  {
-    "title": "Turtle Beach Swarm II 1.0.0.54",
-    "link": "https://www.computerbase.de/downloads/treiber/eingabegeraete/turtle-beach-swarm-ii/",
-    "pubDate": "2026-08-28T15:53:00.000Z"
   }
 ]
