@@ -1,5 +1,45 @@
 [
   {
+    "title": "Adobe Acrobat Reader DC (26.002.21869)",
+    "link": "https://www.computerbase.de/downloads/office/pdf/adobe-acrobat-reader/",
+    "pubDate": "2026-08-31T08:01:00.000Z"
+  },
+  {
+    "title": "MSI Dragon Center 2.0.158.0",
+    "link": "https://www.computerbase.de/downloads/systemtools/msi-dragon-center/",
+    "pubDate": "2026-08-31T08:00:00.000Z"
+  },
+  {
+    "title": "XnView MP 1.11.6",
+    "link": "https://www.computerbase.de/downloads/foto-und-grafik/xnview-mp/",
+    "pubDate": "2026-08-31T07:51:00.000Z"
+  },
+  {
+    "title": "Glary Utilities 6.47.0.51",
+    "link": "https://www.computerbase.de/downloads/systemtools/glary-utilities/",
+    "pubDate": "2026-08-31T07:51:00.000Z"
+  },
+  {
+    "title": "GParted Live 1.8.1-6",
+    "link": "https://www.computerbase.de/downloads/systemtools/festplatten/gparted-live/",
+    "pubDate": "2026-08-31T04:52:00.000Z"
+  },
+  {
+    "title": "Sandboxie Plus 1.18.3",
+    "link": "https://www.computerbase.de/downloads/sicherheit/sandboxie/",
+    "pubDate": "2026-08-31T04:38:00.000Z"
+  },
+  {
+    "title": "Sandboxie Classic 5.73.3",
+    "link": "https://www.computerbase.de/downloads/sicherheit/sandboxie/",
+    "pubDate": "2026-08-31T04:37:00.000Z"
+  },
+  {
+    "title": "OpenShot 4.0.0",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/openshot/",
+    "pubDate": "2026-08-31T04:34:00.000Z"
+  },
+  {
     "title": "Joplin 3.7.14 Beta",
     "link": "https://www.computerbase.de/downloads/office/joplin/",
     "pubDate": "2026-08-30T18:08:00.000Z"
@@ -208,45 +248,5 @@
     "title": "Windows 11 Kumulatives Update 26H1 (Build 28000.2804) KB5120996 Preview (Win 11)",
     "link": "https://www.computerbase.de/downloads/betriebssysteme/windows-11-kumulatives-update/",
     "pubDate": "2026-08-27T18:54:00.000Z"
-  },
-  {
-    "title": "Windows 11 Kumulatives Update 24H2/25H2 (Build 26200.9278) KB5120998 Preview (Win 11)",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/windows-11-kumulatives-update/",
-    "pubDate": "2026-08-27T18:53:00.000Z"
-  },
-  {
-    "title": "1Password 8.12.36-32 Beta",
-    "link": "https://www.computerbase.de/downloads/sicherheit/passwortmanager/1password/",
-    "pubDate": "2026-08-27T18:47:00.000Z"
-  },
-  {
-    "title": "Hotspot Shield 12.17.1",
-    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/hotspot-shield/",
-    "pubDate": "2026-08-27T18:01:00.000Z"
-  },
-  {
-    "title": "Tunnelblick 10.0 Beta 1 (macOS)",
-    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/tunnelblick/",
-    "pubDate": "2026-08-27T17:58:00.000Z"
-  },
-  {
-    "title": "Tunnelblick 9.0 (macOS)",
-    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/tunnelblick/",
-    "pubDate": "2026-08-27T17:57:00.000Z"
-  },
-  {
-    "title": "TROM-Jaro 2026.08.27",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/trom-jaro/",
-    "pubDate": "2026-08-27T15:18:00.000Z"
-  },
-  {
-    "title": "Nvidia Linux Display Driver 595.99.02 (Linux)",
-    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/nvidia-linux-display-driver/",
-    "pubDate": "2026-08-27T15:13:00.000Z"
-  },
-  {
-    "title": "Nvidia RTX Enterprise Treiber 597.06",
-    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/nvidia-quadro-treiber/",
-    "pubDate": "2026-08-27T15:07:00.000Z"
   }
 ]
