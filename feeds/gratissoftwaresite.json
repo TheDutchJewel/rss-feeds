@@ -1,5 +1,25 @@
 [
     {
+        "title": "SMPlayer 26.8",
+        "link": "https://www.gratissoftwaresite.nl/downloads/smplayer-mediaspeler-video-audio-youtube-ondertitels",
+        "pubDate": "31 augustus 2026"
+    },
+    {
+        "title": "Zoom 7.1.8",
+        "link": "https://www.gratissoftwaresite.nl/downloads/zoom-videobellen-groepen-teleconferentie-online-les",
+        "pubDate": "31 augustus 2026"
+    },
+    {
+        "title": "Glary Utilities 6.47.0.51",
+        "link": "https://www.gratissoftwaresite.nl/downloads/glary-utilities-pc-opruimen-cleaner",
+        "pubDate": "31 augustus 2026"
+    },
+    {
+        "title": "Super Productivity 18.21.2",
+        "link": "https://www.gratissoftwaresite.nl/downloads/super-productivity-taken-plannen-workflow-projectbeheer",
+        "pubDate": "31 augustus 2026"
+    },
+    {
         "title": "KillerPDF 1.8.2",
         "link": "https://www.gratissoftwaresite.nl/downloads/killerpdf-bewerken-pdf",
         "pubDate": "31 augustus 2026"
@@ -330,11 +350,6 @@
         "pubDate": "13 augustus 2026"
     },
     {
-        "title": "Glary Utilities 6.46.0.50",
-        "link": "https://www.gratissoftwaresite.nl/downloads/glary-utilities-pc-opruimen-cleaner",
-        "pubDate": "12 augustus 2026"
-    },
-    {
         "title": "eM Client 10.4.5663.0",
         "link": "https://www.gratissoftwaresite.nl/downloads/em-client-e-mail",
         "pubDate": "11 augustus 2026"
@@ -373,11 +388,6 @@
         "title": "Double Commander 1.2.8",
         "link": "https://www.gratissoftwaresite.nl/downloads/doublecommander-bestanden-beheer-verkenner-vensters-werktuigen",
         "pubDate": "10 augustus 2026"
-    },
-    {
-        "title": "Super Productivity 18.19.0",
-        "link": "https://www.gratissoftwaresite.nl/downloads/super-productivity-taken-plannen-workflow-projectbeheer",
-        "pubDate": "8 augustus 2026"
     },
     {
         "title": "macOS 26.6.1 & 15.7....",
@@ -468,15 +478,5 @@
         "title": "ScreenToGif 2.43.2",
         "link": "https://www.gratissoftwaresite.nl/downloads/screentogif-schermopnamen-opnemen-video-webcam-gif-whiteboard",
         "pubDate": "29 juli 2026"
-    },
-    {
-        "title": "SRWare Iron 150.0.7900.0",
-        "link": "https://www.gratissoftwaresite.nl/downloads/srware-iron-internet-web-browser-privacy",
-        "pubDate": "29 juli 2026"
-    },
-    {
-        "title": "iOS 26.6 & 18.7.9...",
-        "link": "https://www.gratissoftwaresite.nl/downloads/ios-mobiel-besturingssysteem-os-iphone",
-        "pubDate": "28 juli 2026"
     }
 ]
