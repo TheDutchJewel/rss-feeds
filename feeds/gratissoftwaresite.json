@@ -1,8 +1,23 @@
 [
     {
-        "title": "KillerPDF 1.8.1",
+        "title": "KillerPDF 1.8.2",
         "link": "https://www.gratissoftwaresite.nl/downloads/killerpdf-bewerken-pdf",
-        "pubDate": "30 augustus 2026"
+        "pubDate": "31 augustus 2026"
+    },
+    {
+        "title": "XnView MP 1.11.6 & Cl...",
+        "link": "https://www.gratissoftwaresite.nl/downloads/xnview-fotobewerking-beeld",
+        "pubDate": "31 augustus 2026"
+    },
+    {
+        "title": "GParted 1.8.1-6",
+        "link": "https://www.gratissoftwaresite.nl/downloads/gparted-partitiebeheer-iso-usb-cd",
+        "pubDate": "31 augustus 2026"
+    },
+    {
+        "title": "OpenShot Video Editor 4.0.0",
+        "link": "https://www.gratissoftwaresite.nl/downloads/openshot-video-editor-videobewerking-video-dvd-uploaden",
+        "pubDate": "31 augustus 2026"
     },
     {
         "title": "Zen Browser 1.21.16b",
@@ -463,20 +478,5 @@
         "title": "iOS 26.6 & 18.7.9...",
         "link": "https://www.gratissoftwaresite.nl/downloads/ios-mobiel-besturingssysteem-os-iphone",
         "pubDate": "28 juli 2026"
-    },
-    {
-        "title": "SeaMonkey 2.53.24",
-        "link": "https://www.gratissoftwaresite.nl/downloads/seamonkey-internet-webbrowser-mozilla",
-        "pubDate": "28 juli 2026"
-    },
-    {
-        "title": "PicPick 7.6.0",
-        "link": "https://www.gratissoftwaresite.nl/downloads/picpick-fotobewerking-screenshot",
-        "pubDate": "28 juli 2026"
-    },
-    {
-        "title": "FreeCAD 1.1.3",
-        "link": "https://www.gratissoftwaresite.nl/downloads/freecad-grafische-vormgeving-3d-modelling-computer-aided-design-ontwerp-tekenen",
-        "pubDate": "26 juli 2026"
     }
 ]
