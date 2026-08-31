@@ -1,5 +1,50 @@
 [
   {
+    "title": "XMPlay 4.1.0.16 Beta",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/xmplay/",
+    "pubDate": "2026-08-31T17:06:00.000Z"
+  },
+  {
+    "title": "ProtonVPN 5.1.7",
+    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/protonvpn/",
+    "pubDate": "2026-08-31T16:51:00.000Z"
+  },
+  {
+    "title": "ProtonVPN 5.1.8 Early Access",
+    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/protonvpn/",
+    "pubDate": "2026-08-31T16:51:00.000Z"
+  },
+  {
+    "title": "Realtek USB Ethernet Controller Driver 11.23.20 (07272026) (Win 11)",
+    "link": "https://www.computerbase.de/downloads/treiber/netzwerk/realtek-usb-ethernet-controller-driver/",
+    "pubDate": "2026-08-31T15:05:00.000Z"
+  },
+  {
+    "title": "Realtek USB Ethernet Controller Driver 10.68.20 (07312026) (Win 10)",
+    "link": "https://www.computerbase.de/downloads/treiber/netzwerk/realtek-usb-ethernet-controller-driver/",
+    "pubDate": "2026-08-31T15:04:00.000Z"
+  },
+  {
+    "title": "Zoom 7.1.8",
+    "link": "https://www.computerbase.de/downloads/kommunikation/zoom/",
+    "pubDate": "2026-08-31T14:44:00.000Z"
+  },
+  {
+    "title": "ProtonVPN 4.18.1 (Linux)",
+    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/protonvpn/",
+    "pubDate": "2026-08-31T12:07:00.000Z"
+  },
+  {
+    "title": "GOG Galaxy 2.1.9.27 Beta",
+    "link": "https://www.computerbase.de/downloads/games/gog-galaxy/",
+    "pubDate": "2026-08-31T12:01:00.000Z"
+  },
+  {
+    "title": "OnyX 5.0.3 (macOS)",
+    "link": "https://www.computerbase.de/downloads/systemtools/onyx/",
+    "pubDate": "2026-08-31T12:00:00.000Z"
+  },
+  {
     "title": "Adobe Acrobat Reader DC (26.002.21869)",
     "link": "https://www.computerbase.de/downloads/office/pdf/adobe-acrobat-reader/",
     "pubDate": "2026-08-31T08:01:00.000Z"
@@ -125,11 +170,6 @@
     "pubDate": "2026-08-28T19:26:00.000Z"
   },
   {
-    "title": "XMPlay 4.1.0.15 Beta",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/xmplay/",
-    "pubDate": "2026-08-28T19:20:00.000Z"
-  },
-  {
     "title": "EndeavourOS Titan Nova 2026-08-15",
     "link": "https://www.computerbase.de/downloads/betriebssysteme/endeavouros/",
     "pubDate": "2026-08-28T19:19:00.000Z"
@@ -208,45 +248,5 @@
     "title": "Turtle Beach Swarm II 1.0.0.54",
     "link": "https://www.computerbase.de/downloads/treiber/eingabegeraete/turtle-beach-swarm-ii/",
     "pubDate": "2026-08-28T15:53:00.000Z"
-  },
-  {
-    "title": "Nvidia PhysX System Software 9.26.0703",
-    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/nvidia-physx-system-software/",
-    "pubDate": "2026-08-28T09:18:00.000Z"
-  },
-  {
-    "title": "WhatsApp 2.26.34.24 (macOS)",
-    "link": "https://www.computerbase.de/downloads/kommunikation/whatsapp/",
-    "pubDate": "2026-08-28T09:17:00.000Z"
-  },
-  {
-    "title": "Linux Kernel 6.18.48 (Linux)",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/linux-kernel/",
-    "pubDate": "2026-08-28T09:17:00.000Z"
-  },
-  {
-    "title": "Linux Kernel 7.2.2 (Linux)",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/linux-kernel/",
-    "pubDate": "2026-08-28T09:17:00.000Z"
-  },
-  {
-    "title": "AutoHotkey 2.0.27",
-    "link": "https://www.computerbase.de/downloads/systemtools/autohotkey/",
-    "pubDate": "2026-08-28T05:10:00.000Z"
-  },
-  {
-    "title": "Brave 1.94.117",
-    "link": "https://www.computerbase.de/downloads/browser/brave/",
-    "pubDate": "2026-08-28T04:33:00.000Z"
-  },
-  {
-    "title": "calibre 9.14.0",
-    "link": "https://www.computerbase.de/downloads/office/calibre-ebook-management/",
-    "pubDate": "2026-08-28T04:29:00.000Z"
-  },
-  {
-    "title": "Windows 11 Kumulatives Update 26H1 (Build 28000.2804) KB5120996 Preview (Win 11)",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/windows-11-kumulatives-update/",
-    "pubDate": "2026-08-27T18:54:00.000Z"
   }
 ]
