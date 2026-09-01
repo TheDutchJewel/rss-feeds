@@ -1,5 +1,60 @@
 [
   {
+    "title": "Paint.NET 5.2.0 Alpha Build 9739.41506",
+    "link": "https://www.computerbase.de/downloads/foto-und-grafik/paint.net/",
+    "pubDate": "2026-09-01T04:24:00.000Z"
+  },
+  {
+    "title": "K-Lite Codec Pack Update 19.9.6",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/k-lite-codec-pack/",
+    "pubDate": "2026-09-01T04:21:00.000Z"
+  },
+  {
+    "title": "SoftPerfect Network Scanner 26.9",
+    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/softperfect-network-scanner/",
+    "pubDate": "2026-09-01T04:20:00.000Z"
+  },
+  {
+    "title": "Slack 4.52.155 (Win 11)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/slack/",
+    "pubDate": "2026-09-01T04:20:00.000Z"
+  },
+  {
+    "title": "Slack 4.52.155 (macOS)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/slack/",
+    "pubDate": "2026-09-01T04:19:00.000Z"
+  },
+  {
+    "title": "Slack 4.52.155 Beta (Linux)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/slack/",
+    "pubDate": "2026-09-01T04:18:00.000Z"
+  },
+  {
+    "title": "Mozilla Firefox 156.0 Beta 1",
+    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
+    "pubDate": "2026-09-01T04:17:00.000Z"
+  },
+  {
+    "title": "Kodi 22.0 „Piers“ Beta 2",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/kodi-entertainment-center/",
+    "pubDate": "2026-09-01T04:16:00.000Z"
+  },
+  {
+    "title": "HyperSnap 10.3.3",
+    "link": "https://www.computerbase.de/downloads/foto-und-grafik/hypersnap/",
+    "pubDate": "2026-09-01T04:15:00.000Z"
+  },
+  {
+    "title": "Mozilla Thunderbird 156.0 Beta 1",
+    "link": "https://www.computerbase.de/downloads/kommunikation/mozilla-thunderbird/",
+    "pubDate": "2026-09-01T04:15:00.000Z"
+  },
+  {
+    "title": "Rocket.Chat Desktop 4.17.0",
+    "link": "https://www.computerbase.de/downloads/kommunikation/rocket.chat/",
+    "pubDate": "2026-09-01T04:14:00.000Z"
+  },
+  {
     "title": "Intel Platform Performance Package 26.08.100.3 (Win 11)",
     "link": "https://www.computerbase.de/downloads/treiber/mainboards/intel-platform-performance-package/",
     "pubDate": "2026-08-31T18:14:00.000Z"
@@ -193,60 +248,5 @@
     "title": "FreeBSD 14.5 RC1",
     "link": "https://www.computerbase.de/downloads/betriebssysteme/freebsd/",
     "pubDate": "2026-08-28T19:18:00.000Z"
-  },
-  {
-    "title": "Screenpresso 2.3.4 (Win 11)",
-    "link": "https://www.computerbase.de/downloads/foto-und-grafik/screenpresso/",
-    "pubDate": "2026-08-28T19:17:00.000Z"
-  },
-  {
-    "title": "Realtek Ethernet Controller Driver 11.31 (08252026) (Win 11)",
-    "link": "https://www.computerbase.de/downloads/treiber/netzwerk/realtek-ethernet-controller-driver/",
-    "pubDate": "2026-08-28T19:16:00.000Z"
-  },
-  {
-    "title": "Realtek Ethernet Controller Driver 10.080 (08252026)",
-    "link": "https://www.computerbase.de/downloads/treiber/netzwerk/realtek-ethernet-controller-driver/",
-    "pubDate": "2026-08-28T19:15:00.000Z"
-  },
-  {
-    "title": "Nobara Linux 44 2026-08-28",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/nobara-linux/",
-    "pubDate": "2026-08-28T19:08:00.000Z"
-  },
-  {
-    "title": "Java SE Development Kit 28.0 Build 13 Dev",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/java-se-development-kit/",
-    "pubDate": "2026-08-28T19:05:00.000Z"
-  },
-  {
-    "title": "Trillian 6.6 Build 18",
-    "link": "https://www.computerbase.de/downloads/kommunikation/trillian/",
-    "pubDate": "2026-08-28T16:12:00.000Z"
-  },
-  {
-    "title": "Microsoft Edge 152.0.4191.53",
-    "link": "https://www.computerbase.de/downloads/browser/microsoft-edge/",
-    "pubDate": "2026-08-28T16:10:00.000Z"
-  },
-  {
-    "title": "Audacity 4.0.0 Beta 4",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/audacity/",
-    "pubDate": "2026-08-28T16:03:00.000Z"
-  },
-  {
-    "title": "Intel Arc & Xe Grafiktreiber 32.0.101.8991 WHQL",
-    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/intel-grafiktreiber/",
-    "pubDate": "2026-08-28T16:00:00.000Z"
-  },
-  {
-    "title": "foobar2000 v2.26 preview 2026-08-28",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/foobar2000/",
-    "pubDate": "2026-08-28T15:59:00.000Z"
-  },
-  {
-    "title": "ReNamer 7.9.0.6 Beta",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/renamer/",
-    "pubDate": "2026-08-28T15:57:00.000Z"
   }
 ]
