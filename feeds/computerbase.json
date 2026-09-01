@@ -1,5 +1,35 @@
 [
   {
+    "title": "Dropbox 268.4.4124",
+    "link": "https://www.computerbase.de/downloads/office/dateimanager/dropbox/",
+    "pubDate": "2026-09-01T18:53:00.000Z"
+  },
+  {
+    "title": "Arch Linux 2026.09.01",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/arch-linux/",
+    "pubDate": "2026-09-01T18:51:00.000Z"
+  },
+  {
+    "title": "ReNamer 7.9.0.7 Beta",
+    "link": "https://www.computerbase.de/downloads/office/dateimanager/renamer/",
+    "pubDate": "2026-09-01T18:51:00.000Z"
+  },
+  {
+    "title": "ownCloud Client 7.1.1",
+    "link": "https://www.computerbase.de/downloads/office/dateimanager/owncloud/",
+    "pubDate": "2026-09-01T17:22:00.000Z"
+  },
+  {
+    "title": "Element 1.12.27",
+    "link": "https://www.computerbase.de/downloads/kommunikation/element/",
+    "pubDate": "2026-09-01T17:20:00.000Z"
+  },
+  {
+    "title": "Audacity 3.7.9",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/audacity/",
+    "pubDate": "2026-09-01T17:19:00.000Z"
+  },
+  {
     "title": "itch 26.19.0 Beta",
     "link": "https://www.computerbase.de/downloads/games/itch/",
     "pubDate": "2026-09-01T15:05:00.000Z"
@@ -218,35 +248,5 @@
     "title": "Sandboxie Classic 5.73.3",
     "link": "https://www.computerbase.de/downloads/sicherheit/sandboxie/",
     "pubDate": "2026-08-31T04:37:00.000Z"
-  },
-  {
-    "title": "OpenShot 4.0.0",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/openshot/",
-    "pubDate": "2026-08-31T04:34:00.000Z"
-  },
-  {
-    "title": "Joplin 3.7.14 Beta",
-    "link": "https://www.computerbase.de/downloads/office/joplin/",
-    "pubDate": "2026-08-30T18:08:00.000Z"
-  },
-  {
-    "title": "Betterbird 153.2.0esr-bb8",
-    "link": "https://www.computerbase.de/downloads/kommunikation/betterbird/",
-    "pubDate": "2026-08-30T06:27:00.000Z"
-  },
-  {
-    "title": "croc 11.3.6",
-    "link": "https://www.computerbase.de/downloads/office/dateitransfer/croc/",
-    "pubDate": "2026-08-30T06:25:00.000Z"
-  },
-  {
-    "title": "ReactOS 0.4.16",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/reactos/",
-    "pubDate": "2026-08-29T14:37:00.000Z"
-  },
-  {
-    "title": "mp3Tag 3.36.1",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/mp3tag/",
-    "pubDate": "2026-08-29T14:37:00.000Z"
   }
 ]
