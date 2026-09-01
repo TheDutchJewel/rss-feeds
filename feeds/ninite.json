@@ -1,5 +1,20 @@
 [
   {
+    "title": "Cursor updated to 3.18.25.",
+    "link": "https://ninite.com/cursor/",
+    "pubDate": "Tue, 01 Sep 2026 14:28:07 -0000"
+  },
+  {
+    "title": "Evernote updated to 11.32.5.",
+    "link": "https://ninite.com/evernote/",
+    "pubDate": "Tue, 01 Sep 2026 14:17:44 -0000"
+  },
+  {
+    "title": "Firefox updated to 155.0.",
+    "link": "https://ninite.com/firefox/",
+    "pubDate": "Tue, 01 Sep 2026 14:16:27 -0000"
+  },
+  {
     "title": "Zoom updated to 7.1.8.46825.",
     "link": "https://ninite.com/zoom/",
     "pubDate": "Tue, 01 Sep 2026 01:01:22 -0000"
@@ -368,15 +383,5 @@
     "title": "MusicBee updated to 3.6.9668.",
     "link": "https://ninite.com/musicbee/",
     "pubDate": "Wed, 12 Aug 2026 09:51:33 -0000"
-  },
-  {
-    "title": "CCleaner updated to 6.41.11567.",
-    "link": "https://ninite.com/ccleaner/",
-    "pubDate": "Wed, 12 Aug 2026 09:10:32 -0000"
-  },
-  {
-    "title": "Dropbox updated to 264.4.3421.",
-    "link": "https://ninite.com/dropbox/",
-    "pubDate": "Wed, 12 Aug 2026 07:47:38 -0000"
   }
 ]

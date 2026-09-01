@@ -1,5 +1,55 @@
 [
   {
+    "title": "itch 26.19.0 Beta",
+    "link": "https://www.computerbase.de/downloads/games/itch/",
+    "pubDate": "2026-09-01T15:05:00.000Z"
+  },
+  {
+    "title": "Foxit PDF Reader 2026.2.0.39747",
+    "link": "https://www.computerbase.de/downloads/office/pdf/foxit-reader/",
+    "pubDate": "2026-09-01T14:56:00.000Z"
+  },
+  {
+    "title": "Malwarebytes 5.27.0.4189 (macOS)",
+    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/malwarebytes/",
+    "pubDate": "2026-09-01T14:54:00.000Z"
+  },
+  {
+    "title": "WhatsApp 2.26.35.12 (macOS)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/whatsapp/",
+    "pubDate": "2026-09-01T14:53:00.000Z"
+  },
+  {
+    "title": "Mozilla Firefox 155.0",
+    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
+    "pubDate": "2026-09-01T14:52:00.000Z"
+  },
+  {
+    "title": "Trellix Stinger 26.09.36.1",
+    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/mcafee-labs-stinger/",
+    "pubDate": "2026-09-01T14:52:00.000Z"
+  },
+  {
+    "title": "Mozilla Firefox 153.2.0 ESR",
+    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
+    "pubDate": "2026-09-01T14:51:00.000Z"
+  },
+  {
+    "title": "LibreWolf 155.0-1",
+    "link": "https://www.computerbase.de/downloads/browser/librewolf/",
+    "pubDate": "2026-09-01T14:51:00.000Z"
+  },
+  {
+    "title": "Mozilla Firefox 140.15.0 ESR",
+    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
+    "pubDate": "2026-09-01T14:50:00.000Z"
+  },
+  {
+    "title": "Mozilla Firefox 115.40.0 ESR",
+    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
+    "pubDate": "2026-09-01T14:49:00.000Z"
+  },
+  {
     "title": "Ubisoft Connect 173.1.0.13333",
     "link": "https://www.computerbase.de/downloads/games/ubisoft-connect/",
     "pubDate": "2026-09-01T10:15:00.000Z"
@@ -198,55 +248,5 @@
     "title": "mp3Tag 3.36.1",
     "link": "https://www.computerbase.de/downloads/audio-und-video/mp3tag/",
     "pubDate": "2026-08-29T14:37:00.000Z"
-  },
-  {
-    "title": "2FAGuard 1.8.3",
-    "link": "https://www.computerbase.de/downloads/sicherheit/2faguard/",
-    "pubDate": "2026-08-29T14:35:00.000Z"
-  },
-  {
-    "title": "Multi Commander 16.2 Build 3211",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/multi-commander/",
-    "pubDate": "2026-08-29T09:42:00.000Z"
-  },
-  {
-    "title": "Pandoc 3.11",
-    "link": "https://www.computerbase.de/downloads/office/pandoc/",
-    "pubDate": "2026-08-29T09:30:00.000Z"
-  },
-  {
-    "title": "XnConvert 1.116",
-    "link": "https://www.computerbase.de/downloads/foto-und-grafik/xnconvert/",
-    "pubDate": "2026-08-28T19:38:00.000Z"
-  },
-  {
-    "title": "Xubuntu 26.04.1 „Resolute Raccoon“ LTS",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/xubuntu/",
-    "pubDate": "2026-08-28T19:35:00.000Z"
-  },
-  {
-    "title": "Ubuntu Studio 26.04.1 „Resolute Raccoon“ LTS",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/ubuntu-studio/",
-    "pubDate": "2026-08-28T19:32:00.000Z"
-  },
-  {
-    "title": "Ubuntu Kylin 26.04.1 „Resolute Raccoon“ LTS",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/ubuntu-kylin/",
-    "pubDate": "2026-08-28T19:31:00.000Z"
-  },
-  {
-    "title": "Ubuntu Cinnamon 26.04.1 „Resolute Raccoon“ LTS",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/ubuntu-cinnamon/",
-    "pubDate": "2026-08-28T19:30:00.000Z"
-  },
-  {
-    "title": "Ubuntu Budgie 26.04.1 „Resolute Raccoon“ LTS",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/ubuntu-budgie/",
-    "pubDate": "2026-08-28T19:29:00.000Z"
-  },
-  {
-    "title": "Lubuntu 26.04.1 „Resolute Raccoon“ LTS",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/lubuntu/",
-    "pubDate": "2026-08-28T19:28:00.000Z"
   }
 ]
