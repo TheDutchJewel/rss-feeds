@@ -1,5 +1,10 @@
 [
   {
+    "title": "Zoom updated to 7.1.8.46825.",
+    "link": "https://ninite.com/zoom/",
+    "pubDate": "Tue, 01 Sep 2026 01:01:22 -0000"
+  },
+  {
     "title": "Glary updated to 6.47.0.51.",
     "link": "https://ninite.com/glary/",
     "pubDate": "Mon, 31 Aug 2026 07:36:23 -0000"
@@ -378,10 +383,5 @@
     "title": "TeamViewer 15 updated to 15.80.6.",
     "link": "https://ninite.com/teamviewer15/",
     "pubDate": "Wed, 12 Aug 2026 07:16:03 -0000"
-  },
-  {
-    "title": "Edge updated to 151.0.4129.78.",
-    "link": "https://ninite.com/edge/",
-    "pubDate": "Wed, 12 Aug 2026 07:10:28 -0000"
   }
 ]
