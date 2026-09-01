@@ -1,5 +1,25 @@
 [
   {
+    "title": "Ubisoft Connect 173.1.0.13333",
+    "link": "https://www.computerbase.de/downloads/games/ubisoft-connect/",
+    "pubDate": "2026-09-01T10:15:00.000Z"
+  },
+  {
+    "title": "Evernote 11.32.5",
+    "link": "https://www.computerbase.de/downloads/office/evernote/",
+    "pubDate": "2026-09-01T10:14:00.000Z"
+  },
+  {
+    "title": "mIRC 7.84.2045 Beta",
+    "link": "https://www.computerbase.de/downloads/kommunikation/mirc/",
+    "pubDate": "2026-09-01T10:14:00.000Z"
+  },
+  {
+    "title": "MiniTool MovieMaker Free 8.9",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/minitool-moviemaker/",
+    "pubDate": "2026-09-01T10:14:00.000Z"
+  },
+  {
     "title": "Paint.NET 5.2.0 Alpha Build 9739.41506",
     "link": "https://www.computerbase.de/downloads/foto-und-grafik/paint.net/",
     "pubDate": "2026-09-01T04:24:00.000Z"
@@ -228,25 +248,5 @@
     "title": "Lubuntu 26.04.1 „Resolute Raccoon“ LTS",
     "link": "https://www.computerbase.de/downloads/betriebssysteme/lubuntu/",
     "pubDate": "2026-08-28T19:28:00.000Z"
-  },
-  {
-    "title": "Kubuntu 26.04.1 „Resolute Raccoon“ LTS",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/kubuntu/",
-    "pubDate": "2026-08-28T19:27:00.000Z"
-  },
-  {
-    "title": "Ubuntu 26.04.1 „Resolute Raccoon“ LTS",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/ubuntu/",
-    "pubDate": "2026-08-28T19:26:00.000Z"
-  },
-  {
-    "title": "EndeavourOS Titan Nova 2026-08-15",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/endeavouros/",
-    "pubDate": "2026-08-28T19:19:00.000Z"
-  },
-  {
-    "title": "FreeBSD 14.5 RC1",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/freebsd/",
-    "pubDate": "2026-08-28T19:18:00.000Z"
   }
 ]
