@@ -1,5 +1,10 @@
 [
     {
+        "title": "Kdenlive 26.08.0",
+        "link": "https://www.gratissoftwaresite.nl/downloads/kdenlive-videobewerking-dvd-effecten-clips",
+        "pubDate": "1 september 2026"
+    },
+    {
         "title": "SMPlayer 26.8",
         "link": "https://www.gratissoftwaresite.nl/downloads/smplayer-mediaspeler-video-audio-youtube-ondertitels",
         "pubDate": "31 augustus 2026"
@@ -473,10 +478,5 @@
         "title": "AnyBurn 6.9",
         "link": "https://www.gratissoftwaresite.nl/downloads/anyburn-cd-dvd-blu-ray-iso-branden-rippen-image-schijf",
         "pubDate": "30 juli 2026"
-    },
-    {
-        "title": "ScreenToGif 2.43.2",
-        "link": "https://www.gratissoftwaresite.nl/downloads/screentogif-schermopnamen-opnemen-video-webcam-gif-whiteboard",
-        "pubDate": "29 juli 2026"
     }
 ]
