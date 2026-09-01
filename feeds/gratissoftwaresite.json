@@ -1,5 +1,10 @@
 [
     {
+        "title": "KNMI 5.4.1/5.4.0",
+        "link": "https://www.gratissoftwaresite.nl/downloads/knmi-weer-app-regen-buien-voorspellingen-waarschuwingen",
+        "pubDate": "1 september 2026"
+    },
+    {
         "title": "Kdenlive 26.08.0",
         "link": "https://www.gratissoftwaresite.nl/downloads/kdenlive-videobewerking-dvd-effecten-clips",
         "pubDate": "1 september 2026"
@@ -472,11 +477,6 @@
     {
         "title": "Subtitle Edit 5.1.0",
         "link": "https://www.gratissoftwaresite.nl/downloads/subtitle-edit-ondertitels-video",
-        "pubDate": "30 juli 2026"
-    },
-    {
-        "title": "AnyBurn 6.9",
-        "link": "https://www.gratissoftwaresite.nl/downloads/anyburn-cd-dvd-blu-ray-iso-branden-rippen-image-schijf",
         "pubDate": "30 juli 2026"
     }
 ]
