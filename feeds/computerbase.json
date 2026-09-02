@@ -1,5 +1,50 @@
 [
   {
+    "title": "Steam 2026-09-01",
+    "link": "https://www.computerbase.de/downloads/games/steam/",
+    "pubDate": "2026-09-02T04:27:00.000Z"
+  },
+  {
+    "title": "itch 26.20.0",
+    "link": "https://www.computerbase.de/downloads/games/itch/",
+    "pubDate": "2026-09-02T04:25:00.000Z"
+  },
+  {
+    "title": "Google Chrome 152.0.7977.75/.76",
+    "link": "https://www.computerbase.de/downloads/browser/google-chrome/",
+    "pubDate": "2026-09-02T04:23:00.000Z"
+  },
+  {
+    "title": "Tor Browser 15.0.21",
+    "link": "https://www.computerbase.de/downloads/browser/tor-browser/",
+    "pubDate": "2026-09-02T04:22:00.000Z"
+  },
+  {
+    "title": "Rocket.Chat Server 8.8.0 (Linux)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/rocket.chat/",
+    "pubDate": "2026-09-02T04:22:00.000Z"
+  },
+  {
+    "title": "NTLite Free 2026.09.11904",
+    "link": "https://www.computerbase.de/downloads/systemtools/ntlite-free/",
+    "pubDate": "2026-09-02T04:21:00.000Z"
+  },
+  {
+    "title": "Mozilla Thunderbird 155.0",
+    "link": "https://www.computerbase.de/downloads/kommunikation/mozilla-thunderbird/",
+    "pubDate": "2026-09-02T04:19:00.000Z"
+  },
+  {
+    "title": "Mozilla Thunderbird 153.2.0esr",
+    "link": "https://www.computerbase.de/downloads/kommunikation/mozilla-thunderbird/",
+    "pubDate": "2026-09-02T04:18:00.000Z"
+  },
+  {
+    "title": "Mozilla Thunderbird 140.15.0esr",
+    "link": "https://www.computerbase.de/downloads/kommunikation/mozilla-thunderbird/",
+    "pubDate": "2026-09-02T04:17:00.000Z"
+  },
+  {
     "title": "Dropbox 268.4.4124",
     "link": "https://www.computerbase.de/downloads/office/dateimanager/dropbox/",
     "pubDate": "2026-09-01T18:53:00.000Z"
@@ -28,11 +73,6 @@
     "title": "Audacity 3.7.9",
     "link": "https://www.computerbase.de/downloads/audio-und-video/audacity/",
     "pubDate": "2026-09-01T17:19:00.000Z"
-  },
-  {
-    "title": "itch 26.19.0 Beta",
-    "link": "https://www.computerbase.de/downloads/games/itch/",
-    "pubDate": "2026-09-01T15:05:00.000Z"
   },
   {
     "title": "Foxit PDF Reader 2026.2.0.39747",
@@ -208,45 +248,5 @@
     "title": "GOG Galaxy 2.1.9.27 Beta",
     "link": "https://www.computerbase.de/downloads/games/gog-galaxy/",
     "pubDate": "2026-08-31T12:01:00.000Z"
-  },
-  {
-    "title": "OnyX 5.0.3 (macOS)",
-    "link": "https://www.computerbase.de/downloads/systemtools/onyx/",
-    "pubDate": "2026-08-31T12:00:00.000Z"
-  },
-  {
-    "title": "Adobe Acrobat Reader DC (26.002.21869)",
-    "link": "https://www.computerbase.de/downloads/office/pdf/adobe-acrobat-reader/",
-    "pubDate": "2026-08-31T08:01:00.000Z"
-  },
-  {
-    "title": "MSI Dragon Center 2.0.158.0",
-    "link": "https://www.computerbase.de/downloads/systemtools/msi-dragon-center/",
-    "pubDate": "2026-08-31T08:00:00.000Z"
-  },
-  {
-    "title": "XnView MP 1.11.6",
-    "link": "https://www.computerbase.de/downloads/foto-und-grafik/xnview-mp/",
-    "pubDate": "2026-08-31T07:51:00.000Z"
-  },
-  {
-    "title": "Glary Utilities 6.47.0.51",
-    "link": "https://www.computerbase.de/downloads/systemtools/glary-utilities/",
-    "pubDate": "2026-08-31T07:51:00.000Z"
-  },
-  {
-    "title": "GParted Live 1.8.1-6",
-    "link": "https://www.computerbase.de/downloads/systemtools/festplatten/gparted-live/",
-    "pubDate": "2026-08-31T04:52:00.000Z"
-  },
-  {
-    "title": "Sandboxie Plus 1.18.3",
-    "link": "https://www.computerbase.de/downloads/sicherheit/sandboxie/",
-    "pubDate": "2026-08-31T04:38:00.000Z"
-  },
-  {
-    "title": "Sandboxie Classic 5.73.3",
-    "link": "https://www.computerbase.de/downloads/sicherheit/sandboxie/",
-    "pubDate": "2026-08-31T04:37:00.000Z"
   }
 ]

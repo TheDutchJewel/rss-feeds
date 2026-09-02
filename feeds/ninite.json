@@ -1,5 +1,25 @@
 [
   {
+    "title": "Dropbox updated to 268.4.4124.",
+    "link": "https://ninite.com/dropbox/",
+    "pubDate": "Wed, 02 Sep 2026 06:40:31 -0000"
+  },
+  {
+    "title": "Thunderbird updated to 155.0.",
+    "link": "https://ninite.com/thunderbird/",
+    "pubDate": "Wed, 02 Sep 2026 06:39:39 -0000"
+  },
+  {
+    "title": "Chrome updated to 152.0.7977.76.",
+    "link": "https://ninite.com/chrome/",
+    "pubDate": "Wed, 02 Sep 2026 06:37:55 -0000"
+  },
+  {
+    "title": "Audacity updated to 3.7.9.",
+    "link": "https://ninite.com/audacity/",
+    "pubDate": "Wed, 02 Sep 2026 06:37:41 -0000"
+  },
+  {
     "title": "Cursor updated to 3.18.25.",
     "link": "https://ninite.com/cursor/",
     "pubDate": "Tue, 01 Sep 2026 14:28:07 -0000"
@@ -348,40 +368,5 @@
     "title": "Edge updated to 151.0.4129.86.",
     "link": "https://ninite.com/edge/",
     "pubDate": "Sat, 15 Aug 2026 02:40:27 -0000"
-  },
-  {
-    "title": "Opera Chromium updated to 134.0.5954.56.",
-    "link": "https://ninite.com/operaChromium/",
-    "pubDate": "Thu, 13 Aug 2026 09:02:25 -0000"
-  },
-  {
-    "title": "Foxit Reader updated to 2026.1.3.36551.",
-    "link": "https://ninite.com/foxit/",
-    "pubDate": "Thu, 13 Aug 2026 05:20:44 -0000"
-  },
-  {
-    "title": "Vivaldi updated to 8.1.4087.64.",
-    "link": "https://ninite.com/vivaldi/",
-    "pubDate": "Wed, 12 Aug 2026 22:36:01 -0000"
-  },
-  {
-    "title": "Spotify updated to 1.2.96.518.",
-    "link": "https://ninite.com/spotify/",
-    "pubDate": "Wed, 12 Aug 2026 22:35:20 -0000"
-  },
-  {
-    "title": "OneDrive updated to 26.134.0713.0007.",
-    "link": "https://ninite.com/onedrive/",
-    "pubDate": "Wed, 12 Aug 2026 09:52:26 -0000"
-  },
-  {
-    "title": "Visual Studio Code updated to 1.133.0.",
-    "link": "https://ninite.com/vscode/",
-    "pubDate": "Wed, 12 Aug 2026 09:52:07 -0000"
-  },
-  {
-    "title": "MusicBee updated to 3.6.9668.",
-    "link": "https://ninite.com/musicbee/",
-    "pubDate": "Wed, 12 Aug 2026 09:51:33 -0000"
   }
 ]
