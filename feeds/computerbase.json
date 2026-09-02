@@ -1,5 +1,115 @@
 [
   {
+    "title": "Google Chrome 154.0.8037.0 Beta",
+    "link": "https://www.computerbase.de/downloads/browser/google-chrome/",
+    "pubDate": "2026-09-02T16:35:00.000Z"
+  },
+  {
+    "title": "Mozilla Thunderbird 156.0 Beta 2",
+    "link": "https://www.computerbase.de/downloads/kommunikation/mozilla-thunderbird/",
+    "pubDate": "2026-09-02T16:35:00.000Z"
+  },
+  {
+    "title": "EA-App 13.783.0.6296",
+    "link": "https://www.computerbase.de/downloads/games/ea-app/",
+    "pubDate": "2026-09-02T16:28:00.000Z"
+  },
+  {
+    "title": "Viber für Desktop 28.7.0.0",
+    "link": "https://www.computerbase.de/downloads/kommunikation/viber-fuer-desktop/",
+    "pubDate": "2026-09-02T16:28:00.000Z"
+  },
+  {
+    "title": "Microsoft OneDrive 26.150.0804.0011",
+    "link": "https://www.computerbase.de/downloads/office/dateimanager/microsoft-onedrive/",
+    "pubDate": "2026-09-02T16:27:00.000Z"
+  },
+  {
+    "title": "Logi Options+ 2.7.961922",
+    "link": "https://www.computerbase.de/downloads/treiber/eingabegeraete/logi-options/",
+    "pubDate": "2026-09-02T16:25:00.000Z"
+  },
+  {
+    "title": "Snagit 2026.3.2 (macOS)",
+    "link": "https://www.computerbase.de/downloads/foto-und-grafik/snagit/",
+    "pubDate": "2026-09-02T16:24:00.000Z"
+  },
+  {
+    "title": "Ocenaudio 3.21",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/ocenaudio/",
+    "pubDate": "2026-09-02T16:24:00.000Z"
+  },
+  {
+    "title": "Mozilla Firefox 156.0 Beta 2",
+    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
+    "pubDate": "2026-09-02T16:23:00.000Z"
+  },
+  {
+    "title": "Gigabyte Control Center 26.09.01.01",
+    "link": "https://www.computerbase.de/downloads/systemtools/gigabyte-control-center/",
+    "pubDate": "2026-09-02T15:05:00.000Z"
+  },
+  {
+    "title": "AIMP 5.40 Build 2726",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/aimp/",
+    "pubDate": "2026-09-02T15:03:00.000Z"
+  },
+  {
+    "title": "LibreOffice 26.2.6 RC2",
+    "link": "https://www.computerbase.de/downloads/office/libreoffice/",
+    "pubDate": "2026-09-02T15:02:00.000Z"
+  },
+  {
+    "title": "Opera 135.0.5973.76",
+    "link": "https://www.computerbase.de/downloads/browser/opera/",
+    "pubDate": "2026-09-02T14:59:00.000Z"
+  },
+  {
+    "title": "Adobe AIR SDK 51.3.4.2",
+    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/adobe-air-sdk/",
+    "pubDate": "2026-09-02T14:58:00.000Z"
+  },
+  {
+    "title": "Telegram Desktop 7.1.4",
+    "link": "https://www.computerbase.de/downloads/kommunikation/telegram-desktop/",
+    "pubDate": "2026-09-02T14:58:00.000Z"
+  },
+  {
+    "title": "HWiNFO 8.53 Build 6065 Beta",
+    "link": "https://www.computerbase.de/downloads/systemtools/hwinfo/",
+    "pubDate": "2026-09-02T14:56:00.000Z"
+  },
+  {
+    "title": "W10Privacy 6.3.0.1",
+    "link": "https://www.computerbase.de/downloads/systemtools/w10privacy/",
+    "pubDate": "2026-09-02T14:53:00.000Z"
+  },
+  {
+    "title": "WhatsApp 2.26.35.18 (macOS)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/whatsapp/",
+    "pubDate": "2026-09-02T14:52:00.000Z"
+  },
+  {
+    "title": "O&O ShutUp10 v3.5.1130",
+    "link": "https://www.computerbase.de/downloads/systemtools/o-und-o-shutup10/",
+    "pubDate": "2026-09-02T14:51:00.000Z"
+  },
+  {
+    "title": "Linux Kernel 7.2.3 (Linux)",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/linux-kernel/",
+    "pubDate": "2026-09-02T14:50:00.000Z"
+  },
+  {
+    "title": "Linux Kernel 6.18.49 (Linux)",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/linux-kernel/",
+    "pubDate": "2026-09-02T14:49:00.000Z"
+  },
+  {
+    "title": "Visual Studio Code (VS Code) 1.136.0",
+    "link": "https://www.computerbase.de/downloads/office/editoren/visual-studio-code/",
+    "pubDate": "2026-09-02T14:48:00.000Z"
+  },
+  {
     "title": "Steam 2026-09-01",
     "link": "https://www.computerbase.de/downloads/games/steam/",
     "pubDate": "2026-09-02T04:27:00.000Z"
@@ -85,11 +195,6 @@
     "pubDate": "2026-09-01T14:54:00.000Z"
   },
   {
-    "title": "WhatsApp 2.26.35.12 (macOS)",
-    "link": "https://www.computerbase.de/downloads/kommunikation/whatsapp/",
-    "pubDate": "2026-09-01T14:53:00.000Z"
-  },
-  {
     "title": "Mozilla Firefox 155.0",
     "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
     "pubDate": "2026-09-01T14:52:00.000Z"
@@ -143,110 +248,5 @@
     "title": "Paint.NET 5.2.0 Alpha Build 9739.41506",
     "link": "https://www.computerbase.de/downloads/foto-und-grafik/paint.net/",
     "pubDate": "2026-09-01T04:24:00.000Z"
-  },
-  {
-    "title": "K-Lite Codec Pack Update 19.9.6",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/k-lite-codec-pack/",
-    "pubDate": "2026-09-01T04:21:00.000Z"
-  },
-  {
-    "title": "SoftPerfect Network Scanner 26.9",
-    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/softperfect-network-scanner/",
-    "pubDate": "2026-09-01T04:20:00.000Z"
-  },
-  {
-    "title": "Slack 4.52.155 (Win 11)",
-    "link": "https://www.computerbase.de/downloads/kommunikation/slack/",
-    "pubDate": "2026-09-01T04:20:00.000Z"
-  },
-  {
-    "title": "Slack 4.52.155 (macOS)",
-    "link": "https://www.computerbase.de/downloads/kommunikation/slack/",
-    "pubDate": "2026-09-01T04:19:00.000Z"
-  },
-  {
-    "title": "Slack 4.52.155 Beta (Linux)",
-    "link": "https://www.computerbase.de/downloads/kommunikation/slack/",
-    "pubDate": "2026-09-01T04:18:00.000Z"
-  },
-  {
-    "title": "Mozilla Firefox 156.0 Beta 1",
-    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
-    "pubDate": "2026-09-01T04:17:00.000Z"
-  },
-  {
-    "title": "Kodi 22.0 „Piers“ Beta 2",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/kodi-entertainment-center/",
-    "pubDate": "2026-09-01T04:16:00.000Z"
-  },
-  {
-    "title": "HyperSnap 10.3.3",
-    "link": "https://www.computerbase.de/downloads/foto-und-grafik/hypersnap/",
-    "pubDate": "2026-09-01T04:15:00.000Z"
-  },
-  {
-    "title": "Mozilla Thunderbird 156.0 Beta 1",
-    "link": "https://www.computerbase.de/downloads/kommunikation/mozilla-thunderbird/",
-    "pubDate": "2026-09-01T04:15:00.000Z"
-  },
-  {
-    "title": "Rocket.Chat Desktop 4.17.0",
-    "link": "https://www.computerbase.de/downloads/kommunikation/rocket.chat/",
-    "pubDate": "2026-09-01T04:14:00.000Z"
-  },
-  {
-    "title": "Intel Platform Performance Package 26.08.100.3 (Win 11)",
-    "link": "https://www.computerbase.de/downloads/treiber/mainboards/intel-platform-performance-package/",
-    "pubDate": "2026-08-31T18:14:00.000Z"
-  },
-  {
-    "title": "Discord 0.0.410 (macOS)",
-    "link": "https://www.computerbase.de/downloads/kommunikation/discord/",
-    "pubDate": "2026-08-31T18:12:00.000Z"
-  },
-  {
-    "title": "Discord 1.0.156 (Linux)",
-    "link": "https://www.computerbase.de/downloads/kommunikation/discord/",
-    "pubDate": "2026-08-31T18:12:00.000Z"
-  },
-  {
-    "title": "XMPlay 4.1.0.16 Beta",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/xmplay/",
-    "pubDate": "2026-08-31T17:06:00.000Z"
-  },
-  {
-    "title": "ProtonVPN 5.1.7",
-    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/protonvpn/",
-    "pubDate": "2026-08-31T16:51:00.000Z"
-  },
-  {
-    "title": "ProtonVPN 5.1.8 Early Access",
-    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/protonvpn/",
-    "pubDate": "2026-08-31T16:51:00.000Z"
-  },
-  {
-    "title": "Realtek USB Ethernet Controller Driver 11.23.20 (07272026) (Win 11)",
-    "link": "https://www.computerbase.de/downloads/treiber/netzwerk/realtek-usb-ethernet-controller-driver/",
-    "pubDate": "2026-08-31T15:05:00.000Z"
-  },
-  {
-    "title": "Realtek USB Ethernet Controller Driver 10.68.20 (07312026) (Win 10)",
-    "link": "https://www.computerbase.de/downloads/treiber/netzwerk/realtek-usb-ethernet-controller-driver/",
-    "pubDate": "2026-08-31T15:04:00.000Z"
-  },
-  {
-    "title": "Zoom 7.1.8",
-    "link": "https://www.computerbase.de/downloads/kommunikation/zoom/",
-    "pubDate": "2026-08-31T14:44:00.000Z"
-  },
-  {
-    "title": "ProtonVPN 4.18.1 (Linux)",
-    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/protonvpn/",
-    "pubDate": "2026-08-31T12:07:00.000Z"
-  },
-  {
-    "title": "GOG Galaxy 2.1.9.27 Beta",
-    "link": "https://www.computerbase.de/downloads/games/gog-galaxy/",
-    "pubDate": "2026-08-31T12:01:00.000Z"
   }
 ]
