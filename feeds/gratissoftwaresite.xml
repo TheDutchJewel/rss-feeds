@@ -5,6 +5,12 @@
     <link>https://www.gratissoftwaresite.nl/downloads/nieuwe-updates</link>
     <description>Nieuwste software-updates van GratisSoftwareSite</description>
     <item>
+      <title>Audacity 3.7.9</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/audacity-geluidsbewerking-mp3-wav-editor</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/audacity-geluidsbewerking-mp3-wav-editor</guid>
+      <pubDate>2 september 2026</pubDate>
+    </item>
+    <item>
       <title>KNMI 5.4.1/5.4.0</title>
       <link>https://www.gratissoftwaresite.nl/downloads/knmi-weer-app-regen-buien-voorspellingen-waarschuwingen</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/knmi-weer-app-regen-buien-voorspellingen-waarschuwingen</guid>
@@ -573,12 +579,6 @@
       <link>https://www.gratissoftwaresite.nl/downloads/unigetui-software-update-controle-verwijderen</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/unigetui-software-update-controle-verwijderen</guid>
       <pubDate>31 juli 2026</pubDate>
-    </item>
-    <item>
-      <title>Subtitle Edit 5.1.0</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/subtitle-edit-ondertitels-video</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/subtitle-edit-ondertitels-video</guid>
-      <pubDate>30 juli 2026</pubDate>
     </item>
   </channel>
 </rss>

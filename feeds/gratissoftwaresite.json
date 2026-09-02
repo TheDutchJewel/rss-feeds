@@ -1,5 +1,10 @@
 [
     {
+        "title": "Audacity 3.7.9",
+        "link": "https://www.gratissoftwaresite.nl/downloads/audacity-geluidsbewerking-mp3-wav-editor",
+        "pubDate": "2 september 2026"
+    },
+    {
         "title": "KNMI 5.4.1/5.4.0",
         "link": "https://www.gratissoftwaresite.nl/downloads/knmi-weer-app-regen-buien-voorspellingen-waarschuwingen",
         "pubDate": "1 september 2026"
@@ -473,10 +478,5 @@
         "title": "UniGetUI 26.2.7",
         "link": "https://www.gratissoftwaresite.nl/downloads/unigetui-software-update-controle-verwijderen",
         "pubDate": "31 juli 2026"
-    },
-    {
-        "title": "Subtitle Edit 5.1.0",
-        "link": "https://www.gratissoftwaresite.nl/downloads/subtitle-edit-ondertitels-video",
-        "pubDate": "30 juli 2026"
     }
 ]
