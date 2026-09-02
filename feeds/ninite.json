@@ -1,5 +1,20 @@
 [
   {
+    "title": "Visual Studio Code updated to 1.136.0.",
+    "link": "https://ninite.com/vscode/",
+    "pubDate": "Wed, 02 Sep 2026 19:25:45 -0000"
+  },
+  {
+    "title": "Edge updated to 152.0.4191.62.",
+    "link": "https://ninite.com/edge/",
+    "pubDate": "Wed, 02 Sep 2026 19:25:22 -0000"
+  },
+  {
+    "title": "Brave updated to 1.94.119.",
+    "link": "https://ninite.com/brave/",
+    "pubDate": "Wed, 02 Sep 2026 19:24:53 -0000"
+  },
+  {
     "title": "Opera Chromium updated to 135.0.5973.76.",
     "link": "https://ninite.com/operaChromium/",
     "pubDate": "Wed, 02 Sep 2026 08:48:32 -0000"
@@ -353,25 +368,5 @@
     "title": "AnyDesk updated to 9.7.15.",
     "link": "https://ninite.com/anydesk/",
     "pubDate": "Tue, 18 Aug 2026 02:35:18 -0000"
-  },
-  {
-    "title": "PuTTY updated to 0.85.",
-    "link": "https://ninite.com/putty/",
-    "pubDate": "Mon, 17 Aug 2026 07:52:00 -0000"
-  },
-  {
-    "title": "Brave updated to 1.93.136.",
-    "link": "https://ninite.com/brave/",
-    "pubDate": "Mon, 17 Aug 2026 07:38:27 -0000"
-  },
-  {
-    "title": "Cursor updated to 3.16.17.",
-    "link": "https://ninite.com/cursor/",
-    "pubDate": "Mon, 17 Aug 2026 07:38:03 -0000"
-  },
-  {
-    "title": "OneDrive updated to 26.139.0720.0007.",
-    "link": "https://ninite.com/onedrive/",
-    "pubDate": "Mon, 17 Aug 2026 07:37:44 -0000"
   }
 ]
