@@ -5,6 +5,18 @@
     <link>https://www.gratissoftwaresite.nl/downloads/nieuwe-updates</link>
     <description>Nieuwste software-updates van GratisSoftwareSite</description>
     <item>
+      <title>Foxit Reader 2026.2.0</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/foxit-reader-pdf-bekijken-viewer</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/foxit-reader-pdf-bekijken-viewer</guid>
+      <pubDate>2 september 2026</pubDate>
+    </item>
+    <item>
+      <title/>
+      <link>https://www.gratissoftwaresite.nl/downloads/oo-shutup10-privacy-extra-beveiliging-phone-home</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/oo-shutup10-privacy-extra-beveiliging-phone-home</guid>
+      <pubDate>2 september 2026</pubDate>
+    </item>
+    <item>
       <title>Thunderbird 155.0 Release...</title>
       <link>https://www.gratissoftwaresite.nl/downloads/thunderbird-mailprogramma-pop3-imap</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/thunderbird-mailprogramma-pop3-imap</guid>
@@ -353,12 +365,6 @@
       <pubDate>19 augustus 2026</pubDate>
     </item>
     <item>
-      <title/>
-      <link>https://www.gratissoftwaresite.nl/downloads/oo-shutup10-privacy-extra-beveiliging-phone-home</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/oo-shutup10-privacy-extra-beveiliging-phone-home</guid>
-      <pubDate>18 augustus 2026</pubDate>
-    </item>
-    <item>
       <title>Proton VPN 5.1.7</title>
       <link>https://www.gratissoftwaresite.nl/downloads/proton-vpn-beveiligde-anonieme-verbinding-privacy-geen-ip</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/proton-vpn-beveiligde-anonieme-verbinding-privacy-geen-ip</guid>
@@ -572,12 +578,6 @@
       <title>Krita 5.3.3</title>
       <link>https://www.gratissoftwaresite.nl/downloads/krita-tekenen-vector-bitmap-paint</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/krita-tekenen-vector-bitmap-paint</guid>
-      <pubDate>31 juli 2026</pubDate>
-    </item>
-    <item>
-      <title>UniGetUI 26.2.7</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/unigetui-software-update-controle-verwijderen</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/unigetui-software-update-controle-verwijderen</guid>
       <pubDate>31 juli 2026</pubDate>
     </item>
   </channel>

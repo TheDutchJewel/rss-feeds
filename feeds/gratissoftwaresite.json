@@ -1,5 +1,15 @@
 [
     {
+        "title": "Foxit Reader 2026.2.0",
+        "link": "https://www.gratissoftwaresite.nl/downloads/foxit-reader-pdf-bekijken-viewer",
+        "pubDate": "2 september 2026"
+    },
+    {
+        "title": "O&O ShutUp10++ 3.5.1130",
+        "link": "https://www.gratissoftwaresite.nl/downloads/oo-shutup10-privacy-extra-beveiliging-phone-home",
+        "pubDate": "2 september 2026"
+    },
+    {
         "title": "Thunderbird 155.0 Release...",
         "link": "https://www.gratissoftwaresite.nl/downloads/thunderbird-mailprogramma-pop3-imap",
         "pubDate": "2 september 2026"
@@ -290,11 +300,6 @@
         "pubDate": "19 augustus 2026"
     },
     {
-        "title": "O&O ShutUp10++ 3.4.1124",
-        "link": "https://www.gratissoftwaresite.nl/downloads/oo-shutup10-privacy-extra-beveiliging-phone-home",
-        "pubDate": "18 augustus 2026"
-    },
-    {
         "title": "Proton VPN 5.1.7",
         "link": "https://www.gratissoftwaresite.nl/downloads/proton-vpn-beveiligde-anonieme-verbinding-privacy-geen-ip",
         "pubDate": "18 augustus 2026"
@@ -472,11 +477,6 @@
     {
         "title": "Krita 5.3.3",
         "link": "https://www.gratissoftwaresite.nl/downloads/krita-tekenen-vector-bitmap-paint",
-        "pubDate": "31 juli 2026"
-    },
-    {
-        "title": "UniGetUI 26.2.7",
-        "link": "https://www.gratissoftwaresite.nl/downloads/unigetui-software-update-controle-verwijderen",
         "pubDate": "31 juli 2026"
     }
 ]
