@@ -1,5 +1,20 @@
 [
   {
+    "title": "Opera Chromium updated to 135.0.5973.76.",
+    "link": "https://ninite.com/operaChromium/",
+    "pubDate": "Wed, 02 Sep 2026 08:48:32 -0000"
+  },
+  {
+    "title": "AIMP updated to 5.40.2726.",
+    "link": "https://ninite.com/aimp/",
+    "pubDate": "Wed, 02 Sep 2026 08:48:20 -0000"
+  },
+  {
+    "title": "Malwarebytes updated to 5.6.5.306.",
+    "link": "https://ninite.com/malwarebytes/",
+    "pubDate": "Wed, 02 Sep 2026 07:25:24 -0000"
+  },
+  {
     "title": "Dropbox updated to 268.4.4124.",
     "link": "https://ninite.com/dropbox/",
     "pubDate": "Wed, 02 Sep 2026 06:40:31 -0000"
@@ -358,15 +373,5 @@
     "title": "OneDrive updated to 26.139.0720.0007.",
     "link": "https://ninite.com/onedrive/",
     "pubDate": "Mon, 17 Aug 2026 07:37:44 -0000"
-  },
-  {
-    "title": "Discord updated to 1.0.9253.",
-    "link": "https://ninite.com/discord/",
-    "pubDate": "Sat, 15 Aug 2026 02:42:23 -0000"
-  },
-  {
-    "title": "Edge updated to 151.0.4129.86.",
-    "link": "https://ninite.com/edge/",
-    "pubDate": "Sat, 15 Aug 2026 02:40:27 -0000"
   }
 ]
