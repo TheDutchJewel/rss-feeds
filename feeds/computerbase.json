@@ -1,5 +1,55 @@
 [
   {
+    "title": "Google Chrome 152.0.7977.82/.83",
+    "link": "https://www.computerbase.de/downloads/browser/google-chrome/",
+    "pubDate": "2026-09-03T19:26:00.000Z"
+  },
+  {
+    "title": "Signal 8.26.0",
+    "link": "https://www.computerbase.de/downloads/kommunikation/signal/",
+    "pubDate": "2026-09-03T18:12:00.000Z"
+  },
+  {
+    "title": "OpenVPN 2.7.7",
+    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/openvpn/",
+    "pubDate": "2026-09-03T17:03:00.000Z"
+  },
+  {
+    "title": "Rockstar Games Launcher 1.0.109.3031",
+    "link": "https://www.computerbase.de/downloads/games/rockstar-games-launcher/",
+    "pubDate": "2026-09-03T16:57:00.000Z"
+  },
+  {
+    "title": "Nvidia App 11.0.9.251",
+    "link": "https://www.computerbase.de/downloads/systemtools/grafikkarten/nvidia-app/",
+    "pubDate": "2026-09-03T16:51:00.000Z"
+  },
+  {
+    "title": "Nvidia FrameView 2.0",
+    "link": "https://www.computerbase.de/downloads/systemtools/grafikkarten/nvidia-frameview/",
+    "pubDate": "2026-09-03T16:50:00.000Z"
+  },
+  {
+    "title": "VMware Workstation Pro 26H1u1",
+    "link": "https://www.computerbase.de/downloads/systemtools/vmware-workstation/",
+    "pubDate": "2026-09-03T16:48:00.000Z"
+  },
+  {
+    "title": "CCleaner 7.11.1509",
+    "link": "https://www.computerbase.de/downloads/systemtools/ccleaner/",
+    "pubDate": "2026-09-03T16:46:00.000Z"
+  },
+  {
+    "title": "Discord 1.0.9256",
+    "link": "https://www.computerbase.de/downloads/kommunikation/discord/",
+    "pubDate": "2026-09-03T16:44:00.000Z"
+  },
+  {
+    "title": "AMD Adrenalin Radeon-Treiber 26.9.1 (WHQL Optional)",
+    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/amd-adrenalin-treiber/",
+    "pubDate": "2026-09-03T16:40:00.000Z"
+  },
+  {
     "title": "Intel Arc & Xe Grafiktreiber 32.0.101.8992",
     "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/intel-grafiktreiber/",
     "pubDate": "2026-09-03T15:30:00.000Z"
@@ -198,55 +248,5 @@
     "title": "Steam 2026-09-01",
     "link": "https://www.computerbase.de/downloads/games/steam/",
     "pubDate": "2026-09-02T04:27:00.000Z"
-  },
-  {
-    "title": "itch 26.20.0",
-    "link": "https://www.computerbase.de/downloads/games/itch/",
-    "pubDate": "2026-09-02T04:25:00.000Z"
-  },
-  {
-    "title": "Google Chrome 152.0.7977.75/.76",
-    "link": "https://www.computerbase.de/downloads/browser/google-chrome/",
-    "pubDate": "2026-09-02T04:23:00.000Z"
-  },
-  {
-    "title": "Tor Browser 15.0.21",
-    "link": "https://www.computerbase.de/downloads/browser/tor-browser/",
-    "pubDate": "2026-09-02T04:22:00.000Z"
-  },
-  {
-    "title": "Rocket.Chat Server 8.8.0 (Linux)",
-    "link": "https://www.computerbase.de/downloads/kommunikation/rocket.chat/",
-    "pubDate": "2026-09-02T04:22:00.000Z"
-  },
-  {
-    "title": "NTLite Free 2026.09.11904",
-    "link": "https://www.computerbase.de/downloads/systemtools/ntlite-free/",
-    "pubDate": "2026-09-02T04:21:00.000Z"
-  },
-  {
-    "title": "Mozilla Thunderbird 155.0",
-    "link": "https://www.computerbase.de/downloads/kommunikation/mozilla-thunderbird/",
-    "pubDate": "2026-09-02T04:19:00.000Z"
-  },
-  {
-    "title": "Mozilla Thunderbird 153.2.0esr",
-    "link": "https://www.computerbase.de/downloads/kommunikation/mozilla-thunderbird/",
-    "pubDate": "2026-09-02T04:18:00.000Z"
-  },
-  {
-    "title": "Mozilla Thunderbird 140.15.0esr",
-    "link": "https://www.computerbase.de/downloads/kommunikation/mozilla-thunderbird/",
-    "pubDate": "2026-09-02T04:17:00.000Z"
-  },
-  {
-    "title": "Dropbox 268.4.4124",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/dropbox/",
-    "pubDate": "2026-09-01T18:53:00.000Z"
-  },
-  {
-    "title": "Arch Linux 2026.09.01",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/arch-linux/",
-    "pubDate": "2026-09-01T18:51:00.000Z"
   }
 ]
