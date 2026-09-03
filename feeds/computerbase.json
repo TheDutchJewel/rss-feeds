@@ -1,5 +1,10 @@
 [
   {
+    "title": "Java SE Development Kit 28.0 Build 14 Dev",
+    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/java-se-development-kit/",
+    "pubDate": "2026-09-03T19:36:00.000Z"
+  },
+  {
     "title": "Google Chrome 152.0.7977.82/.83",
     "link": "https://www.computerbase.de/downloads/browser/google-chrome/",
     "pubDate": "2026-09-03T19:26:00.000Z"
@@ -243,10 +248,5 @@
     "title": "Linux Kernel 6.18.49 (Linux)",
     "link": "https://www.computerbase.de/downloads/betriebssysteme/linux-kernel/",
     "pubDate": "2026-09-02T14:49:00.000Z"
-  },
-  {
-    "title": "Steam 2026-09-01",
-    "link": "https://www.computerbase.de/downloads/games/steam/",
-    "pubDate": "2026-09-02T04:27:00.000Z"
   }
 ]
