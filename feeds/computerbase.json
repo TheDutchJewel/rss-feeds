@@ -1,5 +1,15 @@
 [
   {
+    "title": "Vivaldi 8.2 Build 4133.45",
+    "link": "https://www.computerbase.de/downloads/browser/vivaldi/",
+    "pubDate": "2026-09-03T08:28:00.000Z"
+  },
+  {
+    "title": "Opera GX 135.0.5973.85 Early Access",
+    "link": "https://www.computerbase.de/downloads/browser/opera-gx/",
+    "pubDate": "2026-09-03T08:27:00.000Z"
+  },
+  {
     "title": "Microsoft Edge 152.0.4191.62",
     "link": "https://www.computerbase.de/downloads/browser/microsoft-edge/",
     "pubDate": "2026-09-03T04:16:00.000Z"
@@ -238,15 +248,5 @@
     "title": "Trellix Stinger 26.09.36.1",
     "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/mcafee-labs-stinger/",
     "pubDate": "2026-09-01T14:52:00.000Z"
-  },
-  {
-    "title": "Mozilla Firefox 153.2.0 ESR",
-    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
-    "pubDate": "2026-09-01T14:51:00.000Z"
-  },
-  {
-    "title": "LibreWolf 155.0-1",
-    "link": "https://www.computerbase.de/downloads/browser/librewolf/",
-    "pubDate": "2026-09-01T14:51:00.000Z"
   }
 ]
