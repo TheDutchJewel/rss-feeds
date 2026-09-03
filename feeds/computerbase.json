@@ -1,5 +1,20 @@
 [
   {
+    "title": "Microsoft Edge 152.0.4191.62",
+    "link": "https://www.computerbase.de/downloads/browser/microsoft-edge/",
+    "pubDate": "2026-09-03T04:16:00.000Z"
+  },
+  {
+    "title": "Nobara Linux 44 2026-09-02",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/nobara-linux/",
+    "pubDate": "2026-09-03T04:12:00.000Z"
+  },
+  {
+    "title": "openSUSE Tumbleweed 2026-09",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/opensuse/",
+    "pubDate": "2026-09-03T04:12:00.000Z"
+  },
+  {
     "title": "Telegram Desktop 7.1.5 (Linux)",
     "link": "https://www.computerbase.de/downloads/kommunikation/telegram-desktop/",
     "pubDate": "2026-09-02T20:12:00.000Z"
@@ -233,20 +248,5 @@
     "title": "LibreWolf 155.0-1",
     "link": "https://www.computerbase.de/downloads/browser/librewolf/",
     "pubDate": "2026-09-01T14:51:00.000Z"
-  },
-  {
-    "title": "Mozilla Firefox 140.15.0 ESR",
-    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
-    "pubDate": "2026-09-01T14:50:00.000Z"
-  },
-  {
-    "title": "Mozilla Firefox 115.40.0 ESR",
-    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
-    "pubDate": "2026-09-01T14:49:00.000Z"
-  },
-  {
-    "title": "Ubisoft Connect 173.1.0.13333",
-    "link": "https://www.computerbase.de/downloads/games/ubisoft-connect/",
-    "pubDate": "2026-09-01T10:15:00.000Z"
   }
 ]

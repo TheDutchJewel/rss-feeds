@@ -1,5 +1,10 @@
 [
   {
+    "title": "Cursor updated to 3.19.7.",
+    "link": "https://ninite.com/cursor/",
+    "pubDate": "Thu, 03 Sep 2026 05:10:23 -0000"
+  },
+  {
     "title": "Visual Studio Code updated to 1.136.0.",
     "link": "https://ninite.com/vscode/",
     "pubDate": "Wed, 02 Sep 2026 19:25:45 -0000"
@@ -363,10 +368,5 @@
     "title": "Edge updated to 151.0.4129.93.",
     "link": "https://ninite.com/edge/",
     "pubDate": "Tue, 18 Aug 2026 02:35:26 -0000"
-  },
-  {
-    "title": "AnyDesk updated to 9.7.15.",
-    "link": "https://ninite.com/anydesk/",
-    "pubDate": "Tue, 18 Aug 2026 02:35:18 -0000"
   }
 ]
