@@ -5,6 +5,12 @@
     <link>https://www.gratissoftwaresite.nl/downloads/nieuwe-updates</link>
     <description>Nieuwste software-updates van GratisSoftwareSite</description>
     <item>
+      <title>Vivaldi 8.2.4133.45</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/vivaldi-internet-web-browser</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/vivaldi-internet-web-browser</guid>
+      <pubDate>3 september 2026</pubDate>
+    </item>
+    <item>
       <title>Proton Drive 3.0.6</title>
       <link>https://www.gratissoftwaresite.nl/downloads/proton-drive-cloud-opslag-foto</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/proton-drive-cloud-opslag-foto</guid>
@@ -177,12 +183,6 @@
       <link>https://www.gratissoftwaresite.nl/downloads/microsoft-edge-internet-browser-ie-opvolger</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/microsoft-edge-internet-browser-ie-opvolger</guid>
       <pubDate>28 augustus 2026</pubDate>
-    </item>
-    <item>
-      <title>Vivaldi 8.1.4087.75</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/vivaldi-internet-web-browser</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/vivaldi-internet-web-browser</guid>
-      <pubDate>27 augustus 2026</pubDate>
     </item>
     <item>
       <title>FileZilla 3.71.1</title>
