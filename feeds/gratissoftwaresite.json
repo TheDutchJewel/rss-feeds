@@ -1,5 +1,40 @@
 [
     {
+        "title": "Proton Drive 3.0.6",
+        "link": "https://www.gratissoftwaresite.nl/downloads/proton-drive-cloud-opslag-foto",
+        "pubDate": "3 september 2026"
+    },
+    {
+        "title": "Dropbox 268.4.2124",
+        "link": "https://www.gratissoftwaresite.nl/downloads/dropbox-online-opslag-sync",
+        "pubDate": "3 september 2026"
+    },
+    {
+        "title": "Opera 135.0.5973.76",
+        "link": "https://www.gratissoftwaresite.nl/downloads/opera-internet-web-browser",
+        "pubDate": "3 september 2026"
+    },
+    {
+        "title": "Google Chrome 152.0.7977.75/76",
+        "link": "https://www.gratissoftwaresite.nl/downloads/google-chrome-internet-web-browser",
+        "pubDate": "3 september 2026"
+    },
+    {
+        "title": "Windscribe 2.24.12",
+        "link": "https://www.gratissoftwaresite.nl/downloads/windscribe-vpn-anoniem-beveiligd-ip-geo",
+        "pubDate": "3 september 2026"
+    },
+    {
+        "title": "ocenaudio 3.21.0",
+        "link": "https://www.gratissoftwaresite.nl/downloads/ocenaudio-geluidsbewerking-mp3-audio-editor",
+        "pubDate": "3 september 2026"
+    },
+    {
+        "title": "Brave 1.94.119",
+        "link": "https://www.gratissoftwaresite.nl/downloads/brave-web-browser-internet-privacy-beveiliging-schilden-trackers-ads",
+        "pubDate": "3 september 2026"
+    },
+    {
         "title": "Foxit Reader 2026.2.0",
         "link": "https://www.gratissoftwaresite.nl/downloads/foxit-reader-pdf-bekijken-viewer",
         "pubDate": "2 september 2026"
@@ -75,11 +110,6 @@
         "pubDate": "30 augustus 2026"
     },
     {
-        "title": "Opera 135.0.5973.66",
-        "link": "https://www.gratissoftwaresite.nl/downloads/opera-internet-web-browser",
-        "pubDate": "30 augustus 2026"
-    },
-    {
         "title": "Mp3tag 3.36.1",
         "link": "https://www.gratissoftwaresite.nl/downloads/Mp3tag-mp3-tool-audio",
         "pubDate": "30 augustus 2026"
@@ -103,11 +133,6 @@
         "title": "Clementine 1.4.1-106",
         "link": "https://www.gratissoftwaresite.nl/downloads/clementine-audio-muziekspeler-online",
         "pubDate": "29 augustus 2026"
-    },
-    {
-        "title": "Brave 1.94.117",
-        "link": "https://www.gratissoftwaresite.nl/downloads/brave-web-browser-internet-privacy-beveiliging-schilden-trackers-ads",
-        "pubDate": "28 augustus 2026"
     },
     {
         "title": "Ubuntu 26.04.1 LTS",
@@ -180,19 +205,9 @@
         "pubDate": "25 augustus 2026"
     },
     {
-        "title": "Google Chrome 152.0.7977.64/.65",
-        "link": "https://www.gratissoftwaresite.nl/downloads/google-chrome-internet-web-browser",
-        "pubDate": "25 augustus 2026"
-    },
-    {
         "title": "Wintoys 2.6.71.0",
         "link": "https://www.gratissoftwaresite.nl/downloads/wintoys-tweaks-optimalisatie-werktuigen-tools",
         "pubDate": "25 augustus 2026"
-    },
-    {
-        "title": "Proton Drive 3.0.5",
-        "link": "https://www.gratissoftwaresite.nl/downloads/proton-drive-cloud-opslag-foto",
-        "pubDate": "24 augustus 2026"
     },
     {
         "title": "Ente 1.7.27",
@@ -223,11 +238,6 @@
         "title": "RapidRaw 1.6.2",
         "link": "https://www.gratissoftwaresite.nl/downloads/rapidraw-fotobewerking-beheer-workflow",
         "pubDate": "22 augustus 2026"
-    },
-    {
-        "title": "ocenaudio 3.20.5",
-        "link": "https://www.gratissoftwaresite.nl/downloads/ocenaudio-geluidsbewerking-mp3-audio-editor",
-        "pubDate": "21 augustus 2026"
     },
     {
         "title": "Malwarebytes 5.6.5",
@@ -385,11 +395,6 @@
         "pubDate": "11 augustus 2026"
     },
     {
-        "title": "Dropbox 264.4.3421",
-        "link": "https://www.gratissoftwaresite.nl/downloads/dropbox-online-opslag-sync",
-        "pubDate": "11 augustus 2026"
-    },
-    {
         "title": "Eusing Free Registry Cleaner 4.8.5",
         "link": "https://www.gratissoftwaresite.nl/downloads/eusing-free-registry-cleaner-register-opschonen-backup",
         "pubDate": "11 augustus 2026"
@@ -473,10 +478,5 @@
         "title": "Shotcut 26.8.1",
         "link": "https://www.gratissoftwaresite.nl/downloads/shotcut-videobewerking-editor-tijdlijn-key-frames",
         "pubDate": "2 augustus 2026"
-    },
-    {
-        "title": "Krita 5.3.3",
-        "link": "https://www.gratissoftwaresite.nl/downloads/krita-tekenen-vector-bitmap-paint",
-        "pubDate": "31 juli 2026"
     }
 ]
