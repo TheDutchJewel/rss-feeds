@@ -1,5 +1,15 @@
 [
   {
+    "title": "Vivaldi updated to 8.2.4133.47.",
+    "link": "https://ninite.com/vivaldi/",
+    "pubDate": "Fri, 04 Sep 2026 10:07:06 -0000"
+  },
+  {
+    "title": "7-Zip updated to 26.03.",
+    "link": "https://ninite.com/7zip/",
+    "pubDate": "Fri, 04 Sep 2026 10:06:53 -0000"
+  },
+  {
     "title": "Vivaldi updated to 8.2.4133.45.",
     "link": "https://ninite.com/vivaldi/",
     "pubDate": "Fri, 04 Sep 2026 03:51:23 -0000"
@@ -363,15 +373,5 @@
     "title": "JDK (Amazon Corretto) x64 8 updated to 8u504-b01.",
     "link": "https://ninite.com/correttojdkx8/",
     "pubDate": "Wed, 19 Aug 2026 01:20:25 -0000"
-  },
-  {
-    "title": "Opera Chromium updated to 134.0.5954.66.",
-    "link": "https://ninite.com/operaChromium/",
-    "pubDate": "Wed, 19 Aug 2026 01:19:59 -0000"
-  },
-  {
-    "title": "Evernote updated to 11.30.6.",
-    "link": "https://ninite.com/evernote/",
-    "pubDate": "Wed, 19 Aug 2026 01:19:49 -0000"
   }
 ]
