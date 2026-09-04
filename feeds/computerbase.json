@@ -1,5 +1,55 @@
 [
   {
+    "title": "Mozilla Firefox 155.0.1",
+    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
+    "pubDate": "2026-09-04T14:49:00.000Z"
+  },
+  {
+    "title": "Nvidia GeForce-Treiber 616.64",
+    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/nvidia-geforce-treiber/",
+    "pubDate": "2026-09-04T14:12:00.000Z"
+  },
+  {
+    "title": "LibreOffice 26.2.6",
+    "link": "https://www.computerbase.de/downloads/office/libreoffice/",
+    "pubDate": "2026-09-04T14:11:00.000Z"
+  },
+  {
+    "title": "Vivaldi 8.2 Build 4133.47",
+    "link": "https://www.computerbase.de/downloads/browser/vivaldi/",
+    "pubDate": "2026-09-04T14:10:00.000Z"
+  },
+  {
+    "title": "Opera 135.0.5973.92",
+    "link": "https://www.computerbase.de/downloads/browser/opera/",
+    "pubDate": "2026-09-04T14:09:00.000Z"
+  },
+  {
+    "title": "Multi Commander 16.2 Build 3213",
+    "link": "https://www.computerbase.de/downloads/office/dateimanager/multi-commander/",
+    "pubDate": "2026-09-04T14:08:00.000Z"
+  },
+  {
+    "title": "Wing FTP Server 8.2.4",
+    "link": "https://www.computerbase.de/downloads/office/dateitransfer/wing-ftp-server/",
+    "pubDate": "2026-09-04T14:08:00.000Z"
+  },
+  {
+    "title": "WhatsApp 2.26.35.23 (macOS)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/whatsapp/",
+    "pubDate": "2026-09-04T14:02:00.000Z"
+  },
+  {
+    "title": "7-Zip 26.03",
+    "link": "https://www.computerbase.de/downloads/office/packprogramme/7-zip/",
+    "pubDate": "2026-09-04T14:02:00.000Z"
+  },
+  {
+    "title": "Telegram Desktop 7.2.5",
+    "link": "https://www.computerbase.de/downloads/kommunikation/telegram-desktop/",
+    "pubDate": "2026-09-04T14:01:00.000Z"
+  },
+  {
     "title": "TeamViewer 15.81.6",
     "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/teamviewer/",
     "pubDate": "2026-09-04T04:27:00.000Z"
@@ -95,11 +145,6 @@
     "pubDate": "2026-09-03T15:30:00.000Z"
   },
   {
-    "title": "WhatsApp 2.26.35.21 (macOS)",
-    "link": "https://www.computerbase.de/downloads/kommunikation/whatsapp/",
-    "pubDate": "2026-09-03T15:28:00.000Z"
-  },
-  {
     "title": "Audacity 4.0.0",
     "link": "https://www.computerbase.de/downloads/audio-und-video/audacity/",
     "pubDate": "2026-09-03T15:10:00.000Z"
@@ -135,11 +180,6 @@
     "pubDate": "2026-09-03T14:50:00.000Z"
   },
   {
-    "title": "Vivaldi 8.2 Build 4133.45",
-    "link": "https://www.computerbase.de/downloads/browser/vivaldi/",
-    "pubDate": "2026-09-03T08:28:00.000Z"
-  },
-  {
     "title": "Opera GX 135.0.5973.85 Early Access",
     "link": "https://www.computerbase.de/downloads/browser/opera-gx/",
     "pubDate": "2026-09-03T08:27:00.000Z"
@@ -158,11 +198,6 @@
     "title": "openSUSE Tumbleweed 2026-09",
     "link": "https://www.computerbase.de/downloads/betriebssysteme/opensuse/",
     "pubDate": "2026-09-03T04:12:00.000Z"
-  },
-  {
-    "title": "Telegram Desktop 7.1.5 (Linux)",
-    "link": "https://www.computerbase.de/downloads/kommunikation/telegram-desktop/",
-    "pubDate": "2026-09-02T20:12:00.000Z"
   },
   {
     "title": "GitHub Desktop 3.6.5",
@@ -213,40 +248,5 @@
     "title": "Snagit 2026.3.2 (macOS)",
     "link": "https://www.computerbase.de/downloads/foto-und-grafik/snagit/",
     "pubDate": "2026-09-02T16:24:00.000Z"
-  },
-  {
-    "title": "Ocenaudio 3.21",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/ocenaudio/",
-    "pubDate": "2026-09-02T16:24:00.000Z"
-  },
-  {
-    "title": "Mozilla Firefox 156.0 Beta 2",
-    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
-    "pubDate": "2026-09-02T16:23:00.000Z"
-  },
-  {
-    "title": "Gigabyte Control Center 26.09.01.01",
-    "link": "https://www.computerbase.de/downloads/systemtools/gigabyte-control-center/",
-    "pubDate": "2026-09-02T15:05:00.000Z"
-  },
-  {
-    "title": "AIMP 5.40 Build 2726",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/aimp/",
-    "pubDate": "2026-09-02T15:03:00.000Z"
-  },
-  {
-    "title": "LibreOffice 26.2.6 RC2",
-    "link": "https://www.computerbase.de/downloads/office/libreoffice/",
-    "pubDate": "2026-09-02T15:02:00.000Z"
-  },
-  {
-    "title": "Opera 135.0.5973.76",
-    "link": "https://www.computerbase.de/downloads/browser/opera/",
-    "pubDate": "2026-09-02T14:59:00.000Z"
-  },
-  {
-    "title": "Adobe AIR SDK 51.3.4.2",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/adobe-air-sdk/",
-    "pubDate": "2026-09-02T14:58:00.000Z"
   }
 ]
