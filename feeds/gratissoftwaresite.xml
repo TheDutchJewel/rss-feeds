@@ -5,6 +5,12 @@
     <link>https://www.gratissoftwaresite.nl/downloads/nieuwe-updates</link>
     <description>Nieuwste software-updates van GratisSoftwareSite</description>
     <item>
+      <title/>
+      <link>https://www.gratissoftwaresite.nl/downloads/vmware-player-virtualisatie-virtuele-pc</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/vmware-player-virtualisatie-virtuele-pc</guid>
+      <pubDate>4 september 2026</pubDate>
+    </item>
+    <item>
       <title>TeamViewer 15.81.6</title>
       <link>https://www.gratissoftwaresite.nl/downloads/teamviewer-werktuigen-hulp-op-afstand-remote-desktop</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/teamviewer-werktuigen-hulp-op-afstand-remote-desktop</guid>
@@ -572,12 +578,6 @@
       <title>Adobe Acrobat Reader DC 26.001.21771</title>
       <link>https://www.gratissoftwaresite.nl/downloads/adobe-reader-pdf-bekijken-plugin</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/adobe-reader-pdf-bekijken-plugin</guid>
-      <pubDate>2 augustus 2026</pubDate>
-    </item>
-    <item>
-      <title>Shotcut 26.8.1</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/shotcut-videobewerking-editor-tijdlijn-key-frames</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/shotcut-videobewerking-editor-tijdlijn-key-frames</guid>
       <pubDate>2 augustus 2026</pubDate>
     </item>
   </channel>

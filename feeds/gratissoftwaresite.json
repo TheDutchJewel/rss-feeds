@@ -1,5 +1,10 @@
 [
     {
+        "title": "VMware Workstation Pro & Fusion 26H1u1",
+        "link": "https://www.gratissoftwaresite.nl/downloads/vmware-player-virtualisatie-virtuele-pc",
+        "pubDate": "4 september 2026"
+    },
+    {
         "title": "TeamViewer 15.81.6",
         "link": "https://www.gratissoftwaresite.nl/downloads/teamviewer-werktuigen-hulp-op-afstand-remote-desktop",
         "pubDate": "4 september 2026"
@@ -472,11 +477,6 @@
     {
         "title": "Adobe Acrobat Reader DC 26.001.21771",
         "link": "https://www.gratissoftwaresite.nl/downloads/adobe-reader-pdf-bekijken-plugin",
-        "pubDate": "2 augustus 2026"
-    },
-    {
-        "title": "Shotcut 26.8.1",
-        "link": "https://www.gratissoftwaresite.nl/downloads/shotcut-videobewerking-editor-tijdlijn-key-frames",
         "pubDate": "2 augustus 2026"
     }
 ]
