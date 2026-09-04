@@ -1,5 +1,20 @@
 [
   {
+    "title": "Vivaldi updated to 8.2.4133.45.",
+    "link": "https://ninite.com/vivaldi/",
+    "pubDate": "Fri, 04 Sep 2026 03:51:23 -0000"
+  },
+  {
+    "title": "Visual Studio Code updated to 1.136.1.",
+    "link": "https://ninite.com/vscode/",
+    "pubDate": "Fri, 04 Sep 2026 03:51:15 -0000"
+  },
+  {
+    "title": "Chrome updated to 152.0.7977.83.",
+    "link": "https://ninite.com/chrome/",
+    "pubDate": "Fri, 04 Sep 2026 03:50:33 -0000"
+  },
+  {
     "title": "Cursor updated to 3.19.7.",
     "link": "https://ninite.com/cursor/",
     "pubDate": "Thu, 03 Sep 2026 05:10:23 -0000"
@@ -358,15 +373,5 @@
     "title": "Evernote updated to 11.30.6.",
     "link": "https://ninite.com/evernote/",
     "pubDate": "Wed, 19 Aug 2026 01:19:49 -0000"
-  },
-  {
-    "title": "Thunderbird updated to 154.0.",
-    "link": "https://ninite.com/thunderbird/",
-    "pubDate": "Wed, 19 Aug 2026 01:19:30 -0000"
-  },
-  {
-    "title": "Edge updated to 151.0.4129.93.",
-    "link": "https://ninite.com/edge/",
-    "pubDate": "Tue, 18 Aug 2026 02:35:26 -0000"
   }
 ]

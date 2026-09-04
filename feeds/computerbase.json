@@ -1,5 +1,40 @@
 [
   {
+    "title": "TeamViewer 15.81.6",
+    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/teamviewer/",
+    "pubDate": "2026-09-04T04:27:00.000Z"
+  },
+  {
+    "title": "TeamViewer QuickSupport 15.81.6",
+    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/teamviewer/",
+    "pubDate": "2026-09-04T04:26:00.000Z"
+  },
+  {
+    "title": "TeamViewer Host 15.81.6",
+    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/teamviewer/",
+    "pubDate": "2026-09-04T04:25:00.000Z"
+  },
+  {
+    "title": "HyperSnap 10.3.5",
+    "link": "https://www.computerbase.de/downloads/foto-und-grafik/hypersnap/",
+    "pubDate": "2026-09-04T04:24:00.000Z"
+  },
+  {
+    "title": "Blizzard Battle.net 2.52.11.17778",
+    "link": "https://www.computerbase.de/downloads/games/blizzard-battle.net/",
+    "pubDate": "2026-09-04T04:23:00.000Z"
+  },
+  {
+    "title": "croc 11.4.0",
+    "link": "https://www.computerbase.de/downloads/office/dateitransfer/croc/",
+    "pubDate": "2026-09-04T04:22:00.000Z"
+  },
+  {
+    "title": "K-Lite Codec Pack Update 19.9.7",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/k-lite-codec-pack/",
+    "pubDate": "2026-09-04T04:21:00.000Z"
+  },
+  {
     "title": "Java SE Development Kit 28.0 Build 14 Dev",
     "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/java-se-development-kit/",
     "pubDate": "2026-09-03T19:36:00.000Z"
@@ -98,11 +133,6 @@
     "title": "KDE neon 20260903-0454",
     "link": "https://www.computerbase.de/downloads/betriebssysteme/kde-neon/",
     "pubDate": "2026-09-03T14:50:00.000Z"
-  },
-  {
-    "title": "HyperSnap 10.3.4",
-    "link": "https://www.computerbase.de/downloads/foto-und-grafik/hypersnap/",
-    "pubDate": "2026-09-03T14:49:00.000Z"
   },
   {
     "title": "Vivaldi 8.2 Build 4133.45",
@@ -218,35 +248,5 @@
     "title": "Adobe AIR SDK 51.3.4.2",
     "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/adobe-air-sdk/",
     "pubDate": "2026-09-02T14:58:00.000Z"
-  },
-  {
-    "title": "Telegram Desktop 7.1.4",
-    "link": "https://www.computerbase.de/downloads/kommunikation/telegram-desktop/",
-    "pubDate": "2026-09-02T14:58:00.000Z"
-  },
-  {
-    "title": "HWiNFO 8.53 Build 6065 Beta",
-    "link": "https://www.computerbase.de/downloads/systemtools/hwinfo/",
-    "pubDate": "2026-09-02T14:56:00.000Z"
-  },
-  {
-    "title": "W10Privacy 6.3.0.1",
-    "link": "https://www.computerbase.de/downloads/systemtools/w10privacy/",
-    "pubDate": "2026-09-02T14:53:00.000Z"
-  },
-  {
-    "title": "O&O ShutUp10 v3.5.1130",
-    "link": "https://www.computerbase.de/downloads/systemtools/o-und-o-shutup10/",
-    "pubDate": "2026-09-02T14:51:00.000Z"
-  },
-  {
-    "title": "Linux Kernel 7.2.3 (Linux)",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/linux-kernel/",
-    "pubDate": "2026-09-02T14:50:00.000Z"
-  },
-  {
-    "title": "Linux Kernel 6.18.49 (Linux)",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/linux-kernel/",
-    "pubDate": "2026-09-02T14:49:00.000Z"
   }
 ]
