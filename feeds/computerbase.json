@@ -1,5 +1,40 @@
 [
   {
+    "title": "Wine 11.17 Beta (Linux)",
+    "link": "https://www.computerbase.de/downloads/systemtools/wine/",
+    "pubDate": "2026-09-04T20:58:00.000Z"
+  },
+  {
+    "title": "FreeBSD 14.5",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/freebsd/",
+    "pubDate": "2026-09-04T20:57:00.000Z"
+  },
+  {
+    "title": "Tunnelblick 10.0 Beta 2 (macOS)",
+    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/tunnelblick/",
+    "pubDate": "2026-09-04T19:18:00.000Z"
+  },
+  {
+    "title": "Tunnelblick 9.0.1 (macOS)",
+    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/tunnelblick/",
+    "pubDate": "2026-09-04T19:18:00.000Z"
+  },
+  {
+    "title": "Opera GX 135.0.5973.94 Early Access",
+    "link": "https://www.computerbase.de/downloads/browser/opera-gx/",
+    "pubDate": "2026-09-04T19:17:00.000Z"
+  },
+  {
+    "title": "Mozilla Firefox 156.0 Beta 3",
+    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
+    "pubDate": "2026-09-04T19:16:00.000Z"
+  },
+  {
+    "title": "SmartFTP 10.0 Build 3326",
+    "link": "https://www.computerbase.de/downloads/office/dateitransfer/smartftp/",
+    "pubDate": "2026-09-04T19:15:00.000Z"
+  },
+  {
     "title": "Mozilla Firefox 155.0.1",
     "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
     "pubDate": "2026-09-04T14:49:00.000Z"
@@ -180,11 +215,6 @@
     "pubDate": "2026-09-03T14:50:00.000Z"
   },
   {
-    "title": "Opera GX 135.0.5973.85 Early Access",
-    "link": "https://www.computerbase.de/downloads/browser/opera-gx/",
-    "pubDate": "2026-09-03T08:27:00.000Z"
-  },
-  {
     "title": "Microsoft Edge 152.0.4191.62",
     "link": "https://www.computerbase.de/downloads/browser/microsoft-edge/",
     "pubDate": "2026-09-03T04:16:00.000Z"
@@ -218,35 +248,5 @@
     "title": "Google Chrome 154.0.8037.0 Beta",
     "link": "https://www.computerbase.de/downloads/browser/google-chrome/",
     "pubDate": "2026-09-02T16:35:00.000Z"
-  },
-  {
-    "title": "Mozilla Thunderbird 156.0 Beta 2",
-    "link": "https://www.computerbase.de/downloads/kommunikation/mozilla-thunderbird/",
-    "pubDate": "2026-09-02T16:35:00.000Z"
-  },
-  {
-    "title": "EA-App 13.783.0.6296",
-    "link": "https://www.computerbase.de/downloads/games/ea-app/",
-    "pubDate": "2026-09-02T16:28:00.000Z"
-  },
-  {
-    "title": "Viber für Desktop 28.7.0.0",
-    "link": "https://www.computerbase.de/downloads/kommunikation/viber-fuer-desktop/",
-    "pubDate": "2026-09-02T16:28:00.000Z"
-  },
-  {
-    "title": "Microsoft OneDrive 26.150.0804.0011",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/microsoft-onedrive/",
-    "pubDate": "2026-09-02T16:27:00.000Z"
-  },
-  {
-    "title": "Logi Options+ 2.7.961922",
-    "link": "https://www.computerbase.de/downloads/treiber/eingabegeraete/logi-options/",
-    "pubDate": "2026-09-02T16:25:00.000Z"
-  },
-  {
-    "title": "Snagit 2026.3.2 (macOS)",
-    "link": "https://www.computerbase.de/downloads/foto-und-grafik/snagit/",
-    "pubDate": "2026-09-02T16:24:00.000Z"
   }
 ]
