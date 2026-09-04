@@ -1,5 +1,30 @@
 [
   {
+    "title": "Mozilla Firefox, Portable Edition Nightly 157 (web browser) Released",
+    "link": "https://portableapps.com/news/2026-09-03--firefox-portable-nightly-157-released",
+    "pubDate": "Thu, 03 Sep 2026 23:59:17 +0000"
+  },
+  {
+    "title": "Mozilla Firefox ESR, Portable Edition 153.2.0 (web browser) Released",
+    "link": "https://portableapps.com/news/2026-09-03--firefox-portable-esr-153.2.0-released",
+    "pubDate": "Thu, 03 Sep 2026 23:56:22 +0000"
+  },
+  {
+    "title": "Mozilla Firefox Developer Edition, Portable 156b1 (web browser) Released",
+    "link": "https://portableapps.com/news/2026-09-03--firefox-portable-developer-156b1-released",
+    "pubDate": "Thu, 03 Sep 2026 23:54:36 +0000"
+  },
+  {
+    "title": "Mozilla Firefox, Portable Edition 156.0 Beta 1 (web browser) Released",
+    "link": "https://portableapps.com/news/2026-09-03--firefox-portable-156.0-beta-1-released",
+    "pubDate": "Thu, 03 Sep 2026 23:45:27 +0000"
+  },
+  {
+    "title": "Mozilla Firefox, Portable Edition Stable 155.0 (web browser) Released",
+    "link": "https://portableapps.com/news/2026-09-03--firefox-portable-155.0-released",
+    "pubDate": "Thu, 03 Sep 2026 23:36:16 +0000"
+  },
+  {
     "title": "Kudu Portable 2.6.0 (PC maintenance suite) Released",
     "link": "https://portableapps.com/news/2026-08-31--kudu-portable-2.6.0-released",
     "pubDate": "Mon, 31 Aug 2026 22:46:20 +0000"
@@ -48,30 +73,5 @@
     "title": "InnoUnpacker Portable 2.2.12.1 (InnoSetup inspector and extractor) Released",
     "link": "https://portableapps.com/news/2026-08-30--innounpacker-portable-2.2.12.1-released",
     "pubDate": "Sun, 30 Aug 2026 19:26:51 +0000"
-  },
-  {
-    "title": "PortableApps.com AppCompactor 3.18 (shrink portable apps) Released",
-    "link": "https://portableapps.com/news/2026-08-30--portableapps.com-appcompactor-3.18-released",
-    "pubDate": "Sun, 30 Aug 2026 19:22:39 +0000"
-  },
-  {
-    "title": "FUPX Portable 3.2-5 (file compressor) Released",
-    "link": "https://portableapps.com/news/2026-08-30--free-upx-portable-3.2-5-released",
-    "pubDate": "Sun, 30 Aug 2026 19:16:51 +0000"
-  },
-  {
-    "title": "Iron Portable 150.0.7900.0 (web browser) Released",
-    "link": "https://portableapps.com/news/2026-08-30--iron-portable-150.0.7900.0-released",
-    "pubDate": "Sun, 30 Aug 2026 18:59:50 +0000"
-  },
-  {
-    "title": "FileZilla Portable 3.71.1 (ftp client) Released",
-    "link": "https://portableapps.com/news/2026-08-27--filezilla-portable-3.71.1-released",
-    "pubDate": "Thu, 27 Aug 2026 23:21:53 +0000"
-  },
-  {
-    "title": "Chromium Portable 152.0.7977.65 (web browser) Released",
-    "link": "https://portableapps.com/news/2026-08-27--chromium-portable-152.0.7977.65-released",
-    "pubDate": "Thu, 27 Aug 2026 23:11:36 +0000"
   }
 ]
