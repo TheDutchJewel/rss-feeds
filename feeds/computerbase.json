@@ -1,5 +1,10 @@
 [
   {
+    "title": "CapFrameX 1.9.0",
+    "link": "https://www.computerbase.de/downloads/systemtools/grafikkarten/capframex-tool/",
+    "pubDate": "2026-09-05T11:11:00.000Z"
+  },
+  {
     "title": "Microsoft Edge 152.0.4191.66",
     "link": "https://www.computerbase.de/downloads/browser/microsoft-edge/",
     "pubDate": "2026-09-05T07:27:00.000Z"
@@ -243,10 +248,5 @@
     "title": "GitHub Desktop 3.6.5",
     "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/github-desktop/",
     "pubDate": "2026-09-02T19:50:00.000Z"
-  },
-  {
-    "title": "FotoSketcher Studio 4.60 Beta 1",
-    "link": "https://www.computerbase.de/downloads/foto-und-grafik/fotosketcher/",
-    "pubDate": "2026-09-02T19:48:00.000Z"
   }
 ]

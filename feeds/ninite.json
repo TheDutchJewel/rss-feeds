@@ -1,5 +1,35 @@
 [
   {
+    "title": "Foxit Reader updated to 2026.2.0.39747.",
+    "link": "https://ninite.com/foxit/",
+    "pubDate": "Sat, 05 Sep 2026 10:53:35 -0000"
+  },
+  {
+    "title": "Firefox updated to 155.0.1.",
+    "link": "https://ninite.com/firefox/",
+    "pubDate": "Sat, 05 Sep 2026 09:29:29 -0000"
+  },
+  {
+    "title": "Brave updated to 1.94.121.",
+    "link": "https://ninite.com/brave/",
+    "pubDate": "Sat, 05 Sep 2026 09:27:45 -0000"
+  },
+  {
+    "title": "TeamViewer 15 updated to 15.81.6.",
+    "link": "https://ninite.com/teamviewer15/",
+    "pubDate": "Sat, 05 Sep 2026 09:27:26 -0000"
+  },
+  {
+    "title": "OneDrive updated to 26.153.0809.0004.",
+    "link": "https://ninite.com/onedrive/",
+    "pubDate": "Sat, 05 Sep 2026 09:27:09 -0000"
+  },
+  {
+    "title": "Opera Chromium updated to 135.0.5973.92.",
+    "link": "https://ninite.com/operaChromium/",
+    "pubDate": "Sat, 05 Sep 2026 09:26:16 -0000"
+  },
+  {
     "title": "Vivaldi updated to 8.2.4133.47.",
     "link": "https://ninite.com/vivaldi/",
     "pubDate": "Fri, 04 Sep 2026 10:07:06 -0000"
@@ -343,35 +373,5 @@
     "title": "JRE (Amazon Corretto) 8 updated to 8u504-b01.",
     "link": "https://ninite.com/correttojre8/",
     "pubDate": "Wed, 19 Aug 2026 07:41:18 -0000"
-  },
-  {
-    "title": "Dropbox updated to 266.4.3911.",
-    "link": "https://ninite.com/dropbox/",
-    "pubDate": "Wed, 19 Aug 2026 07:24:39 -0000"
-  },
-  {
-    "title": "Cursor updated to 3.16.29.",
-    "link": "https://ninite.com/cursor/",
-    "pubDate": "Wed, 19 Aug 2026 06:15:48 -0000"
-  },
-  {
-    "title": "Firefox updated to 154.0.",
-    "link": "https://ninite.com/firefox/",
-    "pubDate": "Wed, 19 Aug 2026 02:14:49 -0000"
-  },
-  {
-    "title": "Chrome updated to 151.0.7922.170.",
-    "link": "https://ninite.com/chrome/",
-    "pubDate": "Wed, 19 Aug 2026 02:12:28 -0000"
-  },
-  {
-    "title": "JDK (Amazon Corretto) 8 updated to 8u504-b01.",
-    "link": "https://ninite.com/correttojdk8/",
-    "pubDate": "Wed, 19 Aug 2026 01:23:47 -0000"
-  },
-  {
-    "title": "JDK (Amazon Corretto) x64 8 updated to 8u504-b01.",
-    "link": "https://ninite.com/correttojdkx8/",
-    "pubDate": "Wed, 19 Aug 2026 01:20:25 -0000"
   }
 ]
