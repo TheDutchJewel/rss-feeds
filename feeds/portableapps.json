@@ -1,5 +1,25 @@
 [
   {
+    "title": "Google Chrome Portable 154 Beta (web browser) Released",
+    "link": "https://portableapps.com/news/2026-09-05--google-chrome-portable-154-beta-released",
+    "pubDate": "Sat, 05 Sep 2026 21:59:56 +0000"
+  },
+  {
+    "title": "Google Chrome Portable 152.0.7977.83 Stable (web browser) Released",
+    "link": "https://portableapps.com/news/2026-09-05--google-chrome-portable-152.0.7977.83-released",
+    "pubDate": "Sat, 05 Sep 2026 21:59:30 +0000"
+  },
+  {
+    "title": "PortableApps.com Installer 3.9.21 (portable app packaging) Released",
+    "link": "https://portableapps.com/news/2026-09-05--portableapps.com-installer-3.9.21-released",
+    "pubDate": "Sat, 05 Sep 2026 21:54:12 +0000"
+  },
+  {
+    "title": "PortableApps.com Platform 30.5: September Maintenance Release",
+    "link": "https://portableapps.com/news/2026-09-05--portableapps.com-platform-30.5-released",
+    "pubDate": "Sat, 05 Sep 2026 21:33:11 +0000"
+  },
+  {
     "title": "PortableApps.com Installer 3.9.20 (portable app packaging) Released",
     "link": "https://portableapps.com/news/2026-09-04--portableapps.com-installer-3.9.20-released",
     "pubDate": "Fri, 04 Sep 2026 18:52:38 +0000"
@@ -53,25 +73,5 @@
     "title": "Kudu Portable 2.6.0 (PC maintenance suite) Released",
     "link": "https://portableapps.com/news/2026-08-31--kudu-portable-2.6.0-released",
     "pubDate": "Mon, 31 Aug 2026 22:46:20 +0000"
-  },
-  {
-    "title": "Ferdium Portable 7.2.2 (online service consolidator) Released",
-    "link": "https://portableapps.com/news/2026-08-31--ferdium-portable-7.2.2-released",
-    "pubDate": "Mon, 31 Aug 2026 22:44:31 +0000"
-  },
-  {
-    "title": "Puzzle Collection Portable 2026.07.20 (lots of puzzles) Released",
-    "link": "https://portableapps.com/news/2026-08-31--puzzle-collection-portable-2026.07.20-released",
-    "pubDate": "Mon, 31 Aug 2026 18:10:41 +0000"
-  },
-  {
-    "title": "QOwnNotes Portable 26.8.11 (markdown note taker) Released",
-    "link": "https://portableapps.com/news/2026-08-31--qownnotes-portable-26.8.11-released",
-    "pubDate": "Mon, 31 Aug 2026 17:40:21 +0000"
-  },
-  {
-    "title": "gVim Portable 9.2.1025 (advanced text editor) Released",
-    "link": "https://portableapps.com/news/2026-08-31--gvim-portable-9.2.1025-released",
-    "pubDate": "Mon, 31 Aug 2026 17:39:13 +0000"
   }
 ]
