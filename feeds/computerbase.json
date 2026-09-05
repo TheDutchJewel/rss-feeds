@@ -1,5 +1,20 @@
 [
   {
+    "title": "Microsoft Edge 152.0.4191.66",
+    "link": "https://www.computerbase.de/downloads/browser/microsoft-edge/",
+    "pubDate": "2026-09-05T07:27:00.000Z"
+  },
+  {
+    "title": "Adobe AIR SDK 51.3.4.3",
+    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/adobe-air-sdk/",
+    "pubDate": "2026-09-05T07:27:00.000Z"
+  },
+  {
+    "title": "Nvidia GeForce-Treiber 616.86 Hotfix",
+    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/nvidia-geforce-treiber/",
+    "pubDate": "2026-09-05T07:23:00.000Z"
+  },
+  {
     "title": "Wine 11.17 Beta (Linux)",
     "link": "https://www.computerbase.de/downloads/systemtools/wine/",
     "pubDate": "2026-09-04T20:58:00.000Z"
@@ -215,11 +230,6 @@
     "pubDate": "2026-09-03T14:50:00.000Z"
   },
   {
-    "title": "Microsoft Edge 152.0.4191.62",
-    "link": "https://www.computerbase.de/downloads/browser/microsoft-edge/",
-    "pubDate": "2026-09-03T04:16:00.000Z"
-  },
-  {
     "title": "Nobara Linux 44 2026-09-02",
     "link": "https://www.computerbase.de/downloads/betriebssysteme/nobara-linux/",
     "pubDate": "2026-09-03T04:12:00.000Z"
@@ -238,15 +248,5 @@
     "title": "FotoSketcher Studio 4.60 Beta 1",
     "link": "https://www.computerbase.de/downloads/foto-und-grafik/fotosketcher/",
     "pubDate": "2026-09-02T19:48:00.000Z"
-  },
-  {
-    "title": "Brave 1.94.119",
-    "link": "https://www.computerbase.de/downloads/browser/brave/",
-    "pubDate": "2026-09-02T19:47:00.000Z"
-  },
-  {
-    "title": "Google Chrome 154.0.8037.0 Beta",
-    "link": "https://www.computerbase.de/downloads/browser/google-chrome/",
-    "pubDate": "2026-09-02T16:35:00.000Z"
   }
 ]
