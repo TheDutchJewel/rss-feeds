@@ -1,5 +1,10 @@
 [
   {
+    "title": "PortableApps.com Platform 30.5",
+    "link": "https://www.computerbase.de/downloads/systemtools/portableapps-platform/",
+    "pubDate": "2026-09-06T05:46:00.000Z"
+  },
+  {
     "title": "ImageGlass 10.0.6.906",
     "link": "https://www.computerbase.de/downloads/foto-und-grafik/imageglass/",
     "pubDate": "2026-09-05T16:49:00.000Z"
@@ -243,10 +248,5 @@
     "title": "KDE neon 20260903-0454",
     "link": "https://www.computerbase.de/downloads/betriebssysteme/kde-neon/",
     "pubDate": "2026-09-03T14:50:00.000Z"
-  },
-  {
-    "title": "Nobara Linux 44 2026-09-02",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/nobara-linux/",
-    "pubDate": "2026-09-03T04:12:00.000Z"
   }
 ]
