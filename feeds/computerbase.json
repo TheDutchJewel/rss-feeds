@@ -1,5 +1,15 @@
 [
   {
+    "title": "Joplin 3.7.16",
+    "link": "https://www.computerbase.de/downloads/office/joplin/",
+    "pubDate": "2026-09-06T10:14:00.000Z"
+  },
+  {
+    "title": "qBittorrent 5.3.0 Beta 1",
+    "link": "https://www.computerbase.de/downloads/office/dateitransfer/qbittorrent/",
+    "pubDate": "2026-09-06T06:09:00.000Z"
+  },
+  {
     "title": "PortableApps.com Platform 30.5",
     "link": "https://www.computerbase.de/downloads/systemtools/portableapps-platform/",
     "pubDate": "2026-09-06T05:46:00.000Z"
@@ -238,15 +248,5 @@
     "title": "Duplicati 2.4.0.0",
     "link": "https://www.computerbase.de/downloads/sicherheit/backup/duplicati/",
     "pubDate": "2026-09-03T14:52:00.000Z"
-  },
-  {
-    "title": "Visual Studio Code (VS Code) 1.136.1",
-    "link": "https://www.computerbase.de/downloads/office/editoren/visual-studio-code/",
-    "pubDate": "2026-09-03T14:50:00.000Z"
-  },
-  {
-    "title": "KDE neon 20260903-0454",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/kde-neon/",
-    "pubDate": "2026-09-03T14:50:00.000Z"
   }
 ]
