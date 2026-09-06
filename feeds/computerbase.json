@@ -1,5 +1,15 @@
 [
   {
+    "title": "Sandboxie Plus 1.18.4",
+    "link": "https://www.computerbase.de/downloads/sicherheit/sandboxie/",
+    "pubDate": "2026-09-06T16:49:00.000Z"
+  },
+  {
+    "title": "Sandboxie Classic 5.73.4",
+    "link": "https://www.computerbase.de/downloads/sicherheit/sandboxie/",
+    "pubDate": "2026-09-06T16:48:00.000Z"
+  },
+  {
     "title": "NanaZip 7.0.1832.0",
     "link": "https://www.computerbase.de/downloads/office/packprogramme/nanazip/",
     "pubDate": "2026-09-06T13:40:00.000Z"
@@ -238,15 +248,5 @@
     "title": "AVG AntiVirus Free 26.9.11160 Beta",
     "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/avg-antivirus-free/",
     "pubDate": "2026-09-03T15:03:00.000Z"
-  },
-  {
-    "title": "Avast Free Antivirus 26.9.11160 Beta",
-    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/avast-free-antivirus/",
-    "pubDate": "2026-09-03T15:02:00.000Z"
-  },
-  {
-    "title": "WinSCP 6.6.3 RC",
-    "link": "https://www.computerbase.de/downloads/office/dateitransfer/winscp/",
-    "pubDate": "2026-09-03T15:00:00.000Z"
   }
 ]
