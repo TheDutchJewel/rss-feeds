@@ -1,5 +1,10 @@
 [
   {
+    "title": "NanaZip 7.0.1832.0",
+    "link": "https://www.computerbase.de/downloads/office/packprogramme/nanazip/",
+    "pubDate": "2026-09-06T13:40:00.000Z"
+  },
+  {
     "title": "Joplin 3.7.16",
     "link": "https://www.computerbase.de/downloads/office/joplin/",
     "pubDate": "2026-09-06T10:14:00.000Z"
@@ -243,10 +248,5 @@
     "title": "WinSCP 6.6.3 RC",
     "link": "https://www.computerbase.de/downloads/office/dateitransfer/winscp/",
     "pubDate": "2026-09-03T15:00:00.000Z"
-  },
-  {
-    "title": "Duplicati 2.4.0.0",
-    "link": "https://www.computerbase.de/downloads/sicherheit/backup/duplicati/",
-    "pubDate": "2026-09-03T14:52:00.000Z"
   }
 ]
