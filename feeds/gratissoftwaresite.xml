@@ -5,6 +5,18 @@
     <link>https://www.gratissoftwaresite.nl/downloads/nieuwe-updates</link>
     <description>Nieuwste software-updates van GratisSoftwareSite</description>
     <item>
+      <title>Vivaldi 8.2.4133.47</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/vivaldi-internet-web-browser</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/vivaldi-internet-web-browser</guid>
+      <pubDate>6 september 2026</pubDate>
+    </item>
+    <item>
+      <title>7-Zip 26.03</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/7-zip-compressie-unzip</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/7-zip-compressie-unzip</guid>
+      <pubDate>6 september 2026</pubDate>
+    </item>
+    <item>
       <title>Brave 1.94.121</title>
       <link>https://www.gratissoftwaresite.nl/downloads/brave-web-browser-internet-privacy-beveiliging-schilden-trackers-ads</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/brave-web-browser-internet-privacy-beveiliging-schilden-trackers-ads</guid>
@@ -39,12 +51,6 @@
       <link>https://www.gratissoftwaresite.nl/downloads/tor-browser-internet-web-anoniem-surfen-ip-verbergen</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/tor-browser-internet-web-anoniem-surfen-ip-verbergen</guid>
       <pubDate>4 september 2026</pubDate>
-    </item>
-    <item>
-      <title>Vivaldi 8.2.4133.45</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/vivaldi-internet-web-browser</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/vivaldi-internet-web-browser</guid>
-      <pubDate>3 september 2026</pubDate>
     </item>
     <item>
       <title>Proton Drive 3.0.6</title>
@@ -573,12 +579,6 @@
       <link>https://www.gratissoftwaresite.nl/downloads/windirstat-werktuig-tools-schijfruimte</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/windirstat-werktuig-tools-schijfruimte</guid>
       <pubDate>3 augustus 2026</pubDate>
-    </item>
-    <item>
-      <title>Adobe Acrobat Reader DC 26.001.21771</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/adobe-reader-pdf-bekijken-plugin</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/adobe-reader-pdf-bekijken-plugin</guid>
-      <pubDate>2 augustus 2026</pubDate>
     </item>
   </channel>
 </rss>

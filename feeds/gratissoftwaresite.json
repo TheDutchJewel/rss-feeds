@@ -1,5 +1,15 @@
 [
     {
+        "title": "Vivaldi 8.2.4133.47",
+        "link": "https://www.gratissoftwaresite.nl/downloads/vivaldi-internet-web-browser",
+        "pubDate": "6 september 2026"
+    },
+    {
+        "title": "7-Zip 26.03",
+        "link": "https://www.gratissoftwaresite.nl/downloads/7-zip-compressie-unzip",
+        "pubDate": "6 september 2026"
+    },
+    {
         "title": "Brave 1.94.121",
         "link": "https://www.gratissoftwaresite.nl/downloads/brave-web-browser-internet-privacy-beveiliging-schilden-trackers-ads",
         "pubDate": "5 september 2026"
@@ -28,11 +38,6 @@
         "title": "Tor Browser 15.0.21",
         "link": "https://www.gratissoftwaresite.nl/downloads/tor-browser-internet-web-anoniem-surfen-ip-verbergen",
         "pubDate": "4 september 2026"
-    },
-    {
-        "title": "Vivaldi 8.2.4133.45",
-        "link": "https://www.gratissoftwaresite.nl/downloads/vivaldi-internet-web-browser",
-        "pubDate": "3 september 2026"
     },
     {
         "title": "Proton Drive 3.0.6",
@@ -473,10 +478,5 @@
         "title": "WinDirStat 2.8.0",
         "link": "https://www.gratissoftwaresite.nl/downloads/windirstat-werktuig-tools-schijfruimte",
         "pubDate": "3 augustus 2026"
-    },
-    {
-        "title": "Adobe Acrobat Reader DC 26.001.21771",
-        "link": "https://www.gratissoftwaresite.nl/downloads/adobe-reader-pdf-bekijken-plugin",
-        "pubDate": "2 augustus 2026"
     }
 ]
