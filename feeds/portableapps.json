@@ -1,5 +1,10 @@
 [
   {
+    "title": "TeamViewer Portable 15.81.6 (pc control, screen sharing) Released",
+    "link": "https://portableapps.com/news/2026-09-06--teamviewer-portable-15.81.6-released",
+    "pubDate": "Sun, 06 Sep 2026 19:34:34 +0000"
+  },
+  {
     "title": "Chromium Portable 152.0.7977.83 (web browser) Released",
     "link": "https://portableapps.com/news/2026-09-05--chromium-portable-152.0.7977.83-released",
     "pubDate": "Sun, 06 Sep 2026 03:01:55 +0000"
@@ -68,10 +73,5 @@
     "title": "Mozilla Firefox ESR, Portable Edition 153.2.0 (web browser) Released",
     "link": "https://portableapps.com/news/2026-09-03--firefox-portable-esr-153.2.0-released",
     "pubDate": "Thu, 03 Sep 2026 23:56:22 +0000"
-  },
-  {
-    "title": "Mozilla Firefox Developer Edition, Portable 156b1 (web browser) Released",
-    "link": "https://portableapps.com/news/2026-09-03--firefox-portable-developer-156b1-released",
-    "pubDate": "Thu, 03 Sep 2026 23:54:36 +0000"
   }
 ]
