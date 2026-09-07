@@ -1,5 +1,20 @@
 [
   {
+    "title": "FotoSketcher Studio 4.60 RC",
+    "link": "https://www.computerbase.de/downloads/foto-und-grafik/fotosketcher/",
+    "pubDate": "2026-09-07T04:24:00.000Z"
+  },
+  {
+    "title": "croc 11.5.0",
+    "link": "https://www.computerbase.de/downloads/office/dateitransfer/croc/",
+    "pubDate": "2026-09-07T04:23:00.000Z"
+  },
+  {
+    "title": "Shotcut 26.9.6 Beta",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/shotcut/",
+    "pubDate": "2026-09-07T04:22:00.000Z"
+  },
+  {
     "title": "Sandboxie Plus 1.18.4",
     "link": "https://www.computerbase.de/downloads/sicherheit/sandboxie/",
     "pubDate": "2026-09-06T16:49:00.000Z"
@@ -170,11 +185,6 @@
     "pubDate": "2026-09-04T04:23:00.000Z"
   },
   {
-    "title": "croc 11.4.0",
-    "link": "https://www.computerbase.de/downloads/office/dateitransfer/croc/",
-    "pubDate": "2026-09-04T04:22:00.000Z"
-  },
-  {
     "title": "K-Lite Codec Pack Update 19.9.7",
     "link": "https://www.computerbase.de/downloads/audio-und-video/k-lite-codec-pack/",
     "pubDate": "2026-09-04T04:21:00.000Z"
@@ -238,15 +248,5 @@
     "title": "Intel Arc & Xe Grafiktreiber 32.0.101.8992",
     "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/intel-grafiktreiber/",
     "pubDate": "2026-09-03T15:30:00.000Z"
-  },
-  {
-    "title": "Audacity 4.0.0",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/audacity/",
-    "pubDate": "2026-09-03T15:10:00.000Z"
-  },
-  {
-    "title": "AVG AntiVirus Free 26.9.11160 Beta",
-    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/avg-antivirus-free/",
-    "pubDate": "2026-09-03T15:03:00.000Z"
   }
 ]
