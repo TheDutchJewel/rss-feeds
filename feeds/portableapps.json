@@ -1,5 +1,25 @@
 [
   {
+    "title": "gVim Portable 9.2.1037 (advanced text editor) Released",
+    "link": "https://portableapps.com/news/2026-09-07--gvim-portable-9.2.1037-released",
+    "pubDate": "Mon, 07 Sep 2026 16:07:04 +0000"
+  },
+  {
+    "title": "QOwnNotes Portable 26.9.1 (markdown note taker) Released",
+    "link": "https://portableapps.com/news/2026-09-07--qownnotes-portable-26.9.1-released",
+    "pubDate": "Mon, 07 Sep 2026 16:05:50 +0000"
+  },
+  {
+    "title": "Trellix Stinger Portable 26.09.36.1 (common virus remover) Released",
+    "link": "https://portableapps.com/news/2026-09-07--trellix-stinger-portable-26.09.36.1-released",
+    "pubDate": "Mon, 07 Sep 2026 15:59:11 +0000"
+  },
+  {
+    "title": " mssPortable 1.459.97 (Microsoft Safety Scanner antivirus launcher) Released",
+    "link": "https://portableapps.com/news/2026-09-07--mssportable-1.459.97-released",
+    "pubDate": "Mon, 07 Sep 2026 15:57:20 +0000"
+  },
+  {
     "title": "TeamViewer Portable 15.81.6 (pc control, screen sharing) Released",
     "link": "https://portableapps.com/news/2026-09-06--teamviewer-portable-15.81.6-released",
     "pubDate": "Sun, 06 Sep 2026 19:34:34 +0000"
@@ -53,25 +73,5 @@
     "title": "Mozilla Firefox, Portable Edition Stable 155.0.1 (web browser) Released",
     "link": "https://portableapps.com/news/2026-09-04--firefox-portable-155.0.1-released",
     "pubDate": "Fri, 04 Sep 2026 18:46:48 +0000"
-  },
-  {
-    "title": "PortableApps.com AppCompactor 3.19 (shrink portable apps) Released",
-    "link": "https://portableapps.com/news/2026-09-04--portableapps.com-appcompactor-3.19-released",
-    "pubDate": "Fri, 04 Sep 2026 18:21:26 +0000"
-  },
-  {
-    "title": "7-Zip Portable 26.03 (file archiver) Released ",
-    "link": "https://portableapps.com/news/2026-09-04--7-zip-portable-26.03-released",
-    "pubDate": "Fri, 04 Sep 2026 17:58:21 +0000"
-  },
-  {
-    "title": "Mozilla Firefox, Portable Edition Nightly 157 (web browser) Released",
-    "link": "https://portableapps.com/news/2026-09-03--firefox-portable-nightly-157-released",
-    "pubDate": "Thu, 03 Sep 2026 23:59:17 +0000"
-  },
-  {
-    "title": "Mozilla Firefox ESR, Portable Edition 153.2.0 (web browser) Released",
-    "link": "https://portableapps.com/news/2026-09-03--firefox-portable-esr-153.2.0-released",
-    "pubDate": "Thu, 03 Sep 2026 23:56:22 +0000"
   }
 ]

@@ -1,5 +1,35 @@
 [
   {
+    "title": "EPIM Mail 26.5.0",
+    "link": "https://www.computerbase.de/downloads/office/essentialpim-free/",
+    "pubDate": "2026-09-07T17:38:00.000Z"
+  },
+  {
+    "title": "Adobe Acrobat Reader DC (26.002.21900)",
+    "link": "https://www.computerbase.de/downloads/office/pdf/adobe-acrobat-reader/",
+    "pubDate": "2026-09-07T17:36:00.000Z"
+  },
+  {
+    "title": "Linux Kernel 7.2.4 (Linux)",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/linux-kernel/",
+    "pubDate": "2026-09-07T17:10:00.000Z"
+  },
+  {
+    "title": "Linux Kernel 6.18.50 (Linux)",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/linux-kernel/",
+    "pubDate": "2026-09-07T17:09:00.000Z"
+  },
+  {
+    "title": "Mozilla Firefox 156.0 Beta 4",
+    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
+    "pubDate": "2026-09-07T17:08:00.000Z"
+  },
+  {
+    "title": "Ferdium 7.2.3",
+    "link": "https://www.computerbase.de/downloads/kommunikation/ferdium/",
+    "pubDate": "2026-09-07T17:07:00.000Z"
+  },
+  {
     "title": "pdfFactory 9.33",
     "link": "https://www.computerbase.de/downloads/office/pdf/pdffactory/",
     "pubDate": "2026-09-07T15:27:00.000Z"
@@ -135,11 +165,6 @@
     "pubDate": "2026-09-04T19:17:00.000Z"
   },
   {
-    "title": "Mozilla Firefox 156.0 Beta 3",
-    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
-    "pubDate": "2026-09-04T19:16:00.000Z"
-  },
-  {
     "title": "SmartFTP 10.0 Build 3326",
     "link": "https://www.computerbase.de/downloads/office/dateitransfer/smartftp/",
     "pubDate": "2026-09-04T19:15:00.000Z"
@@ -223,30 +248,5 @@
     "title": "Java SE Development Kit 28.0 Build 14 Dev",
     "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/java-se-development-kit/",
     "pubDate": "2026-09-03T19:36:00.000Z"
-  },
-  {
-    "title": "Google Chrome 152.0.7977.82/.83",
-    "link": "https://www.computerbase.de/downloads/browser/google-chrome/",
-    "pubDate": "2026-09-03T19:26:00.000Z"
-  },
-  {
-    "title": "Signal 8.26.0",
-    "link": "https://www.computerbase.de/downloads/kommunikation/signal/",
-    "pubDate": "2026-09-03T18:12:00.000Z"
-  },
-  {
-    "title": "OpenVPN 2.7.7",
-    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/openvpn/",
-    "pubDate": "2026-09-03T17:03:00.000Z"
-  },
-  {
-    "title": "Rockstar Games Launcher 1.0.109.3031",
-    "link": "https://www.computerbase.de/downloads/games/rockstar-games-launcher/",
-    "pubDate": "2026-09-03T16:57:00.000Z"
-  },
-  {
-    "title": "Nvidia App 11.0.9.251",
-    "link": "https://www.computerbase.de/downloads/systemtools/grafikkarten/nvidia-app/",
-    "pubDate": "2026-09-03T16:51:00.000Z"
   }
 ]
