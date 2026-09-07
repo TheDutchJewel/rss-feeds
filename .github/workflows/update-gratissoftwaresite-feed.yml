@@ -2,7 +2,7 @@ name: Update GratisSoftwareSite Feed
 
 on:
   schedule:
-    - cron: '7,22,37,72 * * * *'
+    - cron: '7,22,37,52 * * * *'
   workflow_dispatch:
 
 permissions:
