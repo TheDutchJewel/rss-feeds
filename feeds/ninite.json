@@ -1,5 +1,10 @@
 [
   {
+    "title": "Spotify updated to 1.2.99.317.",
+    "link": "https://ninite.com/spotify/",
+    "pubDate": "Mon, 07 Sep 2026 11:19:58 -0000"
+  },
+  {
     "title": "Edge updated to 152.0.4191.66.",
     "link": "https://ninite.com/edge/",
     "pubDate": "Sat, 05 Sep 2026 22:02:23 -0000"
@@ -378,10 +383,5 @@
     "title": "JRE (Amazon Corretto) x64 8 updated to 8u504-b01.",
     "link": "https://ninite.com/correttojrex8/",
     "pubDate": "Wed, 19 Aug 2026 07:41:27 -0000"
-  },
-  {
-    "title": "JRE (Amazon Corretto) 8 updated to 8u504-b01.",
-    "link": "https://ninite.com/correttojre8/",
-    "pubDate": "Wed, 19 Aug 2026 07:41:18 -0000"
   }
 ]

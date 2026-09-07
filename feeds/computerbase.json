@@ -1,5 +1,40 @@
 [
   {
+    "title": "pdfFactory 9.33",
+    "link": "https://www.computerbase.de/downloads/office/pdf/pdffactory/",
+    "pubDate": "2026-09-07T15:27:00.000Z"
+  },
+  {
+    "title": "Adobe Creative Cloud 6.10.0.252.41",
+    "link": "https://www.computerbase.de/downloads/foto-und-grafik/adobe-creative-cloud/",
+    "pubDate": "2026-09-07T14:51:00.000Z"
+  },
+  {
+    "title": "Spotify 1.2.99.317",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/spotify/",
+    "pubDate": "2026-09-07T10:51:00.000Z"
+  },
+  {
+    "title": "Quick Share v1.0.2697.0",
+    "link": "https://www.computerbase.de/downloads/office/dateitransfer/nearby-share/",
+    "pubDate": "2026-09-07T10:50:00.000Z"
+  },
+  {
+    "title": "UltraVNC 1.8.2.9",
+    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/ultravnc/",
+    "pubDate": "2026-09-07T10:49:00.000Z"
+  },
+  {
+    "title": "Groovy 5.1.2",
+    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/groovy/",
+    "pubDate": "2026-09-07T10:48:00.000Z"
+  },
+  {
+    "title": "WhatsApp 2.26.36.13 (macOS)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/whatsapp/",
+    "pubDate": "2026-09-07T10:47:00.000Z"
+  },
+  {
     "title": "FotoSketcher Studio 4.60 RC",
     "link": "https://www.computerbase.de/downloads/foto-und-grafik/fotosketcher/",
     "pubDate": "2026-09-07T04:24:00.000Z"
@@ -145,11 +180,6 @@
     "pubDate": "2026-09-04T14:08:00.000Z"
   },
   {
-    "title": "WhatsApp 2.26.35.23 (macOS)",
-    "link": "https://www.computerbase.de/downloads/kommunikation/whatsapp/",
-    "pubDate": "2026-09-04T14:02:00.000Z"
-  },
-  {
     "title": "7-Zip 26.03",
     "link": "https://www.computerbase.de/downloads/office/packprogramme/7-zip/",
     "pubDate": "2026-09-04T14:02:00.000Z"
@@ -218,35 +248,5 @@
     "title": "Nvidia App 11.0.9.251",
     "link": "https://www.computerbase.de/downloads/systemtools/grafikkarten/nvidia-app/",
     "pubDate": "2026-09-03T16:51:00.000Z"
-  },
-  {
-    "title": "Nvidia FrameView 2.0",
-    "link": "https://www.computerbase.de/downloads/systemtools/grafikkarten/nvidia-frameview/",
-    "pubDate": "2026-09-03T16:50:00.000Z"
-  },
-  {
-    "title": "VMware Workstation Pro 26H1u1",
-    "link": "https://www.computerbase.de/downloads/systemtools/vmware-workstation/",
-    "pubDate": "2026-09-03T16:48:00.000Z"
-  },
-  {
-    "title": "CCleaner 7.11.1509",
-    "link": "https://www.computerbase.de/downloads/systemtools/ccleaner/",
-    "pubDate": "2026-09-03T16:46:00.000Z"
-  },
-  {
-    "title": "Discord 1.0.9256",
-    "link": "https://www.computerbase.de/downloads/kommunikation/discord/",
-    "pubDate": "2026-09-03T16:44:00.000Z"
-  },
-  {
-    "title": "AMD Adrenalin Radeon-Treiber 26.9.1 (WHQL Optional)",
-    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/amd-adrenalin-treiber/",
-    "pubDate": "2026-09-03T16:40:00.000Z"
-  },
-  {
-    "title": "Intel Arc & Xe Grafiktreiber 32.0.101.8992",
-    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/intel-grafiktreiber/",
-    "pubDate": "2026-09-03T15:30:00.000Z"
   }
 ]
