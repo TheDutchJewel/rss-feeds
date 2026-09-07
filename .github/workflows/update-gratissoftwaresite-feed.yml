@@ -2,7 +2,7 @@ name: Update GratisSoftwareSite Feed
 
 on:
   schedule:
-    - cron: '*/15 * * * *'
+    - cron: '7,22,37,72 * * * *'
   workflow_dispatch:
 
 permissions:
@@ -30,4 +30,5 @@ jobs:
           git add feeds/gratissoftwaresite.json
           git add feeds/gratissoftwaresite.xml
           git diff --quiet && git diff --staged --quiet || git commit -m "Update GratisSoftwareSite feed"
+          git pull --rebase origin main
           git push
