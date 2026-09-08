@@ -1,5 +1,30 @@
 [
   {
+    "title": "Thunderbird ESR, Portable Edition 153.2.0 (email client) Released",
+    "link": "https://portableapps.com/news/2026-09-08--thunderbird-portable-esr-153.2.0-released",
+    "pubDate": "Tue, 08 Sep 2026 21:59:55 +0000"
+  },
+  {
+    "title": "Thunderbird, Portable Edition 156.0 Beta 2 (email client) Released",
+    "link": "https://portableapps.com/news/2026-09-08--thunderbird-portable-156.0-beta-2-released",
+    "pubDate": "Tue, 08 Sep 2026 21:57:55 +0000"
+  },
+  {
+    "title": "Thunderbird, Portable Edition 155.0 (email client) Released",
+    "link": "https://portableapps.com/news/2026-09-08--thunderbird-portable-155.0-released",
+    "pubDate": "Tue, 08 Sep 2026 21:55:01 +0000"
+  },
+  {
+    "title": "Telegram Desktop Portable 7.2.7 (secure instant messaging) Released",
+    "link": "https://portableapps.com/news/2026-09-08--telegram-desktop-portable-7.2.7-released",
+    "pubDate": "Tue, 08 Sep 2026 17:58:37 +0000"
+  },
+  {
+    "title": "New: TraceRouteOK Portable 3.55 (PC stress test) Released",
+    "link": "https://portableapps.com/news/2026-09-08--tracerouteok-portable-3.55-released",
+    "pubDate": "Tue, 08 Sep 2026 17:48:38 +0000"
+  },
+  {
     "title": "Joplin Portable 3.7.16 (note-taking and todo) Released",
     "link": "https://portableapps.com/news/2026-09-07--joplin-portable-3.7.16-released",
     "pubDate": "Mon, 07 Sep 2026 21:17:37 +0000"
@@ -48,30 +73,5 @@
     "title": "Google Chrome Portable 154 Beta (web browser) Released",
     "link": "https://portableapps.com/news/2026-09-05--google-chrome-portable-154-beta-released",
     "pubDate": "Sat, 05 Sep 2026 21:59:56 +0000"
-  },
-  {
-    "title": "Google Chrome Portable 152.0.7977.83 Stable (web browser) Released",
-    "link": "https://portableapps.com/news/2026-09-05--google-chrome-portable-152.0.7977.83-released",
-    "pubDate": "Sat, 05 Sep 2026 21:59:30 +0000"
-  },
-  {
-    "title": "PortableApps.com Installer 3.9.21 (portable app packaging) Released",
-    "link": "https://portableapps.com/news/2026-09-05--portableapps.com-installer-3.9.21-released",
-    "pubDate": "Sat, 05 Sep 2026 21:54:12 +0000"
-  },
-  {
-    "title": "PortableApps.com Platform 30.5: September Maintenance Release",
-    "link": "https://portableapps.com/news/2026-09-05--portableapps.com-platform-30.5-released",
-    "pubDate": "Sat, 05 Sep 2026 21:33:11 +0000"
-  },
-  {
-    "title": "PortableApps.com Installer 3.9.20 (portable app packaging) Released",
-    "link": "https://portableapps.com/news/2026-09-04--portableapps.com-installer-3.9.20-released",
-    "pubDate": "Fri, 04 Sep 2026 18:52:38 +0000"
-  },
-  {
-    "title": "Mozilla Firefox, Portable Edition Legacy 115.40.0 (web browser) Released",
-    "link": "https://portableapps.com/news/2026-09-04--firefox-portable-legacy-115.40.0-released",
-    "pubDate": "Fri, 04 Sep 2026 18:50:46 +0000"
   }
 ]

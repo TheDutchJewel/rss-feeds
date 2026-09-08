@@ -1,5 +1,30 @@
 [
   {
+    "title": ".NET Desktop Runtime x64 9 updated to 9.0.20.36421.",
+    "link": "https://ninite.com/.netx9/",
+    "pubDate": "Tue, 08 Sep 2026 21:28:39 -0000"
+  },
+  {
+    "title": ".NET Desktop Runtime x64 8 updated to 8.0.31.36421.",
+    "link": "https://ninite.com/.netx8/",
+    "pubDate": "Tue, 08 Sep 2026 21:28:33 -0000"
+  },
+  {
+    "title": ".NET Desktop Runtime arm64 8 updated to 8.0.31.36421.",
+    "link": "https://ninite.com/.neta8/",
+    "pubDate": "Tue, 08 Sep 2026 21:28:26 -0000"
+  },
+  {
+    "title": ".NET Desktop Runtime 8 updated to 8.0.31.36421.",
+    "link": "https://ninite.com/.net8/",
+    "pubDate": "Tue, 08 Sep 2026 21:28:17 -0000"
+  },
+  {
+    "title": "Evernote updated to 11.33.5.",
+    "link": "https://ninite.com/evernote/",
+    "pubDate": "Tue, 08 Sep 2026 21:20:21 -0000"
+  },
+  {
     "title": "Spotify updated to 1.2.99.317.",
     "link": "https://ninite.com/spotify/",
     "pubDate": "Mon, 07 Sep 2026 11:19:58 -0000"
@@ -378,10 +403,5 @@
     "title": "Visual Studio Code updated to 1.134.0.",
     "link": "https://ninite.com/vscode/",
     "pubDate": "Wed, 19 Aug 2026 14:09:38 -0000"
-  },
-  {
-    "title": "JRE (Amazon Corretto) x64 8 updated to 8u504-b01.",
-    "link": "https://ninite.com/correttojrex8/",
-    "pubDate": "Wed, 19 Aug 2026 07:41:27 -0000"
   }
 ]
