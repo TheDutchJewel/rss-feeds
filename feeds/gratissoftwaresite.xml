@@ -5,6 +5,12 @@
     <link>https://www.gratissoftwaresite.nl/downloads/nieuwe-updates</link>
     <description>Nieuwste software-updates van GratisSoftwareSite</description>
     <item>
+      <title>Password Safe 3.72.2</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/password-safe-wachtwoord-beheer</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/password-safe-wachtwoord-beheer</guid>
+      <pubDate>8 september 2026</pubDate>
+    </item>
+    <item>
       <title>KillerPDF 1.8.4</title>
       <link>https://www.gratissoftwaresite.nl/downloads/killerpdf-bewerken-pdf</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/killerpdf-bewerken-pdf</guid>
@@ -573,12 +579,6 @@
       <link>https://www.gratissoftwaresite.nl/downloads/photoflare-fotobewerking-beheer</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/photoflare-fotobewerking-beheer</guid>
       <pubDate>4 augustus 2026</pubDate>
-    </item>
-    <item>
-      <title>WinDirStat 2.8.0</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/windirstat-werktuig-tools-schijfruimte</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/windirstat-werktuig-tools-schijfruimte</guid>
-      <pubDate>3 augustus 2026</pubDate>
     </item>
   </channel>
 </rss>
