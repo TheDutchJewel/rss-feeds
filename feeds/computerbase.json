@@ -1,5 +1,130 @@
 [
   {
+    "title": "FotoSketcher Studio 4.60 RC Update",
+    "link": "https://www.computerbase.de/downloads/foto-und-grafik/fotosketcher/",
+    "pubDate": "2026-09-08T17:53:00.000Z"
+  },
+  {
+    "title": "1Password 8.12.36",
+    "link": "https://www.computerbase.de/downloads/sicherheit/passwortmanager/1password/",
+    "pubDate": "2026-09-08T17:46:00.000Z"
+  },
+  {
+    "title": "Windows 11 Kumulatives Update 26H1 (Build 28000.2954) KB5124012 (Win 11)",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/windows-11-kumulatives-update/",
+    "pubDate": "2026-09-08T17:45:00.000Z"
+  },
+  {
+    "title": "Windows 11 Kumulatives Update 24H2/25H2 (Build 26200.9445) KB5124008 (Win 11)",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/windows-11-kumulatives-update/",
+    "pubDate": "2026-09-08T17:44:00.000Z"
+  },
+  {
+    "title": "Windows 11 Kumulatives Update 23H2 (Build 22631.7582) KB5122880 (Win 11)",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/windows-11-kumulatives-update/",
+    "pubDate": "2026-09-08T17:43:00.000Z"
+  },
+  {
+    "title": "Windows 10 Kumulatives Update 21H2/22H2 (Build 19045.7725) KB5122878 (Win 10)",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/windows-10-kumulatives-update/",
+    "pubDate": "2026-09-08T17:42:00.000Z"
+  },
+  {
+    "title": "Windows 10 Kumulatives Update 1809 (Build 17763.9245) KB5122876 (Win 10)",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/windows-10-kumulatives-update/",
+    "pubDate": "2026-09-08T17:41:00.000Z"
+  },
+  {
+    "title": "Windows 10 Kumulatives Update 1607 (Build 14393.9512) KB5123099 (Win 10)",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/windows-10-kumulatives-update/",
+    "pubDate": "2026-09-08T17:40:00.000Z"
+  },
+  {
+    "title": "DaVinci Resolve 21.1",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/davinci-resolve/",
+    "pubDate": "2026-09-08T17:29:00.000Z"
+  },
+  {
+    "title": "Glorious Core 2.1.21",
+    "link": "https://www.computerbase.de/downloads/treiber/eingabegeraete/glorious-core/",
+    "pubDate": "2026-09-08T17:25:00.000Z"
+  },
+  {
+    "title": "Discord 0.0.411 (macOS)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/discord/",
+    "pubDate": "2026-09-08T17:22:00.000Z"
+  },
+  {
+    "title": "Discord 1.0.157 (Linux)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/discord/",
+    "pubDate": "2026-09-08T17:22:00.000Z"
+  },
+  {
+    "title": "Visual Studio Code (VS Code) 1.136.2",
+    "link": "https://www.computerbase.de/downloads/office/editoren/visual-studio-code/",
+    "pubDate": "2026-09-08T17:22:00.000Z"
+  },
+  {
+    "title": "ReNamer 7.10",
+    "link": "https://www.computerbase.de/downloads/office/dateimanager/renamer/",
+    "pubDate": "2026-09-08T15:50:00.000Z"
+  },
+  {
+    "title": "Eclipse SDK 4.41",
+    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/eclipse-sdk/",
+    "pubDate": "2026-09-08T15:18:00.000Z"
+  },
+  {
+    "title": "Roccat Swarm 1.9482",
+    "link": "https://www.computerbase.de/downloads/treiber/eingabegeraete/roccat-swarm/",
+    "pubDate": "2026-09-08T14:59:00.000Z"
+  },
+  {
+    "title": "UL 3DMark Systeminfo 5.93",
+    "link": "https://www.computerbase.de/downloads/benchmarks/ul-3dmark/",
+    "pubDate": "2026-09-08T14:57:00.000Z"
+  },
+  {
+    "title": "Syncthing 2.1.5",
+    "link": "https://www.computerbase.de/downloads/office/dateimanager/syncthing/",
+    "pubDate": "2026-09-08T14:54:00.000Z"
+  },
+  {
+    "title": "Ocenaudio 3.21.1",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/ocenaudio/",
+    "pubDate": "2026-09-08T14:54:00.000Z"
+  },
+  {
+    "title": "Wargaming Game Center 26.05.00.3403",
+    "link": "https://www.computerbase.de/downloads/games/wargaming-game-center/",
+    "pubDate": "2026-09-08T14:53:00.000Z"
+  },
+  {
+    "title": "Evernote 11.33.5",
+    "link": "https://www.computerbase.de/downloads/office/evernote/",
+    "pubDate": "2026-09-08T14:52:00.000Z"
+  },
+  {
+    "title": "Trellix Stinger 26.09.37.1",
+    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/mcafee-labs-stinger/",
+    "pubDate": "2026-09-08T14:52:00.000Z"
+  },
+  {
+    "title": "Adobe Acrobat Reader DC (26.002.21901)",
+    "link": "https://www.computerbase.de/downloads/office/pdf/adobe-acrobat-reader/",
+    "pubDate": "2026-09-08T14:51:00.000Z"
+  },
+  {
+    "title": "WhatsApp 2.26.36.18 (macOS)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/whatsapp/",
+    "pubDate": "2026-09-08T14:50:00.000Z"
+  },
+  {
+    "title": "croc 11.5.1",
+    "link": "https://www.computerbase.de/downloads/office/dateitransfer/croc/",
+    "pubDate": "2026-09-08T14:49:00.000Z"
+  },
+  {
     "title": "Smartphone-Kamera-Blindtest 2026",
     "link": "https://www.computerbase.de/downloads/foto-und-grafik/smartphone-kamera-blindtest/",
     "pubDate": "2026-09-08T10:00:00.000Z"
@@ -33,11 +158,6 @@
     "title": "EPIM Mail 26.5.0",
     "link": "https://www.computerbase.de/downloads/office/essentialpim-free/",
     "pubDate": "2026-09-07T17:38:00.000Z"
-  },
-  {
-    "title": "Adobe Acrobat Reader DC (26.002.21900)",
-    "link": "https://www.computerbase.de/downloads/office/pdf/adobe-acrobat-reader/",
-    "pubDate": "2026-09-07T17:36:00.000Z"
   },
   {
     "title": "Linux Kernel 7.2.4 (Linux)",
@@ -90,21 +210,6 @@
     "pubDate": "2026-09-07T10:48:00.000Z"
   },
   {
-    "title": "WhatsApp 2.26.36.13 (macOS)",
-    "link": "https://www.computerbase.de/downloads/kommunikation/whatsapp/",
-    "pubDate": "2026-09-07T10:47:00.000Z"
-  },
-  {
-    "title": "FotoSketcher Studio 4.60 RC",
-    "link": "https://www.computerbase.de/downloads/foto-und-grafik/fotosketcher/",
-    "pubDate": "2026-09-07T04:24:00.000Z"
-  },
-  {
-    "title": "croc 11.5.0",
-    "link": "https://www.computerbase.de/downloads/office/dateitransfer/croc/",
-    "pubDate": "2026-09-07T04:23:00.000Z"
-  },
-  {
     "title": "Shotcut 26.9.6 Beta",
     "link": "https://www.computerbase.de/downloads/audio-und-video/shotcut/",
     "pubDate": "2026-09-07T04:22:00.000Z"
@@ -143,110 +248,5 @@
     "title": "ImageGlass 10.0.6.906",
     "link": "https://www.computerbase.de/downloads/foto-und-grafik/imageglass/",
     "pubDate": "2026-09-05T16:49:00.000Z"
-  },
-  {
-    "title": "LibreWolf 155.0.1-1",
-    "link": "https://www.computerbase.de/downloads/browser/librewolf/",
-    "pubDate": "2026-09-05T16:48:00.000Z"
-  },
-  {
-    "title": "CapFrameX 1.9.0",
-    "link": "https://www.computerbase.de/downloads/systemtools/grafikkarten/capframex-tool/",
-    "pubDate": "2026-09-05T11:11:00.000Z"
-  },
-  {
-    "title": "Microsoft Edge 152.0.4191.66",
-    "link": "https://www.computerbase.de/downloads/browser/microsoft-edge/",
-    "pubDate": "2026-09-05T07:27:00.000Z"
-  },
-  {
-    "title": "Adobe AIR SDK 51.3.4.3",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/adobe-air-sdk/",
-    "pubDate": "2026-09-05T07:27:00.000Z"
-  },
-  {
-    "title": "Nvidia GeForce-Treiber 616.86 Hotfix",
-    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/nvidia-geforce-treiber/",
-    "pubDate": "2026-09-05T07:23:00.000Z"
-  },
-  {
-    "title": "Wine 11.17 Beta (Linux)",
-    "link": "https://www.computerbase.de/downloads/systemtools/wine/",
-    "pubDate": "2026-09-04T20:58:00.000Z"
-  },
-  {
-    "title": "FreeBSD 14.5",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/freebsd/",
-    "pubDate": "2026-09-04T20:57:00.000Z"
-  },
-  {
-    "title": "Tunnelblick 10.0 Beta 2 (macOS)",
-    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/tunnelblick/",
-    "pubDate": "2026-09-04T19:18:00.000Z"
-  },
-  {
-    "title": "Tunnelblick 9.0.1 (macOS)",
-    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/tunnelblick/",
-    "pubDate": "2026-09-04T19:18:00.000Z"
-  },
-  {
-    "title": "Opera GX 135.0.5973.94 Early Access",
-    "link": "https://www.computerbase.de/downloads/browser/opera-gx/",
-    "pubDate": "2026-09-04T19:17:00.000Z"
-  },
-  {
-    "title": "SmartFTP 10.0 Build 3326",
-    "link": "https://www.computerbase.de/downloads/office/dateitransfer/smartftp/",
-    "pubDate": "2026-09-04T19:15:00.000Z"
-  },
-  {
-    "title": "Mozilla Firefox 155.0.1",
-    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
-    "pubDate": "2026-09-04T14:49:00.000Z"
-  },
-  {
-    "title": "Nvidia GeForce-Treiber 616.64",
-    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/nvidia-geforce-treiber/",
-    "pubDate": "2026-09-04T14:12:00.000Z"
-  },
-  {
-    "title": "LibreOffice 26.2.6",
-    "link": "https://www.computerbase.de/downloads/office/libreoffice/",
-    "pubDate": "2026-09-04T14:11:00.000Z"
-  },
-  {
-    "title": "Vivaldi 8.2 Build 4133.47",
-    "link": "https://www.computerbase.de/downloads/browser/vivaldi/",
-    "pubDate": "2026-09-04T14:10:00.000Z"
-  },
-  {
-    "title": "Opera 135.0.5973.92",
-    "link": "https://www.computerbase.de/downloads/browser/opera/",
-    "pubDate": "2026-09-04T14:09:00.000Z"
-  },
-  {
-    "title": "Multi Commander 16.2 Build 3213",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/multi-commander/",
-    "pubDate": "2026-09-04T14:08:00.000Z"
-  },
-  {
-    "title": "Wing FTP Server 8.2.4",
-    "link": "https://www.computerbase.de/downloads/office/dateitransfer/wing-ftp-server/",
-    "pubDate": "2026-09-04T14:08:00.000Z"
-  },
-  {
-    "title": "7-Zip 26.03",
-    "link": "https://www.computerbase.de/downloads/office/packprogramme/7-zip/",
-    "pubDate": "2026-09-04T14:02:00.000Z"
-  },
-  {
-    "title": "TeamViewer 15.81.6",
-    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/teamviewer/",
-    "pubDate": "2026-09-04T04:27:00.000Z"
-  },
-  {
-    "title": "TeamViewer QuickSupport 15.81.6",
-    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/teamviewer/",
-    "pubDate": "2026-09-04T04:26:00.000Z"
   }
 ]
