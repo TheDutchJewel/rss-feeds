@@ -1,5 +1,25 @@
 [
   {
+    "title": "Intel Wireless Bluetooth-Treiber 24.70.0",
+    "link": "https://www.computerbase.de/downloads/treiber/netzwerk/intel-wireless-bluetooth-treiber/",
+    "pubDate": "2026-09-08T04:38:00.000Z"
+  },
+  {
+    "title": "Intel Wireless Wi-Fi-Treiber 24.70.0",
+    "link": "https://www.computerbase.de/downloads/treiber/netzwerk/intel-wireless-wi-fi-treiber/",
+    "pubDate": "2026-09-08T04:36:00.000Z"
+  },
+  {
+    "title": "Telegram Desktop 7.2.7",
+    "link": "https://www.computerbase.de/downloads/kommunikation/telegram-desktop/",
+    "pubDate": "2026-09-08T04:30:00.000Z"
+  },
+  {
+    "title": "Bulk Crap Uninstaller 6.3",
+    "link": "https://www.computerbase.de/downloads/systemtools/bulk-crap-uninstaller/",
+    "pubDate": "2026-09-08T04:17:00.000Z"
+  },
+  {
     "title": "EPIM Mail 26.5.0",
     "link": "https://www.computerbase.de/downloads/office/essentialpim-free/",
     "pubDate": "2026-09-07T17:38:00.000Z"
@@ -210,11 +230,6 @@
     "pubDate": "2026-09-04T14:02:00.000Z"
   },
   {
-    "title": "Telegram Desktop 7.2.5",
-    "link": "https://www.computerbase.de/downloads/kommunikation/telegram-desktop/",
-    "pubDate": "2026-09-04T14:01:00.000Z"
-  },
-  {
     "title": "TeamViewer 15.81.6",
     "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/teamviewer/",
     "pubDate": "2026-09-04T04:27:00.000Z"
@@ -233,20 +248,5 @@
     "title": "HyperSnap 10.3.5",
     "link": "https://www.computerbase.de/downloads/foto-und-grafik/hypersnap/",
     "pubDate": "2026-09-04T04:24:00.000Z"
-  },
-  {
-    "title": "Blizzard Battle.net 2.52.11.17778",
-    "link": "https://www.computerbase.de/downloads/games/blizzard-battle.net/",
-    "pubDate": "2026-09-04T04:23:00.000Z"
-  },
-  {
-    "title": "K-Lite Codec Pack Update 19.9.7",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/k-lite-codec-pack/",
-    "pubDate": "2026-09-04T04:21:00.000Z"
-  },
-  {
-    "title": "Java SE Development Kit 28.0 Build 14 Dev",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/java-se-development-kit/",
-    "pubDate": "2026-09-03T19:36:00.000Z"
   }
 ]
