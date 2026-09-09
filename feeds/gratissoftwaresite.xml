@@ -5,6 +5,18 @@
     <link>https://www.gratissoftwaresite.nl/downloads/nieuwe-updates</link>
     <description>Nieuwste software-updates van GratisSoftwareSite</description>
     <item>
+      <title>BleachBit 6.0.4</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/bleachbit-cleaner-pc-schoonmaken-shredder-bestanden-vernietigen</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/bleachbit-cleaner-pc-schoonmaken-shredder-bestanden-vernietigen</guid>
+      <pubDate>9 september 2026</pubDate>
+    </item>
+    <item>
+      <title>Malwarebytes 5.7.0</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/malwarebytes-anti-malware-anti-spyware-virussen</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/malwarebytes-anti-malware-anti-spyware-virussen</guid>
+      <pubDate>9 september 2026</pubDate>
+    </item>
+    <item>
       <title>Password Safe 3.72.2</title>
       <link>https://www.gratissoftwaresite.nl/downloads/password-safe-wachtwoord-beheer</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/password-safe-wachtwoord-beheer</guid>
@@ -317,12 +329,6 @@
       <pubDate>22 augustus 2026</pubDate>
     </item>
     <item>
-      <title>Malwarebytes 5.6.5</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/malwarebytes-anti-malware-anti-spyware-virussen</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/malwarebytes-anti-malware-anti-spyware-virussen</guid>
-      <pubDate>21 augustus 2026</pubDate>
-    </item>
-    <item>
       <title>KDE Connect 26.04.2</title>
       <link>https://www.gratissoftwaresite.nl/downloads/kde-connect-bestandsoverdracht-android-telefoon-iphone</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/kde-connect-bestandsoverdracht-android-telefoon-iphone</guid>
@@ -572,12 +578,6 @@
       <title>Pale Moon 34.3.2</title>
       <link>https://www.gratissoftwaresite.nl/downloads/pale-moon-web-browser-internet</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/pale-moon-web-browser-internet</guid>
-      <pubDate>4 augustus 2026</pubDate>
-    </item>
-    <item>
-      <title>Photoflare 1.7.4</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/photoflare-fotobewerking-beheer</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/photoflare-fotobewerking-beheer</guid>
       <pubDate>4 augustus 2026</pubDate>
     </item>
   </channel>

@@ -1,5 +1,15 @@
 [
     {
+        "title": "BleachBit 6.0.4",
+        "link": "https://www.gratissoftwaresite.nl/downloads/bleachbit-cleaner-pc-schoonmaken-shredder-bestanden-vernietigen",
+        "pubDate": "9 september 2026"
+    },
+    {
+        "title": "Malwarebytes 5.7.0",
+        "link": "https://www.gratissoftwaresite.nl/downloads/malwarebytes-anti-malware-anti-spyware-virussen",
+        "pubDate": "9 september 2026"
+    },
+    {
         "title": "Password Safe 3.72.2",
         "link": "https://www.gratissoftwaresite.nl/downloads/password-safe-wachtwoord-beheer",
         "pubDate": "8 september 2026"
@@ -260,11 +270,6 @@
         "pubDate": "22 augustus 2026"
     },
     {
-        "title": "Malwarebytes 5.6.5",
-        "link": "https://www.gratissoftwaresite.nl/downloads/malwarebytes-anti-malware-anti-spyware-virussen",
-        "pubDate": "21 augustus 2026"
-    },
-    {
         "title": "KDE Connect 26.04.2",
         "link": "https://www.gratissoftwaresite.nl/downloads/kde-connect-bestandsoverdracht-android-telefoon-iphone",
         "pubDate": "21 augustus 2026"
@@ -472,11 +477,6 @@
     {
         "title": "Pale Moon 34.3.2",
         "link": "https://www.gratissoftwaresite.nl/downloads/pale-moon-web-browser-internet",
-        "pubDate": "4 augustus 2026"
-    },
-    {
-        "title": "Photoflare 1.7.4",
-        "link": "https://www.gratissoftwaresite.nl/downloads/photoflare-fotobewerking-beheer",
         "pubDate": "4 augustus 2026"
     }
 ]
