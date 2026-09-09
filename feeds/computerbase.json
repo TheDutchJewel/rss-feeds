@@ -1,5 +1,30 @@
 [
   {
+    "title": "SyncBackFree 12.1.6.0",
+    "link": "https://www.computerbase.de/downloads/sicherheit/backup/syncbackfree/",
+    "pubDate": "2026-09-09T15:00:00.000Z"
+  },
+  {
+    "title": "FreeFileSync 14.12",
+    "link": "https://www.computerbase.de/downloads/sicherheit/backup/freefilesync/",
+    "pubDate": "2026-09-09T15:00:00.000Z"
+  },
+  {
+    "title": "VSCodium 1.135.06055",
+    "link": "https://www.computerbase.de/downloads/office/editoren/vscodium/",
+    "pubDate": "2026-09-09T14:55:00.000Z"
+  },
+  {
+    "title": "croc 11.5.2",
+    "link": "https://www.computerbase.de/downloads/office/dateitransfer/croc/",
+    "pubDate": "2026-09-09T14:55:00.000Z"
+  },
+  {
+    "title": "Visual Studio Code (VS Code) 1.137.0",
+    "link": "https://www.computerbase.de/downloads/office/editoren/visual-studio-code/",
+    "pubDate": "2026-09-09T14:53:00.000Z"
+  },
+  {
     "title": "Microsoft .NET Windows Desktop Runtime 11.0.0 RC1",
     "link": "https://www.computerbase.de/downloads/systemtools/microsoft-.net/",
     "pubDate": "2026-09-09T04:38:00.000Z"
@@ -150,11 +175,6 @@
     "pubDate": "2026-09-08T17:22:00.000Z"
   },
   {
-    "title": "Visual Studio Code (VS Code) 1.136.2",
-    "link": "https://www.computerbase.de/downloads/office/editoren/visual-studio-code/",
-    "pubDate": "2026-09-08T17:22:00.000Z"
-  },
-  {
     "title": "ReNamer 7.10",
     "link": "https://www.computerbase.de/downloads/office/dateimanager/renamer/",
     "pubDate": "2026-09-08T15:50:00.000Z"
@@ -205,11 +225,6 @@
     "pubDate": "2026-09-08T14:50:00.000Z"
   },
   {
-    "title": "croc 11.5.1",
-    "link": "https://www.computerbase.de/downloads/office/dateitransfer/croc/",
-    "pubDate": "2026-09-08T14:49:00.000Z"
-  },
-  {
     "title": "Smartphone-Kamera-Blindtest 2026",
     "link": "https://www.computerbase.de/downloads/foto-und-grafik/smartphone-kamera-blindtest/",
     "pubDate": "2026-09-08T10:00:00.000Z"
@@ -233,20 +248,5 @@
     "title": "Telegram Desktop 7.2.7",
     "link": "https://www.computerbase.de/downloads/kommunikation/telegram-desktop/",
     "pubDate": "2026-09-08T04:30:00.000Z"
-  },
-  {
-    "title": "Bulk Crap Uninstaller 6.3",
-    "link": "https://www.computerbase.de/downloads/systemtools/bulk-crap-uninstaller/",
-    "pubDate": "2026-09-08T04:17:00.000Z"
-  },
-  {
-    "title": "EPIM Mail 26.5.0",
-    "link": "https://www.computerbase.de/downloads/office/essentialpim-free/",
-    "pubDate": "2026-09-07T17:38:00.000Z"
-  },
-  {
-    "title": "Linux Kernel 7.2.4 (Linux)",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/linux-kernel/",
-    "pubDate": "2026-09-07T17:10:00.000Z"
   }
 ]
