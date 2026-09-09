@@ -1,5 +1,75 @@
 [
   {
+    "title": "Microsoft Teams 26225.1806.5074.1452",
+    "link": "https://www.computerbase.de/downloads/kommunikation/microsoft-teams/",
+    "pubDate": "2026-09-09T17:40:00.000Z"
+  },
+  {
+    "title": "Viber für Desktop 28.8.0.0",
+    "link": "https://www.computerbase.de/downloads/kommunikation/viber-fuer-desktop/",
+    "pubDate": "2026-09-09T17:39:00.000Z"
+  },
+  {
+    "title": "Rocket.Chat Server 8.8.1 (Linux)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/rocket.chat/",
+    "pubDate": "2026-09-09T17:37:00.000Z"
+  },
+  {
+    "title": "mIRC 7.85",
+    "link": "https://www.computerbase.de/downloads/kommunikation/mirc/",
+    "pubDate": "2026-09-09T17:36:00.000Z"
+  },
+  {
+    "title": "Google Chrome 154.0.8037.17 Beta",
+    "link": "https://www.computerbase.de/downloads/browser/google-chrome/",
+    "pubDate": "2026-09-09T17:35:00.000Z"
+  },
+  {
+    "title": "Mozilla Firefox 156.0 Beta 5",
+    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
+    "pubDate": "2026-09-09T17:35:00.000Z"
+  },
+  {
+    "title": "WinSCP 6.5.7",
+    "link": "https://www.computerbase.de/downloads/office/dateitransfer/winscp/",
+    "pubDate": "2026-09-09T15:20:00.000Z"
+  },
+  {
+    "title": "AIMP 6.00 Build 3083 Beta 6",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/aimp/",
+    "pubDate": "2026-09-09T15:16:00.000Z"
+  },
+  {
+    "title": "AIMP 5.40 Build 2727",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/aimp/",
+    "pubDate": "2026-09-09T15:15:00.000Z"
+  },
+  {
+    "title": "Bitdefender Antivirus Free 27.0.62.355",
+    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/bitdefender-antivirus/",
+    "pubDate": "2026-09-09T15:14:00.000Z"
+  },
+  {
+    "title": "Mozilla Thunderbird 156.0 Beta 3",
+    "link": "https://www.computerbase.de/downloads/kommunikation/mozilla-thunderbird/",
+    "pubDate": "2026-09-09T15:12:00.000Z"
+  },
+  {
+    "title": "Nvidia RTX Enterprise Treiber 616.92 NFB",
+    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/nvidia-quadro-treiber/",
+    "pubDate": "2026-09-09T15:11:00.000Z"
+  },
+  {
+    "title": "Nvidia Studio-Treiber 616.92",
+    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/nvidia-studio-treiber/",
+    "pubDate": "2026-09-09T15:07:00.000Z"
+  },
+  {
+    "title": "Nvidia GeForce-Treiber 616.92",
+    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/nvidia-geforce-treiber/",
+    "pubDate": "2026-09-09T15:05:00.000Z"
+  },
+  {
     "title": "SyncBackFree 12.1.6.0",
     "link": "https://www.computerbase.de/downloads/sicherheit/backup/syncbackfree/",
     "pubDate": "2026-09-09T15:00:00.000Z"
@@ -178,75 +248,5 @@
     "title": "ReNamer 7.10",
     "link": "https://www.computerbase.de/downloads/office/dateimanager/renamer/",
     "pubDate": "2026-09-08T15:50:00.000Z"
-  },
-  {
-    "title": "Eclipse SDK 4.41",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/eclipse-sdk/",
-    "pubDate": "2026-09-08T15:18:00.000Z"
-  },
-  {
-    "title": "Roccat Swarm 1.9482",
-    "link": "https://www.computerbase.de/downloads/treiber/eingabegeraete/roccat-swarm/",
-    "pubDate": "2026-09-08T14:59:00.000Z"
-  },
-  {
-    "title": "UL 3DMark Systeminfo 5.93",
-    "link": "https://www.computerbase.de/downloads/benchmarks/ul-3dmark/",
-    "pubDate": "2026-09-08T14:57:00.000Z"
-  },
-  {
-    "title": "Syncthing 2.1.5",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/syncthing/",
-    "pubDate": "2026-09-08T14:54:00.000Z"
-  },
-  {
-    "title": "Wargaming Game Center 26.05.00.3403",
-    "link": "https://www.computerbase.de/downloads/games/wargaming-game-center/",
-    "pubDate": "2026-09-08T14:53:00.000Z"
-  },
-  {
-    "title": "Evernote 11.33.5",
-    "link": "https://www.computerbase.de/downloads/office/evernote/",
-    "pubDate": "2026-09-08T14:52:00.000Z"
-  },
-  {
-    "title": "Trellix Stinger 26.09.37.1",
-    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/mcafee-labs-stinger/",
-    "pubDate": "2026-09-08T14:52:00.000Z"
-  },
-  {
-    "title": "Adobe Acrobat Reader DC (26.002.21901)",
-    "link": "https://www.computerbase.de/downloads/office/pdf/adobe-acrobat-reader/",
-    "pubDate": "2026-09-08T14:51:00.000Z"
-  },
-  {
-    "title": "WhatsApp 2.26.36.18 (macOS)",
-    "link": "https://www.computerbase.de/downloads/kommunikation/whatsapp/",
-    "pubDate": "2026-09-08T14:50:00.000Z"
-  },
-  {
-    "title": "Smartphone-Kamera-Blindtest 2026",
-    "link": "https://www.computerbase.de/downloads/foto-und-grafik/smartphone-kamera-blindtest/",
-    "pubDate": "2026-09-08T10:00:00.000Z"
-  },
-  {
-    "title": "MiniTool Power Data Recovery Free 13.1",
-    "link": "https://www.computerbase.de/downloads/systemtools/festplatten/minitool-power-data-recovery/",
-    "pubDate": "2026-09-08T06:55:00.000Z"
-  },
-  {
-    "title": "Intel Wireless Bluetooth-Treiber 24.70.0",
-    "link": "https://www.computerbase.de/downloads/treiber/netzwerk/intel-wireless-bluetooth-treiber/",
-    "pubDate": "2026-09-08T04:38:00.000Z"
-  },
-  {
-    "title": "Intel Wireless Wi-Fi-Treiber 24.70.0",
-    "link": "https://www.computerbase.de/downloads/treiber/netzwerk/intel-wireless-wi-fi-treiber/",
-    "pubDate": "2026-09-08T04:36:00.000Z"
-  },
-  {
-    "title": "Telegram Desktop 7.2.7",
-    "link": "https://www.computerbase.de/downloads/kommunikation/telegram-desktop/",
-    "pubDate": "2026-09-08T04:30:00.000Z"
   }
 ]

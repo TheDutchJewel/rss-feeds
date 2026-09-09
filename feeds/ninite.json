@@ -1,5 +1,20 @@
 [
   {
+    "title": "Visual Studio Code updated to 1.137.0.",
+    "link": "https://ninite.com/vscode/",
+    "pubDate": "Wed, 09 Sep 2026 16:51:49 -0000"
+  },
+  {
+    "title": "Audacity updated to 4.0.0.",
+    "link": "https://ninite.com/audacity/",
+    "pubDate": "Wed, 09 Sep 2026 16:51:35 -0000"
+  },
+  {
+    "title": "WinSCP updated to 6.5.7.",
+    "link": "https://ninite.com/winscp/",
+    "pubDate": "Wed, 09 Sep 2026 16:00:04 -0000"
+  },
+  {
     "title": "Discord updated to 1.0.9256.",
     "link": "https://ninite.com/discord/",
     "pubDate": "Wed, 09 Sep 2026 11:41:17 -0000"
@@ -383,20 +398,5 @@
     "title": "Chrome updated to 152.0.7977.65.",
     "link": "https://ninite.com/chrome/",
     "pubDate": "Wed, 26 Aug 2026 00:31:00 -0000"
-  },
-  {
-    "title": "Cursor updated to 3.17.19.",
-    "link": "https://ninite.com/cursor/",
-    "pubDate": "Tue, 25 Aug 2026 00:00:32 -0000"
-  },
-  {
-    "title": "Edge updated to 151.0.4129.107.",
-    "link": "https://ninite.com/edge/",
-    "pubDate": "Tue, 25 Aug 2026 00:00:20 -0000"
-  },
-  {
-    "title": "Notepad++ updated to 8.9.8.",
-    "link": "https://ninite.com/notepadplusplus/",
-    "pubDate": "Sun, 23 Aug 2026 23:04:07 -0000"
   }
 ]
