@@ -1,5 +1,30 @@
 [
     {
+        "title": "Joplin 3.7.16",
+        "link": "https://www.gratissoftwaresite.nl/downloads/joplin-notitie-blok-aantekeningen-takenlijst-sync",
+        "pubDate": "9 september 2026"
+    },
+    {
+        "title": "Google Chrome 153.0.8010.37",
+        "link": "https://www.gratissoftwaresite.nl/downloads/google-chrome-internet-web-browser",
+        "pubDate": "9 september 2026"
+    },
+    {
+        "title": "ocenaudio 3.21.2",
+        "link": "https://www.gratissoftwaresite.nl/downloads/ocenaudio-geluidsbewerking-mp3-audio-editor",
+        "pubDate": "9 september 2026"
+    },
+    {
+        "title": "DaVinci Resolve 21.1.0",
+        "link": "https://www.gratissoftwaresite.nl/downloads/davinci-resolve-videobewerking-editor-kleur-correctie",
+        "pubDate": "9 september 2026"
+    },
+    {
+        "title": "Bulk Crap Uninstaller 6.3.0",
+        "link": "https://www.gratissoftwaresite.nl/downloads/bulk-crap-uninstaller-de-installatie-verwijder-software",
+        "pubDate": "9 september 2026"
+    },
+    {
         "title": "BleachBit 6.0.4",
         "link": "https://www.gratissoftwaresite.nl/downloads/bleachbit-cleaner-pc-schoonmaken-shredder-bestanden-vernietigen",
         "pubDate": "9 september 2026"
@@ -22,11 +47,6 @@
     {
         "title": "Microsoft Edge 152.0.4191.66",
         "link": "https://www.gratissoftwaresite.nl/downloads/microsoft-edge-internet-browser-ie-opvolger",
-        "pubDate": "7 september 2026"
-    },
-    {
-        "title": "Google Chrome 152.0.7977.82/83",
-        "link": "https://www.gratissoftwaresite.nl/downloads/google-chrome-internet-web-browser",
         "pubDate": "7 september 2026"
     },
     {
@@ -97,11 +117,6 @@
     {
         "title": "Windscribe 2.24.12",
         "link": "https://www.gratissoftwaresite.nl/downloads/windscribe-vpn-anoniem-beveiligd-ip-geo",
-        "pubDate": "3 september 2026"
-    },
-    {
-        "title": "ocenaudio 3.21.0",
-        "link": "https://www.gratissoftwaresite.nl/downloads/ocenaudio-geluidsbewerking-mp3-audio-editor",
         "pubDate": "3 september 2026"
     },
     {
@@ -285,11 +300,6 @@
         "pubDate": "21 augustus 2026"
     },
     {
-        "title": "Joplin 3.6.16",
-        "link": "https://www.gratissoftwaresite.nl/downloads/joplin-notitie-blok-aantekeningen-takenlijst-sync",
-        "pubDate": "21 augustus 2026"
-    },
-    {
         "title": "DeVeDeNG 4.22",
         "link": "https://www.gratissoftwaresite.nl/downloads/devede-dvd-authoring-video",
         "pubDate": "20 augustus 2026"
@@ -460,11 +470,6 @@
         "pubDate": "6 augustus 2026"
     },
     {
-        "title": "DaVinci Resolve 21.0.4",
-        "link": "https://www.gratissoftwaresite.nl/downloads/davinci-resolve-videobewerking-editor-kleur-correctie",
-        "pubDate": "5 augustus 2026"
-    },
-    {
         "title": "Prey 1.13.39",
         "link": "https://www.gratissoftwaresite.nl/downloads/prey-pc-beveiliging-anti-diefstal-laptop-smartphone",
         "pubDate": "5 augustus 2026"
@@ -473,10 +478,5 @@
         "title": "WizTree 4.32.0",
         "link": "https://www.gratissoftwaresite.nl/downloads/wiztree-schijfruimte-werktuig-tools",
         "pubDate": "5 augustus 2026"
-    },
-    {
-        "title": "Pale Moon 34.3.2",
-        "link": "https://www.gratissoftwaresite.nl/downloads/pale-moon-web-browser-internet",
-        "pubDate": "4 augustus 2026"
     }
 ]
