@@ -1,5 +1,15 @@
 [
   {
+    "title": "iTunes 12.13.11.1",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/itunes/",
+    "pubDate": "2026-09-09T20:07:00.000Z"
+  },
+  {
+    "title": "1Password 8.12.38-25 Beta",
+    "link": "https://www.computerbase.de/downloads/sicherheit/passwortmanager/1password/",
+    "pubDate": "2026-09-09T20:06:00.000Z"
+  },
+  {
     "title": "Microsoft Teams 26225.1806.5074.1452",
     "link": "https://www.computerbase.de/downloads/kommunikation/microsoft-teams/",
     "pubDate": "2026-09-09T17:40:00.000Z"
@@ -238,15 +248,5 @@
     "title": "Discord 0.0.411 (macOS)",
     "link": "https://www.computerbase.de/downloads/kommunikation/discord/",
     "pubDate": "2026-09-08T17:22:00.000Z"
-  },
-  {
-    "title": "Discord 1.0.157 (Linux)",
-    "link": "https://www.computerbase.de/downloads/kommunikation/discord/",
-    "pubDate": "2026-09-08T17:22:00.000Z"
-  },
-  {
-    "title": "ReNamer 7.10",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/renamer/",
-    "pubDate": "2026-09-08T15:50:00.000Z"
   }
 ]
