@@ -1,5 +1,70 @@
 [
   {
+    "title": "ASP.NET Core Runtime x64 9 updated to 9.0.20.26414.",
+    "link": "https://ninite.com/aspnetx9/",
+    "pubDate": "Wed, 09 Sep 2026 01:02:02 -0000"
+  },
+  {
+    "title": "ASP.NET Core Runtime x64 8 updated to 8.0.31.26421.",
+    "link": "https://ninite.com/aspnetx8/",
+    "pubDate": "Wed, 09 Sep 2026 01:01:55 -0000"
+  },
+  {
+    "title": "ASP.NET Core Runtime x64 10 updated to 10.0.12.36422.",
+    "link": "https://ninite.com/aspnetx10/",
+    "pubDate": "Wed, 09 Sep 2026 01:01:49 -0000"
+  },
+  {
+    "title": "ASP.NET Core Runtime arm64 9 updated to 9.0.20.26414.",
+    "link": "https://ninite.com/aspneta9/",
+    "pubDate": "Wed, 09 Sep 2026 01:01:42 -0000"
+  },
+  {
+    "title": "ASP.NET Core Runtime arm64 8 updated to 8.0.31.26421.",
+    "link": "https://ninite.com/aspneta8/",
+    "pubDate": "Wed, 09 Sep 2026 01:01:36 -0000"
+  },
+  {
+    "title": "ASP.NET Core Runtime arm64 10 updated to 10.0.12.36422.",
+    "link": "https://ninite.com/aspneta10/",
+    "pubDate": "Wed, 09 Sep 2026 01:01:28 -0000"
+  },
+  {
+    "title": "ASP.NET Core Runtime 9 updated to 9.0.20.26414.",
+    "link": "https://ninite.com/aspnet9/",
+    "pubDate": "Wed, 09 Sep 2026 01:01:20 -0000"
+  },
+  {
+    "title": "ASP.NET Core Runtime 10 updated to 10.0.12.36422.",
+    "link": "https://ninite.com/aspnet10/",
+    "pubDate": "Wed, 09 Sep 2026 01:01:00 -0000"
+  },
+  {
+    "title": ".NET Desktop Runtime x64 10 updated to 10.0.12.50000.",
+    "link": "https://ninite.com/.netx10/",
+    "pubDate": "Wed, 09 Sep 2026 01:00:52 -0000"
+  },
+  {
+    "title": ".NET Desktop Runtime arm64 9 updated to 9.0.20.36421.",
+    "link": "https://ninite.com/.neta9/",
+    "pubDate": "Wed, 09 Sep 2026 01:00:46 -0000"
+  },
+  {
+    "title": ".NET Desktop Runtime arm64 10 updated to 10.0.12.50000.",
+    "link": "https://ninite.com/.neta10/",
+    "pubDate": "Wed, 09 Sep 2026 01:00:40 -0000"
+  },
+  {
+    "title": ".NET Desktop Runtime 9 updated to 9.0.20.36421.",
+    "link": "https://ninite.com/.net9/",
+    "pubDate": "Wed, 09 Sep 2026 01:00:33 -0000"
+  },
+  {
+    "title": ".NET Desktop Runtime 10 updated to 10.0.12.50000.",
+    "link": "https://ninite.com/.net10/",
+    "pubDate": "Wed, 09 Sep 2026 01:00:26 -0000"
+  },
+  {
     "title": ".NET Desktop Runtime x64 9 updated to 9.0.20.36421.",
     "link": "https://ninite.com/.netx9/",
     "pubDate": "Tue, 08 Sep 2026 21:28:39 -0000"
@@ -343,65 +408,5 @@
     "title": "MediaMonkey updated to 2024.2.2.3222.",
     "link": "https://ninite.com/mediamonkey/",
     "pubDate": "Fri, 21 Aug 2026 06:48:42 -0000"
-  },
-  {
-    "title": "Chrome updated to 151.0.7922.174.",
-    "link": "https://ninite.com/chrome/",
-    "pubDate": "Fri, 21 Aug 2026 00:26:14 -0000"
-  },
-  {
-    "title": "Git updated to 2.55.0.5.",
-    "link": "https://ninite.com/git/",
-    "pubDate": "Fri, 21 Aug 2026 00:25:59 -0000"
-  },
-  {
-    "title": "Edge updated to 151.0.4129.101.",
-    "link": "https://ninite.com/edge/",
-    "pubDate": "Fri, 21 Aug 2026 00:25:44 -0000"
-  },
-  {
-    "title": "Opera Chromium updated to 135.0.5973.41.",
-    "link": "https://ninite.com/operaChromium/",
-    "pubDate": "Fri, 21 Aug 2026 00:24:55 -0000"
-  },
-  {
-    "title": "Google Earth updated to 7.3.7.1327.",
-    "link": "https://ninite.com/googleearth/",
-    "pubDate": "Fri, 21 Aug 2026 00:23:59 -0000"
-  },
-  {
-    "title": "Avast updated to 26.8.11125.3784.",
-    "link": "https://ninite.com/avast/",
-    "pubDate": "Thu, 20 Aug 2026 08:22:43 -0000"
-  },
-  {
-    "title": "Cursor updated to 3.17.8.",
-    "link": "https://ninite.com/cursor/",
-    "pubDate": "Thu, 20 Aug 2026 07:51:56 -0000"
-  },
-  {
-    "title": "AVG updated to 26.8.11125.3788.",
-    "link": "https://ninite.com/avg/",
-    "pubDate": "Thu, 20 Aug 2026 03:30:16 -0000"
-  },
-  {
-    "title": "Vivaldi updated to 8.1.4087.68.",
-    "link": "https://ninite.com/vivaldi/",
-    "pubDate": "Thu, 20 Aug 2026 02:10:49 -0000"
-  },
-  {
-    "title": "Brave updated to 1.93.137.",
-    "link": "https://ninite.com/brave/",
-    "pubDate": "Thu, 20 Aug 2026 01:56:32 -0000"
-  },
-  {
-    "title": "FileZilla updated to 3.71.0.",
-    "link": "https://ninite.com/filezilla/",
-    "pubDate": "Thu, 20 Aug 2026 01:54:59 -0000"
-  },
-  {
-    "title": "Visual Studio Code updated to 1.134.0.",
-    "link": "https://ninite.com/vscode/",
-    "pubDate": "Wed, 19 Aug 2026 14:09:38 -0000"
   }
 ]
