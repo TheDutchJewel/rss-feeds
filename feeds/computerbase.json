@@ -1,5 +1,15 @@
 [
   {
+    "title": "Mozilla Thunderbird 155.0.1",
+    "link": "https://www.computerbase.de/downloads/kommunikation/mozilla-thunderbird/",
+    "pubDate": "2026-09-10T04:29:00.000Z"
+  },
+  {
+    "title": "Ocenaudio 3.21.3",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/ocenaudio/",
+    "pubDate": "2026-09-10T04:26:00.000Z"
+  },
+  {
     "title": "iTunes 12.13.11.1",
     "link": "https://www.computerbase.de/downloads/audio-und-video/itunes/",
     "pubDate": "2026-09-09T20:07:00.000Z"
@@ -170,11 +180,6 @@
     "pubDate": "2026-09-09T04:16:00.000Z"
   },
   {
-    "title": "Ocenaudio 3.21.2",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/ocenaudio/",
-    "pubDate": "2026-09-08T20:15:00.000Z"
-  },
-  {
     "title": "GitHub Desktop 3.6.6 Beta 1",
     "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/github-desktop/",
     "pubDate": "2026-09-08T18:13:00.000Z"
@@ -243,10 +248,5 @@
     "title": "Glorious Core 2.1.21",
     "link": "https://www.computerbase.de/downloads/treiber/eingabegeraete/glorious-core/",
     "pubDate": "2026-09-08T17:25:00.000Z"
-  },
-  {
-    "title": "Discord 0.0.411 (macOS)",
-    "link": "https://www.computerbase.de/downloads/kommunikation/discord/",
-    "pubDate": "2026-09-08T17:22:00.000Z"
   }
 ]

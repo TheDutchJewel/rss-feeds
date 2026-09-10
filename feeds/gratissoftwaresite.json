@@ -1,5 +1,25 @@
 [
     {
+        "title": "WinSCP 6.5.7",
+        "link": "https://www.gratissoftwaresite.nl/downloads/winscp-ftp-sftp-webdav-amazon-s3-website-beheer",
+        "pubDate": "10 september 2026"
+    },
+    {
+        "title": "Waterfox 6.7.2",
+        "link": "https://www.gratissoftwaresite.nl/downloads/waterfox-web-browser",
+        "pubDate": "10 september 2026"
+    },
+    {
+        "title": "Tor Browser 15.0.22",
+        "link": "https://www.gratissoftwaresite.nl/downloads/tor-browser-internet-web-anoniem-surfen-ip-verbergen",
+        "pubDate": "10 september 2026"
+    },
+    {
+        "title": "Thunderbird 155.0.1 Release...",
+        "link": "https://www.gratissoftwaresite.nl/downloads/thunderbird-mailprogramma-pop3-imap",
+        "pubDate": "10 september 2026"
+    },
+    {
         "title": "FotoSketcher 4.50",
         "link": "https://www.gratissoftwaresite.nl/downloads/fotosketcher-fotobewerking-effecten-filters",
         "pubDate": "9 september 2026"
@@ -100,11 +120,6 @@
         "pubDate": "4 september 2026"
     },
     {
-        "title": "Tor Browser 15.0.21",
-        "link": "https://www.gratissoftwaresite.nl/downloads/tor-browser-internet-web-anoniem-surfen-ip-verbergen",
-        "pubDate": "4 september 2026"
-    },
-    {
         "title": "Proton Drive 3.0.6",
         "link": "https://www.gratissoftwaresite.nl/downloads/proton-drive-cloud-opslag-foto",
         "pubDate": "3 september 2026"
@@ -132,11 +147,6 @@
     {
         "title": "O&O ShutUp10++ 3.5.1130",
         "link": "https://www.gratissoftwaresite.nl/downloads/oo-shutup10-privacy-extra-beveiliging-phone-home",
-        "pubDate": "2 september 2026"
-    },
-    {
-        "title": "Thunderbird 155.0 Release...",
-        "link": "https://www.gratissoftwaresite.nl/downloads/thunderbird-mailprogramma-pop3-imap",
         "pubDate": "2 september 2026"
     },
     {
@@ -193,11 +203,6 @@
         "title": "Mp3tag 3.36.1",
         "link": "https://www.gratissoftwaresite.nl/downloads/Mp3tag-mp3-tool-audio",
         "pubDate": "30 augustus 2026"
-    },
-    {
-        "title": "Waterfox 6.7.1",
-        "link": "https://www.gratissoftwaresite.nl/downloads/waterfox-web-browser",
-        "pubDate": "29 augustus 2026"
     },
     {
         "title": "PrivaZer 4.0.126",
@@ -473,10 +478,5 @@
         "title": "PDFsam 6.0.5",
         "link": "https://www.gratissoftwaresite.nl/downloads/pdf-sam-split-merge-pdf-maken-tool",
         "pubDate": "6 augustus 2026"
-    },
-    {
-        "title": "Prey 1.13.39",
-        "link": "https://www.gratissoftwaresite.nl/downloads/prey-pc-beveiliging-anti-diefstal-laptop-smartphone",
-        "pubDate": "5 augustus 2026"
     }
 ]

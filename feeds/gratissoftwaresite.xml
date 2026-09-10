@@ -5,6 +5,30 @@
     <link>https://www.gratissoftwaresite.nl/downloads/nieuwe-updates</link>
     <description>Nieuwste software-updates van GratisSoftwareSite</description>
     <item>
+      <title>WinSCP 6.5.7</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/winscp-ftp-sftp-webdav-amazon-s3-website-beheer</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/winscp-ftp-sftp-webdav-amazon-s3-website-beheer</guid>
+      <pubDate>10 september 2026</pubDate>
+    </item>
+    <item>
+      <title>Waterfox 6.7.2</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/waterfox-web-browser</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/waterfox-web-browser</guid>
+      <pubDate>10 september 2026</pubDate>
+    </item>
+    <item>
+      <title>Tor Browser 15.0.22</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/tor-browser-internet-web-anoniem-surfen-ip-verbergen</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/tor-browser-internet-web-anoniem-surfen-ip-verbergen</guid>
+      <pubDate>10 september 2026</pubDate>
+    </item>
+    <item>
+      <title>Thunderbird 155.0.1 Release...</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/thunderbird-mailprogramma-pop3-imap</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/thunderbird-mailprogramma-pop3-imap</guid>
+      <pubDate>10 september 2026</pubDate>
+    </item>
+    <item>
       <title>FotoSketcher 4.50</title>
       <link>https://www.gratissoftwaresite.nl/downloads/fotosketcher-fotobewerking-effecten-filters</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/fotosketcher-fotobewerking-effecten-filters</guid>
@@ -125,12 +149,6 @@
       <pubDate>4 september 2026</pubDate>
     </item>
     <item>
-      <title>Tor Browser 15.0.21</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/tor-browser-internet-web-anoniem-surfen-ip-verbergen</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/tor-browser-internet-web-anoniem-surfen-ip-verbergen</guid>
-      <pubDate>4 september 2026</pubDate>
-    </item>
-    <item>
       <title>Proton Drive 3.0.6</title>
       <link>https://www.gratissoftwaresite.nl/downloads/proton-drive-cloud-opslag-foto</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/proton-drive-cloud-opslag-foto</guid>
@@ -164,12 +182,6 @@
       <title/>
       <link>https://www.gratissoftwaresite.nl/downloads/oo-shutup10-privacy-extra-beveiliging-phone-home</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/oo-shutup10-privacy-extra-beveiliging-phone-home</guid>
-      <pubDate>2 september 2026</pubDate>
-    </item>
-    <item>
-      <title>Thunderbird 155.0 Release...</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/thunderbird-mailprogramma-pop3-imap</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/thunderbird-mailprogramma-pop3-imap</guid>
       <pubDate>2 september 2026</pubDate>
     </item>
     <item>
@@ -237,12 +249,6 @@
       <link>https://www.gratissoftwaresite.nl/downloads/Mp3tag-mp3-tool-audio</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/Mp3tag-mp3-tool-audio</guid>
       <pubDate>30 augustus 2026</pubDate>
-    </item>
-    <item>
-      <title>Waterfox 6.7.1</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/waterfox-web-browser</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/waterfox-web-browser</guid>
-      <pubDate>29 augustus 2026</pubDate>
     </item>
     <item>
       <title>PrivaZer 4.0.126</title>
@@ -573,12 +579,6 @@
       <link>https://www.gratissoftwaresite.nl/downloads/pdf-sam-split-merge-pdf-maken-tool</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/pdf-sam-split-merge-pdf-maken-tool</guid>
       <pubDate>6 augustus 2026</pubDate>
-    </item>
-    <item>
-      <title>Prey 1.13.39</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/prey-pc-beveiliging-anti-diefstal-laptop-smartphone</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/prey-pc-beveiliging-anti-diefstal-laptop-smartphone</guid>
-      <pubDate>5 augustus 2026</pubDate>
     </item>
   </channel>
 </rss>
