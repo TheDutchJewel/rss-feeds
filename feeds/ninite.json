@@ -1,5 +1,15 @@
 [
   {
+    "title": "Thunderbird updated to 155.0.1.",
+    "link": "https://ninite.com/thunderbird/",
+    "pubDate": "Wed, 09 Sep 2026 23:18:05 -0000"
+  },
+  {
+    "title": "iTunes updated to 12.13.11.1.",
+    "link": "https://ninite.com/itunes/",
+    "pubDate": "Wed, 09 Sep 2026 23:16:52 -0000"
+  },
+  {
     "title": "ASP.NET Core Runtime 8 updated to 8.0.31.26421.",
     "link": "https://ninite.com/aspnet8/",
     "pubDate": "Wed, 09 Sep 2026 20:36:55 -0000"
@@ -393,15 +403,5 @@
     "title": "TeamViewer 15 updated to 15.81.5.",
     "link": "https://ninite.com/teamviewer15/",
     "pubDate": "Wed, 26 Aug 2026 01:05:32 -0000"
-  },
-  {
-    "title": "Evernote updated to 11.31.5.",
-    "link": "https://ninite.com/evernote/",
-    "pubDate": "Wed, 26 Aug 2026 00:36:17 -0000"
-  },
-  {
-    "title": "Google Drive for Desktop updated to 130.0.2.0.",
-    "link": "https://ninite.com/googledrivefordesktop/",
-    "pubDate": "Wed, 26 Aug 2026 00:32:11 -0000"
   }
 ]
