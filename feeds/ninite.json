@@ -1,5 +1,15 @@
 [
   {
+    "title": "Discord updated to 1.0.9257.",
+    "link": "https://ninite.com/discord/",
+    "pubDate": "Thu, 10 Sep 2026 21:14:41 -0000"
+  },
+  {
+    "title": "Opera Chromium updated to 135.0.5973.123.",
+    "link": "https://ninite.com/operaChromium/",
+    "pubDate": "Thu, 10 Sep 2026 21:13:48 -0000"
+  },
+  {
     "title": "Malwarebytes updated to 5.7.0.328.",
     "link": "https://ninite.com/malwarebytes/",
     "pubDate": "Thu, 10 Sep 2026 20:28:46 -0000"
@@ -403,15 +413,5 @@
     "title": "Firefox updated to 154.0.1.",
     "link": "https://ninite.com/firefox/",
     "pubDate": "Wed, 26 Aug 2026 01:06:34 -0000"
-  },
-  {
-    "title": "Cursor updated to 3.17.21.",
-    "link": "https://ninite.com/cursor/",
-    "pubDate": "Wed, 26 Aug 2026 01:05:44 -0000"
-  },
-  {
-    "title": "TeamViewer 15 updated to 15.81.5.",
-    "link": "https://ninite.com/teamviewer15/",
-    "pubDate": "Wed, 26 Aug 2026 01:05:32 -0000"
   }
 ]
