@@ -1,5 +1,100 @@
 [
   {
+    "title": "GIMP 3.2.6",
+    "link": "https://www.computerbase.de/downloads/foto-und-grafik/gimp/",
+    "pubDate": "2026-09-10T19:59:00.000Z"
+  },
+  {
+    "title": "Telegram Desktop 7.2.8",
+    "link": "https://www.computerbase.de/downloads/kommunikation/telegram-desktop/",
+    "pubDate": "2026-09-10T19:58:00.000Z"
+  },
+  {
+    "title": "Xubuntu 24.04.5 LTS „Noble Numbat“",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/xubuntu/",
+    "pubDate": "2026-09-10T19:51:00.000Z"
+  },
+  {
+    "title": "Ubuntu Unity 24.04.5 LTS „Noble Numbat“",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/ubuntu-unity/",
+    "pubDate": "2026-09-10T19:50:00.000Z"
+  },
+  {
+    "title": "Ubuntu Studio 24.04.5 LTS „Noble Numbat\"",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/ubuntu-studio/",
+    "pubDate": "2026-09-10T19:49:00.000Z"
+  },
+  {
+    "title": "Ubuntu MATE 24.04.5 LTS „Noble Numbat“",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/ubuntu-mate/",
+    "pubDate": "2026-09-10T19:48:00.000Z"
+  },
+  {
+    "title": "Ubuntu Kylin 24.04.5 LTS „Noble Numbat“",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/ubuntu-kylin/",
+    "pubDate": "2026-09-10T19:47:00.000Z"
+  },
+  {
+    "title": "Ubuntu Cinnamon 24.04.5 LTS „Noble Numbat“",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/ubuntu-cinnamon/",
+    "pubDate": "2026-09-10T19:46:00.000Z"
+  },
+  {
+    "title": "Ubuntu Budgie 24.04.5 LTS „Noble Numbat“",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/ubuntu-budgie/",
+    "pubDate": "2026-09-10T19:45:00.000Z"
+  },
+  {
+    "title": "Lubuntu 24.04.5 LTS „Noble Numbat“",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/lubuntu/",
+    "pubDate": "2026-09-10T19:44:00.000Z"
+  },
+  {
+    "title": "Kubuntu 24.04.5 LTS „Noble Numbat“",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/kubuntu/",
+    "pubDate": "2026-09-10T19:43:00.000Z"
+  },
+  {
+    "title": "Ubuntu 24.04.5 LTS „Noble Numbat“",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/ubuntu/",
+    "pubDate": "2026-09-10T19:42:00.000Z"
+  },
+  {
+    "title": "BetterTouchTool 6.804 (macOS)",
+    "link": "https://www.computerbase.de/downloads/systemtools/bettertouchtool/",
+    "pubDate": "2026-09-10T19:38:00.000Z"
+  },
+  {
+    "title": "EA-App 13.788.2.6298",
+    "link": "https://www.computerbase.de/downloads/games/ea-app/",
+    "pubDate": "2026-09-10T19:37:00.000Z"
+  },
+  {
+    "title": "Process Explorer 17.14",
+    "link": "https://www.computerbase.de/downloads/systemtools/process-explorer/",
+    "pubDate": "2026-09-10T19:36:00.000Z"
+  },
+  {
+    "title": "Process Monitor 4.11",
+    "link": "https://www.computerbase.de/downloads/systemtools/process-monitor/",
+    "pubDate": "2026-09-10T19:36:00.000Z"
+  },
+  {
+    "title": "Windows Sysinternals 2026-09-10",
+    "link": "https://www.computerbase.de/downloads/systemtools/sysinternals/",
+    "pubDate": "2026-09-10T19:35:00.000Z"
+  },
+  {
+    "title": "Playnite 10.57",
+    "link": "https://www.computerbase.de/downloads/games/playnite/",
+    "pubDate": "2026-09-10T19:33:00.000Z"
+  },
+  {
+    "title": "ZenTimings 140.571 Beta",
+    "link": "https://www.computerbase.de/downloads/systemtools/zentimings/",
+    "pubDate": "2026-09-10T19:32:00.000Z"
+  },
+  {
     "title": "SteelSeries GG 119.0.0",
     "link": "https://www.computerbase.de/downloads/treiber/eingabegeraete/steelseries-gg/",
     "pubDate": "2026-09-10T16:55:00.000Z"
@@ -153,100 +248,5 @@
     "title": "Nvidia GeForce-Treiber 616.92",
     "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/nvidia-geforce-treiber/",
     "pubDate": "2026-09-09T15:05:00.000Z"
-  },
-  {
-    "title": "SyncBackFree 12.1.6.0",
-    "link": "https://www.computerbase.de/downloads/sicherheit/backup/syncbackfree/",
-    "pubDate": "2026-09-09T15:00:00.000Z"
-  },
-  {
-    "title": "FreeFileSync 14.12",
-    "link": "https://www.computerbase.de/downloads/sicherheit/backup/freefilesync/",
-    "pubDate": "2026-09-09T15:00:00.000Z"
-  },
-  {
-    "title": "VSCodium 1.135.06055",
-    "link": "https://www.computerbase.de/downloads/office/editoren/vscodium/",
-    "pubDate": "2026-09-09T14:55:00.000Z"
-  },
-  {
-    "title": "croc 11.5.2",
-    "link": "https://www.computerbase.de/downloads/office/dateitransfer/croc/",
-    "pubDate": "2026-09-09T14:55:00.000Z"
-  },
-  {
-    "title": "Visual Studio Code (VS Code) 1.137.0",
-    "link": "https://www.computerbase.de/downloads/office/editoren/visual-studio-code/",
-    "pubDate": "2026-09-09T14:53:00.000Z"
-  },
-  {
-    "title": "Microsoft .NET Windows Desktop Runtime 11.0.0 RC1",
-    "link": "https://www.computerbase.de/downloads/systemtools/microsoft-.net/",
-    "pubDate": "2026-09-09T04:38:00.000Z"
-  },
-  {
-    "title": "Microsoft .NET Windows Desktop Runtime 10.0.12",
-    "link": "https://www.computerbase.de/downloads/systemtools/microsoft-.net/",
-    "pubDate": "2026-09-09T04:36:00.000Z"
-  },
-  {
-    "title": "Microsoft .NET Windows Desktop Runtime 9.0.20",
-    "link": "https://www.computerbase.de/downloads/systemtools/microsoft-.net/",
-    "pubDate": "2026-09-09T04:35:00.000Z"
-  },
-  {
-    "title": "Microsoft .NET Windows Desktop Runtime 8.0.31",
-    "link": "https://www.computerbase.de/downloads/systemtools/microsoft-.net/",
-    "pubDate": "2026-09-09T04:34:00.000Z"
-  },
-  {
-    "title": "Google Chrome 153.0.8010.36/.37",
-    "link": "https://www.computerbase.de/downloads/browser/google-chrome/",
-    "pubDate": "2026-09-09T04:31:00.000Z"
-  },
-  {
-    "title": "Malwarebytes 5.7.0.32",
-    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/malwarebytes/",
-    "pubDate": "2026-09-09T04:30:00.000Z"
-  },
-  {
-    "title": "Malwarebytes 5.27.1.4191 (macOS)",
-    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/malwarebytes/",
-    "pubDate": "2026-09-09T04:27:00.000Z"
-  },
-  {
-    "title": "Visual Studio 2026 v18.11 Insider",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/visual-studio-2026/",
-    "pubDate": "2026-09-09T04:26:00.000Z"
-  },
-  {
-    "title": "Visual Studio 2026 v18.10.0",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/visual-studio-2026/",
-    "pubDate": "2026-09-09T04:23:00.000Z"
-  },
-  {
-    "title": "Visual Studio 2022 v17.14.40",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/visual-studio-2022/",
-    "pubDate": "2026-09-09T04:22:00.000Z"
-  },
-  {
-    "title": "Visual Studio 2019 v16.11.60",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/visual-studio-2019/",
-    "pubDate": "2026-09-09T04:21:00.000Z"
-  },
-  {
-    "title": "Visual Studio 2017 v15.9.83",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/visual-studio-2017/",
-    "pubDate": "2026-09-09T04:20:00.000Z"
-  },
-  {
-    "title": "Tor Browser 15.0.22",
-    "link": "https://www.computerbase.de/downloads/browser/tor-browser/",
-    "pubDate": "2026-09-09T04:16:00.000Z"
-  },
-  {
-    "title": "GitHub Desktop 3.6.6 Beta 1",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/github-desktop/",
-    "pubDate": "2026-09-08T18:13:00.000Z"
   }
 ]

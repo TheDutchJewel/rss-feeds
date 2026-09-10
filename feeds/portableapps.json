@@ -1,5 +1,15 @@
 [
   {
+    "title": "Google Chrome Portable 155 Dev (web browser) Released",
+    "link": "https://portableapps.com/news/2026-09-10--google-chrome-portable-155-dev-released",
+    "pubDate": "Thu, 10 Sep 2026 19:26:05 +0000"
+  },
+  {
+    "title": "MyPAL Portable 78.1.0 (browser for Windows XP) Released",
+    "link": "https://portableapps.com/news/2026-09-10--mypal-portable-78.1.0-released",
+    "pubDate": "Thu, 10 Sep 2026 19:25:44 +0000"
+  },
+  {
     "title": "Google Chrome Portable 153.0.8010.37 Stable (web browser) Released",
     "link": "https://portableapps.com/news/2026-09-09--google-chrome-portable-153.0.8010.37-released",
     "pubDate": "Wed, 09 Sep 2026 16:52:39 +0000"
@@ -63,15 +73,5 @@
     "title": "TeamViewer Portable 15.81.6 (pc control, screen sharing) Released",
     "link": "https://portableapps.com/news/2026-09-06--teamviewer-portable-15.81.6-released",
     "pubDate": "Sun, 06 Sep 2026 19:34:34 +0000"
-  },
-  {
-    "title": "Chromium Portable 152.0.7977.83 (web browser) Released",
-    "link": "https://portableapps.com/news/2026-09-05--chromium-portable-152.0.7977.83-released",
-    "pubDate": "Sun, 06 Sep 2026 03:01:55 +0000"
-  },
-  {
-    "title": "Opera, Portable Edition 135.0.5973.92 (web browser) Released",
-    "link": "https://portableapps.com/news/2026-09-05--opera-portable-135.0.5973.92-released",
-    "pubDate": "Sun, 06 Sep 2026 03:00:32 +0000"
   }
 ]
