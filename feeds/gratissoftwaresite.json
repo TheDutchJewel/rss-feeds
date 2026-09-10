@@ -1,5 +1,40 @@
 [
     {
+        "title": "ObsIdentify 5.17",
+        "link": "https://www.gratissoftwaresite.nl/downloads/obsidentify-planten-dieren-idenficatie-hobby",
+        "pubDate": "10 september 2026"
+    },
+    {
+        "title": "draw.io 31.4.5",
+        "link": "https://www.gratissoftwaresite.nl/downloads/draw.io-diagrammen-flowcharts-mindmaps-organigrammen",
+        "pubDate": "10 september 2026"
+    },
+    {
+        "title": "Windscribe 2.24.13",
+        "link": "https://www.gratissoftwaresite.nl/downloads/windscribe-vpn-anoniem-beveiligd-ip-geo",
+        "pubDate": "10 september 2026"
+    },
+    {
+        "title": "ocenaudio 3.21.3",
+        "link": "https://www.gratissoftwaresite.nl/downloads/ocenaudio-geluidsbewerking-mp3-audio-editor",
+        "pubDate": "10 september 2026"
+    },
+    {
+        "title": "RapidRaw 1.6.3",
+        "link": "https://www.gratissoftwaresite.nl/downloads/rapidraw-fotobewerking-beheer-workflow",
+        "pubDate": "10 september 2026"
+    },
+    {
+        "title": "FreeFileSync 14.11",
+        "link": "https://www.gratissoftwaresite.nl/downloads/freefilesync-backup-synchronisatie",
+        "pubDate": "10 september 2026"
+    },
+    {
+        "title": "SyncBack Free 12.1.6.0",
+        "link": "https://www.gratissoftwaresite.nl/downloads/syncback-freeware-backup-reservekopie",
+        "pubDate": "10 september 2026"
+    },
+    {
         "title": "WinSCP 6.5.7",
         "link": "https://www.gratissoftwaresite.nl/downloads/winscp-ftp-sftp-webdav-amazon-s3-website-beheer",
         "pubDate": "10 september 2026"
@@ -32,11 +67,6 @@
     {
         "title": "Google Chrome 153.0.8010.37",
         "link": "https://www.gratissoftwaresite.nl/downloads/google-chrome-internet-web-browser",
-        "pubDate": "9 september 2026"
-    },
-    {
-        "title": "ocenaudio 3.21.2",
-        "link": "https://www.gratissoftwaresite.nl/downloads/ocenaudio-geluidsbewerking-mp3-audio-editor",
         "pubDate": "9 september 2026"
     },
     {
@@ -77,11 +107,6 @@
     {
         "title": "Zen Browser 1.22b",
         "link": "https://www.gratissoftwaresite.nl/downloads/zen-browser-web-internet",
-        "pubDate": "7 september 2026"
-    },
-    {
-        "title": "draw.io 31.4.4",
-        "link": "https://www.gratissoftwaresite.nl/downloads/draw.io-diagrammen-flowcharts-mindmaps-organigrammen",
         "pubDate": "7 september 2026"
     },
     {
@@ -132,11 +157,6 @@
     {
         "title": "Opera 135.0.5973.76",
         "link": "https://www.gratissoftwaresite.nl/downloads/opera-internet-web-browser",
-        "pubDate": "3 september 2026"
-    },
-    {
-        "title": "Windscribe 2.24.12",
-        "link": "https://www.gratissoftwaresite.nl/downloads/windscribe-vpn-anoniem-beveiligd-ip-geo",
         "pubDate": "3 september 2026"
     },
     {
@@ -290,11 +310,6 @@
         "pubDate": "22 augustus 2026"
     },
     {
-        "title": "RapidRaw 1.6.2",
-        "link": "https://www.gratissoftwaresite.nl/downloads/rapidraw-fotobewerking-beheer-workflow",
-        "pubDate": "22 augustus 2026"
-    },
-    {
         "title": "KDE Connect 26.04.2",
         "link": "https://www.gratissoftwaresite.nl/downloads/kde-connect-bestandsoverdracht-android-telefoon-iphone",
         "pubDate": "21 augustus 2026"
@@ -415,11 +430,6 @@
         "pubDate": "13 augustus 2026"
     },
     {
-        "title": "SyncBack Free 12.0.17.0",
-        "link": "https://www.gratissoftwaresite.nl/downloads/syncback-freeware-backup-reservekopie",
-        "pubDate": "13 augustus 2026"
-    },
-    {
         "title": "eM Client 10.4.5663.0",
         "link": "https://www.gratissoftwaresite.nl/downloads/em-client-e-mail",
         "pubDate": "11 augustus 2026"
@@ -438,11 +448,6 @@
         "title": "Eusing Free Registry Cleaner 4.8.5",
         "link": "https://www.gratissoftwaresite.nl/downloads/eusing-free-registry-cleaner-register-opschonen-backup",
         "pubDate": "11 augustus 2026"
-    },
-    {
-        "title": "FreeFileSync 14.11",
-        "link": "https://www.gratissoftwaresite.nl/downloads/freefilesync-backup-synchronisatie",
-        "pubDate": "10 augustus 2026"
     },
     {
         "title": "Chasys Photo 5.42.01",
@@ -472,11 +477,6 @@
     {
         "title": "RawTherapee 5.13",
         "link": "https://www.gratissoftwaresite.nl/downloads/rawtherapee-fotobewerking-raw",
-        "pubDate": "6 augustus 2026"
-    },
-    {
-        "title": "PDFsam 6.0.5",
-        "link": "https://www.gratissoftwaresite.nl/downloads/pdf-sam-split-merge-pdf-maken-tool",
         "pubDate": "6 augustus 2026"
     }
 ]
