@@ -1,5 +1,10 @@
 [
   {
+    "title": "Gigabyte Control Center 26.09.10.01",
+    "link": "https://www.computerbase.de/downloads/systemtools/gigabyte-control-center/",
+    "pubDate": "2026-09-11T08:33:00.000Z"
+  },
+  {
     "title": "FydeOS 23.0 SP1 Chromatic Cadence",
     "link": "https://www.computerbase.de/downloads/betriebssysteme/fydeos/",
     "pubDate": "2026-09-11T04:51:00.000Z"
@@ -243,10 +248,5 @@
     "title": "Mozilla Firefox 156.0 Beta 5",
     "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
     "pubDate": "2026-09-09T17:35:00.000Z"
-  },
-  {
-    "title": "WinSCP 6.5.7",
-    "link": "https://www.computerbase.de/downloads/office/dateitransfer/winscp/",
-    "pubDate": "2026-09-09T15:20:00.000Z"
   }
 ]

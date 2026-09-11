@@ -1,5 +1,15 @@
 [
   {
+    "title": "[UPDATE] GIMP Portable v3.2.6",
+    "link": "https://www.portablefreeware.com/?id=644&ts=1789110149",
+    "pubDate": "Fri, 11 Sep 2026 00:02:29 -0700"
+  },
+  {
+    "title": "[UPDATE] FileVoyager v26.9.6",
+    "link": "https://www.portablefreeware.com/?id=2826&ts=1789110108",
+    "pubDate": "Fri, 11 Sep 2026 00:01:48 -0700"
+  },
+  {
     "title": "[UPDATE] RegCool v3.1.0.6",
     "link": "https://www.portablefreeware.com/?id=3084&ts=1789051211",
     "pubDate": "Thu, 10 Sep 2026 07:40:11 -0700"
@@ -488,15 +498,5 @@
     "title": "[UPDATE] SeaMonkey, Portable Edition v2.53.24",
     "link": "https://www.portablefreeware.com/?id=2089&ts=1785260624",
     "pubDate": "Tue, 28 Jul 2026 10:43:44 -0700"
-  },
-  {
-    "title": "[UPDATE] PicPick v7.6.0",
-    "link": "https://www.portablefreeware.com/?id=1496&ts=1785260192",
-    "pubDate": "Tue, 28 Jul 2026 10:36:32 -0700"
-  },
-  {
-    "title": "[NEW] Xelitan Font View v1.0",
-    "link": "https://www.portablefreeware.com/?id=3144&ts=1785239642",
-    "pubDate": "Tue, 28 Jul 2026 04:54:02 -0700"
   }
 ]

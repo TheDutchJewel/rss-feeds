@@ -5,6 +5,18 @@
     <link>https://www.gratissoftwaresite.nl/downloads/nieuwe-updates</link>
     <description>Nieuwste software-updates van GratisSoftwareSite</description>
     <item>
+      <title>CoMaps 2026.09.08</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/comaps-navigatie-kaarten-offline-reizen-route</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/comaps-navigatie-kaarten-offline-reizen-route</guid>
+      <pubDate>11 september 2026</pubDate>
+    </item>
+    <item>
+      <title>GIMP 3.2.6</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/gimp-fotobewerking-image-editor-tekenen</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/gimp-fotobewerking-image-editor-tekenen</guid>
+      <pubDate>11 september 2026</pubDate>
+    </item>
+    <item>
       <title>ObsIdentify 5.17</title>
       <link>https://www.gratissoftwaresite.nl/downloads/obsidentify-planten-dieren-idenficatie-hobby</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/obsidentify-planten-dieren-idenficatie-hobby</guid>
@@ -563,22 +575,10 @@
       <pubDate>7 augustus 2026</pubDate>
     </item>
     <item>
-      <title>CoMaps 2026.08.31-14</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/comaps-navigatie-kaarten-offline-reizen-route</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/comaps-navigatie-kaarten-offline-reizen-route</guid>
-      <pubDate>7 augustus 2026</pubDate>
-    </item>
-    <item>
       <title>SUPERAntiSpyware 10.0.1290</title>
       <link>https://www.gratissoftwaresite.nl/downloads/superantispyware-anti-spyware-adware-rogue</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/superantispyware-anti-spyware-adware-rogue</guid>
       <pubDate>7 augustus 2026</pubDate>
-    </item>
-    <item>
-      <title>RawTherapee 5.13</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/rawtherapee-fotobewerking-raw</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/rawtherapee-fotobewerking-raw</guid>
-      <pubDate>6 augustus 2026</pubDate>
     </item>
   </channel>
 </rss>
