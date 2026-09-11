@@ -1,5 +1,55 @@
 [
   {
+    "title": "Windows 11 Media Creation Tool 25H2 (Build 26200.9445)",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/windows-11-media-creation-tool/",
+    "pubDate": "2026-09-11T15:11:00.000Z"
+  },
+  {
+    "title": "Multi Commander 16.5 Build 3215",
+    "link": "https://www.computerbase.de/downloads/office/dateimanager/multi-commander/",
+    "pubDate": "2026-09-11T15:08:00.000Z"
+  },
+  {
+    "title": "Threema für Desktop 2.0 Beta 65",
+    "link": "https://www.computerbase.de/downloads/kommunikation/threema-desktop/",
+    "pubDate": "2026-09-11T15:07:00.000Z"
+  },
+  {
+    "title": "Vivaldi 8.2 Build 4133.52",
+    "link": "https://www.computerbase.de/downloads/browser/vivaldi/",
+    "pubDate": "2026-09-11T15:04:00.000Z"
+  },
+  {
+    "title": "Opera GX 135.0.5973.135 Early Access",
+    "link": "https://www.computerbase.de/downloads/browser/opera-gx/",
+    "pubDate": "2026-09-11T15:03:00.000Z"
+  },
+  {
+    "title": "Opera 135.0.5973.133",
+    "link": "https://www.computerbase.de/downloads/browser/opera/",
+    "pubDate": "2026-09-11T15:02:00.000Z"
+  },
+  {
+    "title": "Turtle Beach Swarm II 1.0.0.55",
+    "link": "https://www.computerbase.de/downloads/treiber/eingabegeraete/turtle-beach-swarm-ii/",
+    "pubDate": "2026-09-11T15:00:00.000Z"
+  },
+  {
+    "title": "Linux Kernel 7.2.5 (Linux)",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/linux-kernel/",
+    "pubDate": "2026-09-11T14:59:00.000Z"
+  },
+  {
+    "title": "Linux Kernel 6.18.51 (Linux)",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/linux-kernel/",
+    "pubDate": "2026-09-11T14:58:00.000Z"
+  },
+  {
+    "title": "Playnite 10.59",
+    "link": "https://www.computerbase.de/downloads/games/playnite/",
+    "pubDate": "2026-09-11T14:56:00.000Z"
+  },
+  {
     "title": "Gigabyte Control Center 26.09.10.01",
     "link": "https://www.computerbase.de/downloads/systemtools/gigabyte-control-center/",
     "pubDate": "2026-09-11T08:33:00.000Z"
@@ -38,11 +88,6 @@
     "title": "K-Lite Codec Pack Update 19.9.8",
     "link": "https://www.computerbase.de/downloads/audio-und-video/k-lite-codec-pack/",
     "pubDate": "2026-09-11T04:35:00.000Z"
-  },
-  {
-    "title": "Playnite 10.58",
-    "link": "https://www.computerbase.de/downloads/games/playnite/",
-    "pubDate": "2026-09-11T04:34:00.000Z"
   },
   {
     "title": "GIMP 3.2.6",
@@ -170,16 +215,6 @@
     "pubDate": "2026-09-10T14:59:00.000Z"
   },
   {
-    "title": "Opera 135.0.5973.123",
-    "link": "https://www.computerbase.de/downloads/browser/opera/",
-    "pubDate": "2026-09-10T14:58:00.000Z"
-  },
-  {
-    "title": "Opera GX 135.0.5973.126 Early Access",
-    "link": "https://www.computerbase.de/downloads/browser/opera-gx/",
-    "pubDate": "2026-09-10T14:57:00.000Z"
-  },
-  {
     "title": "WinRAR 7.30 Beta 1",
     "link": "https://www.computerbase.de/downloads/office/packprogramme/winrar/",
     "pubDate": "2026-09-10T14:55:00.000Z"
@@ -213,40 +248,5 @@
     "title": "iTunes 12.13.11.1",
     "link": "https://www.computerbase.de/downloads/audio-und-video/itunes/",
     "pubDate": "2026-09-09T20:07:00.000Z"
-  },
-  {
-    "title": "1Password 8.12.38-25 Beta",
-    "link": "https://www.computerbase.de/downloads/sicherheit/passwortmanager/1password/",
-    "pubDate": "2026-09-09T20:06:00.000Z"
-  },
-  {
-    "title": "Microsoft Teams 26225.1806.5074.1452",
-    "link": "https://www.computerbase.de/downloads/kommunikation/microsoft-teams/",
-    "pubDate": "2026-09-09T17:40:00.000Z"
-  },
-  {
-    "title": "Viber für Desktop 28.8.0.0",
-    "link": "https://www.computerbase.de/downloads/kommunikation/viber-fuer-desktop/",
-    "pubDate": "2026-09-09T17:39:00.000Z"
-  },
-  {
-    "title": "Rocket.Chat Server 8.8.1 (Linux)",
-    "link": "https://www.computerbase.de/downloads/kommunikation/rocket.chat/",
-    "pubDate": "2026-09-09T17:37:00.000Z"
-  },
-  {
-    "title": "mIRC 7.85",
-    "link": "https://www.computerbase.de/downloads/kommunikation/mirc/",
-    "pubDate": "2026-09-09T17:36:00.000Z"
-  },
-  {
-    "title": "Google Chrome 154.0.8037.17 Beta",
-    "link": "https://www.computerbase.de/downloads/browser/google-chrome/",
-    "pubDate": "2026-09-09T17:35:00.000Z"
-  },
-  {
-    "title": "Mozilla Firefox 156.0 Beta 5",
-    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
-    "pubDate": "2026-09-09T17:35:00.000Z"
   }
 ]
