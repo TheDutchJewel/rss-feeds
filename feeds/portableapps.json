@@ -1,5 +1,15 @@
 [
   {
+    "title": "GIMP Portable 3.2.6 (image editor) Released",
+    "link": "https://portableapps.com/news/2026-09-10--gimp-portable-3.2.6-released",
+    "pubDate": "Fri, 11 Sep 2026 01:25:29 +0000"
+  },
+  {
+    "title": "Attribute Changer Portable 11.50 (modify file/folder attributes) Released",
+    "link": "https://portableapps.com/news/2026-09-10--attribute-changer-portable-11.50-released",
+    "pubDate": "Fri, 11 Sep 2026 00:25:58 +0000"
+  },
+  {
     "title": "Thunderbird, Portable Edition 155.0.1 (email client) Released",
     "link": "https://portableapps.com/news/2026-09-10--thunderbird-portable-155.0.1-released",
     "pubDate": "Thu, 10 Sep 2026 21:46:22 +0000"
@@ -63,15 +73,5 @@
     "title": "QOwnNotes Portable 26.9.1 (markdown note taker) Released",
     "link": "https://portableapps.com/news/2026-09-07--qownnotes-portable-26.9.1-released",
     "pubDate": "Mon, 07 Sep 2026 16:05:50 +0000"
-  },
-  {
-    "title": "Trellix Stinger Portable 26.09.36.1 (common virus remover) Released",
-    "link": "https://portableapps.com/news/2026-09-07--trellix-stinger-portable-26.09.36.1-released",
-    "pubDate": "Mon, 07 Sep 2026 15:59:11 +0000"
-  },
-  {
-    "title": " mssPortable 1.459.97 (Microsoft Safety Scanner antivirus launcher) Released",
-    "link": "https://portableapps.com/news/2026-09-07--mssportable-1.459.97-released",
-    "pubDate": "Mon, 07 Sep 2026 15:57:20 +0000"
   }
 ]

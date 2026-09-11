@@ -1,5 +1,45 @@
 [
   {
+    "title": "FydeOS 23.0 SP1 Chromatic Cadence",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/fydeos/",
+    "pubDate": "2026-09-11T04:51:00.000Z"
+  },
+  {
+    "title": "Microsoft Edge 153.0.4234.32",
+    "link": "https://www.computerbase.de/downloads/browser/microsoft-edge/",
+    "pubDate": "2026-09-11T04:46:00.000Z"
+  },
+  {
+    "title": "Windows Package Manager (Winget) 1.30.140 Preview",
+    "link": "https://www.computerbase.de/downloads/systemtools/windows-package-manager/",
+    "pubDate": "2026-09-11T04:44:00.000Z"
+  },
+  {
+    "title": "Intel Arc & Xe Grafiktreiber 32.0.101.8993",
+    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/intel-grafiktreiber/",
+    "pubDate": "2026-09-11T04:43:00.000Z"
+  },
+  {
+    "title": "Discord 1.0.9257",
+    "link": "https://www.computerbase.de/downloads/kommunikation/discord/",
+    "pubDate": "2026-09-11T04:41:00.000Z"
+  },
+  {
+    "title": "Java SE Development Kit 28.0 Build 15 Dev",
+    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/java-se-development-kit/",
+    "pubDate": "2026-09-11T04:37:00.000Z"
+  },
+  {
+    "title": "K-Lite Codec Pack Update 19.9.8",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/k-lite-codec-pack/",
+    "pubDate": "2026-09-11T04:35:00.000Z"
+  },
+  {
+    "title": "Playnite 10.58",
+    "link": "https://www.computerbase.de/downloads/games/playnite/",
+    "pubDate": "2026-09-11T04:34:00.000Z"
+  },
+  {
     "title": "GIMP 3.2.6",
     "link": "https://www.computerbase.de/downloads/foto-und-grafik/gimp/",
     "pubDate": "2026-09-10T19:59:00.000Z"
@@ -83,11 +123,6 @@
     "title": "Windows Sysinternals 2026-09-10",
     "link": "https://www.computerbase.de/downloads/systemtools/sysinternals/",
     "pubDate": "2026-09-10T19:35:00.000Z"
-  },
-  {
-    "title": "Playnite 10.57",
-    "link": "https://www.computerbase.de/downloads/games/playnite/",
-    "pubDate": "2026-09-10T19:33:00.000Z"
   },
   {
     "title": "ZenTimings 140.571 Beta",
@@ -213,40 +248,5 @@
     "title": "WinSCP 6.5.7",
     "link": "https://www.computerbase.de/downloads/office/dateitransfer/winscp/",
     "pubDate": "2026-09-09T15:20:00.000Z"
-  },
-  {
-    "title": "AIMP 6.00 Build 3083 Beta 6",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/aimp/",
-    "pubDate": "2026-09-09T15:16:00.000Z"
-  },
-  {
-    "title": "AIMP 5.40 Build 2727",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/aimp/",
-    "pubDate": "2026-09-09T15:15:00.000Z"
-  },
-  {
-    "title": "Bitdefender Antivirus Free 27.0.62.355",
-    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/bitdefender-antivirus/",
-    "pubDate": "2026-09-09T15:14:00.000Z"
-  },
-  {
-    "title": "Mozilla Thunderbird 156.0 Beta 3",
-    "link": "https://www.computerbase.de/downloads/kommunikation/mozilla-thunderbird/",
-    "pubDate": "2026-09-09T15:12:00.000Z"
-  },
-  {
-    "title": "Nvidia RTX Enterprise Treiber 616.92 NFB",
-    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/nvidia-quadro-treiber/",
-    "pubDate": "2026-09-09T15:11:00.000Z"
-  },
-  {
-    "title": "Nvidia Studio-Treiber 616.92",
-    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/nvidia-studio-treiber/",
-    "pubDate": "2026-09-09T15:07:00.000Z"
-  },
-  {
-    "title": "Nvidia GeForce-Treiber 616.92",
-    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/nvidia-geforce-treiber/",
-    "pubDate": "2026-09-09T15:05:00.000Z"
   }
 ]

@@ -1,5 +1,10 @@
 [
   {
+    "title": "Edge updated to 153.0.4234.32.",
+    "link": "https://ninite.com/edge/",
+    "pubDate": "Fri, 11 Sep 2026 01:58:24 -0000"
+  },
+  {
     "title": "Discord updated to 1.0.9257.",
     "link": "https://ninite.com/discord/",
     "pubDate": "Thu, 10 Sep 2026 21:14:41 -0000"
@@ -408,10 +413,5 @@
     "title": "Discord updated to 1.0.9255.",
     "link": "https://ninite.com/discord/",
     "pubDate": "Wed, 26 Aug 2026 01:59:41 -0000"
-  },
-  {
-    "title": "Firefox updated to 154.0.1.",
-    "link": "https://ninite.com/firefox/",
-    "pubDate": "Wed, 26 Aug 2026 01:06:34 -0000"
   }
 ]
