@@ -1,5 +1,20 @@
 [
     {
+        "title": "Super Productivity 19.0.1",
+        "link": "https://www.gratissoftwaresite.nl/downloads/super-productivity-taken-plannen-workflow-projectbeheer",
+        "pubDate": "12 september 2026"
+    },
+    {
+        "title": "Joplin 3.7.18",
+        "link": "https://www.gratissoftwaresite.nl/downloads/joplin-notitie-blok-aantekeningen-takenlijst-sync",
+        "pubDate": "12 september 2026"
+    },
+    {
+        "title": "Debian 13.7.0",
+        "link": "https://www.gratissoftwaresite.nl/downloads/debian-besturingssysteem",
+        "pubDate": "12 september 2026"
+    },
+    {
         "title": "Vivaldi 8.2.4133.52",
         "link": "https://www.gratissoftwaresite.nl/downloads/vivaldi-internet-web-browser",
         "pubDate": "12 september 2026"
@@ -82,11 +97,6 @@
     {
         "title": "FotoSketcher 4.50",
         "link": "https://www.gratissoftwaresite.nl/downloads/fotosketcher-fotobewerking-effecten-filters",
-        "pubDate": "9 september 2026"
-    },
-    {
-        "title": "Joplin 3.7.16",
-        "link": "https://www.gratissoftwaresite.nl/downloads/joplin-notitie-blok-aantekeningen-takenlijst-sync",
         "pubDate": "9 september 2026"
     },
     {
@@ -212,11 +222,6 @@
     {
         "title": "Glary Utilities 6.47.0.51",
         "link": "https://www.gratissoftwaresite.nl/downloads/glary-utilities-pc-opruimen-cleaner",
-        "pubDate": "31 augustus 2026"
-    },
-    {
-        "title": "Super Productivity 18.21.2",
-        "link": "https://www.gratissoftwaresite.nl/downloads/super-productivity-taken-plannen-workflow-projectbeheer",
         "pubDate": "31 augustus 2026"
     },
     {
@@ -472,11 +477,6 @@
     {
         "title": "macOS 26.6.1 & 15.7....",
         "link": "https://www.gratissoftwaresite.nl/downloads/macos-besturingssysteem",
-        "pubDate": "7 augustus 2026"
-    },
-    {
-        "title": "SUPERAntiSpyware 10.0.1290",
-        "link": "https://www.gratissoftwaresite.nl/downloads/superantispyware-anti-spyware-adware-rogue",
         "pubDate": "7 augustus 2026"
     }
 ]
