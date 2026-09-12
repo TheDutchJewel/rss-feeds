@@ -1,5 +1,10 @@
 [
   {
+    "title": "Cursor updated to 3.20.17.",
+    "link": "https://ninite.com/cursor/",
+    "pubDate": "Sat, 12 Sep 2026 16:08:02 -0000"
+  },
+  {
     "title": "Brave updated to 1.95.101.",
     "link": "https://ninite.com/brave/",
     "pubDate": "Fri, 11 Sep 2026 16:31:43 -0000"
@@ -413,10 +418,5 @@
     "title": "Spotify updated to 1.2.98.301.",
     "link": "https://ninite.com/spotify/",
     "pubDate": "Thu, 27 Aug 2026 07:53:06 -0000"
-  },
-  {
-    "title": "Opera Chromium updated to 135.0.5973.55.",
-    "link": "https://ninite.com/operaChromium/",
-    "pubDate": "Thu, 27 Aug 2026 07:52:12 -0000"
   }
 ]
