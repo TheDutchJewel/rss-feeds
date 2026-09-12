@@ -1,5 +1,40 @@
 [
   {
+    "title": "Seagate SeaTools 5.3.1",
+    "link": "https://www.computerbase.de/downloads/systemtools/festplatten/seagate-seatools/",
+    "pubDate": "2026-09-12T08:38:00.000Z"
+  },
+  {
+    "title": "Microsoft OneDrive 26.153.0809.0004",
+    "link": "https://www.computerbase.de/downloads/office/dateimanager/microsoft-onedrive/",
+    "pubDate": "2026-09-12T08:34:00.000Z"
+  },
+  {
+    "title": "OpenRGB 1.0",
+    "link": "https://www.computerbase.de/downloads/systemtools/openrgb/",
+    "pubDate": "2026-09-12T08:10:00.000Z"
+  },
+  {
+    "title": "TROM-Jaro 2026.09.11",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/trom-jaro/",
+    "pubDate": "2026-09-12T07:56:00.000Z"
+  },
+  {
+    "title": "Brave 1.95.101",
+    "link": "https://www.computerbase.de/downloads/browser/brave/",
+    "pubDate": "2026-09-12T07:50:00.000Z"
+  },
+  {
+    "title": "AutoHotkey 2.0.28",
+    "link": "https://www.computerbase.de/downloads/systemtools/autohotkey/",
+    "pubDate": "2026-09-12T07:49:00.000Z"
+  },
+  {
+    "title": "Microsoft Windows-Tool zum Entfernen bösartiger Software 5.145",
+    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/microsoft-anti-viren-tool/",
+    "pubDate": "2026-09-12T07:49:00.000Z"
+  },
+  {
     "title": "Nvidia Linux Display Driver 615.71.09 NFB (Linux)",
     "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/nvidia-linux-display-driver/",
     "pubDate": "2026-09-11T19:26:00.000Z"
@@ -213,40 +248,5 @@
     "title": "Avast Free Antivirus 26.9.11171 Beta",
     "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/avast-free-antivirus/",
     "pubDate": "2026-09-10T15:05:00.000Z"
-  },
-  {
-    "title": "RegCool 3.1.0.6",
-    "link": "https://www.computerbase.de/downloads/systemtools/regcool/",
-    "pubDate": "2026-09-10T15:04:00.000Z"
-  },
-  {
-    "title": "Nextcloud Server 34.0.4 (Linux)",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/nextcloud/",
-    "pubDate": "2026-09-10T15:01:00.000Z"
-  },
-  {
-    "title": "Camtasia 2026.2.2 (macOS)",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/camtasia-studio/",
-    "pubDate": "2026-09-10T15:00:00.000Z"
-  },
-  {
-    "title": "WhatsApp 2.26.36.21 (macOS)",
-    "link": "https://www.computerbase.de/downloads/kommunikation/whatsapp/",
-    "pubDate": "2026-09-10T14:59:00.000Z"
-  },
-  {
-    "title": "WinRAR 7.30 Beta 1",
-    "link": "https://www.computerbase.de/downloads/office/packprogramme/winrar/",
-    "pubDate": "2026-09-10T14:55:00.000Z"
-  },
-  {
-    "title": "PDFCreator 6.3.1",
-    "link": "https://www.computerbase.de/downloads/office/pdf/pdfcreator/",
-    "pubDate": "2026-09-10T14:54:00.000Z"
-  },
-  {
-    "title": "HWiNFO 8.53 Build 6070 Beta",
-    "link": "https://www.computerbase.de/downloads/systemtools/hwinfo/",
-    "pubDate": "2026-09-10T14:52:00.000Z"
   }
 ]
