@@ -1,5 +1,15 @@
 [
   {
+    "title": "Opera GX, Portable Edition 135.0.5973.135 (gaming browser) Released",
+    "link": "https://portableapps.com/news/2026-09-12--opera-gx-portable-135.0.5973.135-released",
+    "pubDate": "Sat, 12 Sep 2026 18:42:42 +0000"
+  },
+  {
+    "title": "GIMP Portable 3.2.6 Rev 2 (image editor) Released",
+    "link": "https://portableapps.com/news/2026-09-12--gimp-portable-3.2.6-rev-2-released",
+    "pubDate": "Sat, 12 Sep 2026 18:00:01 +0000"
+  },
+  {
     "title": "Attribute Changer Portable 11.50 Rev 2 (modify file/folder attributes) Released",
     "link": "https://portableapps.com/news/2026-09-11--attribute-changer-portable-11.50-rev-2-released",
     "pubDate": "Fri, 11 Sep 2026 16:25:36 +0000"
@@ -63,15 +73,5 @@
     "title": "New: TraceRouteOK Portable 3.55 (PC stress test) Released",
     "link": "https://portableapps.com/news/2026-09-08--tracerouteok-portable-3.55-released",
     "pubDate": "Tue, 08 Sep 2026 17:48:38 +0000"
-  },
-  {
-    "title": "Joplin Portable 3.7.16 (note-taking and todo) Released",
-    "link": "https://portableapps.com/news/2026-09-07--joplin-portable-3.7.16-released",
-    "pubDate": "Mon, 07 Sep 2026 21:17:37 +0000"
-  },
-  {
-    "title": "gVim Portable 9.2.1037 (advanced text editor) Released",
-    "link": "https://portableapps.com/news/2026-09-07--gvim-portable-9.2.1037-released",
-    "pubDate": "Mon, 07 Sep 2026 16:07:04 +0000"
   }
 ]

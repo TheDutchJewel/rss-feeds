@@ -1,5 +1,10 @@
 [
   {
+    "title": "GIMP updated to 3.2.6.",
+    "link": "https://ninite.com/gimp/",
+    "pubDate": "Sat, 12 Sep 2026 19:53:14 -0000"
+  },
+  {
     "title": "OneDrive updated to 26.158.0816.0003.",
     "link": "https://ninite.com/onedrive/",
     "pubDate": "Sat, 12 Sep 2026 16:10:58 -0000"
@@ -413,10 +418,5 @@
     "title": "JDK (AdoptOpenJDK) x64 8 updated to 8u504-b01.",
     "link": "https://ninite.com/adoptjdkx8/",
     "pubDate": "Thu, 27 Aug 2026 07:59:11 -0000"
-  },
-  {
-    "title": "Visual Studio Code updated to 1.135.0.",
-    "link": "https://ninite.com/vscode/",
-    "pubDate": "Thu, 27 Aug 2026 07:53:51 -0000"
   }
 ]
