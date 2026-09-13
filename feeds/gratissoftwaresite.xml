@@ -5,6 +5,36 @@
     <link>https://www.gratissoftwaresite.nl/downloads/nieuwe-updates</link>
     <description>Nieuwste software-updates van GratisSoftwareSite</description>
     <item>
+      <title>Subtitle Edit 5.2.0</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/subtitle-edit-ondertitels-video</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/subtitle-edit-ondertitels-video</guid>
+      <pubDate>13 september 2026</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Edge 153.0.4234.32</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/microsoft-edge-internet-browser-ie-opvolger</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/microsoft-edge-internet-browser-ie-opvolger</guid>
+      <pubDate>13 september 2026</pubDate>
+    </item>
+    <item>
+      <title>Brave 1.95.101</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/brave-web-browser-internet-privacy-beveiliging-schilden-trackers-ads</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/brave-web-browser-internet-privacy-beveiliging-schilden-trackers-ads</guid>
+      <pubDate>13 september 2026</pubDate>
+    </item>
+    <item>
+      <title>Waterfox 6.7.3</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/waterfox-web-browser</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/waterfox-web-browser</guid>
+      <pubDate>13 september 2026</pubDate>
+    </item>
+    <item>
+      <title>Zen Browser 1.22.1b</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/zen-browser-web-internet</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/zen-browser-web-internet</guid>
+      <pubDate>13 september 2026</pubDate>
+    </item>
+    <item>
       <title>Super Productivity 19.0.1</title>
       <link>https://www.gratissoftwaresite.nl/downloads/super-productivity-taken-plannen-workflow-projectbeheer</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/super-productivity-taken-plannen-workflow-projectbeheer</guid>
@@ -101,12 +131,6 @@
       <pubDate>10 september 2026</pubDate>
     </item>
     <item>
-      <title>Waterfox 6.7.2</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/waterfox-web-browser</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/waterfox-web-browser</guid>
-      <pubDate>10 september 2026</pubDate>
-    </item>
-    <item>
       <title>Tor Browser 15.0.22</title>
       <link>https://www.gratissoftwaresite.nl/downloads/tor-browser-internet-web-anoniem-surfen-ip-verbergen</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/tor-browser-internet-web-anoniem-surfen-ip-verbergen</guid>
@@ -167,18 +191,6 @@
       <pubDate>7 september 2026</pubDate>
     </item>
     <item>
-      <title>Microsoft Edge 152.0.4191.66</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/microsoft-edge-internet-browser-ie-opvolger</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/microsoft-edge-internet-browser-ie-opvolger</guid>
-      <pubDate>7 september 2026</pubDate>
-    </item>
-    <item>
-      <title>Zen Browser 1.22b</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/zen-browser-web-internet</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/zen-browser-web-internet</guid>
-      <pubDate>7 september 2026</pubDate>
-    </item>
-    <item>
       <title>LibreWolf 155.0.1-1</title>
       <link>https://www.gratissoftwaresite.nl/downloads/librewolf-web-browser-privacy</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/librewolf-web-browser-privacy</guid>
@@ -189,12 +201,6 @@
       <link>https://www.gratissoftwaresite.nl/downloads/7-zip-compressie-unzip</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/7-zip-compressie-unzip</guid>
       <pubDate>6 september 2026</pubDate>
-    </item>
-    <item>
-      <title>Brave 1.94.121</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/brave-web-browser-internet-privacy-beveiliging-schilden-trackers-ads</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/brave-web-browser-internet-privacy-beveiliging-schilden-trackers-ads</guid>
-      <pubDate>5 september 2026</pubDate>
     </item>
     <item>
       <title>Firefox 155.0.1</title>
@@ -573,12 +579,6 @@
       <link>https://www.gratissoftwaresite.nl/downloads/doublecommander-bestanden-beheer-verkenner-vensters-werktuigen</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/doublecommander-bestanden-beheer-verkenner-vensters-werktuigen</guid>
       <pubDate>10 augustus 2026</pubDate>
-    </item>
-    <item>
-      <title/>
-      <link>https://www.gratissoftwaresite.nl/downloads/macos-besturingssysteem</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/macos-besturingssysteem</guid>
-      <pubDate>7 augustus 2026</pubDate>
     </item>
   </channel>
 </rss>

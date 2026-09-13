@@ -1,5 +1,20 @@
 [
   {
+    "title": "K-Lite Codec Pack Update 19.9.9",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/k-lite-codec-pack/",
+    "pubDate": "2026-09-13T07:41:00.000Z"
+  },
+  {
+    "title": "Mailspring 1.24.0",
+    "link": "https://www.computerbase.de/downloads/kommunikation/mailspring/",
+    "pubDate": "2026-09-13T07:40:00.000Z"
+  },
+  {
+    "title": "SmartFTP 10.0 Build 3328",
+    "link": "https://www.computerbase.de/downloads/office/dateitransfer/smartftp/",
+    "pubDate": "2026-09-13T07:39:00.000Z"
+  },
+  {
     "title": "Fan Control V276",
     "link": "https://www.computerbase.de/downloads/systemtools/fan-control/",
     "pubDate": "2026-09-12T17:11:00.000Z"
@@ -160,11 +175,6 @@
     "pubDate": "2026-09-11T04:37:00.000Z"
   },
   {
-    "title": "K-Lite Codec Pack Update 19.9.8",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/k-lite-codec-pack/",
-    "pubDate": "2026-09-11T04:35:00.000Z"
-  },
-  {
     "title": "GIMP 3.2.6",
     "link": "https://www.computerbase.de/downloads/foto-und-grafik/gimp/",
     "pubDate": "2026-09-10T19:59:00.000Z"
@@ -238,15 +248,5 @@
     "title": "Process Explorer 17.14",
     "link": "https://www.computerbase.de/downloads/systemtools/process-explorer/",
     "pubDate": "2026-09-10T19:36:00.000Z"
-  },
-  {
-    "title": "Process Monitor 4.11",
-    "link": "https://www.computerbase.de/downloads/systemtools/process-monitor/",
-    "pubDate": "2026-09-10T19:36:00.000Z"
-  },
-  {
-    "title": "Windows Sysinternals 2026-09-10",
-    "link": "https://www.computerbase.de/downloads/systemtools/sysinternals/",
-    "pubDate": "2026-09-10T19:35:00.000Z"
   }
 ]
