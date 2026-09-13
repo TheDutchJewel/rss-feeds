@@ -1,5 +1,20 @@
 [
   {
+    "title": "Microsoft Teams 26225.1706.5101.3140 (macOS)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/microsoft-teams/",
+    "pubDate": "2026-09-13T17:55:00.000Z"
+  },
+  {
+    "title": "VDownloader 5.0.4511",
+    "link": "https://www.computerbase.de/downloads/office/dateitransfer/vdownloader/",
+    "pubDate": "2026-09-13T17:55:00.000Z"
+  },
+  {
+    "title": "Fan Control V277",
+    "link": "https://www.computerbase.de/downloads/systemtools/fan-control/",
+    "pubDate": "2026-09-13T17:53:00.000Z"
+  },
+  {
     "title": "K-Lite Codec Pack Update 19.9.9",
     "link": "https://www.computerbase.de/downloads/audio-und-video/k-lite-codec-pack/",
     "pubDate": "2026-09-13T07:41:00.000Z"
@@ -13,11 +28,6 @@
     "title": "SmartFTP 10.0 Build 3328",
     "link": "https://www.computerbase.de/downloads/office/dateitransfer/smartftp/",
     "pubDate": "2026-09-13T07:39:00.000Z"
-  },
-  {
-    "title": "Fan Control V276",
-    "link": "https://www.computerbase.de/downloads/systemtools/fan-control/",
-    "pubDate": "2026-09-12T17:11:00.000Z"
   },
   {
     "title": "Debian 13.7.0 „Trixie“",
@@ -238,15 +248,5 @@
     "title": "BetterTouchTool 6.804 (macOS)",
     "link": "https://www.computerbase.de/downloads/systemtools/bettertouchtool/",
     "pubDate": "2026-09-10T19:38:00.000Z"
-  },
-  {
-    "title": "EA-App 13.788.2.6298",
-    "link": "https://www.computerbase.de/downloads/games/ea-app/",
-    "pubDate": "2026-09-10T19:37:00.000Z"
-  },
-  {
-    "title": "Process Explorer 17.14",
-    "link": "https://www.computerbase.de/downloads/systemtools/process-explorer/",
-    "pubDate": "2026-09-10T19:36:00.000Z"
   }
 ]
