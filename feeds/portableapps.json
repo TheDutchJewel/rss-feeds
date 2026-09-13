@@ -1,5 +1,20 @@
 [
   {
+    "title": "Process Monitor Portable 4.11 (real-time file, registry and process monitor) Released",
+    "link": "https://portableapps.com/news/2026-09-12--process-monitor-portable-4.11-released",
+    "pubDate": "Sun, 13 Sep 2026 01:54:24 +0000"
+  },
+  {
+    "title": "Process Explorer Portable 17.14 (task manager and process analyzer) Released",
+    "link": "https://portableapps.com/news/2026-09-12--process-explorer-portable-17.14-released",
+    "pubDate": "Sun, 13 Sep 2026 01:50:56 +0000"
+  },
+  {
+    "title": "Chromium Portable 153.0.8010.37 (web browser) Released",
+    "link": "https://portableapps.com/news/2026-09-12--chromium-portable-153.0.8010.37-released",
+    "pubDate": "Sun, 13 Sep 2026 01:25:17 +0000"
+  },
+  {
     "title": "Opera, Portable Edition 135.0.5973.133 (web browser) Released",
     "link": "https://portableapps.com/news/2026-09-12--opera-portable-135.0.5973.133-released",
     "pubDate": "Sat, 12 Sep 2026 19:07:04 +0000"
@@ -58,20 +73,5 @@
     "title": "Thunderbird ESR, Portable Edition 153.2.0 (email client) Released",
     "link": "https://portableapps.com/news/2026-09-08--thunderbird-portable-esr-153.2.0-released",
     "pubDate": "Tue, 08 Sep 2026 21:59:55 +0000"
-  },
-  {
-    "title": "Thunderbird, Portable Edition 156.0 Beta 2 (email client) Released",
-    "link": "https://portableapps.com/news/2026-09-08--thunderbird-portable-156.0-beta-2-released",
-    "pubDate": "Tue, 08 Sep 2026 21:57:55 +0000"
-  },
-  {
-    "title": "Thunderbird, Portable Edition 155.0 (email client) Released",
-    "link": "https://portableapps.com/news/2026-09-08--thunderbird-portable-155.0-released",
-    "pubDate": "Tue, 08 Sep 2026 21:55:01 +0000"
-  },
-  {
-    "title": "Telegram Desktop Portable 7.2.7 (secure instant messaging) Released",
-    "link": "https://portableapps.com/news/2026-09-08--telegram-desktop-portable-7.2.7-released",
-    "pubDate": "Tue, 08 Sep 2026 17:58:37 +0000"
   }
 ]
