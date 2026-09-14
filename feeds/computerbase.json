@@ -1,5 +1,20 @@
 [
   {
+    "title": "UltraVNC 1.8.3.0",
+    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/ultravnc/",
+    "pubDate": "2026-09-14T04:46:00.000Z"
+  },
+  {
+    "title": "Carbon Copy Cloner 7.2 (macOS)",
+    "link": "https://www.computerbase.de/downloads/sicherheit/backup/carbon-copy-cloner/",
+    "pubDate": "2026-09-14T04:44:00.000Z"
+  },
+  {
+    "title": "croc 11.5.3",
+    "link": "https://www.computerbase.de/downloads/office/dateitransfer/croc/",
+    "pubDate": "2026-09-14T04:43:00.000Z"
+  },
+  {
     "title": "Microsoft Teams 26225.1706.5101.3140 (macOS)",
     "link": "https://www.computerbase.de/downloads/kommunikation/microsoft-teams/",
     "pubDate": "2026-09-13T17:55:00.000Z"
@@ -233,20 +248,5 @@
     "title": "Lubuntu 24.04.5 LTS „Noble Numbat“",
     "link": "https://www.computerbase.de/downloads/betriebssysteme/lubuntu/",
     "pubDate": "2026-09-10T19:44:00.000Z"
-  },
-  {
-    "title": "Kubuntu 24.04.5 LTS „Noble Numbat“",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/kubuntu/",
-    "pubDate": "2026-09-10T19:43:00.000Z"
-  },
-  {
-    "title": "Ubuntu 24.04.5 LTS „Noble Numbat“",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/ubuntu/",
-    "pubDate": "2026-09-10T19:42:00.000Z"
-  },
-  {
-    "title": "BetterTouchTool 6.804 (macOS)",
-    "link": "https://www.computerbase.de/downloads/systemtools/bettertouchtool/",
-    "pubDate": "2026-09-10T19:38:00.000Z"
   }
 ]
