@@ -1,5 +1,10 @@
 [
   {
+    "title": "OnyX 5.0.4 (macOS)",
+    "link": "https://www.computerbase.de/downloads/systemtools/onyx/",
+    "pubDate": "2026-09-14T07:53:00.000Z"
+  },
+  {
     "title": "UltraVNC 1.8.3.0",
     "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/ultravnc/",
     "pubDate": "2026-09-14T04:46:00.000Z"
@@ -243,10 +248,5 @@
     "title": "Ubuntu Budgie 24.04.5 LTS „Noble Numbat“",
     "link": "https://www.computerbase.de/downloads/betriebssysteme/ubuntu-budgie/",
     "pubDate": "2026-09-10T19:45:00.000Z"
-  },
-  {
-    "title": "Lubuntu 24.04.5 LTS „Noble Numbat“",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/lubuntu/",
-    "pubDate": "2026-09-10T19:44:00.000Z"
   }
 ]
