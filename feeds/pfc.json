@@ -1,11 +1,21 @@
 [
   {
+    "title": "[UPDATE] Lynx Portable v2.9.3",
+    "link": "https://www.portablefreeware.com/?id=2331&ts=1789392311",
+    "pubDate": "Mon, 14 Sep 2026 06:25:11 -0700"
+  },
+  {
+    "title": "[UPDATE] Password Safe v3.72.2",
+    "link": "https://www.portablefreeware.com/?id=1197&ts=1789383547",
+    "pubDate": "Mon, 14 Sep 2026 03:59:07 -0700"
+  },
+  {
     "title": "[UPDATE] TakeStock v2.0 Release 78",
     "link": "https://www.portablefreeware.com/?id=1909&ts=1789365961",
     "pubDate": "Sun, 13 Sep 2026 23:06:01 -0700"
   },
   {
-    "title": "[UPDATE] TreeSheets 3353",
+    "title": "[UPDATE] TreeSheets 3362",
     "link": "https://www.portablefreeware.com/?id=2741&ts=1789309637",
     "pubDate": "Sun, 13 Sep 2026 07:27:17 -0700"
   },
@@ -55,7 +65,7 @@
     "pubDate": "Fri, 11 Sep 2026 04:41:41 -0700"
   },
   {
-    "title": "[UPDATE] GIMP Portable v3.2.6",
+    "title": "[UPDATE] GIMP Portable v3.2.6 Rev 2",
     "link": "https://www.portablefreeware.com/?id=644&ts=1789110149",
     "pubDate": "Fri, 11 Sep 2026 00:02:29 -0700"
   },
@@ -488,15 +498,5 @@
     "title": "[UPDATE] CDisplay Ex 1.10.33",
     "link": "https://www.portablefreeware.com/?id=1460&ts=1785574757",
     "pubDate": "Sat, 01 Aug 2026 01:59:17 -0700"
-  },
-  {
-    "title": "[UPDATE] FocusWriter v1.9.1",
-    "link": "https://www.portablefreeware.com/?id=2064&ts=1785478957",
-    "pubDate": "Thu, 30 Jul 2026 23:22:37 -0700"
-  },
-  {
-    "title": "[UPDATE] CurrPorts v2.80",
-    "link": "https://www.portablefreeware.com/?id=83&ts=1785385717",
-    "pubDate": "Wed, 29 Jul 2026 21:28:37 -0700"
   }
 ]

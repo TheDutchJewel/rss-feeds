@@ -1,5 +1,75 @@
 [
   {
+    "title": "Zoom Player 23.0 Beta 1",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/zoom-player/",
+    "pubDate": "2026-09-14T15:27:00.000Z"
+  },
+  {
+    "title": "ProtonVPN 4.18.2 (Linux)",
+    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/protonvpn/",
+    "pubDate": "2026-09-14T15:16:00.000Z"
+  },
+  {
+    "title": "Wipe 2611.00",
+    "link": "https://www.computerbase.de/downloads/systemtools/wipe/",
+    "pubDate": "2026-09-14T15:14:00.000Z"
+  },
+  {
+    "title": "HWMonitor 1.68",
+    "link": "https://www.computerbase.de/downloads/systemtools/hwmonitor/",
+    "pubDate": "2026-09-14T15:12:00.000Z"
+  },
+  {
+    "title": "MKVToolnix 102.0 “Little Houses”",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/mkvtoolnix/",
+    "pubDate": "2026-09-14T15:03:00.000Z"
+  },
+  {
+    "title": "Mozilla Firefox 157.0 Beta 1",
+    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
+    "pubDate": "2026-09-14T15:02:00.000Z"
+  },
+  {
+    "title": "HyperSnap 10.4.1",
+    "link": "https://www.computerbase.de/downloads/foto-und-grafik/hypersnap/",
+    "pubDate": "2026-09-14T15:01:00.000Z"
+  },
+  {
+    "title": "Snagit 2026.3.3 (macOS)",
+    "link": "https://www.computerbase.de/downloads/foto-und-grafik/snagit/",
+    "pubDate": "2026-09-14T14:59:00.000Z"
+  },
+  {
+    "title": "Bazzite 44.20260914",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/bazzite/",
+    "pubDate": "2026-09-14T14:58:00.000Z"
+  },
+  {
+    "title": "foobar2000 v2.26 preview 2026-09-14",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/foobar2000/",
+    "pubDate": "2026-09-14T14:57:00.000Z"
+  },
+  {
+    "title": "AnyDesk 9.8.0 (macOS)",
+    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/anydesk/",
+    "pubDate": "2026-09-14T14:56:00.000Z"
+  },
+  {
+    "title": "WhatsApp 2.26.37.12 (macOS)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/whatsapp/",
+    "pubDate": "2026-09-14T14:55:00.000Z"
+  },
+  {
+    "title": "Linux Kernel 7.2.6 (Linux)",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/linux-kernel/",
+    "pubDate": "2026-09-14T14:55:00.000Z"
+  },
+  {
+    "title": "Linux Kernel 6.18.52 (Linux)",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/linux-kernel/",
+    "pubDate": "2026-09-14T14:54:00.000Z"
+  },
+  {
     "title": "OnyX 5.0.4 (macOS)",
     "link": "https://www.computerbase.de/downloads/systemtools/onyx/",
     "pubDate": "2026-09-14T07:53:00.000Z"
@@ -53,11 +123,6 @@
     "title": "Debian 13.7.0 „Trixie“",
     "link": "https://www.computerbase.de/downloads/betriebssysteme/debian/",
     "pubDate": "2026-09-12T17:09:00.000Z"
-  },
-  {
-    "title": "foobar2000 v2.26 preview 2026-09-12",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/foobar2000/",
-    "pubDate": "2026-09-12T12:12:00.000Z"
   },
   {
     "title": "ZenTimings 140.576 Beta",
@@ -160,16 +225,6 @@
     "pubDate": "2026-09-11T15:00:00.000Z"
   },
   {
-    "title": "Linux Kernel 7.2.5 (Linux)",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/linux-kernel/",
-    "pubDate": "2026-09-11T14:59:00.000Z"
-  },
-  {
-    "title": "Linux Kernel 6.18.51 (Linux)",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/linux-kernel/",
-    "pubDate": "2026-09-11T14:58:00.000Z"
-  },
-  {
     "title": "Gigabyte Control Center 26.09.10.01",
     "link": "https://www.computerbase.de/downloads/systemtools/gigabyte-control-center/",
     "pubDate": "2026-09-11T08:33:00.000Z"
@@ -193,60 +248,5 @@
     "title": "Intel Arc & Xe Grafiktreiber 32.0.101.8993",
     "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/intel-grafiktreiber/",
     "pubDate": "2026-09-11T04:43:00.000Z"
-  },
-  {
-    "title": "Discord 1.0.9257",
-    "link": "https://www.computerbase.de/downloads/kommunikation/discord/",
-    "pubDate": "2026-09-11T04:41:00.000Z"
-  },
-  {
-    "title": "Java SE Development Kit 28.0 Build 15 Dev",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/java-se-development-kit/",
-    "pubDate": "2026-09-11T04:37:00.000Z"
-  },
-  {
-    "title": "GIMP 3.2.6",
-    "link": "https://www.computerbase.de/downloads/foto-und-grafik/gimp/",
-    "pubDate": "2026-09-10T19:59:00.000Z"
-  },
-  {
-    "title": "Telegram Desktop 7.2.8",
-    "link": "https://www.computerbase.de/downloads/kommunikation/telegram-desktop/",
-    "pubDate": "2026-09-10T19:58:00.000Z"
-  },
-  {
-    "title": "Xubuntu 24.04.5 LTS „Noble Numbat“",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/xubuntu/",
-    "pubDate": "2026-09-10T19:51:00.000Z"
-  },
-  {
-    "title": "Ubuntu Unity 24.04.5 LTS „Noble Numbat“",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/ubuntu-unity/",
-    "pubDate": "2026-09-10T19:50:00.000Z"
-  },
-  {
-    "title": "Ubuntu Studio 24.04.5 LTS „Noble Numbat\"",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/ubuntu-studio/",
-    "pubDate": "2026-09-10T19:49:00.000Z"
-  },
-  {
-    "title": "Ubuntu MATE 24.04.5 LTS „Noble Numbat“",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/ubuntu-mate/",
-    "pubDate": "2026-09-10T19:48:00.000Z"
-  },
-  {
-    "title": "Ubuntu Kylin 24.04.5 LTS „Noble Numbat“",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/ubuntu-kylin/",
-    "pubDate": "2026-09-10T19:47:00.000Z"
-  },
-  {
-    "title": "Ubuntu Cinnamon 24.04.5 LTS „Noble Numbat“",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/ubuntu-cinnamon/",
-    "pubDate": "2026-09-10T19:46:00.000Z"
-  },
-  {
-    "title": "Ubuntu Budgie 24.04.5 LTS „Noble Numbat“",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/ubuntu-budgie/",
-    "pubDate": "2026-09-10T19:45:00.000Z"
   }
 ]

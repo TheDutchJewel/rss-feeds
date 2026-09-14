@@ -1,5 +1,15 @@
 [
   {
+    "title": "Cursor updated to 3.20.21.",
+    "link": "https://ninite.com/cursor/",
+    "pubDate": "Mon, 14 Sep 2026 12:15:13 -0000"
+  },
+  {
+    "title": "Spotify updated to 1.3.0.277.",
+    "link": "https://ninite.com/spotify/",
+    "pubDate": "Mon, 14 Sep 2026 11:30:31 -0000"
+  },
+  {
     "title": "GIMP updated to 3.2.6.",
     "link": "https://ninite.com/gimp/",
     "pubDate": "Sat, 12 Sep 2026 19:53:14 -0000"
@@ -408,15 +418,5 @@
     "title": "Vivaldi updated to 8.1.4087.75.",
     "link": "https://ninite.com/vivaldi/",
     "pubDate": "Thu, 27 Aug 2026 11:29:06 -0000"
-  },
-  {
-    "title": "Java (AdoptOpenJDK) x64 8 updated to 8u504-b01.",
-    "link": "https://ninite.com/adoptjavax8/",
-    "pubDate": "Thu, 27 Aug 2026 07:59:33 -0000"
-  },
-  {
-    "title": "JDK (AdoptOpenJDK) x64 8 updated to 8u504-b01.",
-    "link": "https://ninite.com/adoptjdkx8/",
-    "pubDate": "Thu, 27 Aug 2026 07:59:11 -0000"
   }
 ]

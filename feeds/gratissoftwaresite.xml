@@ -5,7 +5,13 @@
     <link>https://www.gratissoftwaresite.nl/downloads/nieuwe-updates</link>
     <description>Nieuwste software-updates van GratisSoftwareSite</description>
     <item>
-      <title>7-Zip Next 1.2</title>
+      <title>Gramps 6.0.8</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/gramps-genealogie-stamboom-hobby</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/gramps-genealogie-stamboom-hobby</guid>
+      <pubDate>14 september 2026</pubDate>
+    </item>
+    <item>
+      <title>7-Zip Next 1.3</title>
       <link>https://www.gratissoftwaresite.nl/downloads/7-zip-next-compressie</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/7-zip-next-compressie</guid>
       <pubDate>14 september 2026</pubDate>
@@ -572,12 +578,6 @@
       <title>AnyDesk 9.7.14</title>
       <link>https://www.gratissoftwaresite.nl/downloads/anydesk-remote-desktop-pc-hulp-op-afstand</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/anydesk-remote-desktop-pc-hulp-op-afstand</guid>
-      <pubDate>11 augustus 2026</pubDate>
-    </item>
-    <item>
-      <title>Obsidian 1.13.6</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/obsidian-notities-aantekeningen-maken</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/obsidian-notities-aantekeningen-maken</guid>
       <pubDate>11 augustus 2026</pubDate>
     </item>
   </channel>

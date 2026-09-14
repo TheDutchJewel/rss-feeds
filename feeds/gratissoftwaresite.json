@@ -1,6 +1,11 @@
 [
     {
-        "title": "7-Zip Next 1.2",
+        "title": "Gramps 6.0.8",
+        "link": "https://www.gratissoftwaresite.nl/downloads/gramps-genealogie-stamboom-hobby",
+        "pubDate": "14 september 2026"
+    },
+    {
+        "title": "7-Zip Next 1.3",
         "link": "https://www.gratissoftwaresite.nl/downloads/7-zip-next-compressie",
         "pubDate": "14 september 2026"
     },
@@ -472,11 +477,6 @@
     {
         "title": "AnyDesk 9.7.14",
         "link": "https://www.gratissoftwaresite.nl/downloads/anydesk-remote-desktop-pc-hulp-op-afstand",
-        "pubDate": "11 augustus 2026"
-    },
-    {
-        "title": "Obsidian 1.13.6",
-        "link": "https://www.gratissoftwaresite.nl/downloads/obsidian-notities-aantekeningen-maken",
         "pubDate": "11 augustus 2026"
     }
 ]
