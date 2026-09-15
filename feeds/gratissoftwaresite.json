@@ -1,5 +1,10 @@
 [
     {
+        "title": "HomeBank 5.10.3",
+        "link": "https://www.gratissoftwaresite.nl/downloads/homebank-boekhouding-financieel",
+        "pubDate": "15 september 2026"
+    },
+    {
         "title": "Gramps 6.0.8",
         "link": "https://www.gratissoftwaresite.nl/downloads/gramps-genealogie-stamboom-hobby",
         "pubDate": "14 september 2026"
@@ -473,10 +478,5 @@
         "title": "MailStore Home 26.3",
         "link": "https://www.gratissoftwaresite.nl/downloads/mailstore-home-backup-outlook-webmail",
         "pubDate": "13 augustus 2026"
-    },
-    {
-        "title": "AnyDesk 9.7.14",
-        "link": "https://www.gratissoftwaresite.nl/downloads/anydesk-remote-desktop-pc-hulp-op-afstand",
-        "pubDate": "11 augustus 2026"
     }
 ]

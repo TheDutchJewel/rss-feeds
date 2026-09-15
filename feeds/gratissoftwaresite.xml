@@ -5,6 +5,12 @@
     <link>https://www.gratissoftwaresite.nl/downloads/nieuwe-updates</link>
     <description>Nieuwste software-updates van GratisSoftwareSite</description>
     <item>
+      <title>HomeBank 5.10.3</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/homebank-boekhouding-financieel</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/homebank-boekhouding-financieel</guid>
+      <pubDate>15 september 2026</pubDate>
+    </item>
+    <item>
       <title>Gramps 6.0.8</title>
       <link>https://www.gratissoftwaresite.nl/downloads/gramps-genealogie-stamboom-hobby</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/gramps-genealogie-stamboom-hobby</guid>
@@ -573,12 +579,6 @@
       <link>https://www.gratissoftwaresite.nl/downloads/mailstore-home-backup-outlook-webmail</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/mailstore-home-backup-outlook-webmail</guid>
       <pubDate>13 augustus 2026</pubDate>
-    </item>
-    <item>
-      <title>AnyDesk 9.7.14</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/anydesk-remote-desktop-pc-hulp-op-afstand</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/anydesk-remote-desktop-pc-hulp-op-afstand</guid>
-      <pubDate>11 augustus 2026</pubDate>
     </item>
   </channel>
 </rss>
