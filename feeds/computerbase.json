@@ -1,5 +1,45 @@
 [
   {
+    "title": "Visual Studio 2026 v18.10.1",
+    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/visual-studio-2026/",
+    "pubDate": "2026-09-15T18:16:00.000Z"
+  },
+  {
+    "title": "Visual Studio 2026 v18.11.12210.170 Insider",
+    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/visual-studio-2026/",
+    "pubDate": "2026-09-15T18:16:00.000Z"
+  },
+  {
+    "title": "UniGetUI 2026.3.0",
+    "link": "https://www.computerbase.de/downloads/systemtools/unigetui/",
+    "pubDate": "2026-09-15T18:11:00.000Z"
+  },
+  {
+    "title": "Affinity 3.3.0",
+    "link": "https://www.computerbase.de/downloads/foto-und-grafik/affinity/",
+    "pubDate": "2026-09-15T17:53:00.000Z"
+  },
+  {
+    "title": "Java SE Development Kit 27.0",
+    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/java-se-development-kit/",
+    "pubDate": "2026-09-15T17:44:00.000Z"
+  },
+  {
+    "title": "Dropbox 270.4.3312",
+    "link": "https://www.computerbase.de/downloads/office/dateimanager/dropbox/",
+    "pubDate": "2026-09-15T17:37:00.000Z"
+  },
+  {
+    "title": "Fedora 45 Beta",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/fedora/",
+    "pubDate": "2026-09-15T17:37:00.000Z"
+  },
+  {
+    "title": "GitHub Desktop 3.6.6 Beta 2",
+    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/github-desktop/",
+    "pubDate": "2026-09-15T17:31:00.000Z"
+  },
+  {
     "title": "Blender 5.2.2 LTS",
     "link": "https://www.computerbase.de/downloads/foto-und-grafik/blender/",
     "pubDate": "2026-09-15T15:19:00.000Z"
@@ -208,45 +248,5 @@
     "title": "Bazzite 44.20260914",
     "link": "https://www.computerbase.de/downloads/betriebssysteme/bazzite/",
     "pubDate": "2026-09-14T14:58:00.000Z"
-  },
-  {
-    "title": "foobar2000 v2.26 preview 2026-09-14",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/foobar2000/",
-    "pubDate": "2026-09-14T14:57:00.000Z"
-  },
-  {
-    "title": "AnyDesk 9.8.0 (macOS)",
-    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/anydesk/",
-    "pubDate": "2026-09-14T14:56:00.000Z"
-  },
-  {
-    "title": "Linux Kernel 7.2.6 (Linux)",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/linux-kernel/",
-    "pubDate": "2026-09-14T14:55:00.000Z"
-  },
-  {
-    "title": "Linux Kernel 6.18.52 (Linux)",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/linux-kernel/",
-    "pubDate": "2026-09-14T14:54:00.000Z"
-  },
-  {
-    "title": "UltraVNC 1.8.3.0",
-    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/ultravnc/",
-    "pubDate": "2026-09-14T04:46:00.000Z"
-  },
-  {
-    "title": "Carbon Copy Cloner 7.2 (macOS)",
-    "link": "https://www.computerbase.de/downloads/sicherheit/backup/carbon-copy-cloner/",
-    "pubDate": "2026-09-14T04:44:00.000Z"
-  },
-  {
-    "title": "croc 11.5.3",
-    "link": "https://www.computerbase.de/downloads/office/dateitransfer/croc/",
-    "pubDate": "2026-09-14T04:43:00.000Z"
-  },
-  {
-    "title": "Microsoft Teams 26225.1706.5101.3140 (macOS)",
-    "link": "https://www.computerbase.de/downloads/kommunikation/microsoft-teams/",
-    "pubDate": "2026-09-13T17:55:00.000Z"
   }
 ]
