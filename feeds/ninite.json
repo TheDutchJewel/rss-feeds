@@ -1,5 +1,25 @@
 [
   {
+    "title": "Dropbox updated to 270.4.3312.",
+    "link": "https://ninite.com/dropbox/",
+    "pubDate": "Tue, 15 Sep 2026 21:46:59 -0000"
+  },
+  {
+    "title": "Chrome updated to 153.0.8010.48.",
+    "link": "https://ninite.com/chrome/",
+    "pubDate": "Tue, 15 Sep 2026 21:44:53 -0000"
+  },
+  {
+    "title": "Firefox updated to 156.0.",
+    "link": "https://ninite.com/firefox/",
+    "pubDate": "Tue, 15 Sep 2026 21:35:02 -0000"
+  },
+  {
+    "title": "Blender updated to 5.2.2.",
+    "link": "https://ninite.com/blender/",
+    "pubDate": "Tue, 15 Sep 2026 21:25:23 -0000"
+  },
+  {
     "title": "Opera Chromium updated to 135.0.5973.142.",
     "link": "https://ninite.com/operaChromium/",
     "pubDate": "Tue, 15 Sep 2026 12:34:07 -0000"
@@ -383,35 +403,5 @@
     "title": "Glary updated to 6.47.0.51.",
     "link": "https://ninite.com/glary/",
     "pubDate": "Mon, 31 Aug 2026 07:36:23 -0000"
-  },
-  {
-    "title": "OneDrive updated to 26.150.0804.0011.",
-    "link": "https://ninite.com/onedrive/",
-    "pubDate": "Sun, 30 Aug 2026 05:46:04 -0000"
-  },
-  {
-    "title": "Trillian updated to 6.6.0.18.",
-    "link": "https://ninite.com/trillian/",
-    "pubDate": "Sun, 30 Aug 2026 05:45:56 -0000"
-  },
-  {
-    "title": "Edge updated to 152.0.4191.53.",
-    "link": "https://ninite.com/edge/",
-    "pubDate": "Fri, 28 Aug 2026 15:03:58 -0000"
-  },
-  {
-    "title": "Opera Chromium updated to 135.0.5973.66.",
-    "link": "https://ninite.com/operaChromium/",
-    "pubDate": "Fri, 28 Aug 2026 15:03:24 -0000"
-  },
-  {
-    "title": "Cursor updated to 3.18.9.",
-    "link": "https://ninite.com/cursor/",
-    "pubDate": "Thu, 27 Aug 2026 19:27:21 -0000"
-  },
-  {
-    "title": "Brave updated to 1.94.117.",
-    "link": "https://ninite.com/brave/",
-    "pubDate": "Thu, 27 Aug 2026 19:27:09 -0000"
   }
 ]
