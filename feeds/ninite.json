@@ -1,5 +1,10 @@
 [
   {
+    "title": "Opera Chromium updated to 135.0.5973.142.",
+    "link": "https://ninite.com/operaChromium/",
+    "pubDate": "Tue, 15 Sep 2026 12:34:07 -0000"
+  },
+  {
     "title": "Evernote updated to 11.34.8.",
     "link": "https://ninite.com/evernote/",
     "pubDate": "Tue, 15 Sep 2026 12:06:30 -0000"
@@ -408,10 +413,5 @@
     "title": "Brave updated to 1.94.117.",
     "link": "https://ninite.com/brave/",
     "pubDate": "Thu, 27 Aug 2026 19:27:09 -0000"
-  },
-  {
-    "title": "WinMerge updated to 2.16.58.2.",
-    "link": "https://ninite.com/winmerge/",
-    "pubDate": "Thu, 27 Aug 2026 12:30:04 -0000"
   }
 ]

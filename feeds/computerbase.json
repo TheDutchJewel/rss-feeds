@@ -1,5 +1,95 @@
 [
   {
+    "title": "Blender 5.2.2 LTS",
+    "link": "https://www.computerbase.de/downloads/foto-und-grafik/blender/",
+    "pubDate": "2026-09-15T15:19:00.000Z"
+  },
+  {
+    "title": "Blender 4.5.14 LTS",
+    "link": "https://www.computerbase.de/downloads/foto-und-grafik/blender/",
+    "pubDate": "2026-09-15T15:18:00.000Z"
+  },
+  {
+    "title": "Oracle VM VirtualBox 7.2.18",
+    "link": "https://www.computerbase.de/downloads/systemtools/oracle-vm-virtualbox/",
+    "pubDate": "2026-09-15T15:14:00.000Z"
+  },
+  {
+    "title": "Vivaldi 8.2 Build 4133.55 (Linux)",
+    "link": "https://www.computerbase.de/downloads/browser/vivaldi/",
+    "pubDate": "2026-09-15T15:11:00.000Z"
+  },
+  {
+    "title": "OnyX 5.1.0 (macOS)",
+    "link": "https://www.computerbase.de/downloads/systemtools/onyx/",
+    "pubDate": "2026-09-15T15:08:00.000Z"
+  },
+  {
+    "title": "Evernote 11.34.8",
+    "link": "https://www.computerbase.de/downloads/office/evernote/",
+    "pubDate": "2026-09-15T15:06:00.000Z"
+  },
+  {
+    "title": "Threema für Desktop 2.0 Beta 66",
+    "link": "https://www.computerbase.de/downloads/kommunikation/threema-desktop/",
+    "pubDate": "2026-09-15T15:05:00.000Z"
+  },
+  {
+    "title": "Opera 135.0.5973.142",
+    "link": "https://www.computerbase.de/downloads/browser/opera/",
+    "pubDate": "2026-09-15T15:04:00.000Z"
+  },
+  {
+    "title": "AIDA64 v8.40.5000",
+    "link": "https://www.computerbase.de/downloads/systemtools/aida64/",
+    "pubDate": "2026-09-15T15:02:00.000Z"
+  },
+  {
+    "title": "GOG Galaxy 2.1.10.56 Beta",
+    "link": "https://www.computerbase.de/downloads/games/gog-galaxy/",
+    "pubDate": "2026-09-15T14:59:00.000Z"
+  },
+  {
+    "title": "WhatsApp 2.26.37.15 (macOS)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/whatsapp/",
+    "pubDate": "2026-09-15T14:58:00.000Z"
+  },
+  {
+    "title": "Display Driver Uninstaller (DDU) 18.1.6.0",
+    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/display-driver-uninstaller-ddu/",
+    "pubDate": "2026-09-15T14:57:00.000Z"
+  },
+  {
+    "title": "Open-Shell 4.4.201 Beta",
+    "link": "https://www.computerbase.de/downloads/systemtools/open-shell/",
+    "pubDate": "2026-09-15T14:56:00.000Z"
+  },
+  {
+    "title": "Tor Browser 15.0.23",
+    "link": "https://www.computerbase.de/downloads/browser/tor-browser/",
+    "pubDate": "2026-09-15T14:55:00.000Z"
+  },
+  {
+    "title": "Mozilla Firefox 156.0",
+    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
+    "pubDate": "2026-09-15T14:50:00.000Z"
+  },
+  {
+    "title": "Mozilla Firefox 153.3.0 ESR",
+    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
+    "pubDate": "2026-09-15T14:49:00.000Z"
+  },
+  {
+    "title": "Mozilla Firefox 140.16.0 ESR",
+    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
+    "pubDate": "2026-09-15T14:48:00.000Z"
+  },
+  {
+    "title": "Mozilla Firefox 115.41.0 ESR",
+    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
+    "pubDate": "2026-09-15T14:47:00.000Z"
+  },
+  {
     "title": "Rocket.Chat Desktop 4.17.1",
     "link": "https://www.computerbase.de/downloads/kommunikation/rocket.chat/",
     "pubDate": "2026-09-15T04:49:00.000Z"
@@ -130,11 +220,6 @@
     "pubDate": "2026-09-14T14:56:00.000Z"
   },
   {
-    "title": "WhatsApp 2.26.37.12 (macOS)",
-    "link": "https://www.computerbase.de/downloads/kommunikation/whatsapp/",
-    "pubDate": "2026-09-14T14:55:00.000Z"
-  },
-  {
     "title": "Linux Kernel 7.2.6 (Linux)",
     "link": "https://www.computerbase.de/downloads/betriebssysteme/linux-kernel/",
     "pubDate": "2026-09-14T14:55:00.000Z"
@@ -163,90 +248,5 @@
     "title": "Microsoft Teams 26225.1706.5101.3140 (macOS)",
     "link": "https://www.computerbase.de/downloads/kommunikation/microsoft-teams/",
     "pubDate": "2026-09-13T17:55:00.000Z"
-  },
-  {
-    "title": "VDownloader 5.0.4511",
-    "link": "https://www.computerbase.de/downloads/office/dateitransfer/vdownloader/",
-    "pubDate": "2026-09-13T17:55:00.000Z"
-  },
-  {
-    "title": "Fan Control V277",
-    "link": "https://www.computerbase.de/downloads/systemtools/fan-control/",
-    "pubDate": "2026-09-13T17:53:00.000Z"
-  },
-  {
-    "title": "K-Lite Codec Pack Update 19.9.9",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/k-lite-codec-pack/",
-    "pubDate": "2026-09-13T07:41:00.000Z"
-  },
-  {
-    "title": "SmartFTP 10.0 Build 3328",
-    "link": "https://www.computerbase.de/downloads/office/dateitransfer/smartftp/",
-    "pubDate": "2026-09-13T07:39:00.000Z"
-  },
-  {
-    "title": "Debian 13.7.0 „Trixie“",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/debian/",
-    "pubDate": "2026-09-12T17:09:00.000Z"
-  },
-  {
-    "title": "ZenTimings 140.576 Beta",
-    "link": "https://www.computerbase.de/downloads/systemtools/zentimings/",
-    "pubDate": "2026-09-12T12:11:00.000Z"
-  },
-  {
-    "title": "Seagate SeaTools 5.3.1",
-    "link": "https://www.computerbase.de/downloads/systemtools/festplatten/seagate-seatools/",
-    "pubDate": "2026-09-12T08:38:00.000Z"
-  },
-  {
-    "title": "Microsoft OneDrive 26.153.0809.0004",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/microsoft-onedrive/",
-    "pubDate": "2026-09-12T08:34:00.000Z"
-  },
-  {
-    "title": "OpenRGB 1.0",
-    "link": "https://www.computerbase.de/downloads/systemtools/openrgb/",
-    "pubDate": "2026-09-12T08:10:00.000Z"
-  },
-  {
-    "title": "TROM-Jaro 2026.09.11",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/trom-jaro/",
-    "pubDate": "2026-09-12T07:56:00.000Z"
-  },
-  {
-    "title": "Brave 1.95.101",
-    "link": "https://www.computerbase.de/downloads/browser/brave/",
-    "pubDate": "2026-09-12T07:50:00.000Z"
-  },
-  {
-    "title": "AutoHotkey 2.0.28",
-    "link": "https://www.computerbase.de/downloads/systemtools/autohotkey/",
-    "pubDate": "2026-09-12T07:49:00.000Z"
-  },
-  {
-    "title": "Microsoft Windows-Tool zum Entfernen bösartiger Software 5.145",
-    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/microsoft-anti-viren-tool/",
-    "pubDate": "2026-09-12T07:49:00.000Z"
-  },
-  {
-    "title": "Nvidia Linux Display Driver 615.71.09 NFB (Linux)",
-    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/nvidia-linux-display-driver/",
-    "pubDate": "2026-09-11T19:26:00.000Z"
-  },
-  {
-    "title": "XMPlay 4.1.0.17 Beta",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/xmplay/",
-    "pubDate": "2026-09-11T18:39:00.000Z"
-  },
-  {
-    "title": "NetLimiter 5.3.27.0",
-    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/netlimiter/",
-    "pubDate": "2026-09-11T18:38:00.000Z"
-  },
-  {
-    "title": "Playnite 10.60",
-    "link": "https://www.computerbase.de/downloads/games/playnite/",
-    "pubDate": "2026-09-11T18:37:00.000Z"
   }
 ]
