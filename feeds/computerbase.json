@@ -1,5 +1,50 @@
 [
   {
+    "title": "Ubuntu 24.04.5.1 LTS „Noble Numbat“",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/ubuntu/",
+    "pubDate": "2026-09-16T04:37:00.000Z"
+  },
+  {
+    "title": "Nextcloud Server 35.0.0 (Linux)",
+    "link": "https://www.computerbase.de/downloads/office/dateimanager/nextcloud/",
+    "pubDate": "2026-09-16T04:29:00.000Z"
+  },
+  {
+    "title": "Google Chrome 153.0.8010.47/.48",
+    "link": "https://www.computerbase.de/downloads/browser/google-chrome/",
+    "pubDate": "2026-09-16T04:28:00.000Z"
+  },
+  {
+    "title": "ZenTimings 140.587 Beta",
+    "link": "https://www.computerbase.de/downloads/systemtools/zentimings/",
+    "pubDate": "2026-09-16T04:26:00.000Z"
+  },
+  {
+    "title": "Mozilla Thunderbird 156.0",
+    "link": "https://www.computerbase.de/downloads/kommunikation/mozilla-thunderbird/",
+    "pubDate": "2026-09-16T04:25:00.000Z"
+  },
+  {
+    "title": "Mozilla Thunderbird 140.16.0esr",
+    "link": "https://www.computerbase.de/downloads/kommunikation/mozilla-thunderbird/",
+    "pubDate": "2026-09-16T04:23:00.000Z"
+  },
+  {
+    "title": "WizTree Mac 1.00 (macOS)",
+    "link": "https://www.computerbase.de/downloads/office/dateimanager/wiztree/",
+    "pubDate": "2026-09-16T04:16:00.000Z"
+  },
+  {
+    "title": "WizTree 4.33",
+    "link": "https://www.computerbase.de/downloads/office/dateimanager/wiztree/",
+    "pubDate": "2026-09-16T04:14:00.000Z"
+  },
+  {
+    "title": "GitHub Desktop 3.6.6",
+    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/github-desktop/",
+    "pubDate": "2026-09-16T04:13:00.000Z"
+  },
+  {
     "title": "Visual Studio 2026 v18.10.1",
     "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/visual-studio-2026/",
     "pubDate": "2026-09-15T18:16:00.000Z"
@@ -33,11 +78,6 @@
     "title": "Fedora 45 Beta",
     "link": "https://www.computerbase.de/downloads/betriebssysteme/fedora/",
     "pubDate": "2026-09-15T17:37:00.000Z"
-  },
-  {
-    "title": "GitHub Desktop 3.6.6 Beta 2",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/github-desktop/",
-    "pubDate": "2026-09-15T17:31:00.000Z"
   },
   {
     "title": "Blender 5.2.2 LTS",
@@ -208,45 +248,5 @@
     "title": "Zoom Player 23.0 Beta 1",
     "link": "https://www.computerbase.de/downloads/audio-und-video/zoom-player/",
     "pubDate": "2026-09-14T15:27:00.000Z"
-  },
-  {
-    "title": "ProtonVPN 4.18.2 (Linux)",
-    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/protonvpn/",
-    "pubDate": "2026-09-14T15:16:00.000Z"
-  },
-  {
-    "title": "Wipe 2611.00",
-    "link": "https://www.computerbase.de/downloads/systemtools/wipe/",
-    "pubDate": "2026-09-14T15:14:00.000Z"
-  },
-  {
-    "title": "HWMonitor 1.68",
-    "link": "https://www.computerbase.de/downloads/systemtools/hwmonitor/",
-    "pubDate": "2026-09-14T15:12:00.000Z"
-  },
-  {
-    "title": "MKVToolnix 102.0 “Little Houses”",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/mkvtoolnix/",
-    "pubDate": "2026-09-14T15:03:00.000Z"
-  },
-  {
-    "title": "Mozilla Firefox 157.0 Beta 1",
-    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
-    "pubDate": "2026-09-14T15:02:00.000Z"
-  },
-  {
-    "title": "HyperSnap 10.4.1",
-    "link": "https://www.computerbase.de/downloads/foto-und-grafik/hypersnap/",
-    "pubDate": "2026-09-14T15:01:00.000Z"
-  },
-  {
-    "title": "Snagit 2026.3.3 (macOS)",
-    "link": "https://www.computerbase.de/downloads/foto-und-grafik/snagit/",
-    "pubDate": "2026-09-14T14:59:00.000Z"
-  },
-  {
-    "title": "Bazzite 44.20260914",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/bazzite/",
-    "pubDate": "2026-09-14T14:58:00.000Z"
   }
 ]
