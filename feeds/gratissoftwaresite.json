@@ -1,5 +1,20 @@
 [
     {
+        "title": "Blender 5.2.2 LTS & 4....",
+        "link": "https://www.gratissoftwaresite.nl/downloads/blender-3d-animatie-films",
+        "pubDate": "16 september 2026"
+    },
+    {
+        "title": "Tor Browser 15.0.23",
+        "link": "https://www.gratissoftwaresite.nl/downloads/tor-browser-internet-web-anoniem-surfen-ip-verbergen",
+        "pubDate": "16 september 2026"
+    },
+    {
+        "title": "UniGetUI 26.3.0",
+        "link": "https://www.gratissoftwaresite.nl/downloads/unigetui-software-update-controle-verwijderen",
+        "pubDate": "16 september 2026"
+    },
+    {
         "title": "VirtualBox 7.2.18",
         "link": "https://www.gratissoftwaresite.nl/downloads/virtualbox-virtualisatie-os-virtuele-machine",
         "pubDate": "16 september 2026"
@@ -162,11 +177,6 @@
     {
         "title": "WinSCP 6.5.7",
         "link": "https://www.gratissoftwaresite.nl/downloads/winscp-ftp-sftp-webdav-amazon-s3-website-beheer",
-        "pubDate": "10 september 2026"
-    },
-    {
-        "title": "Tor Browser 15.0.22",
-        "link": "https://www.gratissoftwaresite.nl/downloads/tor-browser-internet-web-anoniem-surfen-ip-verbergen",
         "pubDate": "10 september 2026"
     },
     {
@@ -467,16 +477,6 @@
     {
         "title": "PSPP 2.1.2",
         "link": "https://www.gratissoftwaresite.nl/downloads/pspp-statistische-analyse-spss",
-        "pubDate": "13 augustus 2026"
-    },
-    {
-        "title": "Gnumeric 1.12.61",
-        "link": "https://www.gratissoftwaresite.nl/downloads/gnumeric-spreadsheet-office-excel-vervanger",
-        "pubDate": "13 augustus 2026"
-    },
-    {
-        "title": "Fotowall 1.1.3",
-        "link": "https://www.gratissoftwaresite.nl/downloads/fotowall-fotobewerking-collage-maken",
         "pubDate": "13 augustus 2026"
     }
 ]
