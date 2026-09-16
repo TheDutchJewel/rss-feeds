@@ -1,5 +1,65 @@
 [
   {
+    "title": "WinZip 31",
+    "link": "https://www.computerbase.de/downloads/office/packprogramme/winzip/",
+    "pubDate": "2026-09-16T18:09:00.000Z"
+  },
+  {
+    "title": "Free Download Manager 6.35.0 Build 7018",
+    "link": "https://www.computerbase.de/downloads/office/dateitransfer/free-download-manager/",
+    "pubDate": "2026-09-16T17:42:00.000Z"
+  },
+  {
+    "title": "AVG AntiVirus Free 26.9.11171",
+    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/avg-antivirus-free/",
+    "pubDate": "2026-09-16T17:38:00.000Z"
+  },
+  {
+    "title": "Avast Free Antivirus 26.9.11171",
+    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/avast-free-antivirus/",
+    "pubDate": "2026-09-16T17:38:00.000Z"
+  },
+  {
+    "title": "EA-App 13.791.0.6304",
+    "link": "https://www.computerbase.de/downloads/games/ea-app/",
+    "pubDate": "2026-09-16T17:37:00.000Z"
+  },
+  {
+    "title": "Viber für Desktop 28.9.0.0",
+    "link": "https://www.computerbase.de/downloads/kommunikation/viber-fuer-desktop/",
+    "pubDate": "2026-09-16T17:37:00.000Z"
+  },
+  {
+    "title": "Snapdragon Control Center 2026.3.0.0",
+    "link": "https://www.computerbase.de/downloads/systemtools/snapdragon-control-center/",
+    "pubDate": "2026-09-16T17:36:00.000Z"
+  },
+  {
+    "title": "XMPlay 4.1.0.18 Beta",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/xmplay/",
+    "pubDate": "2026-09-16T17:35:00.000Z"
+  },
+  {
+    "title": "Mozilla Firefox 157.0 Beta 2",
+    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
+    "pubDate": "2026-09-16T17:34:00.000Z"
+  },
+  {
+    "title": "Nextcloud Client 34.0.4",
+    "link": "https://www.computerbase.de/downloads/office/dateimanager/nextcloud/",
+    "pubDate": "2026-09-16T17:34:00.000Z"
+  },
+  {
+    "title": "Google Chrome 155.0.8059.5 Beta",
+    "link": "https://www.computerbase.de/downloads/browser/google-chrome/",
+    "pubDate": "2026-09-16T17:33:00.000Z"
+  },
+  {
+    "title": "Heroic Games Launcher 2.22.3",
+    "link": "https://www.computerbase.de/downloads/games/heroic-games-launcher/",
+    "pubDate": "2026-09-16T17:33:00.000Z"
+  },
+  {
     "title": "CCleaner 7.11.1522",
     "link": "https://www.computerbase.de/downloads/systemtools/ccleaner/",
     "pubDate": "2026-09-16T15:18:00.000Z"
@@ -188,65 +248,5 @@
     "title": "Opera 135.0.5973.142",
     "link": "https://www.computerbase.de/downloads/browser/opera/",
     "pubDate": "2026-09-15T15:04:00.000Z"
-  },
-  {
-    "title": "AIDA64 v8.40.5000",
-    "link": "https://www.computerbase.de/downloads/systemtools/aida64/",
-    "pubDate": "2026-09-15T15:02:00.000Z"
-  },
-  {
-    "title": "GOG Galaxy 2.1.10.56 Beta",
-    "link": "https://www.computerbase.de/downloads/games/gog-galaxy/",
-    "pubDate": "2026-09-15T14:59:00.000Z"
-  },
-  {
-    "title": "WhatsApp 2.26.37.15 (macOS)",
-    "link": "https://www.computerbase.de/downloads/kommunikation/whatsapp/",
-    "pubDate": "2026-09-15T14:58:00.000Z"
-  },
-  {
-    "title": "Display Driver Uninstaller (DDU) 18.1.6.0",
-    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/display-driver-uninstaller-ddu/",
-    "pubDate": "2026-09-15T14:57:00.000Z"
-  },
-  {
-    "title": "Open-Shell 4.4.201 Beta",
-    "link": "https://www.computerbase.de/downloads/systemtools/open-shell/",
-    "pubDate": "2026-09-15T14:56:00.000Z"
-  },
-  {
-    "title": "Tor Browser 15.0.23",
-    "link": "https://www.computerbase.de/downloads/browser/tor-browser/",
-    "pubDate": "2026-09-15T14:55:00.000Z"
-  },
-  {
-    "title": "Mozilla Firefox 156.0",
-    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
-    "pubDate": "2026-09-15T14:50:00.000Z"
-  },
-  {
-    "title": "Mozilla Firefox 153.3.0 ESR",
-    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
-    "pubDate": "2026-09-15T14:49:00.000Z"
-  },
-  {
-    "title": "Mozilla Firefox 140.16.0 ESR",
-    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
-    "pubDate": "2026-09-15T14:48:00.000Z"
-  },
-  {
-    "title": "Mozilla Firefox 115.41.0 ESR",
-    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
-    "pubDate": "2026-09-15T14:47:00.000Z"
-  },
-  {
-    "title": "Rocket.Chat Desktop 4.17.1",
-    "link": "https://www.computerbase.de/downloads/kommunikation/rocket.chat/",
-    "pubDate": "2026-09-15T04:49:00.000Z"
-  },
-  {
-    "title": "Mailspring 1.24.1",
-    "link": "https://www.computerbase.de/downloads/kommunikation/mailspring/",
-    "pubDate": "2026-09-15T04:46:00.000Z"
   }
 ]
