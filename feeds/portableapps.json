@@ -1,5 +1,10 @@
 [
   {
+    "title": "GIMP Portable 3.2.6 Rev 3 (image editor) Released",
+    "link": "https://portableapps.com/news/2026-09-15--gimp-portable-3.2.6-rev-3-released",
+    "pubDate": "Tue, 15 Sep 2026 23:12:59 +0000"
+  },
+  {
     "title": "Trellix Stinger Portable 26.09.37.1 (common virus remover) Released",
     "link": "https://portableapps.com/news/2026-09-14--trellix-stinger-portable-26.09.37.1-released",
     "pubDate": "Mon, 14 Sep 2026 20:19:25 +0000"
@@ -68,10 +73,5 @@
     "title": "Thunderbird, Portable Edition 155.0.1 (email client) Released",
     "link": "https://portableapps.com/news/2026-09-10--thunderbird-portable-155.0.1-released",
     "pubDate": "Thu, 10 Sep 2026 21:46:22 +0000"
-  },
-  {
-    "title": "Google Chrome Portable 155 Dev (web browser) Released",
-    "link": "https://portableapps.com/news/2026-09-10--google-chrome-portable-155-dev-released",
-    "pubDate": "Thu, 10 Sep 2026 19:26:05 +0000"
   }
 ]
