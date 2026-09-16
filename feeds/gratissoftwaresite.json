@@ -1,5 +1,25 @@
 [
     {
+        "title": "Thunderbird 156.0 Release...",
+        "link": "https://www.gratissoftwaresite.nl/downloads/thunderbird-mailprogramma-pop3-imap",
+        "pubDate": "16 september 2026"
+    },
+    {
+        "title": "KillerPDF 1.8.5",
+        "link": "https://www.gratissoftwaresite.nl/downloads/killerpdf-bewerken-pdf",
+        "pubDate": "16 september 2026"
+    },
+    {
+        "title": "ProjectLibre 1.9.8",
+        "link": "https://www.gratissoftwaresite.nl/downloads/projectlibre-projectmanagement-gantt-pert-planning-zakelijk",
+        "pubDate": "16 september 2026"
+    },
+    {
+        "title": "Google Chrome 153.0.8010.48",
+        "link": "https://www.gratissoftwaresite.nl/downloads/google-chrome-internet-web-browser",
+        "pubDate": "16 september 2026"
+    },
+    {
         "title": "Blender 5.2.2 LTS & 4....",
         "link": "https://www.gratissoftwaresite.nl/downloads/blender-3d-animatie-films",
         "pubDate": "16 september 2026"
@@ -180,18 +200,8 @@
         "pubDate": "10 september 2026"
     },
     {
-        "title": "Thunderbird 155.0.1 Release...",
-        "link": "https://www.gratissoftwaresite.nl/downloads/thunderbird-mailprogramma-pop3-imap",
-        "pubDate": "10 september 2026"
-    },
-    {
         "title": "FotoSketcher 4.50",
         "link": "https://www.gratissoftwaresite.nl/downloads/fotosketcher-fotobewerking-effecten-filters",
-        "pubDate": "9 september 2026"
-    },
-    {
-        "title": "Google Chrome 153.0.8010.37",
-        "link": "https://www.gratissoftwaresite.nl/downloads/google-chrome-internet-web-browser",
         "pubDate": "9 september 2026"
     },
     {
@@ -218,11 +228,6 @@
         "title": "Password Safe 3.72.2",
         "link": "https://www.gratissoftwaresite.nl/downloads/password-safe-wachtwoord-beheer",
         "pubDate": "8 september 2026"
-    },
-    {
-        "title": "KillerPDF 1.8.4",
-        "link": "https://www.gratissoftwaresite.nl/downloads/killerpdf-bewerken-pdf",
-        "pubDate": "7 september 2026"
     },
     {
         "title": "LibreWolf 155.0.1-1",
@@ -400,7 +405,7 @@
         "pubDate": "21 augustus 2026"
     },
     {
-        "title": "DeVeDeNG 4.22",
+        "title": "DeVeDeNG 4.22.1",
         "link": "https://www.gratissoftwaresite.nl/downloads/devede-dvd-authoring-video",
         "pubDate": "20 augustus 2026"
     },
@@ -472,11 +477,6 @@
     {
         "title": "VidCoder 12.23",
         "link": "https://www.gratissoftwaresite.nl/downloads/vidcoder-dvd-ripper-bluray-video-conversie",
-        "pubDate": "13 augustus 2026"
-    },
-    {
-        "title": "PSPP 2.1.2",
-        "link": "https://www.gratissoftwaresite.nl/downloads/pspp-statistische-analyse-spss",
         "pubDate": "13 augustus 2026"
     }
 ]

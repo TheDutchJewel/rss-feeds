@@ -5,6 +5,30 @@
     <link>https://www.gratissoftwaresite.nl/downloads/nieuwe-updates</link>
     <description>Nieuwste software-updates van GratisSoftwareSite</description>
     <item>
+      <title>Thunderbird 156.0 Release...</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/thunderbird-mailprogramma-pop3-imap</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/thunderbird-mailprogramma-pop3-imap</guid>
+      <pubDate>16 september 2026</pubDate>
+    </item>
+    <item>
+      <title>KillerPDF 1.8.5</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/killerpdf-bewerken-pdf</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/killerpdf-bewerken-pdf</guid>
+      <pubDate>16 september 2026</pubDate>
+    </item>
+    <item>
+      <title>ProjectLibre 1.9.8</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/projectlibre-projectmanagement-gantt-pert-planning-zakelijk</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/projectlibre-projectmanagement-gantt-pert-planning-zakelijk</guid>
+      <pubDate>16 september 2026</pubDate>
+    </item>
+    <item>
+      <title>Google Chrome 153.0.8010.48</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/google-chrome-internet-web-browser</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/google-chrome-internet-web-browser</guid>
+      <pubDate>16 september 2026</pubDate>
+    </item>
+    <item>
       <title/>
       <link>https://www.gratissoftwaresite.nl/downloads/blender-3d-animatie-films</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/blender-3d-animatie-films</guid>
@@ -221,21 +245,9 @@
       <pubDate>10 september 2026</pubDate>
     </item>
     <item>
-      <title>Thunderbird 155.0.1 Release...</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/thunderbird-mailprogramma-pop3-imap</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/thunderbird-mailprogramma-pop3-imap</guid>
-      <pubDate>10 september 2026</pubDate>
-    </item>
-    <item>
       <title>FotoSketcher 4.50</title>
       <link>https://www.gratissoftwaresite.nl/downloads/fotosketcher-fotobewerking-effecten-filters</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/fotosketcher-fotobewerking-effecten-filters</guid>
-      <pubDate>9 september 2026</pubDate>
-    </item>
-    <item>
-      <title>Google Chrome 153.0.8010.37</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/google-chrome-internet-web-browser</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/google-chrome-internet-web-browser</guid>
       <pubDate>9 september 2026</pubDate>
     </item>
     <item>
@@ -267,12 +279,6 @@
       <link>https://www.gratissoftwaresite.nl/downloads/password-safe-wachtwoord-beheer</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/password-safe-wachtwoord-beheer</guid>
       <pubDate>8 september 2026</pubDate>
-    </item>
-    <item>
-      <title>KillerPDF 1.8.4</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/killerpdf-bewerken-pdf</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/killerpdf-bewerken-pdf</guid>
-      <pubDate>7 september 2026</pubDate>
     </item>
     <item>
       <title>LibreWolf 155.0.1-1</title>
@@ -485,7 +491,7 @@
       <pubDate>21 augustus 2026</pubDate>
     </item>
     <item>
-      <title>DeVeDeNG 4.22</title>
+      <title>DeVeDeNG 4.22.1</title>
       <link>https://www.gratissoftwaresite.nl/downloads/devede-dvd-authoring-video</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/devede-dvd-authoring-video</guid>
       <pubDate>20 augustus 2026</pubDate>
@@ -572,12 +578,6 @@
       <title>VidCoder 12.23</title>
       <link>https://www.gratissoftwaresite.nl/downloads/vidcoder-dvd-ripper-bluray-video-conversie</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/vidcoder-dvd-ripper-bluray-video-conversie</guid>
-      <pubDate>13 augustus 2026</pubDate>
-    </item>
-    <item>
-      <title>PSPP 2.1.2</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/pspp-statistische-analyse-spss</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/pspp-statistische-analyse-spss</guid>
       <pubDate>13 augustus 2026</pubDate>
     </item>
   </channel>

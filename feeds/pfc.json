@@ -1,5 +1,15 @@
 [
   {
+    "title": "[UPDATE] Krita Portable v5.3.2.1",
+    "link": "https://www.portablefreeware.com/?id=2994&ts=1789570584",
+    "pubDate": "Wed, 16 Sep 2026 07:56:24 -0700"
+  },
+  {
+    "title": "[UPDATE] PicPick v7.6.1",
+    "link": "https://www.portablefreeware.com/?id=1496&ts=1789570248",
+    "pubDate": "Wed, 16 Sep 2026 07:50:48 -0700"
+  },
+  {
     "title": "[UPDATE] Text Editor Pro v37.0.0",
     "link": "https://www.portablefreeware.com/?id=2706&ts=1789488362",
     "pubDate": "Tue, 15 Sep 2026 09:06:02 -0700"
@@ -75,7 +85,7 @@
     "pubDate": "Fri, 11 Sep 2026 04:41:41 -0700"
   },
   {
-    "title": "[UPDATE] GIMP Portable v3.2.6 Rev 2",
+    "title": "[UPDATE] GIMP Portable v3.2.6 Rev 3",
     "link": "https://www.portablefreeware.com/?id=644&ts=1789110149",
     "pubDate": "Fri, 11 Sep 2026 00:02:29 -0700"
   },
@@ -488,15 +498,5 @@
     "title": "[UPDATE] QMPlay2 v26.08.02",
     "link": "https://www.portablefreeware.com/?id=3120&ts=1785693757",
     "pubDate": "Sun, 02 Aug 2026 11:02:37 -0700"
-  },
-  {
-    "title": "[NEW] grepWin v2.1.12",
-    "link": "https://www.portablefreeware.com/?id=3146&ts=1785575161",
-    "pubDate": "Sat, 01 Aug 2026 02:06:01 -0700"
-  },
-  {
-    "title": "[UPDATE] KeyNote NF v2.1.7.1",
-    "link": "https://www.portablefreeware.com/?id=755&ts=1785574795",
-    "pubDate": "Sat, 01 Aug 2026 01:59:55 -0700"
   }
 ]
