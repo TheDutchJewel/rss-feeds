@@ -1,5 +1,15 @@
 [
   {
+    "title": "Brave 1.95.102",
+    "link": "https://www.computerbase.de/downloads/browser/brave/",
+    "pubDate": "2026-09-17T04:30:00.000Z"
+  },
+  {
+    "title": "Corsair iCUE 5.51.42",
+    "link": "https://www.computerbase.de/downloads/systemtools/corsair-utility-engine/",
+    "pubDate": "2026-09-17T04:29:00.000Z"
+  },
+  {
     "title": "WinZip 31",
     "link": "https://www.computerbase.de/downloads/office/packprogramme/winzip/",
     "pubDate": "2026-09-16T18:09:00.000Z"
@@ -238,15 +248,5 @@
     "title": "Evernote 11.34.8",
     "link": "https://www.computerbase.de/downloads/office/evernote/",
     "pubDate": "2026-09-15T15:06:00.000Z"
-  },
-  {
-    "title": "Threema für Desktop 2.0 Beta 66",
-    "link": "https://www.computerbase.de/downloads/kommunikation/threema-desktop/",
-    "pubDate": "2026-09-15T15:05:00.000Z"
-  },
-  {
-    "title": "Opera 135.0.5973.142",
-    "link": "https://www.computerbase.de/downloads/browser/opera/",
-    "pubDate": "2026-09-15T15:04:00.000Z"
   }
 ]
