@@ -1,5 +1,40 @@
 [
   {
+    "title": "MSI Center 2.0.74.0",
+    "link": "https://www.computerbase.de/downloads/systemtools/msi-center/",
+    "pubDate": "2026-09-17T18:52:00.000Z"
+  },
+  {
+    "title": "Microsoft Power Automate for desktop 2.72.183.26250",
+    "link": "https://www.computerbase.de/downloads/systemtools/microsoft-power-automate-desktop/",
+    "pubDate": "2026-09-17T18:50:00.000Z"
+  },
+  {
+    "title": "Spotify 1.3.1.234",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/spotify/",
+    "pubDate": "2026-09-17T18:49:00.000Z"
+  },
+  {
+    "title": "WhatsApp 2.26.37.22 (macOS)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/whatsapp/",
+    "pubDate": "2026-09-17T18:47:00.000Z"
+  },
+  {
+    "title": "Media Player Classic Home Cinema 2.8.2",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/media-player-classic-home-cinema/",
+    "pubDate": "2026-09-17T18:47:00.000Z"
+  },
+  {
+    "title": "Discord 1.0.9258",
+    "link": "https://www.computerbase.de/downloads/kommunikation/discord/",
+    "pubDate": "2026-09-17T16:51:00.000Z"
+  },
+  {
+    "title": "ShareMouse for Mac 7.0.28 (macOS)",
+    "link": "https://www.computerbase.de/downloads/treiber/eingabegeraete/sharemouse/",
+    "pubDate": "2026-09-17T15:04:00.000Z"
+  },
+  {
     "title": "NanaZip 7.0.1843.0",
     "link": "https://www.computerbase.de/downloads/office/packprogramme/nanazip/",
     "pubDate": "2026-09-17T15:03:00.000Z"
@@ -213,40 +248,5 @@
     "title": "Mozilla Thunderbird 153.3.0esr",
     "link": "https://www.computerbase.de/downloads/kommunikation/mozilla-thunderbird/",
     "pubDate": "2026-09-16T04:24:00.000Z"
-  },
-  {
-    "title": "Mozilla Thunderbird 140.16.0esr",
-    "link": "https://www.computerbase.de/downloads/kommunikation/mozilla-thunderbird/",
-    "pubDate": "2026-09-16T04:23:00.000Z"
-  },
-  {
-    "title": "WizTree Mac 1.00 (macOS)",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/wiztree/",
-    "pubDate": "2026-09-16T04:16:00.000Z"
-  },
-  {
-    "title": "WizTree 4.33",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/wiztree/",
-    "pubDate": "2026-09-16T04:14:00.000Z"
-  },
-  {
-    "title": "GitHub Desktop 3.6.6",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/github-desktop/",
-    "pubDate": "2026-09-16T04:13:00.000Z"
-  },
-  {
-    "title": "Visual Studio 2026 v18.10.1",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/visual-studio-2026/",
-    "pubDate": "2026-09-15T18:16:00.000Z"
-  },
-  {
-    "title": "Visual Studio 2026 v18.11.12210.170 Insider",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/visual-studio-2026/",
-    "pubDate": "2026-09-15T18:16:00.000Z"
-  },
-  {
-    "title": "UniGetUI 2026.3.0",
-    "link": "https://www.computerbase.de/downloads/systemtools/unigetui/",
-    "pubDate": "2026-09-15T18:11:00.000Z"
   }
 ]

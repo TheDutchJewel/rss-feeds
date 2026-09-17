@@ -1,5 +1,25 @@
 [
   {
+    "title": "Cursor updated to 3.21.9.",
+    "link": "https://ninite.com/cursor/",
+    "pubDate": "Thu, 17 Sep 2026 18:42:26 -0000"
+  },
+  {
+    "title": "Opera Chromium updated to 136.0.6008.22.",
+    "link": "https://ninite.com/operaChromium/",
+    "pubDate": "Thu, 17 Sep 2026 17:52:08 -0000"
+  },
+  {
+    "title": "Spotify updated to 1.3.1.234.",
+    "link": "https://ninite.com/spotify/",
+    "pubDate": "Thu, 17 Sep 2026 17:50:01 -0000"
+  },
+  {
+    "title": "Vivaldi updated to 8.2.4133.64.",
+    "link": "https://ninite.com/vivaldi/",
+    "pubDate": "Thu, 17 Sep 2026 15:04:28 -0000"
+  },
+  {
     "title": "AVG updated to 26.9.11171.3833.",
     "link": "https://ninite.com/avg/",
     "pubDate": "Thu, 17 Sep 2026 15:03:17 -0000"
@@ -398,20 +418,5 @@
     "title": "Dropbox updated to 268.4.4124.",
     "link": "https://ninite.com/dropbox/",
     "pubDate": "Wed, 02 Sep 2026 06:40:31 -0000"
-  },
-  {
-    "title": "Thunderbird updated to 155.0.",
-    "link": "https://ninite.com/thunderbird/",
-    "pubDate": "Wed, 02 Sep 2026 06:39:39 -0000"
-  },
-  {
-    "title": "Chrome updated to 152.0.7977.76.",
-    "link": "https://ninite.com/chrome/",
-    "pubDate": "Wed, 02 Sep 2026 06:37:55 -0000"
-  },
-  {
-    "title": "Audacity updated to 3.7.9.",
-    "link": "https://ninite.com/audacity/",
-    "pubDate": "Wed, 02 Sep 2026 06:37:41 -0000"
   }
 ]
