@@ -1,5 +1,15 @@
 [
   {
+    "title": "AVG updated to 26.9.11171.3833.",
+    "link": "https://ninite.com/avg/",
+    "pubDate": "Thu, 17 Sep 2026 15:03:17 -0000"
+  },
+  {
+    "title": "Avast updated to 26.9.11171.3829.",
+    "link": "https://ninite.com/avast/",
+    "pubDate": "Thu, 17 Sep 2026 15:02:57 -0000"
+  },
+  {
     "title": "Brave updated to 1.95.102.",
     "link": "https://ninite.com/brave/",
     "pubDate": "Wed, 16 Sep 2026 18:44:46 -0000"
@@ -403,15 +413,5 @@
     "title": "Audacity updated to 3.7.9.",
     "link": "https://ninite.com/audacity/",
     "pubDate": "Wed, 02 Sep 2026 06:37:41 -0000"
-  },
-  {
-    "title": "Cursor updated to 3.18.25.",
-    "link": "https://ninite.com/cursor/",
-    "pubDate": "Tue, 01 Sep 2026 14:28:07 -0000"
-  },
-  {
-    "title": "Evernote updated to 11.32.5.",
-    "link": "https://ninite.com/evernote/",
-    "pubDate": "Tue, 01 Sep 2026 14:17:44 -0000"
   }
 ]

@@ -5,6 +5,30 @@
     <link>https://www.gratissoftwaresite.nl/downloads/nieuwe-updates</link>
     <description>Nieuwste software-updates van GratisSoftwareSite</description>
     <item>
+      <title>Mullvad Browser 15.0.21</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/mullvad-browser-privacy</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/mullvad-browser-privacy</guid>
+      <pubDate>17 september 2026</pubDate>
+    </item>
+    <item>
+      <title>Vivaldi 8.2.4133.64</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/vivaldi-internet-web-browser</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/vivaldi-internet-web-browser</guid>
+      <pubDate>17 september 2026</pubDate>
+    </item>
+    <item>
+      <title>Pale Moon 35.0.0</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/pale-moon-web-browser-internet</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/pale-moon-web-browser-internet</guid>
+      <pubDate>17 september 2026</pubDate>
+    </item>
+    <item>
+      <title>AVG Anti-Virus Free 26.9</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/avg-anti-virus-free-virusscanner</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/avg-anti-virus-free-virusscanner</guid>
+      <pubDate>17 september 2026</pubDate>
+    </item>
+    <item>
       <title>Avast Free Antivirus 26.9</title>
       <link>https://www.gratissoftwaresite.nl/downloads/avast-free-anti-virus-virusscanner</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/avast-free-anti-virus-virusscanner</guid>
@@ -200,12 +224,6 @@
       <title>Debian 13.7.0</title>
       <link>https://www.gratissoftwaresite.nl/downloads/debian-besturingssysteem</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/debian-besturingssysteem</guid>
-      <pubDate>12 september 2026</pubDate>
-    </item>
-    <item>
-      <title>Vivaldi 8.2.4133.52</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/vivaldi-internet-web-browser</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/vivaldi-internet-web-browser</guid>
       <pubDate>12 september 2026</pubDate>
     </item>
     <item>
@@ -533,18 +551,6 @@
       <pubDate>19 augustus 2026</pubDate>
     </item>
     <item>
-      <title>Mullvad Browser 15.0.20</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/mullvad-browser-privacy</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/mullvad-browser-privacy</guid>
-      <pubDate>19 augustus 2026</pubDate>
-    </item>
-    <item>
-      <title>AVG Anti-Virus Free 26.9</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/avg-anti-virus-free-virusscanner</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/avg-anti-virus-free-virusscanner</guid>
-      <pubDate>19 augustus 2026</pubDate>
-    </item>
-    <item>
       <title>PotPlayer 260819</title>
       <link>https://www.gratissoftwaresite.nl/downloads/Daum-PotPlayer-mediaspeler</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/Daum-PotPlayer-mediaspeler</guid>
@@ -579,12 +585,6 @@
       <link>https://www.gratissoftwaresite.nl/downloads/nirlauncher-nirsoft-utilities-werktuigen-tools-pc-onderhoud-beheer</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/nirlauncher-nirsoft-utilities-werktuigen-tools-pc-onderhoud-beheer</guid>
       <pubDate>15 augustus 2026</pubDate>
-    </item>
-    <item>
-      <title>Stretchly 1.22.1</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/stretchly-anti-rsi-pauze-software</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/stretchly-anti-rsi-pauze-software</guid>
-      <pubDate>14 augustus 2026</pubDate>
     </item>
   </channel>
 </rss>

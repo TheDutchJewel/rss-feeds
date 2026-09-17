@@ -1,5 +1,55 @@
 [
   {
+    "title": "NanaZip 7.0.1843.0",
+    "link": "https://www.computerbase.de/downloads/office/packprogramme/nanazip/",
+    "pubDate": "2026-09-17T15:03:00.000Z"
+  },
+  {
+    "title": "Bitwarden 2026.9.0",
+    "link": "https://www.computerbase.de/downloads/sicherheit/passwortmanager/bitwarden/",
+    "pubDate": "2026-09-17T15:01:00.000Z"
+  },
+  {
+    "title": "Opera 136.0.6008.22",
+    "link": "https://www.computerbase.de/downloads/browser/opera/",
+    "pubDate": "2026-09-17T15:00:00.000Z"
+  },
+  {
+    "title": "Opera GX 135.0.5973.153 Early Access",
+    "link": "https://www.computerbase.de/downloads/browser/opera-gx/",
+    "pubDate": "2026-09-17T14:57:00.000Z"
+  },
+  {
+    "title": "HFS – HTTP File Server 3.3.1",
+    "link": "https://www.computerbase.de/downloads/office/dateitransfer/hfs-http-file-server/",
+    "pubDate": "2026-09-17T14:55:00.000Z"
+  },
+  {
+    "title": "Vivaldi 8.2 Build 4133.64",
+    "link": "https://www.computerbase.de/downloads/browser/vivaldi/",
+    "pubDate": "2026-09-17T14:54:00.000Z"
+  },
+  {
+    "title": "HWiNFO 8.53 Build 6075 Beta",
+    "link": "https://www.computerbase.de/downloads/systemtools/hwinfo/",
+    "pubDate": "2026-09-17T14:53:00.000Z"
+  },
+  {
+    "title": "Telegram Desktop 7.2.9",
+    "link": "https://www.computerbase.de/downloads/kommunikation/telegram-desktop/",
+    "pubDate": "2026-09-17T14:51:00.000Z"
+  },
+  {
+    "title": "Adobe Acrobat Reader DC (26.002.21931) Hotfix",
+    "link": "https://www.computerbase.de/downloads/office/pdf/adobe-acrobat-reader/",
+    "pubDate": "2026-09-17T14:50:00.000Z"
+  },
+  {
+    "title": "LibreWolf 156.0-1",
+    "link": "https://www.computerbase.de/downloads/browser/librewolf/",
+    "pubDate": "2026-09-17T14:48:00.000Z"
+  },
+  {
     "title": "Brave 1.95.102",
     "link": "https://www.computerbase.de/downloads/browser/brave/",
     "pubDate": "2026-09-17T04:30:00.000Z"
@@ -20,13 +70,13 @@
     "pubDate": "2026-09-16T17:42:00.000Z"
   },
   {
-    "title": "AVG AntiVirus Free 26.9.11171",
-    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/avg-antivirus-free/",
+    "title": "Avast Free Antivirus 26.9.11171",
+    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/avast-free-antivirus/",
     "pubDate": "2026-09-16T17:38:00.000Z"
   },
   {
-    "title": "Avast Free Antivirus 26.9.11171",
-    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/avast-free-antivirus/",
+    "title": "AVG AntiVirus Free 26.9.11171",
+    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/avg-antivirus-free/",
     "pubDate": "2026-09-16T17:38:00.000Z"
   },
   {
@@ -198,55 +248,5 @@
     "title": "UniGetUI 2026.3.0",
     "link": "https://www.computerbase.de/downloads/systemtools/unigetui/",
     "pubDate": "2026-09-15T18:11:00.000Z"
-  },
-  {
-    "title": "Affinity 3.3.0",
-    "link": "https://www.computerbase.de/downloads/foto-und-grafik/affinity/",
-    "pubDate": "2026-09-15T17:53:00.000Z"
-  },
-  {
-    "title": "Java SE Development Kit 27.0",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/java-se-development-kit/",
-    "pubDate": "2026-09-15T17:44:00.000Z"
-  },
-  {
-    "title": "Dropbox 270.4.3312",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/dropbox/",
-    "pubDate": "2026-09-15T17:37:00.000Z"
-  },
-  {
-    "title": "Fedora 45 Beta",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/fedora/",
-    "pubDate": "2026-09-15T17:37:00.000Z"
-  },
-  {
-    "title": "Blender 5.2.2 LTS",
-    "link": "https://www.computerbase.de/downloads/foto-und-grafik/blender/",
-    "pubDate": "2026-09-15T15:19:00.000Z"
-  },
-  {
-    "title": "Blender 4.5.14 LTS",
-    "link": "https://www.computerbase.de/downloads/foto-und-grafik/blender/",
-    "pubDate": "2026-09-15T15:18:00.000Z"
-  },
-  {
-    "title": "Oracle VM VirtualBox 7.2.18",
-    "link": "https://www.computerbase.de/downloads/systemtools/oracle-vm-virtualbox/",
-    "pubDate": "2026-09-15T15:14:00.000Z"
-  },
-  {
-    "title": "Vivaldi 8.2 Build 4133.55 (Linux)",
-    "link": "https://www.computerbase.de/downloads/browser/vivaldi/",
-    "pubDate": "2026-09-15T15:11:00.000Z"
-  },
-  {
-    "title": "OnyX 5.1.0 (macOS)",
-    "link": "https://www.computerbase.de/downloads/systemtools/onyx/",
-    "pubDate": "2026-09-15T15:08:00.000Z"
-  },
-  {
-    "title": "Evernote 11.34.8",
-    "link": "https://www.computerbase.de/downloads/office/evernote/",
-    "pubDate": "2026-09-15T15:06:00.000Z"
   }
 ]

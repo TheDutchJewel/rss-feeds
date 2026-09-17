@@ -1,5 +1,25 @@
 [
     {
+        "title": "Mullvad Browser 15.0.21",
+        "link": "https://www.gratissoftwaresite.nl/downloads/mullvad-browser-privacy",
+        "pubDate": "17 september 2026"
+    },
+    {
+        "title": "Vivaldi 8.2.4133.64",
+        "link": "https://www.gratissoftwaresite.nl/downloads/vivaldi-internet-web-browser",
+        "pubDate": "17 september 2026"
+    },
+    {
+        "title": "Pale Moon 35.0.0",
+        "link": "https://www.gratissoftwaresite.nl/downloads/pale-moon-web-browser-internet",
+        "pubDate": "17 september 2026"
+    },
+    {
+        "title": "AVG Anti-Virus Free 26.9",
+        "link": "https://www.gratissoftwaresite.nl/downloads/avg-anti-virus-free-virusscanner",
+        "pubDate": "17 september 2026"
+    },
+    {
         "title": "Avast Free Antivirus 26.9",
         "link": "https://www.gratissoftwaresite.nl/downloads/avast-free-anti-virus-virusscanner",
         "pubDate": "17 september 2026"
@@ -162,11 +182,6 @@
     {
         "title": "Debian 13.7.0",
         "link": "https://www.gratissoftwaresite.nl/downloads/debian-besturingssysteem",
-        "pubDate": "12 september 2026"
-    },
-    {
-        "title": "Vivaldi 8.2.4133.52",
-        "link": "https://www.gratissoftwaresite.nl/downloads/vivaldi-internet-web-browser",
         "pubDate": "12 september 2026"
     },
     {
@@ -440,16 +455,6 @@
         "pubDate": "19 augustus 2026"
     },
     {
-        "title": "Mullvad Browser 15.0.20",
-        "link": "https://www.gratissoftwaresite.nl/downloads/mullvad-browser-privacy",
-        "pubDate": "19 augustus 2026"
-    },
-    {
-        "title": "AVG Anti-Virus Free 26.9",
-        "link": "https://www.gratissoftwaresite.nl/downloads/avg-anti-virus-free-virusscanner",
-        "pubDate": "19 augustus 2026"
-    },
-    {
         "title": "PotPlayer 260819",
         "link": "https://www.gratissoftwaresite.nl/downloads/Daum-PotPlayer-mediaspeler",
         "pubDate": "19 augustus 2026"
@@ -478,10 +483,5 @@
         "title": "NirLauncher Utilities 1.30.25",
         "link": "https://www.gratissoftwaresite.nl/downloads/nirlauncher-nirsoft-utilities-werktuigen-tools-pc-onderhoud-beheer",
         "pubDate": "15 augustus 2026"
-    },
-    {
-        "title": "Stretchly 1.22.1",
-        "link": "https://www.gratissoftwaresite.nl/downloads/stretchly-anti-rsi-pauze-software",
-        "pubDate": "14 augustus 2026"
     }
 ]
