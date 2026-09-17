@@ -11,7 +11,6 @@
 html, body {
     margin: 0;
     padding: 0;
-    overflow: hidden;
     background: transparent;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 12px;
@@ -96,6 +95,30 @@ html, body {
     
 #rss-1 .itemTitle {
     padding: 5px 5px 15px 5px;
+}
+
+@media (max-width: 600px) {
+    .container {
+        display: block;
+    }
+    .feed {
+        display: block;
+        width: 100%;
+        box-sizing: border-box;
+        border-left: none;
+        border-right: none;
+        border-bottom: 4px solid #f3efe6;
+    }
+    .feed:first-child {
+        border-left: none;
+    }
+    .feed:last-child {
+        border-right: none;
+        border-bottom: none;
+    }
+    .feedEkList {
+        height: 300px;
+    }
 }
 
 </style>
