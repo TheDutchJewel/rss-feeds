@@ -1,5 +1,10 @@
 [
   {
+    "title": "K-Lite Codec Pack 20.0.0",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/k-lite-codec-pack/",
+    "pubDate": "2026-09-17T19:16:00.000Z"
+  },
+  {
     "title": "MSI Center 2.0.74.0",
     "link": "https://www.computerbase.de/downloads/systemtools/msi-center/",
     "pubDate": "2026-09-17T18:52:00.000Z"
@@ -243,10 +248,5 @@
     "title": "Mozilla Thunderbird 156.0",
     "link": "https://www.computerbase.de/downloads/kommunikation/mozilla-thunderbird/",
     "pubDate": "2026-09-16T04:25:00.000Z"
-  },
-  {
-    "title": "Mozilla Thunderbird 153.3.0esr",
-    "link": "https://www.computerbase.de/downloads/kommunikation/mozilla-thunderbird/",
-    "pubDate": "2026-09-16T04:24:00.000Z"
   }
 ]
