@@ -99,22 +99,13 @@ html, body {
 
 @media (max-width: 600px) {
     .container {
-        display: block;
+        display: flex;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
     }
     .feed {
-        display: block;
-        width: 100%;
-        box-sizing: border-box;
-        border-left: none;
-        border-right: none;
-        border-bottom: 4px solid #f3efe6;
-    }
-    .feed:first-child {
-        border-left: none;
-    }
-    .feed:last-child {
-        border-right: none;
-        border-bottom: none;
+        flex: 0 0 auto;
+        width: 260px;
     }
     .feedEkList {
         height: 300px;
