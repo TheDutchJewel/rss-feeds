@@ -1,5 +1,20 @@
 [
   {
+    "title": "[UPDATE] MKVToolNix v102.0",
+    "link": "https://www.portablefreeware.com/?id=3004&ts=1789712597",
+    "pubDate": "Thu, 17 Sep 2026 23:23:17 -0700"
+  },
+  {
+    "title": "[UPDATE] CSVFileView v2.66",
+    "link": "https://www.portablefreeware.com/?id=2156&ts=1789712425",
+    "pubDate": "Thu, 17 Sep 2026 23:20:25 -0700"
+  },
+  {
+    "title": "[UPDATE] Betterbird 153.3.0esr-bb9",
+    "link": "https://www.portablefreeware.com/?id=3111&ts=1789712376",
+    "pubDate": "Thu, 17 Sep 2026 23:19:36 -0700"
+  },
+  {
     "title": "[UPDATE] Tor Browser v15.0.23",
     "link": "https://www.portablefreeware.com/?id=2392&ts=1789664431",
     "pubDate": "Thu, 17 Sep 2026 10:00:31 -0700"
@@ -320,11 +335,6 @@
     "pubDate": "Wed, 26 Aug 2026 00:07:33 -0700"
   },
   {
-    "title": "[UPDATE] MKVToolNix v101.0",
-    "link": "https://www.portablefreeware.com/?id=3004&ts=1787727937",
-    "pubDate": "Wed, 26 Aug 2026 00:05:37 -0700"
-  },
-  {
     "title": "[UPDATE] DiskInternals Linux Reader v5.2",
     "link": "https://www.portablefreeware.com/?id=1159&ts=1787634913",
     "pubDate": "Mon, 24 Aug 2026 22:15:13 -0700"
@@ -488,15 +498,5 @@
     "title": "[UPDATE] Pale Moon Portable v34.3.2",
     "link": "https://www.portablefreeware.com/?id=1978&ts=1785890707",
     "pubDate": "Tue, 04 Aug 2026 17:45:07 -0700"
-  },
-  {
-    "title": "[UPDATE] Homedale v2.25",
-    "link": "https://www.portablefreeware.com/?id=3053&ts=1785813632",
-    "pubDate": "Mon, 03 Aug 2026 20:20:32 -0700"
-  },
-  {
-    "title": "[UPDATE] Shotcut v26.8.1",
-    "link": "https://www.portablefreeware.com/?id=3049&ts=1785774208",
-    "pubDate": "Mon, 03 Aug 2026 09:23:28 -0700"
   }
 ]

@@ -1,5 +1,25 @@
 [
     {
+        "title": "Calibre 9.15.0",
+        "link": "https://www.gratissoftwaresite.nl/downloads/calibre-e-book-reader-epub-mobi-pdf",
+        "pubDate": "18 september 2026"
+    },
+    {
+        "title": "Bitwarden 2026.9.0",
+        "link": "https://www.gratissoftwaresite.nl/downloads/bitwarden-wachtwoordbeheerder-online-kluis-versleuteld-privacy",
+        "pubDate": "18 september 2026"
+    },
+    {
+        "title": "Google Chrome 153.0.8010.53",
+        "link": "https://www.gratissoftwaresite.nl/downloads/google-chrome-internet-web-browser",
+        "pubDate": "18 september 2026"
+    },
+    {
+        "title": "RapidRaw 1.6.4",
+        "link": "https://www.gratissoftwaresite.nl/downloads/rapidraw-fotobewerking-beheer-workflow",
+        "pubDate": "18 september 2026"
+    },
+    {
         "title": "Mullvad Browser 15.0.21",
         "link": "https://www.gratissoftwaresite.nl/downloads/mullvad-browser-privacy",
         "pubDate": "17 september 2026"
@@ -67,11 +87,6 @@
     {
         "title": "ProjectLibre 1.9.8",
         "link": "https://www.gratissoftwaresite.nl/downloads/projectlibre-projectmanagement-gantt-pert-planning-zakelijk",
-        "pubDate": "16 september 2026"
-    },
-    {
-        "title": "Google Chrome 153.0.8010.48",
-        "link": "https://www.gratissoftwaresite.nl/downloads/google-chrome-internet-web-browser",
         "pubDate": "16 september 2026"
     },
     {
@@ -225,11 +240,6 @@
         "pubDate": "10 september 2026"
     },
     {
-        "title": "RapidRaw 1.6.3",
-        "link": "https://www.gratissoftwaresite.nl/downloads/rapidraw-fotobewerking-beheer-workflow",
-        "pubDate": "10 september 2026"
-    },
-    {
         "title": "FreeFileSync 14.11",
         "link": "https://www.gratissoftwaresite.nl/downloads/freefilesync-backup-synchronisatie",
         "pubDate": "10 september 2026"
@@ -360,11 +370,6 @@
         "pubDate": "29 augustus 2026"
     },
     {
-        "title": "Calibre 9.14.0",
-        "link": "https://www.gratissoftwaresite.nl/downloads/calibre-e-book-reader-epub-mobi-pdf",
-        "pubDate": "29 augustus 2026"
-    },
-    {
         "title": "Clementine 1.4.1-106",
         "link": "https://www.gratissoftwaresite.nl/downloads/clementine-audio-muziekspeler-online",
         "pubDate": "29 augustus 2026"
@@ -437,11 +442,6 @@
     {
         "title": "PlainApp 0.1.4",
         "link": "https://www.gratissoftwaresite.nl/downloads/plainapp-android-bestandsoverdracht-beheer",
-        "pubDate": "21 augustus 2026"
-    },
-    {
-        "title": "Bitwarden 2026.8.0",
-        "link": "https://www.gratissoftwaresite.nl/downloads/bitwarden-wachtwoordbeheerder-online-kluis-versleuteld-privacy",
         "pubDate": "21 augustus 2026"
     },
     {
