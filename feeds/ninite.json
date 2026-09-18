@@ -1,5 +1,40 @@
 [
   {
+    "title": "Discord updated to 1.0.9258.",
+    "link": "https://ninite.com/discord/",
+    "pubDate": "Fri, 18 Sep 2026 21:55:27 -0000"
+  },
+  {
+    "title": "OneDrive updated to 26.163.0823.0004.",
+    "link": "https://ninite.com/onedrive/",
+    "pubDate": "Fri, 18 Sep 2026 21:52:42 -0000"
+  },
+  {
+    "title": "Edge updated to 153.0.4234.48.",
+    "link": "https://ninite.com/edge/",
+    "pubDate": "Fri, 18 Sep 2026 20:23:57 -0000"
+  },
+  {
+    "title": "Zoom updated to 7.2.0.48358.",
+    "link": "https://ninite.com/zoom/",
+    "pubDate": "Fri, 18 Sep 2026 20:21:56 -0000"
+  },
+  {
+    "title": "K-Lite Codecs updated to 20.0.0.",
+    "link": "https://ninite.com/klitecodecs/",
+    "pubDate": "Fri, 18 Sep 2026 20:21:37 -0000"
+  },
+  {
+    "title": "IrfanView updated to 4.76.",
+    "link": "https://ninite.com/irfanview/",
+    "pubDate": "Fri, 18 Sep 2026 20:20:38 -0000"
+  },
+  {
+    "title": "Chrome updated to 153.0.8010.53.",
+    "link": "https://ninite.com/chrome/",
+    "pubDate": "Fri, 18 Sep 2026 20:20:02 -0000"
+  },
+  {
     "title": "Cursor updated to 3.21.13.",
     "link": "https://ninite.com/cursor/",
     "pubDate": "Fri, 18 Sep 2026 17:34:28 -0000"
@@ -393,40 +428,5 @@
     "title": "Chrome updated to 152.0.7977.83.",
     "link": "https://ninite.com/chrome/",
     "pubDate": "Fri, 04 Sep 2026 03:50:33 -0000"
-  },
-  {
-    "title": "Cursor updated to 3.19.7.",
-    "link": "https://ninite.com/cursor/",
-    "pubDate": "Thu, 03 Sep 2026 05:10:23 -0000"
-  },
-  {
-    "title": "Visual Studio Code updated to 1.136.0.",
-    "link": "https://ninite.com/vscode/",
-    "pubDate": "Wed, 02 Sep 2026 19:25:45 -0000"
-  },
-  {
-    "title": "Edge updated to 152.0.4191.62.",
-    "link": "https://ninite.com/edge/",
-    "pubDate": "Wed, 02 Sep 2026 19:25:22 -0000"
-  },
-  {
-    "title": "Brave updated to 1.94.119.",
-    "link": "https://ninite.com/brave/",
-    "pubDate": "Wed, 02 Sep 2026 19:24:53 -0000"
-  },
-  {
-    "title": "Opera Chromium updated to 135.0.5973.76.",
-    "link": "https://ninite.com/operaChromium/",
-    "pubDate": "Wed, 02 Sep 2026 08:48:32 -0000"
-  },
-  {
-    "title": "AIMP updated to 5.40.2726.",
-    "link": "https://ninite.com/aimp/",
-    "pubDate": "Wed, 02 Sep 2026 08:48:20 -0000"
-  },
-  {
-    "title": "Malwarebytes updated to 5.6.5.306.",
-    "link": "https://ninite.com/malwarebytes/",
-    "pubDate": "Wed, 02 Sep 2026 07:25:24 -0000"
   }
 ]
