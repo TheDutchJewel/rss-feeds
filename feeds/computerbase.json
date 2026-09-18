@@ -1,5 +1,55 @@
 [
   {
+    "title": "Dropbox 272.3.3677 Beta",
+    "link": "https://www.computerbase.de/downloads/office/dateimanager/dropbox/",
+    "pubDate": "2026-09-18T17:26:00.000Z"
+  },
+  {
+    "title": "balenaEtcher 2.1.7",
+    "link": "https://www.computerbase.de/downloads/systemtools/festplatten/balenaetcher/",
+    "pubDate": "2026-09-18T17:24:00.000Z"
+  },
+  {
+    "title": "Mozilla Firefox 157.0 Beta 3",
+    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
+    "pubDate": "2026-09-18T17:14:00.000Z"
+  },
+  {
+    "title": "IrfanView 4.76",
+    "link": "https://www.computerbase.de/downloads/foto-und-grafik/irfanview/",
+    "pubDate": "2026-09-18T15:51:00.000Z"
+  },
+  {
+    "title": "Intel Arc & Xe Grafiktreiber 32.0.101.9030",
+    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/intel-grafiktreiber/",
+    "pubDate": "2026-09-18T15:49:00.000Z"
+  },
+  {
+    "title": "Mozilla Thunderbird 153.3.1esr",
+    "link": "https://www.computerbase.de/downloads/kommunikation/mozilla-thunderbird/",
+    "pubDate": "2026-09-18T15:48:00.000Z"
+  },
+  {
+    "title": "Java SE Development Kit 28.0 Build 16 Dev",
+    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/java-se-development-kit/",
+    "pubDate": "2026-09-18T15:48:00.000Z"
+  },
+  {
+    "title": "foobar2000 v2.26 preview 2026-09-18",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/foobar2000/",
+    "pubDate": "2026-09-18T14:02:00.000Z"
+  },
+  {
+    "title": "Screenpresso 2.3.5 (Win 11)",
+    "link": "https://www.computerbase.de/downloads/foto-und-grafik/screenpresso/",
+    "pubDate": "2026-09-18T13:58:00.000Z"
+  },
+  {
+    "title": "Vivaldi 8.2 Build 4133.68",
+    "link": "https://www.computerbase.de/downloads/browser/vivaldi/",
+    "pubDate": "2026-09-18T13:57:00.000Z"
+  },
+  {
     "title": "Bandizip 8.0 Beta 42",
     "link": "https://www.computerbase.de/downloads/office/packprogramme/bandizip/",
     "pubDate": "2026-09-18T13:33:00.000Z"
@@ -95,11 +145,6 @@
     "pubDate": "2026-09-17T14:55:00.000Z"
   },
   {
-    "title": "Vivaldi 8.2 Build 4133.64",
-    "link": "https://www.computerbase.de/downloads/browser/vivaldi/",
-    "pubDate": "2026-09-17T14:54:00.000Z"
-  },
-  {
     "title": "HWiNFO 8.53 Build 6075 Beta",
     "link": "https://www.computerbase.de/downloads/systemtools/hwinfo/",
     "pubDate": "2026-09-17T14:53:00.000Z"
@@ -140,13 +185,13 @@
     "pubDate": "2026-09-16T17:42:00.000Z"
   },
   {
-    "title": "AVG AntiVirus Free 26.9.11171",
-    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/avg-antivirus-free/",
+    "title": "Avast Free Antivirus 26.9.11171",
+    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/avast-free-antivirus/",
     "pubDate": "2026-09-16T17:38:00.000Z"
   },
   {
-    "title": "Avast Free Antivirus 26.9.11171",
-    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/avast-free-antivirus/",
+    "title": "AVG AntiVirus Free 26.9.11171",
+    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/avg-antivirus-free/",
     "pubDate": "2026-09-16T17:38:00.000Z"
   },
   {
@@ -168,11 +213,6 @@
     "title": "XMPlay 4.1.0.18 Beta",
     "link": "https://www.computerbase.de/downloads/audio-und-video/xmplay/",
     "pubDate": "2026-09-16T17:35:00.000Z"
-  },
-  {
-    "title": "Mozilla Firefox 157.0 Beta 2",
-    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
-    "pubDate": "2026-09-16T17:34:00.000Z"
   },
   {
     "title": "Nextcloud Client 34.0.4",
@@ -208,45 +248,5 @@
     "title": "Element 1.12.28",
     "link": "https://www.computerbase.de/downloads/kommunikation/element/",
     "pubDate": "2026-09-16T15:06:00.000Z"
-  },
-  {
-    "title": "foobar2000 v2.26 preview 2026-09-16",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/foobar2000/",
-    "pubDate": "2026-09-16T15:05:00.000Z"
-  },
-  {
-    "title": "Visual Studio Code (VS Code) 1.138.0",
-    "link": "https://www.computerbase.de/downloads/office/editoren/visual-studio-code/",
-    "pubDate": "2026-09-16T15:04:00.000Z"
-  },
-  {
-    "title": "Trellix Stinger 26.09.38.1",
-    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/mcafee-labs-stinger/",
-    "pubDate": "2026-09-16T15:02:00.000Z"
-  },
-  {
-    "title": "Mozilla Thunderbird 157.0 Beta 2",
-    "link": "https://www.computerbase.de/downloads/kommunikation/mozilla-thunderbird/",
-    "pubDate": "2026-09-16T14:58:00.000Z"
-  },
-  {
-    "title": "Bazzite 44.20260916",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/bazzite/",
-    "pubDate": "2026-09-16T14:56:00.000Z"
-  },
-  {
-    "title": "PicPick 7.6.1",
-    "link": "https://www.computerbase.de/downloads/foto-und-grafik/picpick/",
-    "pubDate": "2026-09-16T14:56:00.000Z"
-  },
-  {
-    "title": "Krita 6.0.4",
-    "link": "https://www.computerbase.de/downloads/foto-und-grafik/krita/",
-    "pubDate": "2026-09-16T14:54:00.000Z"
-  },
-  {
-    "title": "Krita 5.3.4",
-    "link": "https://www.computerbase.de/downloads/foto-und-grafik/krita/",
-    "pubDate": "2026-09-16T14:53:00.000Z"
   }
 ]
