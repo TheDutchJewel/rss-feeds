@@ -1,5 +1,10 @@
 [
   {
+    "title": "Bandizip 8.0 Beta 42",
+    "link": "https://www.computerbase.de/downloads/office/packprogramme/bandizip/",
+    "pubDate": "2026-09-18T13:33:00.000Z"
+  },
+  {
     "title": "Microsoft Edge 153.0.4234.46",
     "link": "https://www.computerbase.de/downloads/browser/microsoft-edge/",
     "pubDate": "2026-09-18T04:32:00.000Z"
@@ -243,10 +248,5 @@
     "title": "Krita 5.3.4",
     "link": "https://www.computerbase.de/downloads/foto-und-grafik/krita/",
     "pubDate": "2026-09-16T14:53:00.000Z"
-  },
-  {
-    "title": "Betterbird 153.3.0esr-bb9",
-    "link": "https://www.computerbase.de/downloads/kommunikation/betterbird/",
-    "pubDate": "2026-09-16T14:52:00.000Z"
   }
 ]
