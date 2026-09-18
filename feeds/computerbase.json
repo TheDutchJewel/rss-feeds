@@ -1,5 +1,30 @@
 [
   {
+    "title": "Microsoft Edge 153.0.4234.46",
+    "link": "https://www.computerbase.de/downloads/browser/microsoft-edge/",
+    "pubDate": "2026-09-18T04:32:00.000Z"
+  },
+  {
+    "title": "iDevice Manager 11.7.1.0",
+    "link": "https://www.computerbase.de/downloads/office/dateitransfer/idevice-manager/",
+    "pubDate": "2026-09-18T04:29:00.000Z"
+  },
+  {
+    "title": "calibre 9.15.0",
+    "link": "https://www.computerbase.de/downloads/office/calibre-ebook-management/",
+    "pubDate": "2026-09-18T04:28:00.000Z"
+  },
+  {
+    "title": "HyperSnap 10.4.2",
+    "link": "https://www.computerbase.de/downloads/foto-und-grafik/hypersnap/",
+    "pubDate": "2026-09-18T04:27:00.000Z"
+  },
+  {
+    "title": "Google Chrome 153.0.8010.52/.53",
+    "link": "https://www.computerbase.de/downloads/browser/google-chrome/",
+    "pubDate": "2026-09-18T04:26:00.000Z"
+  },
+  {
     "title": "K-Lite Codec Pack 20.0.0",
     "link": "https://www.computerbase.de/downloads/audio-und-video/k-lite-codec-pack/",
     "pubDate": "2026-09-17T19:16:00.000Z"
@@ -110,13 +135,13 @@
     "pubDate": "2026-09-16T17:42:00.000Z"
   },
   {
-    "title": "Avast Free Antivirus 26.9.11171",
-    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/avast-free-antivirus/",
+    "title": "AVG AntiVirus Free 26.9.11171",
+    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/avg-antivirus-free/",
     "pubDate": "2026-09-16T17:38:00.000Z"
   },
   {
-    "title": "AVG AntiVirus Free 26.9.11171",
-    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/avg-antivirus-free/",
+    "title": "Avast Free Antivirus 26.9.11171",
+    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/avast-free-antivirus/",
     "pubDate": "2026-09-16T17:38:00.000Z"
   },
   {
@@ -223,30 +248,5 @@
     "title": "Betterbird 153.3.0esr-bb9",
     "link": "https://www.computerbase.de/downloads/kommunikation/betterbird/",
     "pubDate": "2026-09-16T14:52:00.000Z"
-  },
-  {
-    "title": "Ubuntu 24.04.5.1 LTS „Noble Numbat“",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/ubuntu/",
-    "pubDate": "2026-09-16T04:37:00.000Z"
-  },
-  {
-    "title": "Nextcloud Server 35.0.0 (Linux)",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/nextcloud/",
-    "pubDate": "2026-09-16T04:29:00.000Z"
-  },
-  {
-    "title": "Google Chrome 153.0.8010.47/.48",
-    "link": "https://www.computerbase.de/downloads/browser/google-chrome/",
-    "pubDate": "2026-09-16T04:28:00.000Z"
-  },
-  {
-    "title": "ZenTimings 140.587 Beta",
-    "link": "https://www.computerbase.de/downloads/systemtools/zentimings/",
-    "pubDate": "2026-09-16T04:26:00.000Z"
-  },
-  {
-    "title": "Mozilla Thunderbird 156.0",
-    "link": "https://www.computerbase.de/downloads/kommunikation/mozilla-thunderbird/",
-    "pubDate": "2026-09-16T04:25:00.000Z"
   }
 ]
