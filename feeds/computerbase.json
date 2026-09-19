@@ -1,5 +1,10 @@
 [
   {
+    "title": "Fan Control V278",
+    "link": "https://www.computerbase.de/downloads/systemtools/fan-control/",
+    "pubDate": "2026-09-19T17:48:00.000Z"
+  },
+  {
     "title": "Flyoobe 3.00.32",
     "link": "https://www.computerbase.de/downloads/systemtools/flyoobe/",
     "pubDate": "2026-09-19T15:09:00.000Z"
@@ -210,13 +215,13 @@
     "pubDate": "2026-09-16T17:42:00.000Z"
   },
   {
-    "title": "AVG AntiVirus Free 26.9.11171",
-    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/avg-antivirus-free/",
+    "title": "Avast Free Antivirus 26.9.11171",
+    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/avast-free-antivirus/",
     "pubDate": "2026-09-16T17:38:00.000Z"
   },
   {
-    "title": "Avast Free Antivirus 26.9.11171",
-    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/avast-free-antivirus/",
+    "title": "AVG AntiVirus Free 26.9.11171",
+    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/avg-antivirus-free/",
     "pubDate": "2026-09-16T17:38:00.000Z"
   },
   {
@@ -243,10 +248,5 @@
     "title": "Nextcloud Client 34.0.4",
     "link": "https://www.computerbase.de/downloads/office/dateimanager/nextcloud/",
     "pubDate": "2026-09-16T17:34:00.000Z"
-  },
-  {
-    "title": "Google Chrome 155.0.8059.5 Beta",
-    "link": "https://www.computerbase.de/downloads/browser/google-chrome/",
-    "pubDate": "2026-09-16T17:33:00.000Z"
   }
 ]
