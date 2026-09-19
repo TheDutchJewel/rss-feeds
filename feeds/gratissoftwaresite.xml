@@ -5,6 +5,12 @@
     <link>https://www.gratissoftwaresite.nl/downloads/nieuwe-updates</link>
     <description>Nieuwste software-updates van GratisSoftwareSite</description>
     <item>
+      <title>balena Etcher 2.1.7</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/etcher-opstartbare-usb-sd-maken-os-installeren</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/etcher-opstartbare-usb-sd-maken-os-installeren</guid>
+      <pubDate>19 september 2026</pubDate>
+    </item>
+    <item>
       <title>IrfanView 4.76</title>
       <link>https://www.gratissoftwaresite.nl/downloads/irfanview-fotobewerking-viewer-batch-conversie</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/irfanview-fotobewerking-viewer-batch-conversie</guid>
@@ -584,12 +590,6 @@
       <title>OBS Studio 32.2.2</title>
       <link>https://www.gratissoftwaresite.nl/downloads/obs-studio-schermopnamen-opnemen-streamen-video-webcam</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/obs-studio-schermopnamen-opnemen-streamen-video-webcam</guid>
-      <pubDate>15 augustus 2026</pubDate>
-    </item>
-    <item>
-      <title>NirLauncher Utilities 1.30.25</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/nirlauncher-nirsoft-utilities-werktuigen-tools-pc-onderhoud-beheer</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/nirlauncher-nirsoft-utilities-werktuigen-tools-pc-onderhoud-beheer</guid>
       <pubDate>15 augustus 2026</pubDate>
     </item>
   </channel>

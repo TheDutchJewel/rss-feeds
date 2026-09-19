@@ -1,5 +1,10 @@
 [
     {
+        "title": "balena Etcher 2.1.7",
+        "link": "https://www.gratissoftwaresite.nl/downloads/etcher-opstartbare-usb-sd-maken-os-installeren",
+        "pubDate": "19 september 2026"
+    },
+    {
         "title": "IrfanView 4.76",
         "link": "https://www.gratissoftwaresite.nl/downloads/irfanview-fotobewerking-viewer-batch-conversie",
         "pubDate": "18 september 2026"
@@ -482,11 +487,6 @@
     {
         "title": "OBS Studio 32.2.2",
         "link": "https://www.gratissoftwaresite.nl/downloads/obs-studio-schermopnamen-opnemen-streamen-video-webcam",
-        "pubDate": "15 augustus 2026"
-    },
-    {
-        "title": "NirLauncher Utilities 1.30.25",
-        "link": "https://www.gratissoftwaresite.nl/downloads/nirlauncher-nirsoft-utilities-werktuigen-tools-pc-onderhoud-beheer",
         "pubDate": "15 augustus 2026"
     }
 ]
