@@ -1,5 +1,40 @@
 [
   {
+    "title": "Zoom 7.2.0",
+    "link": "https://www.computerbase.de/downloads/kommunikation/zoom/",
+    "pubDate": "2026-09-19T13:02:00.000Z"
+  },
+  {
+    "title": "Blizzard Battle.net 2.52.12.17821",
+    "link": "https://www.computerbase.de/downloads/games/blizzard-battle.net/",
+    "pubDate": "2026-09-19T13:00:00.000Z"
+  },
+  {
+    "title": "Microsoft Edge 153.0.4234.48",
+    "link": "https://www.computerbase.de/downloads/browser/microsoft-edge/",
+    "pubDate": "2026-09-19T12:59:00.000Z"
+  },
+  {
+    "title": "Wine 11.18 Beta (Linux)",
+    "link": "https://www.computerbase.de/downloads/systemtools/wine/",
+    "pubDate": "2026-09-19T12:58:00.000Z"
+  },
+  {
+    "title": "Flyoobe 3.00.20",
+    "link": "https://www.computerbase.de/downloads/systemtools/flyoobe/",
+    "pubDate": "2026-09-19T10:39:00.000Z"
+  },
+  {
+    "title": "CapFrameX 1.9.1.2 Beta",
+    "link": "https://www.computerbase.de/downloads/systemtools/grafikkarten/capframex-tool/",
+    "pubDate": "2026-09-19T10:38:00.000Z"
+  },
+  {
+    "title": "Brave 1.95.104",
+    "link": "https://www.computerbase.de/downloads/browser/brave/",
+    "pubDate": "2026-09-19T10:38:00.000Z"
+  },
+  {
     "title": "Dropbox 272.3.3677 Beta",
     "link": "https://www.computerbase.de/downloads/office/dateimanager/dropbox/",
     "pubDate": "2026-09-18T17:26:00.000Z"
@@ -53,11 +88,6 @@
     "title": "Bandizip 8.0 Beta 42",
     "link": "https://www.computerbase.de/downloads/office/packprogramme/bandizip/",
     "pubDate": "2026-09-18T13:33:00.000Z"
-  },
-  {
-    "title": "Microsoft Edge 153.0.4234.46",
-    "link": "https://www.computerbase.de/downloads/browser/microsoft-edge/",
-    "pubDate": "2026-09-18T04:32:00.000Z"
   },
   {
     "title": "iDevice Manager 11.7.1.0",
@@ -165,11 +195,6 @@
     "pubDate": "2026-09-17T14:48:00.000Z"
   },
   {
-    "title": "Brave 1.95.102",
-    "link": "https://www.computerbase.de/downloads/browser/brave/",
-    "pubDate": "2026-09-17T04:30:00.000Z"
-  },
-  {
     "title": "Corsair iCUE 5.51.42",
     "link": "https://www.computerbase.de/downloads/systemtools/corsair-utility-engine/",
     "pubDate": "2026-09-17T04:29:00.000Z"
@@ -185,13 +210,13 @@
     "pubDate": "2026-09-16T17:42:00.000Z"
   },
   {
-    "title": "Avast Free Antivirus 26.9.11171",
-    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/avast-free-antivirus/",
+    "title": "AVG AntiVirus Free 26.9.11171",
+    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/avg-antivirus-free/",
     "pubDate": "2026-09-16T17:38:00.000Z"
   },
   {
-    "title": "AVG AntiVirus Free 26.9.11171",
-    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/avg-antivirus-free/",
+    "title": "Avast Free Antivirus 26.9.11171",
+    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/avast-free-antivirus/",
     "pubDate": "2026-09-16T17:38:00.000Z"
   },
   {
@@ -223,30 +248,5 @@
     "title": "Google Chrome 155.0.8059.5 Beta",
     "link": "https://www.computerbase.de/downloads/browser/google-chrome/",
     "pubDate": "2026-09-16T17:33:00.000Z"
-  },
-  {
-    "title": "Heroic Games Launcher 2.22.3",
-    "link": "https://www.computerbase.de/downloads/games/heroic-games-launcher/",
-    "pubDate": "2026-09-16T17:33:00.000Z"
-  },
-  {
-    "title": "CCleaner 7.11.1522",
-    "link": "https://www.computerbase.de/downloads/systemtools/ccleaner/",
-    "pubDate": "2026-09-16T15:18:00.000Z"
-  },
-  {
-    "title": "Windows 11 Media Creation Tool 25H2 (Build 26200.9457)",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/windows-11-media-creation-tool/",
-    "pubDate": "2026-09-16T15:17:00.000Z"
-  },
-  {
-    "title": "O&O Defrag 32.0 Build 26130",
-    "link": "https://www.computerbase.de/downloads/systemtools/festplatten/o-und-o-defrag/",
-    "pubDate": "2026-09-16T15:12:00.000Z"
-  },
-  {
-    "title": "Element 1.12.28",
-    "link": "https://www.computerbase.de/downloads/kommunikation/element/",
-    "pubDate": "2026-09-16T15:06:00.000Z"
   }
 ]
