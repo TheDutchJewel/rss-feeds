@@ -1,5 +1,10 @@
 [
   {
+    "title": "Dropbox 272.3.3697 Beta",
+    "link": "https://www.computerbase.de/downloads/office/dateimanager/dropbox/",
+    "pubDate": "2026-09-20T18:17:00.000Z"
+  },
+  {
     "title": "Flyoobe 3.01.53",
     "link": "https://www.computerbase.de/downloads/systemtools/flyoobe/",
     "pubDate": "2026-09-20T17:23:00.000Z"
@@ -78,11 +83,6 @@
     "title": "Brave 1.95.104",
     "link": "https://www.computerbase.de/downloads/browser/brave/",
     "pubDate": "2026-09-19T10:38:00.000Z"
-  },
-  {
-    "title": "Dropbox 272.3.3677 Beta",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/dropbox/",
-    "pubDate": "2026-09-18T17:26:00.000Z"
   },
   {
     "title": "balenaEtcher 2.1.7",
