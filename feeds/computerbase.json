@@ -1,5 +1,35 @@
 [
   {
+    "title": "Clonezilla 3.3.3-37 Stable (Debian)",
+    "link": "https://www.computerbase.de/downloads/sicherheit/backup/clonezilla/",
+    "pubDate": "2026-09-20T11:08:00.000Z"
+  },
+  {
+    "title": "Clonezilla 20260913-resolute Alternative (Ubuntu)",
+    "link": "https://www.computerbase.de/downloads/sicherheit/backup/clonezilla/",
+    "pubDate": "2026-09-20T11:07:00.000Z"
+  },
+  {
+    "title": "AIMP 6.00 Build 3084 Beta 6",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/aimp/",
+    "pubDate": "2026-09-20T08:02:00.000Z"
+  },
+  {
+    "title": "foobar2000 v2.26 preview 2026-09-19",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/foobar2000/",
+    "pubDate": "2026-09-20T08:02:00.000Z"
+  },
+  {
+    "title": "Mailspring 1.25.0",
+    "link": "https://www.computerbase.de/downloads/kommunikation/mailspring/",
+    "pubDate": "2026-09-20T08:01:00.000Z"
+  },
+  {
+    "title": "Bazzite 44.20260919",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/bazzite/",
+    "pubDate": "2026-09-20T08:01:00.000Z"
+  },
+  {
     "title": "Flyoobe 3.00.44",
     "link": "https://www.computerbase.de/downloads/systemtools/flyoobe/",
     "pubDate": "2026-09-19T19:13:00.000Z"
@@ -73,11 +103,6 @@
     "title": "Java SE Development Kit 28.0 Build 16 Dev",
     "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/java-se-development-kit/",
     "pubDate": "2026-09-18T15:48:00.000Z"
-  },
-  {
-    "title": "foobar2000 v2.26 preview 2026-09-18",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/foobar2000/",
-    "pubDate": "2026-09-18T14:02:00.000Z"
   },
   {
     "title": "Screenpresso 2.3.5 (Win 11)",
@@ -215,38 +240,13 @@
     "pubDate": "2026-09-16T17:42:00.000Z"
   },
   {
-    "title": "Avast Free Antivirus 26.9.11171",
-    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/avast-free-antivirus/",
-    "pubDate": "2026-09-16T17:38:00.000Z"
-  },
-  {
     "title": "AVG AntiVirus Free 26.9.11171",
     "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/avg-antivirus-free/",
     "pubDate": "2026-09-16T17:38:00.000Z"
   },
   {
-    "title": "EA-App 13.791.0.6304",
-    "link": "https://www.computerbase.de/downloads/games/ea-app/",
-    "pubDate": "2026-09-16T17:37:00.000Z"
-  },
-  {
-    "title": "Viber für Desktop 28.9.0.0",
-    "link": "https://www.computerbase.de/downloads/kommunikation/viber-fuer-desktop/",
-    "pubDate": "2026-09-16T17:37:00.000Z"
-  },
-  {
-    "title": "Snapdragon Control Center 2026.3.0.0",
-    "link": "https://www.computerbase.de/downloads/systemtools/snapdragon-control-center/",
-    "pubDate": "2026-09-16T17:36:00.000Z"
-  },
-  {
-    "title": "XMPlay 4.1.0.18 Beta",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/xmplay/",
-    "pubDate": "2026-09-16T17:35:00.000Z"
-  },
-  {
-    "title": "Nextcloud Client 34.0.4",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/nextcloud/",
-    "pubDate": "2026-09-16T17:34:00.000Z"
+    "title": "Avast Free Antivirus 26.9.11171",
+    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/avast-free-antivirus/",
+    "pubDate": "2026-09-16T17:38:00.000Z"
   }
 ]
