@@ -1,5 +1,15 @@
 [
   {
+    "title": "Liberica JDK Portable LTS 21.0.12.1-1 (portable Java Development Kit) Released",
+    "link": "https://portableapps.com/news/2026-09-20--liberica-jdk-portable-lts-21.0.12.1-1-released",
+    "pubDate": "Sun, 20 Sep 2026 21:21:08 +0000"
+  },
+  {
+    "title": "Liberica JRE 21.0.12.1-1 LTS (portable Java runtime environment) Released",
+    "link": "https://portableapps.com/news/2026-09-20--liberica-jre-portable-21.0.12.1-1-released",
+    "pubDate": "Sun, 20 Sep 2026 21:15:40 +0000"
+  },
+  {
     "title": "LibreWolf Portable 156.0-1 (web browser) Released",
     "link": "https://portableapps.com/news/2026-09-19--librewolf-portable-156.0-1-released",
     "pubDate": "Sat, 19 Sep 2026 23:09:58 +0000"
@@ -63,15 +73,5 @@
     "title": "Google Chrome Portable 153.0.8010.53 Stable (web browser) Released",
     "link": "https://portableapps.com/news/2026-09-19--google-chrome-portable-153.0.8010.53-released",
     "pubDate": "Sat, 19 Sep 2026 21:23:45 +0000"
-  },
-  {
-    "title": "QOwnNotes Portable 26.9.5 (markdown note taker) Released",
-    "link": "https://portableapps.com/news/2026-09-16--qownnotes-portable-26.9.5-released",
-    "pubDate": "Wed, 16 Sep 2026 17:51:02 +0000"
-  },
-  {
-    "title": "gVim Portable 9.2.1061 (advanced text editor) Released",
-    "link": "https://portableapps.com/news/2026-09-16--gvim-portable-9.2.1061-released",
-    "pubDate": "Wed, 16 Sep 2026 17:49:15 +0000"
   }
 ]
