@@ -1,5 +1,15 @@
 [
   {
+    "title": "Flyoobe 3.01.53",
+    "link": "https://www.computerbase.de/downloads/systemtools/flyoobe/",
+    "pubDate": "2026-09-20T17:23:00.000Z"
+  },
+  {
+    "title": "WireGuard 1.1.1",
+    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/wireguard/",
+    "pubDate": "2026-09-20T15:31:00.000Z"
+  },
+  {
     "title": "HFS – HTTP File Server 3.3.2",
     "link": "https://www.computerbase.de/downloads/office/dateitransfer/hfs-http-file-server/",
     "pubDate": "2026-09-20T14:06:00.000Z"
@@ -33,11 +43,6 @@
     "title": "Bazzite 44.20260919",
     "link": "https://www.computerbase.de/downloads/betriebssysteme/bazzite/",
     "pubDate": "2026-09-20T08:01:00.000Z"
-  },
-  {
-    "title": "Flyoobe 3.00.44",
-    "link": "https://www.computerbase.de/downloads/systemtools/flyoobe/",
-    "pubDate": "2026-09-19T19:13:00.000Z"
   },
   {
     "title": "Fan Control V278",
@@ -242,11 +247,6 @@
   {
     "title": "AVG AntiVirus Free 26.9.11171",
     "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/avg-antivirus-free/",
-    "pubDate": "2026-09-16T17:38:00.000Z"
-  },
-  {
-    "title": "Avast Free Antivirus 26.9.11171",
-    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/avast-free-antivirus/",
     "pubDate": "2026-09-16T17:38:00.000Z"
   }
 ]
