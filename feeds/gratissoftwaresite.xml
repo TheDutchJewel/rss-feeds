@@ -5,6 +5,12 @@
     <link>https://www.gratissoftwaresite.nl/downloads/nieuwe-updates</link>
     <description>Nieuwste software-updates van GratisSoftwareSite</description>
     <item>
+      <title>Fotowall 1.1.4</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/fotowall-fotobewerking-collage-maken</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/fotowall-fotobewerking-collage-maken</guid>
+      <pubDate>20 september 2026</pubDate>
+    </item>
+    <item>
       <title>Media Player Classic - Home Cinema 2.8.2</title>
       <link>https://www.gratissoftwaresite.nl/downloads/media-player-classic-home-cinema-mediaspeler</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/media-player-classic-home-cinema-mediaspeler</guid>
@@ -578,18 +584,6 @@
       <title>LocalSend 1.18.1</title>
       <link>https://www.gratissoftwaresite.nl/downloads/localsend-bestandsoverdracht-apparaten-airdrop</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/localsend-bestandsoverdracht-apparaten-airdrop</guid>
-      <pubDate>15 augustus 2026</pubDate>
-    </item>
-    <item>
-      <title>Manjaro 26.1.0</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/besturingssysteem-manjaro-linux-os</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/besturingssysteem-manjaro-linux-os</guid>
-      <pubDate>15 augustus 2026</pubDate>
-    </item>
-    <item>
-      <title>OBS Studio 32.2.2</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/obs-studio-schermopnamen-opnemen-streamen-video-webcam</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/obs-studio-schermopnamen-opnemen-streamen-video-webcam</guid>
       <pubDate>15 augustus 2026</pubDate>
     </item>
   </channel>

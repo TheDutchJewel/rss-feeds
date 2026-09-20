@@ -1,5 +1,10 @@
 [
     {
+        "title": "Fotowall 1.1.4",
+        "link": "https://www.gratissoftwaresite.nl/downloads/fotowall-fotobewerking-collage-maken",
+        "pubDate": "20 september 2026"
+    },
+    {
         "title": "Media Player Classic - Home Cinema 2.8.2",
         "link": "https://www.gratissoftwaresite.nl/downloads/media-player-classic-home-cinema-mediaspeler",
         "pubDate": "19 september 2026"
@@ -477,16 +482,6 @@
     {
         "title": "LocalSend 1.18.1",
         "link": "https://www.gratissoftwaresite.nl/downloads/localsend-bestandsoverdracht-apparaten-airdrop",
-        "pubDate": "15 augustus 2026"
-    },
-    {
-        "title": "Manjaro 26.1.0",
-        "link": "https://www.gratissoftwaresite.nl/downloads/besturingssysteem-manjaro-linux-os",
-        "pubDate": "15 augustus 2026"
-    },
-    {
-        "title": "OBS Studio 32.2.2",
-        "link": "https://www.gratissoftwaresite.nl/downloads/obs-studio-schermopnamen-opnemen-streamen-video-webcam",
         "pubDate": "15 augustus 2026"
     }
 ]

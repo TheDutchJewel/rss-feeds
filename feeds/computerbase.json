@@ -1,5 +1,10 @@
 [
   {
+    "title": "HFS – HTTP File Server 3.3.2",
+    "link": "https://www.computerbase.de/downloads/office/dateitransfer/hfs-http-file-server/",
+    "pubDate": "2026-09-20T14:06:00.000Z"
+  },
+  {
     "title": "Clonezilla 3.3.3-37 Stable (Debian)",
     "link": "https://www.computerbase.de/downloads/sicherheit/backup/clonezilla/",
     "pubDate": "2026-09-20T11:08:00.000Z"
@@ -198,11 +203,6 @@
     "title": "Opera GX 135.0.5973.153 Early Access",
     "link": "https://www.computerbase.de/downloads/browser/opera-gx/",
     "pubDate": "2026-09-17T14:57:00.000Z"
-  },
-  {
-    "title": "HFS – HTTP File Server 3.3.1",
-    "link": "https://www.computerbase.de/downloads/office/dateitransfer/hfs-http-file-server/",
-    "pubDate": "2026-09-17T14:55:00.000Z"
   },
   {
     "title": "HWiNFO 8.53 Build 6075 Beta",
