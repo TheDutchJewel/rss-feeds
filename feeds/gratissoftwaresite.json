@@ -1,13 +1,28 @@
 [
     {
-        "title": "CloneZilla 3.3.3-37",
-        "link": "https://www.gratissoftwaresite.nl/downloads/clonezilla-backup-kloon-image-data-transfer-pc",
+        "title": "Windows Firewall Control 6.34.0.0",
+        "link": "https://www.gratissoftwaresite.nl/downloads/windows-firewall-control-malwarebytes-internet-toegang-applicaties",
+        "pubDate": "21 september 2026"
+    },
+    {
+        "title": "Franz 6.8.2",
+        "link": "https://www.gratissoftwaresite.nl/downloads/franz-chat-instant-messenger-whatsapp-facebook-skype-hangouts-telegram",
+        "pubDate": "21 september 2026"
+    },
+    {
+        "title": "Ferdium 7.2.3",
+        "link": "https://www.gratissoftwaresite.nl/downloads/ferdium-multi-chat-mail-overzicht",
         "pubDate": "21 september 2026"
     },
     {
         "title": "Fotowall 1.1.4",
         "link": "https://www.gratissoftwaresite.nl/downloads/fotowall-fotobewerking-collage-maken",
-        "pubDate": "20 september 2026"
+        "pubDate": "21 september 2026"
+    },
+    {
+        "title": "CloneZilla 3.3.3-37",
+        "link": "https://www.gratissoftwaresite.nl/downloads/clonezilla-backup-kloon-image-data-transfer-pc",
+        "pubDate": "21 september 2026"
     },
     {
         "title": "Media Player Classic - Home Cinema 2.8.2",
@@ -187,11 +202,6 @@
     {
         "title": "LuLu 4.5.1",
         "link": "https://www.gratissoftwaresite.nl/downloads/lulu-firewall-mac-controle-applicaties",
-        "pubDate": "14 september 2026"
-    },
-    {
-        "title": "Windows Firewall Control 6.33.0.0",
-        "link": "https://www.gratissoftwaresite.nl/downloads/windows-firewall-control-malwarebytes-internet-toegang-applicaties",
         "pubDate": "14 september 2026"
     },
     {
@@ -478,10 +488,5 @@
         "title": "PotPlayer 260819",
         "link": "https://www.gratissoftwaresite.nl/downloads/Daum-PotPlayer-mediaspeler",
         "pubDate": "19 augustus 2026"
-    },
-    {
-        "title": "Franz 6.7.1",
-        "link": "https://www.gratissoftwaresite.nl/downloads/franz-chat-instant-messenger-whatsapp-facebook-skype-hangouts-telegram",
-        "pubDate": "17 augustus 2026"
     }
 ]

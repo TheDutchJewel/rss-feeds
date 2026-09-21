@@ -1,5 +1,40 @@
 [
   {
+    "title": "AIMP 6.00 Build 3085 Beta 6",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/aimp/",
+    "pubDate": "2026-09-21T11:52:00.000Z"
+  },
+  {
+    "title": "WhatsApp 2.26.38.12 (macOS)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/whatsapp/",
+    "pubDate": "2026-09-21T10:49:00.000Z"
+  },
+  {
+    "title": "Iperius Backup Free 8.8.9",
+    "link": "https://www.computerbase.de/downloads/sicherheit/backup/iperius-backup-free/",
+    "pubDate": "2026-09-21T10:49:00.000Z"
+  },
+  {
+    "title": "Glary Utilities 6.48.0.52",
+    "link": "https://www.computerbase.de/downloads/systemtools/glary-utilities/",
+    "pubDate": "2026-09-21T09:28:00.000Z"
+  },
+  {
+    "title": "Sublime Text 4 Build 4213",
+    "link": "https://www.computerbase.de/downloads/office/editoren/sublime-text/",
+    "pubDate": "2026-09-21T09:27:00.000Z"
+  },
+  {
+    "title": "ShareMouse for Mac 7.0.29 (macOS)",
+    "link": "https://www.computerbase.de/downloads/treiber/eingabegeraete/sharemouse/",
+    "pubDate": "2026-09-21T09:27:00.000Z"
+  },
+  {
+    "title": "XnView MP 1.11.7",
+    "link": "https://www.computerbase.de/downloads/foto-und-grafik/xnview-mp/",
+    "pubDate": "2026-09-21T09:26:00.000Z"
+  },
+  {
     "title": "Asus GPU Tweak III v2.1.9.5",
     "link": "https://www.computerbase.de/downloads/systemtools/grafikkarten/asus-gpu-tweak/",
     "pubDate": "2026-09-21T04:47:00.000Z"
@@ -38,11 +73,6 @@
     "title": "Clonezilla 20260913-resolute Alternative (Ubuntu)",
     "link": "https://www.computerbase.de/downloads/sicherheit/backup/clonezilla/",
     "pubDate": "2026-09-20T11:07:00.000Z"
-  },
-  {
-    "title": "AIMP 6.00 Build 3084 Beta 6",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/aimp/",
-    "pubDate": "2026-09-20T08:02:00.000Z"
   },
   {
     "title": "foobar2000 v2.26 preview 2026-09-19",
@@ -180,11 +210,6 @@
     "pubDate": "2026-09-17T18:49:00.000Z"
   },
   {
-    "title": "WhatsApp 2.26.37.22 (macOS)",
-    "link": "https://www.computerbase.de/downloads/kommunikation/whatsapp/",
-    "pubDate": "2026-09-17T18:47:00.000Z"
-  },
-  {
     "title": "Media Player Classic Home Cinema 2.8.2",
     "link": "https://www.computerbase.de/downloads/audio-und-video/media-player-classic-home-cinema/",
     "pubDate": "2026-09-17T18:47:00.000Z"
@@ -193,11 +218,6 @@
     "title": "Discord 1.0.9258",
     "link": "https://www.computerbase.de/downloads/kommunikation/discord/",
     "pubDate": "2026-09-17T16:51:00.000Z"
-  },
-  {
-    "title": "ShareMouse for Mac 7.0.28 (macOS)",
-    "link": "https://www.computerbase.de/downloads/treiber/eingabegeraete/sharemouse/",
-    "pubDate": "2026-09-17T15:04:00.000Z"
   },
   {
     "title": "NanaZip 7.0.1843.0",
@@ -228,25 +248,5 @@
     "title": "Telegram Desktop 7.2.9",
     "link": "https://www.computerbase.de/downloads/kommunikation/telegram-desktop/",
     "pubDate": "2026-09-17T14:51:00.000Z"
-  },
-  {
-    "title": "Adobe Acrobat Reader DC (26.002.21931) Hotfix",
-    "link": "https://www.computerbase.de/downloads/office/pdf/adobe-acrobat-reader/",
-    "pubDate": "2026-09-17T14:50:00.000Z"
-  },
-  {
-    "title": "LibreWolf 156.0-1",
-    "link": "https://www.computerbase.de/downloads/browser/librewolf/",
-    "pubDate": "2026-09-17T14:48:00.000Z"
-  },
-  {
-    "title": "Corsair iCUE 5.51.42",
-    "link": "https://www.computerbase.de/downloads/systemtools/corsair-utility-engine/",
-    "pubDate": "2026-09-17T04:29:00.000Z"
-  },
-  {
-    "title": "WinZip 31",
-    "link": "https://www.computerbase.de/downloads/office/packprogramme/winzip/",
-    "pubDate": "2026-09-16T18:09:00.000Z"
   }
 ]

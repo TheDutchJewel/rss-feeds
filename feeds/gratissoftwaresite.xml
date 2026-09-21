@@ -5,16 +5,34 @@
     <link>https://www.gratissoftwaresite.nl/downloads/nieuwe-updates</link>
     <description>Nieuwste software-updates van GratisSoftwareSite</description>
     <item>
-      <title>CloneZilla 3.3.3-37</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/clonezilla-backup-kloon-image-data-transfer-pc</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/clonezilla-backup-kloon-image-data-transfer-pc</guid>
+      <title>Windows Firewall Control 6.34.0.0</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/windows-firewall-control-malwarebytes-internet-toegang-applicaties</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/windows-firewall-control-malwarebytes-internet-toegang-applicaties</guid>
+      <pubDate>21 september 2026</pubDate>
+    </item>
+    <item>
+      <title>Franz 6.8.2</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/franz-chat-instant-messenger-whatsapp-facebook-skype-hangouts-telegram</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/franz-chat-instant-messenger-whatsapp-facebook-skype-hangouts-telegram</guid>
+      <pubDate>21 september 2026</pubDate>
+    </item>
+    <item>
+      <title>Ferdium 7.2.3</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/ferdium-multi-chat-mail-overzicht</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/ferdium-multi-chat-mail-overzicht</guid>
       <pubDate>21 september 2026</pubDate>
     </item>
     <item>
       <title>Fotowall 1.1.4</title>
       <link>https://www.gratissoftwaresite.nl/downloads/fotowall-fotobewerking-collage-maken</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/fotowall-fotobewerking-collage-maken</guid>
-      <pubDate>20 september 2026</pubDate>
+      <pubDate>21 september 2026</pubDate>
+    </item>
+    <item>
+      <title>CloneZilla 3.3.3-37</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/clonezilla-backup-kloon-image-data-transfer-pc</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/clonezilla-backup-kloon-image-data-transfer-pc</guid>
+      <pubDate>21 september 2026</pubDate>
     </item>
     <item>
       <title>Media Player Classic - Home Cinema 2.8.2</title>
@@ -230,12 +248,6 @@
       <title>LuLu 4.5.1</title>
       <link>https://www.gratissoftwaresite.nl/downloads/lulu-firewall-mac-controle-applicaties</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/lulu-firewall-mac-controle-applicaties</guid>
-      <pubDate>14 september 2026</pubDate>
-    </item>
-    <item>
-      <title>Windows Firewall Control 6.33.0.0</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/windows-firewall-control-malwarebytes-internet-toegang-applicaties</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/windows-firewall-control-malwarebytes-internet-toegang-applicaties</guid>
       <pubDate>14 september 2026</pubDate>
     </item>
     <item>
@@ -579,12 +591,6 @@
       <link>https://www.gratissoftwaresite.nl/downloads/Daum-PotPlayer-mediaspeler</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/Daum-PotPlayer-mediaspeler</guid>
       <pubDate>19 augustus 2026</pubDate>
-    </item>
-    <item>
-      <title>Franz 6.7.1</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/franz-chat-instant-messenger-whatsapp-facebook-skype-hangouts-telegram</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/franz-chat-instant-messenger-whatsapp-facebook-skype-hangouts-telegram</guid>
-      <pubDate>17 augustus 2026</pubDate>
     </item>
   </channel>
 </rss>
