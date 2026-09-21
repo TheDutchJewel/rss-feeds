@@ -1,5 +1,10 @@
 [
   {
+    "title": "Thunderbird ESR, Portable Edition 153.3.0 (email client) Released",
+    "link": "https://portableapps.com/news/2026-09-20--thunderbird-portable-esr-153.3.0-released",
+    "pubDate": "Sun, 20 Sep 2026 23:57:42 +0000"
+  },
+  {
     "title": "Liberica JDK Portable LTS 21.0.12.1-1 (portable Java Development Kit) Released",
     "link": "https://portableapps.com/news/2026-09-20--liberica-jdk-portable-lts-21.0.12.1-1-released",
     "pubDate": "Sun, 20 Sep 2026 21:21:08 +0000"
@@ -68,10 +73,5 @@
     "title": "Google Chrome Portable 155 Beta (web browser) Released",
     "link": "https://portableapps.com/news/2026-09-19--google-chrome-portable-155-beta-released",
     "pubDate": "Sat, 19 Sep 2026 21:25:33 +0000"
-  },
-  {
-    "title": "Google Chrome Portable 153.0.8010.53 Stable (web browser) Released",
-    "link": "https://portableapps.com/news/2026-09-19--google-chrome-portable-153.0.8010.53-released",
-    "pubDate": "Sat, 19 Sep 2026 21:23:45 +0000"
   }
 ]

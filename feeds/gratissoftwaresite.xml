@@ -5,6 +5,12 @@
     <link>https://www.gratissoftwaresite.nl/downloads/nieuwe-updates</link>
     <description>Nieuwste software-updates van GratisSoftwareSite</description>
     <item>
+      <title>CloneZilla 3.3.3-37</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/clonezilla-backup-kloon-image-data-transfer-pc</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/clonezilla-backup-kloon-image-data-transfer-pc</guid>
+      <pubDate>21 september 2026</pubDate>
+    </item>
+    <item>
       <title>Fotowall 1.1.4</title>
       <link>https://www.gratissoftwaresite.nl/downloads/fotowall-fotobewerking-collage-maken</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/fotowall-fotobewerking-collage-maken</guid>
@@ -579,12 +585,6 @@
       <link>https://www.gratissoftwaresite.nl/downloads/franz-chat-instant-messenger-whatsapp-facebook-skype-hangouts-telegram</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/franz-chat-instant-messenger-whatsapp-facebook-skype-hangouts-telegram</guid>
       <pubDate>17 augustus 2026</pubDate>
-    </item>
-    <item>
-      <title>LocalSend 1.18.1</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/localsend-bestandsoverdracht-apparaten-airdrop</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/localsend-bestandsoverdracht-apparaten-airdrop</guid>
-      <pubDate>15 augustus 2026</pubDate>
     </item>
   </channel>
 </rss>

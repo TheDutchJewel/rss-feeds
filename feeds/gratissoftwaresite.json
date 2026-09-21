@@ -1,5 +1,10 @@
 [
     {
+        "title": "CloneZilla 3.3.3-37",
+        "link": "https://www.gratissoftwaresite.nl/downloads/clonezilla-backup-kloon-image-data-transfer-pc",
+        "pubDate": "21 september 2026"
+    },
+    {
         "title": "Fotowall 1.1.4",
         "link": "https://www.gratissoftwaresite.nl/downloads/fotowall-fotobewerking-collage-maken",
         "pubDate": "20 september 2026"
@@ -478,10 +483,5 @@
         "title": "Franz 6.7.1",
         "link": "https://www.gratissoftwaresite.nl/downloads/franz-chat-instant-messenger-whatsapp-facebook-skype-hangouts-telegram",
         "pubDate": "17 augustus 2026"
-    },
-    {
-        "title": "LocalSend 1.18.1",
-        "link": "https://www.gratissoftwaresite.nl/downloads/localsend-bestandsoverdracht-apparaten-airdrop",
-        "pubDate": "15 augustus 2026"
     }
 ]
