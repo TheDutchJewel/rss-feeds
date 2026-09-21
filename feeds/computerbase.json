@@ -1,5 +1,75 @@
 [
   {
+    "title": "Discord 0.0.413 (macOS)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/discord/",
+    "pubDate": "2026-09-21T17:20:00.000Z"
+  },
+  {
+    "title": "Discord 1.0.159 (Linux)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/discord/",
+    "pubDate": "2026-09-21T17:20:00.000Z"
+  },
+  {
+    "title": "Mozilla Firefox 157.0 Beta 4",
+    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
+    "pubDate": "2026-09-21T17:02:00.000Z"
+  },
+  {
+    "title": "VLC media player 3.0.24 Testing",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/vlc-media-player/",
+    "pubDate": "2026-09-21T16:57:00.000Z"
+  },
+  {
+    "title": "Google Drive for desktop 131.0.2",
+    "link": "https://www.computerbase.de/downloads/office/dateimanager/google-drive/",
+    "pubDate": "2026-09-21T16:52:00.000Z"
+  },
+  {
+    "title": "Google Drive for desktop 131.0.2 ARM64-Beta (Win 11)",
+    "link": "https://www.computerbase.de/downloads/office/dateimanager/google-drive/",
+    "pubDate": "2026-09-21T16:51:00.000Z"
+  },
+  {
+    "title": "Free Download Manager 6.35.1 Build 7021",
+    "link": "https://www.computerbase.de/downloads/office/dateitransfer/free-download-manager/",
+    "pubDate": "2026-09-21T15:13:00.000Z"
+  },
+  {
+    "title": "Avast Free Antivirus 26.10.11181 Beta",
+    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/avast-free-antivirus/",
+    "pubDate": "2026-09-21T14:58:00.000Z"
+  },
+  {
+    "title": "XnView Classic 2.52.6",
+    "link": "https://www.computerbase.de/downloads/foto-und-grafik/xnview/",
+    "pubDate": "2026-09-21T14:55:00.000Z"
+  },
+  {
+    "title": "Bazzite 44.20260921",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/bazzite/",
+    "pubDate": "2026-09-21T14:53:00.000Z"
+  },
+  {
+    "title": "Zoom 7.2.1",
+    "link": "https://www.computerbase.de/downloads/kommunikation/zoom/",
+    "pubDate": "2026-09-21T14:52:00.000Z"
+  },
+  {
+    "title": "AnyDesk 9.7.16",
+    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/anydesk/",
+    "pubDate": "2026-09-21T14:52:00.000Z"
+  },
+  {
+    "title": "Linux Kernel 7.2.7 (Linux)",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/linux-kernel/",
+    "pubDate": "2026-09-21T14:51:00.000Z"
+  },
+  {
+    "title": "Linux Kernel 6.18.53 (Linux)",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/linux-kernel/",
+    "pubDate": "2026-09-21T14:50:00.000Z"
+  },
+  {
     "title": "AIMP 6.00 Build 3085 Beta 6",
     "link": "https://www.computerbase.de/downloads/audio-und-video/aimp/",
     "pubDate": "2026-09-21T11:52:00.000Z"
@@ -85,19 +155,9 @@
     "pubDate": "2026-09-20T08:01:00.000Z"
   },
   {
-    "title": "Bazzite 44.20260919",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/bazzite/",
-    "pubDate": "2026-09-20T08:01:00.000Z"
-  },
-  {
     "title": "Fan Control V278",
     "link": "https://www.computerbase.de/downloads/systemtools/fan-control/",
     "pubDate": "2026-09-19T17:48:00.000Z"
-  },
-  {
-    "title": "Zoom 7.2.0",
-    "link": "https://www.computerbase.de/downloads/kommunikation/zoom/",
-    "pubDate": "2026-09-19T13:02:00.000Z"
   },
   {
     "title": "Blizzard Battle.net 2.52.12.17821",
@@ -128,11 +188,6 @@
     "title": "balenaEtcher 2.1.7",
     "link": "https://www.computerbase.de/downloads/systemtools/festplatten/balenaetcher/",
     "pubDate": "2026-09-18T17:24:00.000Z"
-  },
-  {
-    "title": "Mozilla Firefox 157.0 Beta 3",
-    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
-    "pubDate": "2026-09-18T17:14:00.000Z"
   },
   {
     "title": "IrfanView 4.76",
@@ -193,60 +248,5 @@
     "title": "K-Lite Codec Pack 20.0.0",
     "link": "https://www.computerbase.de/downloads/audio-und-video/k-lite-codec-pack/",
     "pubDate": "2026-09-17T19:16:00.000Z"
-  },
-  {
-    "title": "MSI Center 2.0.74.0",
-    "link": "https://www.computerbase.de/downloads/systemtools/msi-center/",
-    "pubDate": "2026-09-17T18:52:00.000Z"
-  },
-  {
-    "title": "Microsoft Power Automate for desktop 2.72.183.26250",
-    "link": "https://www.computerbase.de/downloads/systemtools/microsoft-power-automate-desktop/",
-    "pubDate": "2026-09-17T18:50:00.000Z"
-  },
-  {
-    "title": "Spotify 1.3.1.234",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/spotify/",
-    "pubDate": "2026-09-17T18:49:00.000Z"
-  },
-  {
-    "title": "Media Player Classic Home Cinema 2.8.2",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/media-player-classic-home-cinema/",
-    "pubDate": "2026-09-17T18:47:00.000Z"
-  },
-  {
-    "title": "Discord 1.0.9258",
-    "link": "https://www.computerbase.de/downloads/kommunikation/discord/",
-    "pubDate": "2026-09-17T16:51:00.000Z"
-  },
-  {
-    "title": "NanaZip 7.0.1843.0",
-    "link": "https://www.computerbase.de/downloads/office/packprogramme/nanazip/",
-    "pubDate": "2026-09-17T15:03:00.000Z"
-  },
-  {
-    "title": "Bitwarden 2026.9.0",
-    "link": "https://www.computerbase.de/downloads/sicherheit/passwortmanager/bitwarden/",
-    "pubDate": "2026-09-17T15:01:00.000Z"
-  },
-  {
-    "title": "Opera 136.0.6008.22",
-    "link": "https://www.computerbase.de/downloads/browser/opera/",
-    "pubDate": "2026-09-17T15:00:00.000Z"
-  },
-  {
-    "title": "Opera GX 135.0.5973.153 Early Access",
-    "link": "https://www.computerbase.de/downloads/browser/opera-gx/",
-    "pubDate": "2026-09-17T14:57:00.000Z"
-  },
-  {
-    "title": "HWiNFO 8.53 Build 6075 Beta",
-    "link": "https://www.computerbase.de/downloads/systemtools/hwinfo/",
-    "pubDate": "2026-09-17T14:53:00.000Z"
-  },
-  {
-    "title": "Telegram Desktop 7.2.9",
-    "link": "https://www.computerbase.de/downloads/kommunikation/telegram-desktop/",
-    "pubDate": "2026-09-17T14:51:00.000Z"
   }
 ]

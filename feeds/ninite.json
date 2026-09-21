@@ -1,5 +1,25 @@
 [
   {
+    "title": "Glary updated to 6.48.0.52.",
+    "link": "https://ninite.com/glary/",
+    "pubDate": "Mon, 21 Sep 2026 16:57:33 -0000"
+  },
+  {
+    "title": "AnyDesk updated to 9.7.16.",
+    "link": "https://ninite.com/anydesk/",
+    "pubDate": "Mon, 21 Sep 2026 15:51:47 -0000"
+  },
+  {
+    "title": "Zoom updated to 7.2.1.48556.",
+    "link": "https://ninite.com/zoom/",
+    "pubDate": "Mon, 21 Sep 2026 15:51:25 -0000"
+  },
+  {
+    "title": "Google Drive for Desktop updated to 131.0.2.0.",
+    "link": "https://ninite.com/googledrivefordesktop/",
+    "pubDate": "Mon, 21 Sep 2026 15:50:35 -0000"
+  },
+  {
     "title": "Cursor updated to 3.21.16.",
     "link": "https://ninite.com/cursor/",
     "pubDate": "Sun, 20 Sep 2026 06:41:59 -0000"
@@ -398,35 +418,5 @@
     "title": "TeamViewer 15 updated to 15.81.6.",
     "link": "https://ninite.com/teamviewer15/",
     "pubDate": "Sat, 05 Sep 2026 09:27:26 -0000"
-  },
-  {
-    "title": "OneDrive updated to 26.153.0809.0004.",
-    "link": "https://ninite.com/onedrive/",
-    "pubDate": "Sat, 05 Sep 2026 09:27:09 -0000"
-  },
-  {
-    "title": "Opera Chromium updated to 135.0.5973.92.",
-    "link": "https://ninite.com/operaChromium/",
-    "pubDate": "Sat, 05 Sep 2026 09:26:16 -0000"
-  },
-  {
-    "title": "Vivaldi updated to 8.2.4133.47.",
-    "link": "https://ninite.com/vivaldi/",
-    "pubDate": "Fri, 04 Sep 2026 10:07:06 -0000"
-  },
-  {
-    "title": "7-Zip updated to 26.03.",
-    "link": "https://ninite.com/7zip/",
-    "pubDate": "Fri, 04 Sep 2026 10:06:53 -0000"
-  },
-  {
-    "title": "Vivaldi updated to 8.2.4133.45.",
-    "link": "https://ninite.com/vivaldi/",
-    "pubDate": "Fri, 04 Sep 2026 03:51:23 -0000"
-  },
-  {
-    "title": "Visual Studio Code updated to 1.136.1.",
-    "link": "https://ninite.com/vscode/",
-    "pubDate": "Fri, 04 Sep 2026 03:51:15 -0000"
   }
 ]
