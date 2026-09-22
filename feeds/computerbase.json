@@ -1,5 +1,140 @@
 [
   {
+    "title": "GPU-Z 2.71.0",
+    "link": "https://www.computerbase.de/downloads/systemtools/grafikkarten/gpu-z/",
+    "pubDate": "2026-09-22T18:19:00.000Z"
+  },
+  {
+    "title": "LibreWolf 156.0.1-1",
+    "link": "https://www.computerbase.de/downloads/browser/librewolf/",
+    "pubDate": "2026-09-22T17:46:00.000Z"
+  },
+  {
+    "title": "Nvidia Linux Display Driver 595.104.02 (Linux)",
+    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/nvidia-linux-display-driver/",
+    "pubDate": "2026-09-22T17:11:00.000Z"
+  },
+  {
+    "title": "Zotac FireStorm 5.0.0.017E (Win 11)",
+    "link": "https://www.computerbase.de/downloads/systemtools/grafikkarten/zotac-firestorm-utility/",
+    "pubDate": "2026-09-22T17:05:00.000Z"
+  },
+  {
+    "title": "PHP 8.4.26",
+    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/php/",
+    "pubDate": "2026-09-22T17:03:00.000Z"
+  },
+  {
+    "title": "VLC media player 3.0.24",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/vlc-media-player/",
+    "pubDate": "2026-09-22T16:59:00.000Z"
+  },
+  {
+    "title": "Groovy 6.0.0",
+    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/groovy/",
+    "pubDate": "2026-09-22T15:33:00.000Z"
+  },
+  {
+    "title": "Groovy 5.1.3",
+    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/groovy/",
+    "pubDate": "2026-09-22T15:32:00.000Z"
+  },
+  {
+    "title": "Seafile Drive Client 3.0.26",
+    "link": "https://www.computerbase.de/downloads/office/dateimanager/seafile/",
+    "pubDate": "2026-09-22T15:31:00.000Z"
+  },
+  {
+    "title": "Nvidia RTX Enterprise Treiber 597.16",
+    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/nvidia-quadro-treiber/",
+    "pubDate": "2026-09-22T15:27:00.000Z"
+  },
+  {
+    "title": "Nvidia GeForce-Treiber 617.14",
+    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/nvidia-geforce-treiber/",
+    "pubDate": "2026-09-22T15:15:00.000Z"
+  },
+  {
+    "title": "Oracle VM VirtualBox 7.2.20",
+    "link": "https://www.computerbase.de/downloads/systemtools/oracle-vm-virtualbox/",
+    "pubDate": "2026-09-22T15:11:00.000Z"
+  },
+  {
+    "title": "ProtonVPN 5.1.8",
+    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/protonvpn/",
+    "pubDate": "2026-09-22T15:07:00.000Z"
+  },
+  {
+    "title": "Camtasia 2026.2.2",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/camtasia-studio/",
+    "pubDate": "2026-09-22T15:06:00.000Z"
+  },
+  {
+    "title": "Screenpresso 2.3.6 (Win 11)",
+    "link": "https://www.computerbase.de/downloads/foto-und-grafik/screenpresso/",
+    "pubDate": "2026-09-22T15:05:00.000Z"
+  },
+  {
+    "title": "Camtasia 2026.2.3 (macOS)",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/camtasia-studio/",
+    "pubDate": "2026-09-22T15:05:00.000Z"
+  },
+  {
+    "title": "SmartFTP 10.0 Build 3329",
+    "link": "https://www.computerbase.de/downloads/office/dateitransfer/smartftp/",
+    "pubDate": "2026-09-22T15:04:00.000Z"
+  },
+  {
+    "title": "Geek Uninstaller 1.5.5.185",
+    "link": "https://www.computerbase.de/downloads/systemtools/geek-uninstaller/",
+    "pubDate": "2026-09-22T15:02:00.000Z"
+  },
+  {
+    "title": "foobar2000 v2.26 preview 2026-09-22",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/foobar2000/",
+    "pubDate": "2026-09-22T15:01:00.000Z"
+  },
+  {
+    "title": "Evernote 11.35.6",
+    "link": "https://www.computerbase.de/downloads/office/evernote/",
+    "pubDate": "2026-09-22T15:00:00.000Z"
+  },
+  {
+    "title": "WhatsApp 2.26.38.15 (macOS)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/whatsapp/",
+    "pubDate": "2026-09-22T14:57:00.000Z"
+  },
+  {
+    "title": "PHP 8.5.11",
+    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/php/",
+    "pubDate": "2026-09-22T14:57:00.000Z"
+  },
+  {
+    "title": "PHP 8.3.35",
+    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/php/",
+    "pubDate": "2026-09-22T14:56:00.000Z"
+  },
+  {
+    "title": "PHP 8.2.34",
+    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/php/",
+    "pubDate": "2026-09-22T14:55:00.000Z"
+  },
+  {
+    "title": "Element 1.12.29",
+    "link": "https://www.computerbase.de/downloads/kommunikation/element/",
+    "pubDate": "2026-09-22T14:54:00.000Z"
+  },
+  {
+    "title": "Trellix Stinger 26.09.39.1",
+    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/mcafee-labs-stinger/",
+    "pubDate": "2026-09-22T14:53:00.000Z"
+  },
+  {
+    "title": "SteelSeries GG 120.0.0",
+    "link": "https://www.computerbase.de/downloads/treiber/eingabegeraete/steelseries-gg/",
+    "pubDate": "2026-09-22T14:52:00.000Z"
+  },
+  {
     "title": "Mozilla Firefox 156.0.1",
     "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
     "pubDate": "2026-09-22T14:51:00.000Z"
@@ -53,11 +188,6 @@
     "title": "Mozilla Firefox 157.0 Beta 4",
     "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
     "pubDate": "2026-09-21T17:02:00.000Z"
-  },
-  {
-    "title": "VLC media player 3.0.24 Testing",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/vlc-media-player/",
-    "pubDate": "2026-09-21T16:57:00.000Z"
   },
   {
     "title": "Google Drive for desktop 131.0.2",
@@ -115,138 +245,8 @@
     "pubDate": "2026-09-21T11:52:00.000Z"
   },
   {
-    "title": "WhatsApp 2.26.38.12 (macOS)",
-    "link": "https://www.computerbase.de/downloads/kommunikation/whatsapp/",
-    "pubDate": "2026-09-21T10:49:00.000Z"
-  },
-  {
     "title": "Iperius Backup Free 8.8.9",
     "link": "https://www.computerbase.de/downloads/sicherheit/backup/iperius-backup-free/",
     "pubDate": "2026-09-21T10:49:00.000Z"
-  },
-  {
-    "title": "Glary Utilities 6.48.0.52",
-    "link": "https://www.computerbase.de/downloads/systemtools/glary-utilities/",
-    "pubDate": "2026-09-21T09:28:00.000Z"
-  },
-  {
-    "title": "Sublime Text 4 Build 4213",
-    "link": "https://www.computerbase.de/downloads/office/editoren/sublime-text/",
-    "pubDate": "2026-09-21T09:27:00.000Z"
-  },
-  {
-    "title": "ShareMouse for Mac 7.0.29 (macOS)",
-    "link": "https://www.computerbase.de/downloads/treiber/eingabegeraete/sharemouse/",
-    "pubDate": "2026-09-21T09:27:00.000Z"
-  },
-  {
-    "title": "XnView MP 1.11.7",
-    "link": "https://www.computerbase.de/downloads/foto-und-grafik/xnview-mp/",
-    "pubDate": "2026-09-21T09:26:00.000Z"
-  },
-  {
-    "title": "Asus GPU Tweak III v2.1.9.5",
-    "link": "https://www.computerbase.de/downloads/systemtools/grafikkarten/asus-gpu-tweak/",
-    "pubDate": "2026-09-21T04:47:00.000Z"
-  },
-  {
-    "title": "NTLite Free 2026.09.12200",
-    "link": "https://www.computerbase.de/downloads/systemtools/ntlite-free/",
-    "pubDate": "2026-09-21T04:33:00.000Z"
-  },
-  {
-    "title": "Dropbox 272.3.3697 Beta",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/dropbox/",
-    "pubDate": "2026-09-20T18:17:00.000Z"
-  },
-  {
-    "title": "Flyoobe 3.01.53",
-    "link": "https://www.computerbase.de/downloads/systemtools/flyoobe/",
-    "pubDate": "2026-09-20T17:23:00.000Z"
-  },
-  {
-    "title": "WireGuard 1.1.1",
-    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/wireguard/",
-    "pubDate": "2026-09-20T15:31:00.000Z"
-  },
-  {
-    "title": "HFS – HTTP File Server 3.3.2",
-    "link": "https://www.computerbase.de/downloads/office/dateitransfer/hfs-http-file-server/",
-    "pubDate": "2026-09-20T14:06:00.000Z"
-  },
-  {
-    "title": "Clonezilla 3.3.3-37 Stable (Debian)",
-    "link": "https://www.computerbase.de/downloads/sicherheit/backup/clonezilla/",
-    "pubDate": "2026-09-20T11:08:00.000Z"
-  },
-  {
-    "title": "Clonezilla 20260913-resolute Alternative (Ubuntu)",
-    "link": "https://www.computerbase.de/downloads/sicherheit/backup/clonezilla/",
-    "pubDate": "2026-09-20T11:07:00.000Z"
-  },
-  {
-    "title": "foobar2000 v2.26 preview 2026-09-19",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/foobar2000/",
-    "pubDate": "2026-09-20T08:02:00.000Z"
-  },
-  {
-    "title": "Mailspring 1.25.0",
-    "link": "https://www.computerbase.de/downloads/kommunikation/mailspring/",
-    "pubDate": "2026-09-20T08:01:00.000Z"
-  },
-  {
-    "title": "Fan Control V278",
-    "link": "https://www.computerbase.de/downloads/systemtools/fan-control/",
-    "pubDate": "2026-09-19T17:48:00.000Z"
-  },
-  {
-    "title": "Blizzard Battle.net 2.52.12.17821",
-    "link": "https://www.computerbase.de/downloads/games/blizzard-battle.net/",
-    "pubDate": "2026-09-19T13:00:00.000Z"
-  },
-  {
-    "title": "Microsoft Edge 153.0.4234.48",
-    "link": "https://www.computerbase.de/downloads/browser/microsoft-edge/",
-    "pubDate": "2026-09-19T12:59:00.000Z"
-  },
-  {
-    "title": "Wine 11.18 Beta (Linux)",
-    "link": "https://www.computerbase.de/downloads/systemtools/wine/",
-    "pubDate": "2026-09-19T12:58:00.000Z"
-  },
-  {
-    "title": "CapFrameX 1.9.1.2 Beta",
-    "link": "https://www.computerbase.de/downloads/systemtools/grafikkarten/capframex-tool/",
-    "pubDate": "2026-09-19T10:38:00.000Z"
-  },
-  {
-    "title": "Brave 1.95.104",
-    "link": "https://www.computerbase.de/downloads/browser/brave/",
-    "pubDate": "2026-09-19T10:38:00.000Z"
-  },
-  {
-    "title": "balenaEtcher 2.1.7",
-    "link": "https://www.computerbase.de/downloads/systemtools/festplatten/balenaetcher/",
-    "pubDate": "2026-09-18T17:24:00.000Z"
-  },
-  {
-    "title": "IrfanView 4.76",
-    "link": "https://www.computerbase.de/downloads/foto-und-grafik/irfanview/",
-    "pubDate": "2026-09-18T15:51:00.000Z"
-  },
-  {
-    "title": "Intel Arc & Xe Grafiktreiber 32.0.101.9030",
-    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/intel-grafiktreiber/",
-    "pubDate": "2026-09-18T15:49:00.000Z"
-  },
-  {
-    "title": "Mozilla Thunderbird 153.3.1esr",
-    "link": "https://www.computerbase.de/downloads/kommunikation/mozilla-thunderbird/",
-    "pubDate": "2026-09-18T15:48:00.000Z"
-  },
-  {
-    "title": "Java SE Development Kit 28.0 Build 16 Dev",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/java-se-development-kit/",
-    "pubDate": "2026-09-18T15:48:00.000Z"
   }
 ]
