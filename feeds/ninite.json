@@ -1,5 +1,10 @@
 [
   {
+    "title": "Chrome updated to 154.0.8037.58.",
+    "link": "https://ninite.com/chrome/",
+    "pubDate": "Tue, 22 Sep 2026 20:07:13 -0000"
+  },
+  {
     "title": "XnView updated to 2.52.6.",
     "link": "https://ninite.com/xnview/",
     "pubDate": "Tue, 22 Sep 2026 15:06:28 -0000"
@@ -413,10 +418,5 @@
     "title": "Spotify updated to 1.2.99.317.",
     "link": "https://ninite.com/spotify/",
     "pubDate": "Mon, 07 Sep 2026 11:19:58 -0000"
-  },
-  {
-    "title": "Edge updated to 152.0.4191.66.",
-    "link": "https://ninite.com/edge/",
-    "pubDate": "Sat, 05 Sep 2026 22:02:23 -0000"
   }
 ]

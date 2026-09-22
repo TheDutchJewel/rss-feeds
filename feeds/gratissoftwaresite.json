@@ -1,5 +1,35 @@
 [
     {
+        "title": "Giada 1.6.0",
+        "link": "https://www.gratissoftwaresite.nl/downloads/giada-geluidsbewerking-dj-mixen-audio-loops-samples",
+        "pubDate": "22 september 2026"
+    },
+    {
+        "title": "GeekUninstaller 1.5.5.181",
+        "link": "https://www.gratissoftwaresite.nl/downloads/geekuninstaller-werktuigen-de-installatie-software-verwijderen",
+        "pubDate": "22 september 2026"
+    },
+    {
+        "title": "Malwarebytes 5.7.1",
+        "link": "https://www.gratissoftwaresite.nl/downloads/malwarebytes-anti-malware-anti-spyware-virussen",
+        "pubDate": "22 september 2026"
+    },
+    {
+        "title": "Waterfox 6.7.4",
+        "link": "https://www.gratissoftwaresite.nl/downloads/waterfox-web-browser",
+        "pubDate": "22 september 2026"
+    },
+    {
+        "title": "Pale Moon 35.0.1",
+        "link": "https://www.gratissoftwaresite.nl/downloads/pale-moon-web-browser-internet",
+        "pubDate": "22 september 2026"
+    },
+    {
+        "title": "VirtualBox 7.2.18",
+        "link": "https://www.gratissoftwaresite.nl/downloads/virtualbox-virtualisatie-os-virtuele-machine",
+        "pubDate": "22 september 2026"
+    },
+    {
         "title": "KillerPDF 1.8.61",
         "link": "https://www.gratissoftwaresite.nl/downloads/killerpdf-bewerken-pdf",
         "pubDate": "22 september 2026"
@@ -120,11 +150,6 @@
         "pubDate": "17 september 2026"
     },
     {
-        "title": "Pale Moon 35.0.0",
-        "link": "https://www.gratissoftwaresite.nl/downloads/pale-moon-web-browser-internet",
-        "pubDate": "17 september 2026"
-    },
-    {
         "title": "AVG Anti-Virus Free 26.9",
         "link": "https://www.gratissoftwaresite.nl/downloads/avg-anti-virus-free-virusscanner",
         "pubDate": "17 september 2026"
@@ -185,11 +210,6 @@
         "pubDate": "16 september 2026"
     },
     {
-        "title": "VirtualBox 7.2.18",
-        "link": "https://www.gratissoftwaresite.nl/downloads/virtualbox-virtualisatie-os-virtuele-machine",
-        "pubDate": "16 september 2026"
-    },
-    {
         "title": "Dropbox 270.4.3312",
         "link": "https://www.gratissoftwaresite.nl/downloads/dropbox-online-opslag-sync",
         "pubDate": "16 september 2026"
@@ -242,11 +262,6 @@
     {
         "title": "Microsoft Edge 153.0.4234.32",
         "link": "https://www.gratissoftwaresite.nl/downloads/microsoft-edge-internet-browser-ie-opvolger",
-        "pubDate": "13 september 2026"
-    },
-    {
-        "title": "Waterfox 6.7.3",
-        "link": "https://www.gratissoftwaresite.nl/downloads/waterfox-web-browser",
         "pubDate": "13 september 2026"
     },
     {
@@ -337,11 +352,6 @@
     {
         "title": "BleachBit 6.0.4",
         "link": "https://www.gratissoftwaresite.nl/downloads/bleachbit-cleaner-pc-schoonmaken-shredder-bestanden-vernietigen",
-        "pubDate": "9 september 2026"
-    },
-    {
-        "title": "Malwarebytes 5.7.0",
-        "link": "https://www.gratissoftwaresite.nl/downloads/malwarebytes-anti-malware-anti-spyware-virussen",
         "pubDate": "9 september 2026"
     },
     {
@@ -483,15 +493,5 @@
         "title": "PlainApp 0.1.4",
         "link": "https://www.gratissoftwaresite.nl/downloads/plainapp-android-bestandsoverdracht-beheer",
         "pubDate": "21 augustus 2026"
-    },
-    {
-        "title": "DeVeDeNG 4.22.1",
-        "link": "https://www.gratissoftwaresite.nl/downloads/devede-dvd-authoring-video",
-        "pubDate": "20 augustus 2026"
-    },
-    {
-        "title": "GeekUninstaller 1.5.4.180",
-        "link": "https://www.gratissoftwaresite.nl/downloads/geekuninstaller-werktuigen-de-installatie-software-verwijderen",
-        "pubDate": "19 augustus 2026"
     }
 ]
