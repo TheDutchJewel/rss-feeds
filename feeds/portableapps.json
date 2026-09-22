@@ -1,5 +1,15 @@
 [
   {
+    "title": "RSS Guard Portable 5.2.5 (RSS/ATOM feed reader) Released",
+    "link": "https://portableapps.com/news/2026-09-21--rss-guard-portable-5.2.5-released",
+    "pubDate": "Tue, 22 Sep 2026 00:51:59 +0000"
+  },
+  {
+    "title": "MicroSIP Portable 3.22.16 (lightweight SIP softphone) Released",
+    "link": "https://portableapps.com/news/2026-09-21--microsip-portable-3.22.16-released",
+    "pubDate": "Tue, 22 Sep 2026 00:50:47 +0000"
+  },
+  {
     "title": "Opera, Portable Edition 136.0.6008.22 (web browser) Released",
     "link": "https://portableapps.com/news/2026-09-21--opera-portable-136.0.6008.22-released",
     "pubDate": "Mon, 21 Sep 2026 22:58:55 +0000"
@@ -63,15 +73,5 @@
     "title": "LibreWolf Portable 156.0-1 (web browser) Released",
     "link": "https://portableapps.com/news/2026-09-19--librewolf-portable-156.0-1-released",
     "pubDate": "Sat, 19 Sep 2026 23:09:58 +0000"
-  },
-  {
-    "title": "Thunderbird, Portable Edition 156.0 (email client) Released",
-    "link": "https://portableapps.com/news/2026-09-19--thunderbird-portable-156.0-released",
-    "pubDate": "Sat, 19 Sep 2026 23:07:18 +0000"
-  },
-  {
-    "title": "Mozilla Firefox, Portable Edition Legacy 115.41.0 (web browser) Released",
-    "link": "https://portableapps.com/news/2026-09-19--firefox-portable-legacy-115.41.0-released",
-    "pubDate": "Sat, 19 Sep 2026 22:28:37 +0000"
   }
 ]
