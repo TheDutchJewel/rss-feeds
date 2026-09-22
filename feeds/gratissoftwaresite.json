@@ -1,8 +1,18 @@
 [
     {
+        "title": "MX Linux MX-25.3",
+        "link": "https://www.gratissoftwaresite.nl/downloads/mx-linux-besturingssysteem",
+        "pubDate": "22 september 2026"
+    },
+    {
+        "title": "Glary Utilities 6.48.0.52",
+        "link": "https://www.gratissoftwaresite.nl/downloads/glary-utilities-pc-opruimen-cleaner",
+        "pubDate": "22 september 2026"
+    },
+    {
         "title": "XnView MP 1.11.7 & Cl...",
         "link": "https://www.gratissoftwaresite.nl/downloads/xnview-fotobewerking-beeld",
-        "pubDate": "21 september 2026"
+        "pubDate": "22 september 2026"
     },
     {
         "title": "Windows Firewall Control 6.35.0.0",
@@ -380,11 +390,6 @@
         "pubDate": "31 augustus 2026"
     },
     {
-        "title": "Glary Utilities 6.47.0.51",
-        "link": "https://www.gratissoftwaresite.nl/downloads/glary-utilities-pc-opruimen-cleaner",
-        "pubDate": "31 augustus 2026"
-    },
-    {
         "title": "GParted 1.8.1-6",
         "link": "https://www.gratissoftwaresite.nl/downloads/gparted-partitiebeheer-iso-usb-cd",
         "pubDate": "31 augustus 2026"
@@ -482,11 +487,6 @@
     {
         "title": "GeekUninstaller 1.5.4.180",
         "link": "https://www.gratissoftwaresite.nl/downloads/geekuninstaller-werktuigen-de-installatie-software-verwijderen",
-        "pubDate": "19 augustus 2026"
-    },
-    {
-        "title": "PotPlayer 260819",
-        "link": "https://www.gratissoftwaresite.nl/downloads/Daum-PotPlayer-mediaspeler",
         "pubDate": "19 augustus 2026"
     }
 ]

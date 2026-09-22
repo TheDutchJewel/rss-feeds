@@ -5,10 +5,22 @@
     <link>https://www.gratissoftwaresite.nl/downloads/nieuwe-updates</link>
     <description>Nieuwste software-updates van GratisSoftwareSite</description>
     <item>
+      <title>MX Linux MX-25.3</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/mx-linux-besturingssysteem</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/mx-linux-besturingssysteem</guid>
+      <pubDate>22 september 2026</pubDate>
+    </item>
+    <item>
+      <title>Glary Utilities 6.48.0.52</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/glary-utilities-pc-opruimen-cleaner</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/glary-utilities-pc-opruimen-cleaner</guid>
+      <pubDate>22 september 2026</pubDate>
+    </item>
+    <item>
       <title/>
       <link>https://www.gratissoftwaresite.nl/downloads/xnview-fotobewerking-beeld</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/xnview-fotobewerking-beeld</guid>
-      <pubDate>21 september 2026</pubDate>
+      <pubDate>22 september 2026</pubDate>
     </item>
     <item>
       <title>Windows Firewall Control 6.35.0.0</title>
@@ -461,12 +473,6 @@
       <pubDate>31 augustus 2026</pubDate>
     </item>
     <item>
-      <title>Glary Utilities 6.47.0.51</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/glary-utilities-pc-opruimen-cleaner</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/glary-utilities-pc-opruimen-cleaner</guid>
-      <pubDate>31 augustus 2026</pubDate>
-    </item>
-    <item>
       <title>GParted 1.8.1-6</title>
       <link>https://www.gratissoftwaresite.nl/downloads/gparted-partitiebeheer-iso-usb-cd</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/gparted-partitiebeheer-iso-usb-cd</guid>
@@ -584,12 +590,6 @@
       <title>GeekUninstaller 1.5.4.180</title>
       <link>https://www.gratissoftwaresite.nl/downloads/geekuninstaller-werktuigen-de-installatie-software-verwijderen</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/geekuninstaller-werktuigen-de-installatie-software-verwijderen</guid>
-      <pubDate>19 augustus 2026</pubDate>
-    </item>
-    <item>
-      <title>PotPlayer 260819</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/Daum-PotPlayer-mediaspeler</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/Daum-PotPlayer-mediaspeler</guid>
       <pubDate>19 augustus 2026</pubDate>
     </item>
   </channel>

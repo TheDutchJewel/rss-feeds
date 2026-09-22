@@ -1,5 +1,15 @@
 [
   {
+    "title": "zmPortable 7.2.1 (virtual meetings, video chat, and screen sharing via Zoom) Released",
+    "link": "https://portableapps.com/news/2026-09-21--zmportable-7.2.1-released",
+    "pubDate": "Tue, 22 Sep 2026 04:51:38 +0000"
+  },
+  {
+    "title": "r3dfox Portable 153.3.0 (web browser for Vista and Windows 7) Released",
+    "link": "https://portableapps.com/news/2026-09-21--r3dfox-portable-153.3.0-released",
+    "pubDate": "Tue, 22 Sep 2026 04:45:49 +0000"
+  },
+  {
     "title": "RSS Guard Portable 5.2.5 (RSS/ATOM feed reader) Released",
     "link": "https://portableapps.com/news/2026-09-21--rss-guard-portable-5.2.5-released",
     "pubDate": "Tue, 22 Sep 2026 00:51:59 +0000"
@@ -63,15 +73,5 @@
     "title": "Liberica JDK Portable LTS 21.0.12.1-1 (portable Java Development Kit) Released",
     "link": "https://portableapps.com/news/2026-09-20--liberica-jdk-portable-lts-21.0.12.1-1-released",
     "pubDate": "Sun, 20 Sep 2026 21:21:08 +0000"
-  },
-  {
-    "title": "Liberica JRE 21.0.12.1-1 LTS (portable Java runtime environment) Released",
-    "link": "https://portableapps.com/news/2026-09-20--liberica-jre-portable-21.0.12.1-1-released",
-    "pubDate": "Sun, 20 Sep 2026 21:15:40 +0000"
-  },
-  {
-    "title": "LibreWolf Portable 156.0-1 (web browser) Released",
-    "link": "https://portableapps.com/news/2026-09-19--librewolf-portable-156.0-1-released",
-    "pubDate": "Sat, 19 Sep 2026 23:09:58 +0000"
   }
 ]
