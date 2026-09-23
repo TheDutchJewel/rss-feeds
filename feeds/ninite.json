@@ -1,5 +1,10 @@
 [
   {
+    "title": "Thunderbird updated to 156.0.1.",
+    "link": "https://ninite.com/thunderbird/",
+    "pubDate": "Wed, 23 Sep 2026 01:21:22 -0000"
+  },
+  {
     "title": "Chrome updated to 154.0.8037.58.",
     "link": "https://ninite.com/chrome/",
     "pubDate": "Tue, 22 Sep 2026 20:07:13 -0000"
@@ -413,10 +418,5 @@
     "title": "Evernote updated to 11.33.5.",
     "link": "https://ninite.com/evernote/",
     "pubDate": "Tue, 08 Sep 2026 21:20:21 -0000"
-  },
-  {
-    "title": "Spotify updated to 1.2.99.317.",
-    "link": "https://ninite.com/spotify/",
-    "pubDate": "Mon, 07 Sep 2026 11:19:58 -0000"
   }
 ]
