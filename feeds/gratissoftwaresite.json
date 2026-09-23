@@ -1,5 +1,20 @@
 [
     {
+        "title": "Microsoft PC Manager 3.22.6.0",
+        "link": "https://www.gratissoftwaresite.nl/downloads/microsoft-pc-manager-cleaner-opschonen-beheer",
+        "pubDate": "23 september 2026"
+    },
+    {
+        "title": "ocenaudio 3.21.4",
+        "link": "https://www.gratissoftwaresite.nl/downloads/ocenaudio-geluidsbewerking-mp3-audio-editor",
+        "pubDate": "23 september 2026"
+    },
+    {
+        "title": "Thunderbird 156.0.1 Release...",
+        "link": "https://www.gratissoftwaresite.nl/downloads/thunderbird-mailprogramma-pop3-imap",
+        "pubDate": "23 september 2026"
+    },
+    {
         "title": "Giada 1.6.0",
         "link": "https://www.gratissoftwaresite.nl/downloads/giada-geluidsbewerking-dj-mixen-audio-loops-samples",
         "pubDate": "22 september 2026"
@@ -175,11 +190,6 @@
         "pubDate": "17 september 2026"
     },
     {
-        "title": "Thunderbird 156.0 Release...",
-        "link": "https://www.gratissoftwaresite.nl/downloads/thunderbird-mailprogramma-pop3-imap",
-        "pubDate": "17 september 2026"
-    },
-    {
         "title": "CCleaner 7.11.1522",
         "link": "https://www.gratissoftwaresite.nl/downloads/ccleaner-pc-opruimen-schoonmaken",
         "pubDate": "17 september 2026"
@@ -312,11 +322,6 @@
     {
         "title": "Windscribe 2.24.13",
         "link": "https://www.gratissoftwaresite.nl/downloads/windscribe-vpn-anoniem-beveiligd-ip-geo",
-        "pubDate": "10 september 2026"
-    },
-    {
-        "title": "ocenaudio 3.21.3",
-        "link": "https://www.gratissoftwaresite.nl/downloads/ocenaudio-geluidsbewerking-mp3-audio-editor",
         "pubDate": "10 september 2026"
     },
     {
@@ -487,11 +492,6 @@
     {
         "title": "KDE Connect 26.04.2",
         "link": "https://www.gratissoftwaresite.nl/downloads/kde-connect-bestandsoverdracht-android-telefoon-iphone",
-        "pubDate": "21 augustus 2026"
-    },
-    {
-        "title": "PlainApp 0.1.4",
-        "link": "https://www.gratissoftwaresite.nl/downloads/plainapp-android-bestandsoverdracht-beheer",
         "pubDate": "21 augustus 2026"
     }
 ]

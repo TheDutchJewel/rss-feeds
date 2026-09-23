@@ -1,5 +1,20 @@
 [
   {
+    "title": "[UPDATE] Google Chrome Portable v154.0.8037.58",
+    "link": "https://www.portablefreeware.com/?id=2074&ts=1790150412",
+    "pubDate": "Wed, 23 Sep 2026 01:00:12 -0700"
+  },
+  {
+    "title": "[UPDATE] phiola v2.9.2",
+    "link": "https://www.portablefreeware.com/?id=3124&ts=1790138418",
+    "pubDate": "Tue, 22 Sep 2026 21:40:18 -0700"
+  },
+  {
+    "title": "[UPDATE] FileAccessErrorView v1.34",
+    "link": "https://www.portablefreeware.com/?id=2949&ts=1790138375",
+    "pubDate": "Tue, 22 Sep 2026 21:39:35 -0700"
+  },
+  {
     "title": "[UPDATE] WizTree v4.33",
     "link": "https://www.portablefreeware.com/?id=2360&ts=1790063237",
     "pubDate": "Tue, 22 Sep 2026 00:47:17 -0700"
@@ -150,11 +165,6 @@
     "pubDate": "Fri, 11 Sep 2026 21:06:02 -0700"
   },
   {
-    "title": "[UPDATE] Google Chrome Portable v153.0.8010.37",
-    "link": "https://www.portablefreeware.com/?id=2074&ts=1789171694",
-    "pubDate": "Fri, 11 Sep 2026 17:08:14 -0700"
-  },
-  {
     "title": "[UPDATE] Multi Commander v16.5.3215",
     "link": "https://www.portablefreeware.com/?id=2304&ts=1789135365",
     "pubDate": "Fri, 11 Sep 2026 07:02:45 -0700"
@@ -198,11 +208,6 @@
     "title": "[UPDATE] Qmmp v2.4.2",
     "link": "https://www.portablefreeware.com/?id=2798&ts=1788936928",
     "pubDate": "Tue, 08 Sep 2026 23:55:28 -0700"
-  },
-  {
-    "title": "[UPDATE] phiola v2.9.1",
-    "link": "https://www.portablefreeware.com/?id=3124&ts=1788852333",
-    "pubDate": "Tue, 08 Sep 2026 00:25:33 -0700"
   },
   {
     "title": "[UPDATE] Shutter Encoder v20.3",
@@ -493,10 +498,5 @@
     "title": "[UPDATE] BrowsingHistoryView v2.62",
     "link": "https://www.portablefreeware.com/?id=2329&ts=1786082456",
     "pubDate": "Thu, 06 Aug 2026 23:00:56 -0700"
-  },
-  {
-    "title": "[UPDATE] RawTherapee v5.13",
-    "link": "https://www.portablefreeware.com/?id=3055&ts=1785989407",
-    "pubDate": "Wed, 05 Aug 2026 21:10:07 -0700"
   }
 ]

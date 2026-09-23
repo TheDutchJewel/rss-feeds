@@ -1,5 +1,65 @@
 [
   {
+    "title": "Windows 11 Kumulatives Update 26H1 (Build 28000.3086) KB5124006 Preview (Win 11)",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/windows-11-kumulatives-update/",
+    "pubDate": "2026-09-23T05:00:00.000Z"
+  },
+  {
+    "title": "Windows 11 Kumulatives Update 24H2/25H2 (Build 26200.9550) KB5124010 Preview (Win 11)",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/windows-11-kumulatives-update/",
+    "pubDate": "2026-09-23T04:58:00.000Z"
+  },
+  {
+    "title": "KeePassXC 2.8.0 Beta 1",
+    "link": "https://www.computerbase.de/downloads/sicherheit/passwortmanager/keepassxc/",
+    "pubDate": "2026-09-23T04:52:00.000Z"
+  },
+  {
+    "title": "Foxit PDF Reader 2026.2.1.39815",
+    "link": "https://www.computerbase.de/downloads/office/pdf/foxit-reader/",
+    "pubDate": "2026-09-23T04:34:00.000Z"
+  },
+  {
+    "title": "Visual Studio 2026 v18.11.12217.175 Insider",
+    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/visual-studio-2026/",
+    "pubDate": "2026-09-23T04:31:00.000Z"
+  },
+  {
+    "title": "Visual Studio 2026 v18.10.2",
+    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/visual-studio-2026/",
+    "pubDate": "2026-09-23T04:30:00.000Z"
+  },
+  {
+    "title": "Opera GX 136.0.6008.50 Early Access",
+    "link": "https://www.computerbase.de/downloads/browser/opera-gx/",
+    "pubDate": "2026-09-23T04:27:00.000Z"
+  },
+  {
+    "title": "Google Chrome 154.0.8037.57/.58",
+    "link": "https://www.computerbase.de/downloads/browser/google-chrome/",
+    "pubDate": "2026-09-23T04:26:00.000Z"
+  },
+  {
+    "title": "Ocenaudio 3.21.4",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/ocenaudio/",
+    "pubDate": "2026-09-23T04:25:00.000Z"
+  },
+  {
+    "title": "Rocket.Chat Desktop 4.17.2",
+    "link": "https://www.computerbase.de/downloads/kommunikation/rocket.chat/",
+    "pubDate": "2026-09-23T04:24:00.000Z"
+  },
+  {
+    "title": "SmartFTP 10.0 Build 3330",
+    "link": "https://www.computerbase.de/downloads/office/dateitransfer/smartftp/",
+    "pubDate": "2026-09-23T04:23:00.000Z"
+  },
+  {
+    "title": "Mozilla Thunderbird 156.0.1",
+    "link": "https://www.computerbase.de/downloads/kommunikation/mozilla-thunderbird/",
+    "pubDate": "2026-09-23T04:22:00.000Z"
+  },
+  {
     "title": "GPU-Z 2.71.0",
     "link": "https://www.computerbase.de/downloads/systemtools/grafikkarten/gpu-z/",
     "pubDate": "2026-09-22T18:19:00.000Z"
@@ -78,11 +138,6 @@
     "title": "Camtasia 2026.2.3 (macOS)",
     "link": "https://www.computerbase.de/downloads/audio-und-video/camtasia-studio/",
     "pubDate": "2026-09-22T15:05:00.000Z"
-  },
-  {
-    "title": "SmartFTP 10.0 Build 3329",
-    "link": "https://www.computerbase.de/downloads/office/dateitransfer/smartftp/",
-    "pubDate": "2026-09-22T15:04:00.000Z"
   },
   {
     "title": "Geek Uninstaller 1.5.5.185",
@@ -193,60 +248,5 @@
     "title": "Google Drive for desktop 131.0.2",
     "link": "https://www.computerbase.de/downloads/office/dateimanager/google-drive/",
     "pubDate": "2026-09-21T16:52:00.000Z"
-  },
-  {
-    "title": "Google Drive for desktop 131.0.2 ARM64-Beta (Win 11)",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/google-drive/",
-    "pubDate": "2026-09-21T16:51:00.000Z"
-  },
-  {
-    "title": "Free Download Manager 6.35.1 Build 7021",
-    "link": "https://www.computerbase.de/downloads/office/dateitransfer/free-download-manager/",
-    "pubDate": "2026-09-21T15:13:00.000Z"
-  },
-  {
-    "title": "Avast Free Antivirus 26.10.11181 Beta",
-    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/avast-free-antivirus/",
-    "pubDate": "2026-09-21T14:58:00.000Z"
-  },
-  {
-    "title": "XnView Classic 2.52.6",
-    "link": "https://www.computerbase.de/downloads/foto-und-grafik/xnview/",
-    "pubDate": "2026-09-21T14:55:00.000Z"
-  },
-  {
-    "title": "Bazzite 44.20260921",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/bazzite/",
-    "pubDate": "2026-09-21T14:53:00.000Z"
-  },
-  {
-    "title": "Zoom 7.2.1",
-    "link": "https://www.computerbase.de/downloads/kommunikation/zoom/",
-    "pubDate": "2026-09-21T14:52:00.000Z"
-  },
-  {
-    "title": "AnyDesk 9.7.16",
-    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/anydesk/",
-    "pubDate": "2026-09-21T14:52:00.000Z"
-  },
-  {
-    "title": "Linux Kernel 7.2.7 (Linux)",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/linux-kernel/",
-    "pubDate": "2026-09-21T14:51:00.000Z"
-  },
-  {
-    "title": "Linux Kernel 6.18.53 (Linux)",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/linux-kernel/",
-    "pubDate": "2026-09-21T14:50:00.000Z"
-  },
-  {
-    "title": "AIMP 6.00 Build 3085 Beta 6",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/aimp/",
-    "pubDate": "2026-09-21T11:52:00.000Z"
-  },
-  {
-    "title": "Iperius Backup Free 8.8.9",
-    "link": "https://www.computerbase.de/downloads/sicherheit/backup/iperius-backup-free/",
-    "pubDate": "2026-09-21T10:49:00.000Z"
   }
 ]

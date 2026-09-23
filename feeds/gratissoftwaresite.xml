@@ -5,6 +5,24 @@
     <link>https://www.gratissoftwaresite.nl/downloads/nieuwe-updates</link>
     <description>Nieuwste software-updates van GratisSoftwareSite</description>
     <item>
+      <title>Microsoft PC Manager 3.22.6.0</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/microsoft-pc-manager-cleaner-opschonen-beheer</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/microsoft-pc-manager-cleaner-opschonen-beheer</guid>
+      <pubDate>23 september 2026</pubDate>
+    </item>
+    <item>
+      <title>ocenaudio 3.21.4</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/ocenaudio-geluidsbewerking-mp3-audio-editor</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/ocenaudio-geluidsbewerking-mp3-audio-editor</guid>
+      <pubDate>23 september 2026</pubDate>
+    </item>
+    <item>
+      <title>Thunderbird 156.0.1 Release...</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/thunderbird-mailprogramma-pop3-imap</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/thunderbird-mailprogramma-pop3-imap</guid>
+      <pubDate>23 september 2026</pubDate>
+    </item>
+    <item>
       <title>Giada 1.6.0</title>
       <link>https://www.gratissoftwaresite.nl/downloads/giada-geluidsbewerking-dj-mixen-audio-loops-samples</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/giada-geluidsbewerking-dj-mixen-audio-loops-samples</guid>
@@ -215,12 +233,6 @@
       <pubDate>17 september 2026</pubDate>
     </item>
     <item>
-      <title>Thunderbird 156.0 Release...</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/thunderbird-mailprogramma-pop3-imap</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/thunderbird-mailprogramma-pop3-imap</guid>
-      <pubDate>17 september 2026</pubDate>
-    </item>
-    <item>
       <title>CCleaner 7.11.1522</title>
       <link>https://www.gratissoftwaresite.nl/downloads/ccleaner-pc-opruimen-schoonmaken</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/ccleaner-pc-opruimen-schoonmaken</guid>
@@ -380,12 +392,6 @@
       <title>Windscribe 2.24.13</title>
       <link>https://www.gratissoftwaresite.nl/downloads/windscribe-vpn-anoniem-beveiligd-ip-geo</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/windscribe-vpn-anoniem-beveiligd-ip-geo</guid>
-      <pubDate>10 september 2026</pubDate>
-    </item>
-    <item>
-      <title>ocenaudio 3.21.3</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/ocenaudio-geluidsbewerking-mp3-audio-editor</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/ocenaudio-geluidsbewerking-mp3-audio-editor</guid>
       <pubDate>10 september 2026</pubDate>
     </item>
     <item>
@@ -590,12 +596,6 @@
       <title>KDE Connect 26.04.2</title>
       <link>https://www.gratissoftwaresite.nl/downloads/kde-connect-bestandsoverdracht-android-telefoon-iphone</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/kde-connect-bestandsoverdracht-android-telefoon-iphone</guid>
-      <pubDate>21 augustus 2026</pubDate>
-    </item>
-    <item>
-      <title>PlainApp 0.1.4</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/plainapp-android-bestandsoverdracht-beheer</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/plainapp-android-bestandsoverdracht-beheer</guid>
       <pubDate>21 augustus 2026</pubDate>
     </item>
   </channel>
