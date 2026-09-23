@@ -1,5 +1,10 @@
 [
   {
+    "title": "XnView updated to 2.52.7.",
+    "link": "https://ninite.com/xnview/",
+    "pubDate": "Wed, 23 Sep 2026 17:18:10 -0000"
+  },
+  {
     "title": "Foxit Reader updated to 2026.2.1.39815.",
     "link": "https://ninite.com/foxit/",
     "pubDate": "Wed, 23 Sep 2026 11:42:22 -0000"
@@ -423,10 +428,5 @@
     "title": ".NET Desktop Runtime 8 updated to 8.0.31.36421.",
     "link": "https://ninite.com/.net8/",
     "pubDate": "Tue, 08 Sep 2026 21:28:17 -0000"
-  },
-  {
-    "title": "Evernote updated to 11.33.5.",
-    "link": "https://ninite.com/evernote/",
-    "pubDate": "Tue, 08 Sep 2026 21:20:21 -0000"
   }
 ]

@@ -1,5 +1,95 @@
 [
   {
+    "title": "Trillian 6.6 Build 6 (Linux)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/trillian/",
+    "pubDate": "2026-09-23T17:30:00.000Z"
+  },
+  {
+    "title": "Box Drive 2.54",
+    "link": "https://www.computerbase.de/downloads/office/dateimanager/box-drive/",
+    "pubDate": "2026-09-23T17:25:00.000Z"
+  },
+  {
+    "title": "Logitech Onboard Memory Manager 2.7.4428",
+    "link": "https://www.computerbase.de/downloads/treiber/eingabegeraete/logitech-onboard-memory-manager/",
+    "pubDate": "2026-09-23T17:19:00.000Z"
+  },
+  {
+    "title": "Dropbox 273.3.4663 Beta",
+    "link": "https://www.computerbase.de/downloads/office/dateimanager/dropbox/",
+    "pubDate": "2026-09-23T17:18:00.000Z"
+  },
+  {
+    "title": "Google Chrome 155.0.8059.12 Beta",
+    "link": "https://www.computerbase.de/downloads/browser/google-chrome/",
+    "pubDate": "2026-09-23T17:17:00.000Z"
+  },
+  {
+    "title": "Dropbox 272.4.3731",
+    "link": "https://www.computerbase.de/downloads/office/dateimanager/dropbox/",
+    "pubDate": "2026-09-23T17:17:00.000Z"
+  },
+  {
+    "title": "XnView Classic 2.52.7",
+    "link": "https://www.computerbase.de/downloads/foto-und-grafik/xnview/",
+    "pubDate": "2026-09-23T17:14:00.000Z"
+  },
+  {
+    "title": "Viber für Desktop 28.10.0.0",
+    "link": "https://www.computerbase.de/downloads/kommunikation/viber-fuer-desktop/",
+    "pubDate": "2026-09-23T17:14:00.000Z"
+  },
+  {
+    "title": "Blizzard Battle.net 2.53.0.17840",
+    "link": "https://www.computerbase.de/downloads/games/blizzard-battle.net/",
+    "pubDate": "2026-09-23T17:13:00.000Z"
+  },
+  {
+    "title": "Intel Arc & Xe Grafiktreiber 31.0.101.2145 WHQL",
+    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/intel-grafiktreiber/",
+    "pubDate": "2026-09-23T15:12:00.000Z"
+  },
+  {
+    "title": "1Password 8.12.40-23 Beta",
+    "link": "https://www.computerbase.de/downloads/sicherheit/passwortmanager/1password/",
+    "pubDate": "2026-09-23T15:01:00.000Z"
+  },
+  {
+    "title": "AnyDesk 8.1.0 (Linux)",
+    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/anydesk/",
+    "pubDate": "2026-09-23T14:59:00.000Z"
+  },
+  {
+    "title": "Multi Commander 16.5 Build 3220",
+    "link": "https://www.computerbase.de/downloads/office/dateimanager/multi-commander/",
+    "pubDate": "2026-09-23T14:58:00.000Z"
+  },
+  {
+    "title": "WhatsApp 2.26.38.18 (macOS)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/whatsapp/",
+    "pubDate": "2026-09-23T14:56:00.000Z"
+  },
+  {
+    "title": "EPIM Mail 26.5.2",
+    "link": "https://www.computerbase.de/downloads/office/essentialpim-free/",
+    "pubDate": "2026-09-23T14:56:00.000Z"
+  },
+  {
+    "title": "Revo Uninstaller Pro 5.5.4",
+    "link": "https://www.computerbase.de/downloads/systemtools/revo-uninstaller-pro/",
+    "pubDate": "2026-09-23T14:55:00.000Z"
+  },
+  {
+    "title": "Visual Studio Code (VS Code) 1.139.0",
+    "link": "https://www.computerbase.de/downloads/office/editoren/visual-studio-code/",
+    "pubDate": "2026-09-23T14:53:00.000Z"
+  },
+  {
+    "title": "Flyoobe 3.02.72",
+    "link": "https://www.computerbase.de/downloads/systemtools/flyoobe/",
+    "pubDate": "2026-09-23T14:52:00.000Z"
+  },
+  {
     "title": "Windows 11 Kumulatives Update 26H1 (Build 28000.3086) KB5124006 Preview (Win 11)",
     "link": "https://www.computerbase.de/downloads/betriebssysteme/windows-11-kumulatives-update/",
     "pubDate": "2026-09-23T05:00:00.000Z"
@@ -155,98 +245,8 @@
     "pubDate": "2026-09-22T15:00:00.000Z"
   },
   {
-    "title": "WhatsApp 2.26.38.15 (macOS)",
-    "link": "https://www.computerbase.de/downloads/kommunikation/whatsapp/",
-    "pubDate": "2026-09-22T14:57:00.000Z"
-  },
-  {
     "title": "PHP 8.5.11",
     "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/php/",
     "pubDate": "2026-09-22T14:57:00.000Z"
-  },
-  {
-    "title": "PHP 8.3.35",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/php/",
-    "pubDate": "2026-09-22T14:56:00.000Z"
-  },
-  {
-    "title": "PHP 8.2.34",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/php/",
-    "pubDate": "2026-09-22T14:55:00.000Z"
-  },
-  {
-    "title": "Element 1.12.29",
-    "link": "https://www.computerbase.de/downloads/kommunikation/element/",
-    "pubDate": "2026-09-22T14:54:00.000Z"
-  },
-  {
-    "title": "Trellix Stinger 26.09.39.1",
-    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/mcafee-labs-stinger/",
-    "pubDate": "2026-09-22T14:53:00.000Z"
-  },
-  {
-    "title": "SteelSeries GG 120.0.0",
-    "link": "https://www.computerbase.de/downloads/treiber/eingabegeraete/steelseries-gg/",
-    "pubDate": "2026-09-22T14:52:00.000Z"
-  },
-  {
-    "title": "Mozilla Firefox 156.0.1",
-    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
-    "pubDate": "2026-09-22T14:51:00.000Z"
-  },
-  {
-    "title": "BitComet 2.22",
-    "link": "https://www.computerbase.de/downloads/office/dateitransfer/bitcomet/",
-    "pubDate": "2026-09-22T14:49:00.000Z"
-  },
-  {
-    "title": "Windows Package Manager (Winget) 1.29.380",
-    "link": "https://www.computerbase.de/downloads/systemtools/windows-package-manager/",
-    "pubDate": "2026-09-22T04:37:00.000Z"
-  },
-  {
-    "title": "Mozilla Thunderbird 157.0 Beta 3",
-    "link": "https://www.computerbase.de/downloads/kommunikation/mozilla-thunderbird/",
-    "pubDate": "2026-09-22T04:36:00.000Z"
-  },
-  {
-    "title": "ZenTimings 140.644 Beta",
-    "link": "https://www.computerbase.de/downloads/systemtools/zentimings/",
-    "pubDate": "2026-09-22T04:35:00.000Z"
-  },
-  {
-    "title": "Slack 4.52.162 (Win 11)",
-    "link": "https://www.computerbase.de/downloads/kommunikation/slack/",
-    "pubDate": "2026-09-21T18:56:00.000Z"
-  },
-  {
-    "title": "Slack 4.52.162 (macOS)",
-    "link": "https://www.computerbase.de/downloads/kommunikation/slack/",
-    "pubDate": "2026-09-21T18:55:00.000Z"
-  },
-  {
-    "title": "Slack 4.52.162 Beta (Linux)",
-    "link": "https://www.computerbase.de/downloads/kommunikation/slack/",
-    "pubDate": "2026-09-21T18:54:00.000Z"
-  },
-  {
-    "title": "Discord 0.0.413 (macOS)",
-    "link": "https://www.computerbase.de/downloads/kommunikation/discord/",
-    "pubDate": "2026-09-21T17:20:00.000Z"
-  },
-  {
-    "title": "Discord 1.0.159 (Linux)",
-    "link": "https://www.computerbase.de/downloads/kommunikation/discord/",
-    "pubDate": "2026-09-21T17:20:00.000Z"
-  },
-  {
-    "title": "Mozilla Firefox 157.0 Beta 4",
-    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
-    "pubDate": "2026-09-21T17:02:00.000Z"
-  },
-  {
-    "title": "Google Drive for desktop 131.0.2",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/google-drive/",
-    "pubDate": "2026-09-21T16:52:00.000Z"
   }
 ]
