@@ -1,5 +1,50 @@
 [
   {
+    "title": "HWiNFO 8.53 Build 6080 Beta",
+    "link": "https://www.computerbase.de/downloads/systemtools/hwinfo/",
+    "pubDate": "2026-09-24T12:00:00.000Z"
+  },
+  {
+    "title": "Opera 136.0.6008.52",
+    "link": "https://www.computerbase.de/downloads/browser/opera/",
+    "pubDate": "2026-09-24T11:59:00.000Z"
+  },
+  {
+    "title": "EA-App 13.796.0.6309",
+    "link": "https://www.computerbase.de/downloads/games/ea-app/",
+    "pubDate": "2026-09-24T11:58:00.000Z"
+  },
+  {
+    "title": "Turtle Beach Swarm II 1.0.0.56",
+    "link": "https://www.computerbase.de/downloads/treiber/eingabegeraete/turtle-beach-swarm-ii/",
+    "pubDate": "2026-09-24T11:53:00.000Z"
+  },
+  {
+    "title": "Vivaldi 8.2 Build 4133.76",
+    "link": "https://www.computerbase.de/downloads/browser/vivaldi/",
+    "pubDate": "2026-09-24T11:52:00.000Z"
+  },
+  {
+    "title": "Personal Backup 6.4.14.0",
+    "link": "https://www.computerbase.de/downloads/sicherheit/backup/personal-backup/",
+    "pubDate": "2026-09-24T11:51:00.000Z"
+  },
+  {
+    "title": "HFS – HTTP File Server 3.3.3",
+    "link": "https://www.computerbase.de/downloads/office/dateitransfer/hfs-http-file-server/",
+    "pubDate": "2026-09-24T11:50:00.000Z"
+  },
+  {
+    "title": "Zoom 7.2.2",
+    "link": "https://www.computerbase.de/downloads/kommunikation/zoom/",
+    "pubDate": "2026-09-24T11:50:00.000Z"
+  },
+  {
+    "title": "Wing FTP Server 8.2.5",
+    "link": "https://www.computerbase.de/downloads/office/dateitransfer/wing-ftp-server/",
+    "pubDate": "2026-09-24T11:50:00.000Z"
+  },
+  {
     "title": "Paint.NET 5.2.0 Beta Build 9762.36236",
     "link": "https://www.computerbase.de/downloads/foto-und-grafik/paint.net/",
     "pubDate": "2026-09-24T04:33:00.000Z"
@@ -203,50 +248,5 @@
     "title": "Nvidia Linux Display Driver 595.104.02 (Linux)",
     "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/nvidia-linux-display-driver/",
     "pubDate": "2026-09-22T17:11:00.000Z"
-  },
-  {
-    "title": "Zotac FireStorm 5.0.0.017E (Win 11)",
-    "link": "https://www.computerbase.de/downloads/systemtools/grafikkarten/zotac-firestorm-utility/",
-    "pubDate": "2026-09-22T17:05:00.000Z"
-  },
-  {
-    "title": "PHP 8.4.26",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/php/",
-    "pubDate": "2026-09-22T17:03:00.000Z"
-  },
-  {
-    "title": "VLC media player 3.0.24",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/vlc-media-player/",
-    "pubDate": "2026-09-22T16:59:00.000Z"
-  },
-  {
-    "title": "Groovy 6.0.0",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/groovy/",
-    "pubDate": "2026-09-22T15:33:00.000Z"
-  },
-  {
-    "title": "Groovy 5.1.3",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/groovy/",
-    "pubDate": "2026-09-22T15:32:00.000Z"
-  },
-  {
-    "title": "Seafile Drive Client 3.0.26",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/seafile/",
-    "pubDate": "2026-09-22T15:31:00.000Z"
-  },
-  {
-    "title": "Nvidia RTX Enterprise Treiber 597.16",
-    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/nvidia-quadro-treiber/",
-    "pubDate": "2026-09-22T15:27:00.000Z"
-  },
-  {
-    "title": "Nvidia GeForce-Treiber 617.14",
-    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/nvidia-geforce-treiber/",
-    "pubDate": "2026-09-22T15:15:00.000Z"
-  },
-  {
-    "title": "Oracle VM VirtualBox 7.2.20",
-    "link": "https://www.computerbase.de/downloads/systemtools/oracle-vm-virtualbox/",
-    "pubDate": "2026-09-22T15:11:00.000Z"
   }
 ]

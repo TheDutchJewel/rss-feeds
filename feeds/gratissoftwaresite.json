@@ -1,5 +1,15 @@
 [
     {
+        "title": "Affinity 3.2.3",
+        "link": "https://www.gratissoftwaresite.nl/downloads/aff-fotobewerking-tekenen-grafisch-ontwerp",
+        "pubDate": "24 september 2026"
+    },
+    {
+        "title": "Adobe Reader 26.001.21771",
+        "link": "https://www.gratissoftwaresite.nl/downloads/reader-pdf-bekijken",
+        "pubDate": "24 september 2026"
+    },
+    {
         "title": "XnView MP 1.11.7 & Cl...",
         "link": "https://www.gratissoftwaresite.nl/downloads/xnview-fotobewerking-beeld",
         "pubDate": "24 september 2026"
@@ -36,7 +46,7 @@
     },
     {
         "title": "Microsoft PC Manager 3.22.6.0",
-        "link": "https://www.gratissoftwaresite.nl/downloads/microsoft-pc-manager-cleaner-opschonen-beheer",
+        "link": "https://www.gratissoftwaresite.nl/downloads/pc-manager-cleaner-opschonen-beheer",
         "pubDate": "23 september 2026"
     },
     {
@@ -286,7 +296,7 @@
     },
     {
         "title": "Microsoft Edge 153.0.4234.32",
-        "link": "https://www.gratissoftwaresite.nl/downloads/microsoft-edge-internet-browser-ie-opvolger",
+        "link": "https://www.gratissoftwaresite.nl/downloads/edge-internet-browser-ie-opvolger",
         "pubDate": "13 september 2026"
     },
     {
@@ -463,35 +473,5 @@
         "title": "LibreOffice 26.8.0",
         "link": "https://www.gratissoftwaresite.nl/downloads/libreoffice-kantoorpakket-writer-calc-impress-draw-math",
         "pubDate": "26 augustus 2026"
-    },
-    {
-        "title": "Microsoft PowerToys 0.101.2362.0",
-        "link": "https://www.gratissoftwaresite.nl/downloads/microsoft-powertoys-gereedschap-tools-windows",
-        "pubDate": "25 augustus 2026"
-    },
-    {
-        "title": "Evernote 11.31.5",
-        "link": "https://www.gratissoftwaresite.nl/downloads/evernote-online-notitieboek",
-        "pubDate": "25 augustus 2026"
-    },
-    {
-        "title": "Wintoys 2.6.71.0",
-        "link": "https://www.gratissoftwaresite.nl/downloads/wintoys-tweaks-optimalisatie-werktuigen-tools",
-        "pubDate": "25 augustus 2026"
-    },
-    {
-        "title": "Ente 1.7.27",
-        "link": "https://www.gratissoftwaresite.nl/downloads/ente-photos-foto-cloud-online-opslag",
-        "pubDate": "24 augustus 2026"
-    },
-    {
-        "title": "Wise Disk Cleaner 11.3.9",
-        "link": "https://www.gratissoftwaresite.nl/downloads/wise-disk-cleaner-pc-opruimen-schoonmaken",
-        "pubDate": "24 augustus 2026"
-    },
-    {
-        "title": "Google Earth 7.3.7.1327 & 1...",
-        "link": "https://www.gratissoftwaresite.nl/downloads/google-earth-satellietbeelden-bekijken-maps-sea-space",
-        "pubDate": "22 augustus 2026"
     }
 ]

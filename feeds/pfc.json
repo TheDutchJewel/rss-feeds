@@ -1,5 +1,25 @@
 [
   {
+    "title": "[UPDATE] MDB Viewer Plus v2.81",
+    "link": "https://www.portablefreeware.com/?id=727&ts=1790258358",
+    "pubDate": "Thu, 24 Sep 2026 06:59:18 -0700"
+  },
+  {
+    "title": "[UPDATE] Vivaldi v8.2.4133.76",
+    "link": "https://www.portablefreeware.com/?id=2869&ts=1790258272",
+    "pubDate": "Thu, 24 Sep 2026 06:57:52 -0700"
+  },
+  {
+    "title": "[UPDATE] Chromium Portable v154.0.8037.58",
+    "link": "https://www.portablefreeware.com/?id=2169&ts=1790258131",
+    "pubDate": "Thu, 24 Sep 2026 06:55:31 -0700"
+  },
+  {
+    "title": "[UPDATE] PolyHostInterface v2.5.70",
+    "link": "https://www.portablefreeware.com/?id=3149&ts=1790255783",
+    "pubDate": "Thu, 24 Sep 2026 06:16:23 -0700"
+  },
+  {
     "title": "[UPDATE] Unicodia v3.2.5",
     "link": "https://www.portablefreeware.com/?id=3102&ts=1790230487",
     "pubDate": "Wed, 23 Sep 2026 23:14:47 -0700"
@@ -115,11 +135,6 @@
     "pubDate": "Thu, 17 Sep 2026 00:00:12 -0700"
   },
   {
-    "title": "[UPDATE] PolyHostInterface v2.5.67",
-    "link": "https://www.portablefreeware.com/?id=3149&ts=1789591900",
-    "pubDate": "Wed, 16 Sep 2026 13:51:40 -0700"
-  },
-  {
     "title": "[UPDATE] Krita Portable v5.3.2.1",
     "link": "https://www.portablefreeware.com/?id=2994&ts=1789570584",
     "pubDate": "Wed, 16 Sep 2026 07:56:24 -0700"
@@ -160,19 +175,9 @@
     "pubDate": "Sun, 13 Sep 2026 07:27:17 -0700"
   },
   {
-    "title": "[UPDATE] Chromium Portable v153.0.8010.53",
-    "link": "https://www.portablefreeware.com/?id=2169&ts=1789309312",
-    "pubDate": "Sun, 13 Sep 2026 07:21:52 -0700"
-  },
-  {
     "title": "[UPDATE] Imagine v2.7.0",
     "link": "https://www.portablefreeware.com/?id=1819&ts=1789285937",
     "pubDate": "Sun, 13 Sep 2026 00:52:17 -0700"
-  },
-  {
-    "title": "[UPDATE] Vivaldi v8.2.4133.52",
-    "link": "https://www.portablefreeware.com/?id=2869&ts=1789226867",
-    "pubDate": "Sat, 12 Sep 2026 08:27:47 -0700"
   },
   {
     "title": "[UPDATE] MobaXterm Home Edition v26.5",
@@ -438,11 +443,6 @@
     "title": "[NEW] PlaylistCreator64 v3.6.2.18",
     "link": "https://www.portablefreeware.com/?id=3148&ts=1786971962",
     "pubDate": "Mon, 17 Aug 2026 06:06:02 -0700"
-  },
-  {
-    "title": "[UPDATE] MDB Viewer Plus v2.80",
-    "link": "https://www.portablefreeware.com/?id=727&ts=1786962352",
-    "pubDate": "Mon, 17 Aug 2026 03:25:52 -0700"
   },
   {
     "title": "[UPDATE] LocalSend v1.18.2",
