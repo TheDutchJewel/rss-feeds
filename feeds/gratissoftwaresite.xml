@@ -5,6 +5,12 @@
     <link>https://www.gratissoftwaresite.nl/downloads/nieuwe-updates</link>
     <description>Nieuwste software-updates van GratisSoftwareSite</description>
     <item>
+      <title/>
+      <link>https://www.gratissoftwaresite.nl/downloads/xnview-fotobewerking-beeld</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/xnview-fotobewerking-beeld</guid>
+      <pubDate>24 september 2026</pubDate>
+    </item>
+    <item>
       <title>Google Chrome 154.0.8037.58</title>
       <link>https://www.gratissoftwaresite.nl/downloads/google-chrome-internet-web-browser</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/google-chrome-internet-web-browser</guid>
@@ -116,12 +122,6 @@
       <title>Glary Utilities 6.48.0.52</title>
       <link>https://www.gratissoftwaresite.nl/downloads/glary-utilities-pc-opruimen-cleaner</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/glary-utilities-pc-opruimen-cleaner</guid>
-      <pubDate>22 september 2026</pubDate>
-    </item>
-    <item>
-      <title/>
-      <link>https://www.gratissoftwaresite.nl/downloads/xnview-fotobewerking-beeld</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/xnview-fotobewerking-beeld</guid>
       <pubDate>22 september 2026</pubDate>
     </item>
     <item>
@@ -413,7 +413,7 @@
       <pubDate>10 september 2026</pubDate>
     </item>
     <item>
-      <title>FreeFileSync 14.11</title>
+      <title>FreeFileSync 14.12</title>
       <link>https://www.gratissoftwaresite.nl/downloads/freefilesync-backup-synchronisatie</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/freefilesync-backup-synchronisatie</guid>
       <pubDate>10 september 2026</pubDate>

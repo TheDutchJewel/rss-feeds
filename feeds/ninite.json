@@ -1,5 +1,10 @@
 [
   {
+    "title": "Opera Chromium updated to 136.0.6008.52.",
+    "link": "https://ninite.com/operaChromium/",
+    "pubDate": "Thu, 24 Sep 2026 08:50:34 -0000"
+  },
+  {
     "title": "Malwarebytes updated to 5.7.1.346.",
     "link": "https://ninite.com/malwarebytes/",
     "pubDate": "Wed, 23 Sep 2026 18:46:27 -0000"
@@ -423,10 +428,5 @@
     "title": ".NET Desktop Runtime x64 8 updated to 8.0.31.36421.",
     "link": "https://ninite.com/.netx8/",
     "pubDate": "Tue, 08 Sep 2026 21:28:33 -0000"
-  },
-  {
-    "title": ".NET Desktop Runtime arm64 8 updated to 8.0.31.36421.",
-    "link": "https://ninite.com/.neta8/",
-    "pubDate": "Tue, 08 Sep 2026 21:28:26 -0000"
   }
 ]
