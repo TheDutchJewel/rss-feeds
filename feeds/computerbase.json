@@ -1,5 +1,50 @@
 [
   {
+    "title": "NTLite Free 2026.09.12209",
+    "link": "https://www.computerbase.de/downloads/systemtools/ntlite-free/",
+    "pubDate": "2026-09-24T18:08:00.000Z"
+  },
+  {
+    "title": "Screenpresso 2.3.6.1 (Win 11)",
+    "link": "https://www.computerbase.de/downloads/foto-und-grafik/screenpresso/",
+    "pubDate": "2026-09-24T17:41:00.000Z"
+  },
+  {
+    "title": "Discord 1.0.9259",
+    "link": "https://www.computerbase.de/downloads/kommunikation/discord/",
+    "pubDate": "2026-09-24T17:39:00.000Z"
+  },
+  {
+    "title": "Carbon Copy Cloner 7.2.1 (macOS)",
+    "link": "https://www.computerbase.de/downloads/sicherheit/backup/carbon-copy-cloner/",
+    "pubDate": "2026-09-24T17:39:00.000Z"
+  },
+  {
+    "title": "Avast Free Antivirus 26.10.11185 Beta",
+    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/avast-free-antivirus/",
+    "pubDate": "2026-09-24T15:56:00.000Z"
+  },
+  {
+    "title": "Nextcloud Server 35.0.1 (Linux)",
+    "link": "https://www.computerbase.de/downloads/office/dateimanager/nextcloud/",
+    "pubDate": "2026-09-24T15:54:00.000Z"
+  },
+  {
+    "title": "Notepad++ 8.9.8.1",
+    "link": "https://www.computerbase.de/downloads/office/editoren/notepad-plus-plus/",
+    "pubDate": "2026-09-24T15:53:00.000Z"
+  },
+  {
+    "title": "WhatsApp 2.26.38.20 (macOS)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/whatsapp/",
+    "pubDate": "2026-09-24T15:51:00.000Z"
+  },
+  {
+    "title": "Epic Games Launcher 20.3.3",
+    "link": "https://www.computerbase.de/downloads/games/epic-games-launcher/",
+    "pubDate": "2026-09-24T15:50:00.000Z"
+  },
+  {
     "title": "HWiNFO 8.53 Build 6080 Beta",
     "link": "https://www.computerbase.de/downloads/systemtools/hwinfo/",
     "pubDate": "2026-09-24T12:00:00.000Z"
@@ -35,7 +80,7 @@
     "pubDate": "2026-09-24T11:50:00.000Z"
   },
   {
-    "title": "Zoom 7.2.2",
+    "title": "Zoom 7.2.2 (macOS)",
     "link": "https://www.computerbase.de/downloads/kommunikation/zoom/",
     "pubDate": "2026-09-24T11:50:00.000Z"
   },
@@ -150,11 +195,6 @@
     "pubDate": "2026-09-23T14:58:00.000Z"
   },
   {
-    "title": "WhatsApp 2.26.38.18 (macOS)",
-    "link": "https://www.computerbase.de/downloads/kommunikation/whatsapp/",
-    "pubDate": "2026-09-23T14:56:00.000Z"
-  },
-  {
     "title": "EPIM Mail 26.5.2",
     "link": "https://www.computerbase.de/downloads/office/essentialpim-free/",
     "pubDate": "2026-09-23T14:56:00.000Z"
@@ -208,45 +248,5 @@
     "title": "Opera GX 136.0.6008.50 Early Access",
     "link": "https://www.computerbase.de/downloads/browser/opera-gx/",
     "pubDate": "2026-09-23T04:27:00.000Z"
-  },
-  {
-    "title": "Google Chrome 154.0.8037.57/.58",
-    "link": "https://www.computerbase.de/downloads/browser/google-chrome/",
-    "pubDate": "2026-09-23T04:26:00.000Z"
-  },
-  {
-    "title": "Ocenaudio 3.21.4",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/ocenaudio/",
-    "pubDate": "2026-09-23T04:25:00.000Z"
-  },
-  {
-    "title": "Rocket.Chat Desktop 4.17.2",
-    "link": "https://www.computerbase.de/downloads/kommunikation/rocket.chat/",
-    "pubDate": "2026-09-23T04:24:00.000Z"
-  },
-  {
-    "title": "SmartFTP 10.0 Build 3330",
-    "link": "https://www.computerbase.de/downloads/office/dateitransfer/smartftp/",
-    "pubDate": "2026-09-23T04:23:00.000Z"
-  },
-  {
-    "title": "Mozilla Thunderbird 156.0.1",
-    "link": "https://www.computerbase.de/downloads/kommunikation/mozilla-thunderbird/",
-    "pubDate": "2026-09-23T04:22:00.000Z"
-  },
-  {
-    "title": "GPU-Z 2.71.0",
-    "link": "https://www.computerbase.de/downloads/systemtools/grafikkarten/gpu-z/",
-    "pubDate": "2026-09-22T18:19:00.000Z"
-  },
-  {
-    "title": "LibreWolf 156.0.1-1",
-    "link": "https://www.computerbase.de/downloads/browser/librewolf/",
-    "pubDate": "2026-09-22T17:46:00.000Z"
-  },
-  {
-    "title": "Nvidia Linux Display Driver 595.104.02 (Linux)",
-    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/nvidia-linux-display-driver/",
-    "pubDate": "2026-09-22T17:11:00.000Z"
   }
 ]
