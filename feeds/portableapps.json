@@ -1,5 +1,20 @@
 [
   {
+    "title": "ZoomIt Portable 12.22 (screen zoom and draw for presentations) Released",
+    "link": "https://portableapps.com/news/2026-09-24--zoomit-portable-12.22-released",
+    "pubDate": "Thu, 24 Sep 2026 20:15:07 +0000"
+  },
+  {
+    "title": "DebugView Portable 5.0.2 (system debug output monitor) Released",
+    "link": "https://portableapps.com/news/2026-09-24--debugview-portable-5.0.2-released",
+    "pubDate": "Thu, 24 Sep 2026 20:12:30 +0000"
+  },
+  {
+    "title": "Coreinfo Portable 4.0.2 (Processor details utility) Released",
+    "link": "https://portableapps.com/news/2026-09-24--coreinfo-portable-4.0.2-released",
+    "pubDate": "Thu, 24 Sep 2026 20:08:42 +0000"
+  },
+  {
     "title": "Chromium Portable 154.0.8037.58 (web browser) Released",
     "link": "https://portableapps.com/news/2026-09-23--chromium-portable-154.0.8037.58-released",
     "pubDate": "Wed, 23 Sep 2026 17:37:12 +0000"
@@ -58,20 +73,5 @@
     "title": "Thunderbird, Portable Edition 157.0 Beta 2 (email client) Released",
     "link": "https://portableapps.com/news/2026-09-21--thunderbird-portable-157.0-beta-2-released",
     "pubDate": "Mon, 21 Sep 2026 20:49:00 +0000"
-  },
-  {
-    "title": "Telegram Desktop Portable 7.2.9 (secure instant messaging) Released",
-    "link": "https://portableapps.com/news/2026-09-21--telegram-desktop-portable-7.2.9-released",
-    "pubDate": "Mon, 21 Sep 2026 20:44:24 +0000"
-  },
-  {
-    "title": "QOwnNotes Portable 26.9.9 (markdown note taker) Released",
-    "link": "https://portableapps.com/news/2026-09-12--qownnotes-portable-26.9.9-released",
-    "pubDate": "Mon, 21 Sep 2026 19:20:47 +0000"
-  },
-  {
-    "title": "gVim Portable 9.2.112 (advanced text editor) Released",
-    "link": "https://portableapps.com/news/2026-09-21--gvim-portable-9.2.1122-released",
-    "pubDate": "Mon, 21 Sep 2026 19:19:43 +0000"
   }
 ]

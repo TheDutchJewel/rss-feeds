@@ -1,5 +1,15 @@
 [
   {
+    "title": "Brave 1.96.59",
+    "link": "https://www.computerbase.de/downloads/browser/brave/",
+    "pubDate": "2026-09-24T18:54:00.000Z"
+  },
+  {
+    "title": "Intel Arc & Xe Grafiktreiber 32.0.101.9033",
+    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/intel-grafiktreiber/",
+    "pubDate": "2026-09-24T18:53:00.000Z"
+  },
+  {
     "title": "NTLite Free 2026.09.12209",
     "link": "https://www.computerbase.de/downloads/systemtools/ntlite-free/",
     "pubDate": "2026-09-24T18:08:00.000Z"
@@ -238,15 +248,5 @@
     "title": "Visual Studio 2026 v18.11.12217.175 Insider",
     "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/visual-studio-2026/",
     "pubDate": "2026-09-23T04:31:00.000Z"
-  },
-  {
-    "title": "Visual Studio 2026 v18.10.2",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/visual-studio-2026/",
-    "pubDate": "2026-09-23T04:30:00.000Z"
-  },
-  {
-    "title": "Opera GX 136.0.6008.50 Early Access",
-    "link": "https://www.computerbase.de/downloads/browser/opera-gx/",
-    "pubDate": "2026-09-23T04:27:00.000Z"
   }
 ]
