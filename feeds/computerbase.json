@@ -1,5 +1,15 @@
 [
   {
+    "title": "Opera GX 136.0.6008.67 Early Access",
+    "link": "https://www.computerbase.de/downloads/browser/opera-gx/",
+    "pubDate": "2026-09-25T20:52:00.000Z"
+  },
+  {
+    "title": "Fan Control V279",
+    "link": "https://www.computerbase.de/downloads/systemtools/fan-control/",
+    "pubDate": "2026-09-25T19:22:00.000Z"
+  },
+  {
     "title": "Linux Kernel 7.2.8 (Linux)",
     "link": "https://www.computerbase.de/downloads/betriebssysteme/linux-kernel/",
     "pubDate": "2026-09-25T15:33:00.000Z"
@@ -238,15 +248,5 @@
     "title": "Dropbox 273.3.4663 Beta",
     "link": "https://www.computerbase.de/downloads/office/dateimanager/dropbox/",
     "pubDate": "2026-09-23T17:18:00.000Z"
-  },
-  {
-    "title": "Google Chrome 155.0.8059.12 Beta",
-    "link": "https://www.computerbase.de/downloads/browser/google-chrome/",
-    "pubDate": "2026-09-23T17:17:00.000Z"
-  },
-  {
-    "title": "Dropbox 272.4.3731",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/dropbox/",
-    "pubDate": "2026-09-23T17:17:00.000Z"
   }
 ]
