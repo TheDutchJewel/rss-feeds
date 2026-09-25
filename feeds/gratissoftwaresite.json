@@ -1,12 +1,27 @@
 [
     {
-        "title": "Ente 1.3.64",
-        "link": "https://www.gratissoftwaresite.nl/downloads/ente-photos-foto-cloud-online-opslag",
-        "pubDate": "24 september 2026"
+        "title": "Microsoft Edge 154.0.4258.37",
+        "link": "https://www.gratissoftwaresite.nl/downloads/edge-internet-browser-ie-opvolger",
+        "pubDate": "25 september 2026"
     },
     {
-        "title": "Affinity 3.2.3",
+        "title": "Mullvad Browser 15.0.23",
+        "link": "https://www.gratissoftwaresite.nl/downloads/mullvad-browser-privacy",
+        "pubDate": "25 september 2026"
+    },
+    {
+        "title": "Affinity 3.3.0",
         "link": "https://www.gratissoftwaresite.nl/downloads/aff-fotobewerking-tekenen-grafisch-ontwerp",
+        "pubDate": "25 september 2026"
+    },
+    {
+        "title": "Gnumeric 1.12.62",
+        "link": "https://www.gratissoftwaresite.nl/downloads/gnumeric-spreadsheet-office-excel-vervanger",
+        "pubDate": "25 september 2026"
+    },
+    {
+        "title": "Ente 1.3.64",
+        "link": "https://www.gratissoftwaresite.nl/downloads/ente-photos-foto-cloud-online-opslag",
         "pubDate": "24 september 2026"
     },
     {
@@ -185,11 +200,6 @@
         "pubDate": "18 september 2026"
     },
     {
-        "title": "Mullvad Browser 15.0.21",
-        "link": "https://www.gratissoftwaresite.nl/downloads/mullvad-browser-privacy",
-        "pubDate": "17 september 2026"
-    },
-    {
         "title": "Vivaldi 8.2.4133.64",
         "link": "https://www.gratissoftwaresite.nl/downloads/vivaldi-internet-web-browser",
         "pubDate": "17 september 2026"
@@ -297,11 +307,6 @@
     {
         "title": "Subtitle Edit 5.2.0",
         "link": "https://www.gratissoftwaresite.nl/downloads/subtitle-edit-ondertitels-video",
-        "pubDate": "13 september 2026"
-    },
-    {
-        "title": "Microsoft Edge 153.0.4234.32",
-        "link": "https://www.gratissoftwaresite.nl/downloads/edge-internet-browser-ie-opvolger",
         "pubDate": "13 september 2026"
     },
     {
@@ -468,10 +473,5 @@
         "title": "Darktable 5.6.1",
         "link": "https://www.gratissoftwaresite.nl/downloads/darktable-fotobewerking-raw-workflow",
         "pubDate": "27 augustus 2026"
-    },
-    {
-        "title": "HWiNFO 8.52",
-        "link": "https://www.gratissoftwaresite.nl/downloads/hwinfo-werktuigen-systeeminformatie",
-        "pubDate": "26 augustus 2026"
     }
 ]

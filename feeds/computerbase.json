@@ -1,5 +1,45 @@
 [
   {
+    "title": "openSUSE Leap 16.1 RC",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/opensuse/",
+    "pubDate": "2026-09-25T05:14:00.000Z"
+  },
+  {
+    "title": "Microsoft Edge 154.0.4258.37",
+    "link": "https://www.computerbase.de/downloads/browser/microsoft-edge/",
+    "pubDate": "2026-09-25T05:11:00.000Z"
+  },
+  {
+    "title": "K-Lite Codec Pack Update 20.0.2",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/k-lite-codec-pack/",
+    "pubDate": "2026-09-25T05:03:00.000Z"
+  },
+  {
+    "title": "Trillian 6.6 Build 19",
+    "link": "https://www.computerbase.de/downloads/kommunikation/trillian/",
+    "pubDate": "2026-09-25T05:02:00.000Z"
+  },
+  {
+    "title": "Java SE Development Kit 28.0 Build 17 Dev",
+    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/java-se-development-kit/",
+    "pubDate": "2026-09-25T05:00:00.000Z"
+  },
+  {
+    "title": "Beyond Compare 5.2.6",
+    "link": "https://www.computerbase.de/downloads/office/dateimanager/beyond-compare/",
+    "pubDate": "2026-09-25T04:59:00.000Z"
+  },
+  {
+    "title": "ZenTimings 140.665",
+    "link": "https://www.computerbase.de/downloads/systemtools/zentimings/",
+    "pubDate": "2026-09-25T04:57:00.000Z"
+  },
+  {
+    "title": "Sublime Text 4 Build 4215",
+    "link": "https://www.computerbase.de/downloads/office/editoren/sublime-text/",
+    "pubDate": "2026-09-25T04:49:00.000Z"
+  },
+  {
     "title": "Brave 1.96.59",
     "link": "https://www.computerbase.de/downloads/browser/brave/",
     "pubDate": "2026-09-24T18:54:00.000Z"
@@ -208,45 +248,5 @@
     "title": "EPIM Mail 26.5.2",
     "link": "https://www.computerbase.de/downloads/office/essentialpim-free/",
     "pubDate": "2026-09-23T14:56:00.000Z"
-  },
-  {
-    "title": "Revo Uninstaller Pro 5.5.4",
-    "link": "https://www.computerbase.de/downloads/systemtools/revo-uninstaller-pro/",
-    "pubDate": "2026-09-23T14:55:00.000Z"
-  },
-  {
-    "title": "Visual Studio Code (VS Code) 1.139.0",
-    "link": "https://www.computerbase.de/downloads/office/editoren/visual-studio-code/",
-    "pubDate": "2026-09-23T14:53:00.000Z"
-  },
-  {
-    "title": "Flyoobe 3.02.72",
-    "link": "https://www.computerbase.de/downloads/systemtools/flyoobe/",
-    "pubDate": "2026-09-23T14:52:00.000Z"
-  },
-  {
-    "title": "Windows 11 Kumulatives Update 26H1 (Build 28000.3086) KB5124006 Preview (Win 11)",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/windows-11-kumulatives-update/",
-    "pubDate": "2026-09-23T05:00:00.000Z"
-  },
-  {
-    "title": "Windows 11 Kumulatives Update 24H2/25H2 (Build 26200.9550) KB5124010 Preview (Win 11)",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/windows-11-kumulatives-update/",
-    "pubDate": "2026-09-23T04:58:00.000Z"
-  },
-  {
-    "title": "KeePassXC 2.8.0 Beta 1",
-    "link": "https://www.computerbase.de/downloads/sicherheit/passwortmanager/keepassxc/",
-    "pubDate": "2026-09-23T04:52:00.000Z"
-  },
-  {
-    "title": "Foxit PDF Reader 2026.2.1.39815",
-    "link": "https://www.computerbase.de/downloads/office/pdf/foxit-reader/",
-    "pubDate": "2026-09-23T04:34:00.000Z"
-  },
-  {
-    "title": "Visual Studio 2026 v18.11.12217.175 Insider",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/visual-studio-2026/",
-    "pubDate": "2026-09-23T04:31:00.000Z"
   }
 ]
