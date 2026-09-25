@@ -1,5 +1,30 @@
 [
     {
+        "title": "Vivaldi 8.2.4133.76",
+        "link": "https://www.gratissoftwaresite.nl/downloads/vivaldi-internet-web-browser",
+        "pubDate": "25 september 2026"
+    },
+    {
+        "title": "Dropbox 270.4.3312",
+        "link": "https://www.gratissoftwaresite.nl/downloads/dropbox-online-opslag-sync",
+        "pubDate": "25 september 2026"
+    },
+    {
+        "title": "Jitsi Meet 26.2.1",
+        "link": "https://www.gratissoftwaresite.nl/downloads/jitsi-meet-video-bellen-vergaderen-tele-conferentie",
+        "pubDate": "25 september 2026"
+    },
+    {
+        "title": "draw.io 31.5.2",
+        "link": "https://www.gratissoftwaresite.nl/downloads/draw.io-diagrammen-flowcharts-mindmaps-organigrammen",
+        "pubDate": "25 september 2026"
+    },
+    {
+        "title": "Brave 1.96.59",
+        "link": "https://www.gratissoftwaresite.nl/downloads/brave-web-browser-internet-privacy-beveiliging-schilden-trackers-ads",
+        "pubDate": "25 september 2026"
+    },
+    {
         "title": "Microsoft Edge 154.0.4258.37",
         "link": "https://www.gratissoftwaresite.nl/downloads/edge-internet-browser-ie-opvolger",
         "pubDate": "25 september 2026"
@@ -165,11 +190,6 @@
         "pubDate": "19 september 2026"
     },
     {
-        "title": "Brave 1.95.104",
-        "link": "https://www.gratissoftwaresite.nl/downloads/brave-web-browser-internet-privacy-beveiliging-schilden-trackers-ads",
-        "pubDate": "19 september 2026"
-    },
-    {
         "title": "Zoom 7.2.0",
         "link": "https://www.gratissoftwaresite.nl/downloads/zoom-videobellen-groepen-teleconferentie-online-les",
         "pubDate": "19 september 2026"
@@ -198,11 +218,6 @@
         "title": "RapidRaw 1.6.4",
         "link": "https://www.gratissoftwaresite.nl/downloads/rapidraw-fotobewerking-beheer-workflow",
         "pubDate": "18 september 2026"
-    },
-    {
-        "title": "Vivaldi 8.2.4133.64",
-        "link": "https://www.gratissoftwaresite.nl/downloads/vivaldi-internet-web-browser",
-        "pubDate": "17 september 2026"
     },
     {
         "title": "AVG Anti-Virus Free 26.9",
@@ -257,11 +272,6 @@
     {
         "title": "UniGetUI 26.3.0",
         "link": "https://www.gratissoftwaresite.nl/downloads/unigetui-software-update-controle-verwijderen",
-        "pubDate": "16 september 2026"
-    },
-    {
-        "title": "Dropbox 270.4.3312",
-        "link": "https://www.gratissoftwaresite.nl/downloads/dropbox-online-opslag-sync",
         "pubDate": "16 september 2026"
     },
     {
@@ -347,11 +357,6 @@
     {
         "title": "ObsIdentify 5.17.1",
         "link": "https://www.gratissoftwaresite.nl/downloads/obsidentify-planten-dieren-idenficatie-hobby",
-        "pubDate": "10 september 2026"
-    },
-    {
-        "title": "draw.io 31.4.5",
-        "link": "https://www.gratissoftwaresite.nl/downloads/draw.io-diagrammen-flowcharts-mindmaps-organigrammen",
         "pubDate": "10 september 2026"
     },
     {
@@ -467,11 +472,6 @@
     {
         "title": "FileZilla 3.71.1",
         "link": "https://www.gratissoftwaresite.nl/downloads/filezilla-ftp-client-website-beheer",
-        "pubDate": "27 augustus 2026"
-    },
-    {
-        "title": "Darktable 5.6.1",
-        "link": "https://www.gratissoftwaresite.nl/downloads/darktable-fotobewerking-raw-workflow",
         "pubDate": "27 augustus 2026"
     }
 ]
