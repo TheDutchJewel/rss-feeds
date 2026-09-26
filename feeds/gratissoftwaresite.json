@@ -1,5 +1,15 @@
 [
     {
+        "title": "Clementine 1.4.1-211",
+        "link": "https://www.gratissoftwaresite.nl/downloads/clementine-audio-muziekspeler-online",
+        "pubDate": "26 september 2026"
+    },
+    {
+        "title": "Workrave 1.11.4",
+        "link": "https://www.gratissoftwaresite.nl/downloads/workrave-anti-rsi-tools",
+        "pubDate": "26 september 2026"
+    },
+    {
         "title": "Vidiot 2.2.0",
         "link": "https://www.gratissoftwaresite.nl/downloads/vidiot-videobewerking-film-fragmenten-conversie",
         "pubDate": "25 september 2026"
@@ -67,11 +77,6 @@
     {
         "title": "Google Chrome 154.0.8037.58",
         "link": "https://www.gratissoftwaresite.nl/downloads/google-chrome-internet-web-browser",
-        "pubDate": "23 september 2026"
-    },
-    {
-        "title": "Clementine 1.4.1-150",
-        "link": "https://www.gratissoftwaresite.nl/downloads/clementine-audio-muziekspeler-online",
         "pubDate": "23 september 2026"
     },
     {
@@ -468,10 +473,5 @@
         "title": "Ubuntu 26.04.1 LTS",
         "link": "https://www.gratissoftwaresite.nl/downloads/ubuntu-besturingssysteem-linux-windows-vervanger-os",
         "pubDate": "28 augustus 2026"
-    },
-    {
-        "title": "FileZilla 3.71.1",
-        "link": "https://www.gratissoftwaresite.nl/downloads/filezilla-ftp-client-website-beheer",
-        "pubDate": "27 augustus 2026"
     }
 ]

@@ -5,6 +5,18 @@
     <link>https://www.gratissoftwaresite.nl/downloads/nieuwe-updates</link>
     <description>Nieuwste software-updates van GratisSoftwareSite</description>
     <item>
+      <title>Clementine 1.4.1-211</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/clementine-audio-muziekspeler-online</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/clementine-audio-muziekspeler-online</guid>
+      <pubDate>26 september 2026</pubDate>
+    </item>
+    <item>
+      <title>Workrave 1.11.4</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/workrave-anti-rsi-tools</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/workrave-anti-rsi-tools</guid>
+      <pubDate>26 september 2026</pubDate>
+    </item>
+    <item>
       <title>Vidiot 2.2.0</title>
       <link>https://www.gratissoftwaresite.nl/downloads/vidiot-videobewerking-film-fragmenten-conversie</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/vidiot-videobewerking-film-fragmenten-conversie</guid>
@@ -86,12 +98,6 @@
       <title>Google Chrome 154.0.8037.58</title>
       <link>https://www.gratissoftwaresite.nl/downloads/google-chrome-internet-web-browser</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/google-chrome-internet-web-browser</guid>
-      <pubDate>23 september 2026</pubDate>
-    </item>
-    <item>
-      <title>Clementine 1.4.1-150</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/clementine-audio-muziekspeler-online</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/clementine-audio-muziekspeler-online</guid>
       <pubDate>23 september 2026</pubDate>
     </item>
     <item>
@@ -567,12 +573,6 @@
       <link>https://www.gratissoftwaresite.nl/downloads/ubuntu-besturingssysteem-linux-windows-vervanger-os</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/ubuntu-besturingssysteem-linux-windows-vervanger-os</guid>
       <pubDate>28 augustus 2026</pubDate>
-    </item>
-    <item>
-      <title>FileZilla 3.71.1</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/filezilla-ftp-client-website-beheer</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/filezilla-ftp-client-website-beheer</guid>
-      <pubDate>27 augustus 2026</pubDate>
     </item>
   </channel>
 </rss>
