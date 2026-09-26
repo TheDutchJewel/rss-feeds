@@ -5,6 +5,18 @@
     <link>https://www.gratissoftwaresite.nl/downloads/nieuwe-updates</link>
     <description>Nieuwste software-updates van GratisSoftwareSite</description>
     <item>
+      <title>PeaZip 11.3.0</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/peazip-compressie-encryptie</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/peazip-compressie-encryptie</guid>
+      <pubDate>26 september 2026</pubDate>
+    </item>
+    <item>
+      <title>Zen Browser 1.22.3b</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/zen-browser-web-internet</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/zen-browser-web-internet</guid>
+      <pubDate>26 september 2026</pubDate>
+    </item>
+    <item>
       <title>Clementine 1.4.1-211</title>
       <link>https://www.gratissoftwaresite.nl/downloads/clementine-audio-muziekspeler-online</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/clementine-audio-muziekspeler-online</guid>
@@ -395,12 +407,6 @@
       <pubDate>13 september 2026</pubDate>
     </item>
     <item>
-      <title>Zen Browser 1.22.1b</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/zen-browser-web-internet</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/zen-browser-web-internet</guid>
-      <pubDate>13 september 2026</pubDate>
-    </item>
-    <item>
       <title>Joplin 3.7.18</title>
       <link>https://www.gratissoftwaresite.nl/downloads/joplin-notitie-blok-aantekeningen-takenlijst-sync</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/joplin-notitie-blok-aantekeningen-takenlijst-sync</guid>
@@ -567,12 +573,6 @@
       <link>https://www.gratissoftwaresite.nl/downloads/privazer-pc-opruimen-cleaner</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/privazer-pc-opruimen-cleaner</guid>
       <pubDate>29 augustus 2026</pubDate>
-    </item>
-    <item>
-      <title>Ubuntu 26.04.1 LTS</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/ubuntu-besturingssysteem-linux-windows-vervanger-os</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/ubuntu-besturingssysteem-linux-windows-vervanger-os</guid>
-      <pubDate>28 augustus 2026</pubDate>
     </item>
   </channel>
 </rss>

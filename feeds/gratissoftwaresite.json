@@ -1,5 +1,15 @@
 [
     {
+        "title": "PeaZip 11.3.0",
+        "link": "https://www.gratissoftwaresite.nl/downloads/peazip-compressie-encryptie",
+        "pubDate": "26 september 2026"
+    },
+    {
+        "title": "Zen Browser 1.22.3b",
+        "link": "https://www.gratissoftwaresite.nl/downloads/zen-browser-web-internet",
+        "pubDate": "26 september 2026"
+    },
+    {
         "title": "Clementine 1.4.1-211",
         "link": "https://www.gratissoftwaresite.nl/downloads/clementine-audio-muziekspeler-online",
         "pubDate": "26 september 2026"
@@ -325,11 +335,6 @@
         "pubDate": "13 september 2026"
     },
     {
-        "title": "Zen Browser 1.22.1b",
-        "link": "https://www.gratissoftwaresite.nl/downloads/zen-browser-web-internet",
-        "pubDate": "13 september 2026"
-    },
-    {
         "title": "Joplin 3.7.18",
         "link": "https://www.gratissoftwaresite.nl/downloads/joplin-notitie-blok-aantekeningen-takenlijst-sync",
         "pubDate": "12 september 2026"
@@ -468,10 +473,5 @@
         "title": "PrivaZer 4.0.126",
         "link": "https://www.gratissoftwaresite.nl/downloads/privazer-pc-opruimen-cleaner",
         "pubDate": "29 augustus 2026"
-    },
-    {
-        "title": "Ubuntu 26.04.1 LTS",
-        "link": "https://www.gratissoftwaresite.nl/downloads/ubuntu-besturingssysteem-linux-windows-vervanger-os",
-        "pubDate": "28 augustus 2026"
     }
 ]

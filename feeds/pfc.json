@@ -1,5 +1,20 @@
 [
   {
+    "title": "[UPDATE] PhraseExpress v18.0.81",
+    "link": "https://www.portablefreeware.com/?id=2208&ts=1790433033",
+    "pubDate": "Sat, 26 Sep 2026 07:30:33 -0700"
+  },
+  {
+    "title": "[UPDATE] Sandboxie Plus v1.18.5",
+    "link": "https://www.portablefreeware.com/?id=3129&ts=1790432829",
+    "pubDate": "Sat, 26 Sep 2026 07:27:09 -0700"
+  },
+  {
+    "title": "[UPDATE] PeaZip v11.3.0",
+    "link": "https://www.portablefreeware.com/?id=1048&ts=1790432743",
+    "pubDate": "Sat, 26 Sep 2026 07:25:43 -0700"
+  },
+  {
     "title": "[UPDATE] WinSCP v6.5.7",
     "link": "https://www.portablefreeware.com/?id=214&ts=1790394176",
     "pubDate": "Fri, 25 Sep 2026 20:42:56 -0700"
@@ -55,7 +70,7 @@
     "pubDate": "Wed, 23 Sep 2026 15:15:38 -0700"
   },
   {
-    "title": "[UPDATE] Multi Commander v16.5.3220",
+    "title": "[UPDATE] Multi Commander v16.5.3221",
     "link": "https://www.portablefreeware.com/?id=2304&ts=1790181671",
     "pubDate": "Wed, 23 Sep 2026 09:41:11 -0700"
   },
@@ -320,11 +335,6 @@
     "pubDate": "Tue, 01 Sep 2026 01:51:03 -0700"
   },
   {
-    "title": "[UPDATE] Sandboxie Plus v1.18.4",
-    "link": "https://www.portablefreeware.com/?id=3129&ts=1788190698",
-    "pubDate": "Mon, 31 Aug 2026 08:38:18 -0700"
-  },
-  {
     "title": "[UPDATE] InnoUnpacker v2.2.12.1",
     "link": "https://www.portablefreeware.com/?id=3132&ts=1788102096",
     "pubDate": "Sun, 30 Aug 2026 08:01:36 -0700"
@@ -488,15 +498,5 @@
     "title": "[UPDATE] POP Peeper v6.0",
     "link": "https://www.portablefreeware.com/?id=942&ts=1786526923",
     "pubDate": "Wed, 12 Aug 2026 02:28:43 -0700"
-  },
-  {
-    "title": "[UPDATE] Media Player Classic - Black Edition (MPC-BE) v1.9.1",
-    "link": "https://www.portablefreeware.com/?id=3115&ts=1786448673",
-    "pubDate": "Tue, 11 Aug 2026 04:44:33 -0700"
-  },
-  {
-    "title": "[UPDATE] XnConvert v1.114.0",
-    "link": "https://www.portablefreeware.com/?id=2080&ts=1786344724",
-    "pubDate": "Sun, 09 Aug 2026 23:52:04 -0700"
   }
 ]
