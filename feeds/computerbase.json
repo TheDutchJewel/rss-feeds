@@ -1,5 +1,30 @@
 [
   {
+    "title": "Blizzard Battle.net 2.53.1.17862",
+    "link": "https://www.computerbase.de/downloads/games/blizzard-battle.net/",
+    "pubDate": "2026-09-26T05:14:00.000Z"
+  },
+  {
+    "title": "OBS Studio 33.0.0 Beta 4",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/obs-studio/",
+    "pubDate": "2026-09-26T04:57:00.000Z"
+  },
+  {
+    "title": "Rocket.Chat Desktop 4.17.3",
+    "link": "https://www.computerbase.de/downloads/kommunikation/rocket.chat/",
+    "pubDate": "2026-09-26T04:55:00.000Z"
+  },
+  {
+    "title": "Joplin 3.7.21",
+    "link": "https://www.computerbase.de/downloads/office/joplin/",
+    "pubDate": "2026-09-26T04:54:00.000Z"
+  },
+  {
+    "title": "Intel Arc & Xe Grafiktreiber 32.0.101.7092 WHQL",
+    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/intel-grafiktreiber/",
+    "pubDate": "2026-09-26T04:53:00.000Z"
+  },
+  {
     "title": "Opera GX 136.0.6008.67 Early Access",
     "link": "https://www.computerbase.de/downloads/browser/opera-gx/",
     "pubDate": "2026-09-25T20:52:00.000Z"
@@ -223,30 +248,5 @@
     "title": "Signal 8.28.0",
     "link": "https://www.computerbase.de/downloads/kommunikation/signal/",
     "pubDate": "2026-09-24T04:24:00.000Z"
-  },
-  {
-    "title": "Adobe AIR SDK 51.4.1.1",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/adobe-air-sdk/",
-    "pubDate": "2026-09-24T04:23:00.000Z"
-  },
-  {
-    "title": "Trillian 6.6 Build 6 (Linux)",
-    "link": "https://www.computerbase.de/downloads/kommunikation/trillian/",
-    "pubDate": "2026-09-23T17:30:00.000Z"
-  },
-  {
-    "title": "Box Drive 2.54",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/box-drive/",
-    "pubDate": "2026-09-23T17:25:00.000Z"
-  },
-  {
-    "title": "Logitech Onboard Memory Manager 2.7.4428",
-    "link": "https://www.computerbase.de/downloads/treiber/eingabegeraete/logitech-onboard-memory-manager/",
-    "pubDate": "2026-09-23T17:19:00.000Z"
-  },
-  {
-    "title": "Dropbox 273.3.4663 Beta",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/dropbox/",
-    "pubDate": "2026-09-23T17:18:00.000Z"
   }
 ]
