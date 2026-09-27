@@ -5,6 +5,12 @@
     <link>https://www.gratissoftwaresite.nl/downloads/nieuwe-updates</link>
     <description>Nieuwste software-updates van GratisSoftwareSite</description>
     <item>
+      <title>Double Commander 1.2.9</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/doublecommander-bestanden-beheer-verkenner-vensters-werktuigen</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/doublecommander-bestanden-beheer-verkenner-vensters-werktuigen</guid>
+      <pubDate>27 september 2026</pubDate>
+    </item>
+    <item>
       <title>Gnumeric 1.12.62</title>
       <link>https://www.gratissoftwaresite.nl/downloads/gnumeric-spreadsheet-office-excel-vervanger</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/gnumeric-spreadsheet-office-excel-vervanger</guid>
@@ -566,12 +572,6 @@
       <title>GParted 1.8.1-6</title>
       <link>https://www.gratissoftwaresite.nl/downloads/gparted-partitiebeheer-iso-usb-cd</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/gparted-partitiebeheer-iso-usb-cd</guid>
-      <pubDate>31 augustus 2026</pubDate>
-    </item>
-    <item>
-      <title>OpenShot Video Editor 4.0.0</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/openshot-video-editor-videobewerking-video-dvd-uploaden</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/openshot-video-editor-videobewerking-video-dvd-uploaden</guid>
       <pubDate>31 augustus 2026</pubDate>
     </item>
   </channel>
