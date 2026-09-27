@@ -1,5 +1,15 @@
 [
   {
+    "title": "Display Driver Uninstaller (DDU) 18.1.6.1",
+    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/display-driver-uninstaller-ddu/",
+    "pubDate": "2026-09-27T13:04:00.000Z"
+  },
+  {
+    "title": "W10Privacy 6.3.0.2",
+    "link": "https://www.computerbase.de/downloads/systemtools/w10privacy/",
+    "pubDate": "2026-09-27T10:42:00.000Z"
+  },
+  {
     "title": "PowerFolder 28.1.100",
     "link": "https://www.computerbase.de/downloads/office/dateimanager/powerfolder/",
     "pubDate": "2026-09-27T05:29:00.000Z"
@@ -237,16 +247,6 @@
   {
     "title": "HFS – HTTP File Server 3.3.3",
     "link": "https://www.computerbase.de/downloads/office/dateitransfer/hfs-http-file-server/",
-    "pubDate": "2026-09-24T11:50:00.000Z"
-  },
-  {
-    "title": "Zoom 7.2.2 (macOS)",
-    "link": "https://www.computerbase.de/downloads/kommunikation/zoom/",
-    "pubDate": "2026-09-24T11:50:00.000Z"
-  },
-  {
-    "title": "Wing FTP Server 8.2.5",
-    "link": "https://www.computerbase.de/downloads/office/dateitransfer/wing-ftp-server/",
     "pubDate": "2026-09-24T11:50:00.000Z"
   }
 ]
