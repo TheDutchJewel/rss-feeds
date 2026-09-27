@@ -1,5 +1,25 @@
 [
   {
+    "title": "CapFrameX 1.9.1",
+    "link": "https://www.computerbase.de/downloads/systemtools/grafikkarten/capframex-tool/",
+    "pubDate": "2026-09-27T15:46:00.000Z"
+  },
+  {
+    "title": "Screenpresso 2.3.6.2 Beta (Win 11)",
+    "link": "https://www.computerbase.de/downloads/foto-und-grafik/screenpresso/",
+    "pubDate": "2026-09-27T14:55:00.000Z"
+  },
+  {
+    "title": "Nobara Linux 44 2026-09-26",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/nobara-linux/",
+    "pubDate": "2026-09-27T14:51:00.000Z"
+  },
+  {
+    "title": "Tunnelblick 10.0 Beta 3 (macOS)",
+    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/tunnelblick/",
+    "pubDate": "2026-09-27T14:50:00.000Z"
+  },
+  {
     "title": "Display Driver Uninstaller (DDU) 18.1.6.1",
     "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/display-driver-uninstaller-ddu/",
     "pubDate": "2026-09-27T13:04:00.000Z"
@@ -175,11 +195,6 @@
     "pubDate": "2026-09-24T18:08:00.000Z"
   },
   {
-    "title": "Screenpresso 2.3.6.1 Beta (Win 11)",
-    "link": "https://www.computerbase.de/downloads/foto-und-grafik/screenpresso/",
-    "pubDate": "2026-09-24T17:41:00.000Z"
-  },
-  {
     "title": "Discord 1.0.9259",
     "link": "https://www.computerbase.de/downloads/kommunikation/discord/",
     "pubDate": "2026-09-24T17:39:00.000Z"
@@ -233,20 +248,5 @@
     "title": "Turtle Beach Swarm II 1.0.0.56",
     "link": "https://www.computerbase.de/downloads/treiber/eingabegeraete/turtle-beach-swarm-ii/",
     "pubDate": "2026-09-24T11:53:00.000Z"
-  },
-  {
-    "title": "Vivaldi 8.2 Build 4133.76",
-    "link": "https://www.computerbase.de/downloads/browser/vivaldi/",
-    "pubDate": "2026-09-24T11:52:00.000Z"
-  },
-  {
-    "title": "Personal Backup 6.4.14.0",
-    "link": "https://www.computerbase.de/downloads/sicherheit/backup/personal-backup/",
-    "pubDate": "2026-09-24T11:51:00.000Z"
-  },
-  {
-    "title": "HFS – HTTP File Server 3.3.3",
-    "link": "https://www.computerbase.de/downloads/office/dateitransfer/hfs-http-file-server/",
-    "pubDate": "2026-09-24T11:50:00.000Z"
   }
 ]

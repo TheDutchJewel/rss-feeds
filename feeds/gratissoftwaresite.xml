@@ -5,6 +5,18 @@
     <link>https://www.gratissoftwaresite.nl/downloads/nieuwe-updates</link>
     <description>Nieuwste software-updates van GratisSoftwareSite</description>
     <item>
+      <title>Gnumeric 1.12.62</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/gnumeric-spreadsheet-office-excel-vervanger</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/gnumeric-spreadsheet-office-excel-vervanger</guid>
+      <pubDate>27 september 2026</pubDate>
+    </item>
+    <item>
+      <title/>
+      <link>https://www.gratissoftwaresite.nl/downloads/ios-mobiel-besturingssysteem-os-iphone</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/ios-mobiel-besturingssysteem-os-iphone</guid>
+      <pubDate>27 september 2026</pubDate>
+    </item>
+    <item>
       <title>WinDirStat 2.9.0</title>
       <link>https://www.gratissoftwaresite.nl/downloads/windirstat-werktuig-tools-schijfruimte</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/windirstat-werktuig-tools-schijfruimte</guid>
@@ -104,12 +116,6 @@
       <title>Affinity 3.3.0</title>
       <link>https://www.gratissoftwaresite.nl/downloads/aff-fotobewerking-tekenen-grafisch-ontwerp</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/aff-fotobewerking-tekenen-grafisch-ontwerp</guid>
-      <pubDate>25 september 2026</pubDate>
-    </item>
-    <item>
-      <title>Gnumeric 1.12.62</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/gnumeric-spreadsheet-office-excel-vervanger</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/gnumeric-spreadsheet-office-excel-vervanger</guid>
       <pubDate>25 september 2026</pubDate>
     </item>
     <item>
@@ -567,12 +573,6 @@
       <link>https://www.gratissoftwaresite.nl/downloads/openshot-video-editor-videobewerking-video-dvd-uploaden</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/openshot-video-editor-videobewerking-video-dvd-uploaden</guid>
       <pubDate>31 augustus 2026</pubDate>
-    </item>
-    <item>
-      <title>Mp3tag 3.36.1</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/Mp3tag-mp3-tool-audio</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/Mp3tag-mp3-tool-audio</guid>
-      <pubDate>30 augustus 2026</pubDate>
     </item>
   </channel>
 </rss>

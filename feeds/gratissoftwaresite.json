@@ -1,5 +1,15 @@
 [
     {
+        "title": "Gnumeric 1.12.62",
+        "link": "https://www.gratissoftwaresite.nl/downloads/gnumeric-spreadsheet-office-excel-vervanger",
+        "pubDate": "27 september 2026"
+    },
+    {
+        "title": "iOS en iPadOS 27.0 & 26.7...",
+        "link": "https://www.gratissoftwaresite.nl/downloads/ios-mobiel-besturingssysteem-os-iphone",
+        "pubDate": "27 september 2026"
+    },
+    {
         "title": "WinDirStat 2.9.0",
         "link": "https://www.gratissoftwaresite.nl/downloads/windirstat-werktuig-tools-schijfruimte",
         "pubDate": "27 september 2026"
@@ -82,11 +92,6 @@
     {
         "title": "Affinity 3.3.0",
         "link": "https://www.gratissoftwaresite.nl/downloads/aff-fotobewerking-tekenen-grafisch-ontwerp",
-        "pubDate": "25 september 2026"
-    },
-    {
-        "title": "Gnumeric 1.12.62",
-        "link": "https://www.gratissoftwaresite.nl/downloads/gnumeric-spreadsheet-office-excel-vervanger",
         "pubDate": "25 september 2026"
     },
     {
@@ -468,10 +473,5 @@
         "title": "OpenShot Video Editor 4.0.0",
         "link": "https://www.gratissoftwaresite.nl/downloads/openshot-video-editor-videobewerking-video-dvd-uploaden",
         "pubDate": "31 augustus 2026"
-    },
-    {
-        "title": "Mp3tag 3.36.1",
-        "link": "https://www.gratissoftwaresite.nl/downloads/Mp3tag-mp3-tool-audio",
-        "pubDate": "30 augustus 2026"
     }
 ]
