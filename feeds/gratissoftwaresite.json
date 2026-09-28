@@ -1,8 +1,33 @@
 [
     {
+        "title": "KillerPDF 1.8.71",
+        "link": "https://www.gratissoftwaresite.nl/downloads/killerpdf-bewerken-pdf",
+        "pubDate": "28 september 2026"
+    },
+    {
+        "title": "Joplin 3.7.21",
+        "link": "https://www.gratissoftwaresite.nl/downloads/joplin-notitie-blok-aantekeningen-takenlijst-sync",
+        "pubDate": "28 september 2026"
+    },
+    {
+        "title": "Clementine 1.4.1-235",
+        "link": "https://www.gratissoftwaresite.nl/downloads/clementine-audio-muziekspeler-online",
+        "pubDate": "28 september 2026"
+    },
+    {
+        "title": "Shotcut 26.9.27",
+        "link": "https://www.gratissoftwaresite.nl/downloads/shotcut-videobewerking-editor-tijdlijn-key-frames",
+        "pubDate": "28 september 2026"
+    },
+    {
+        "title": "GnuCash 5.17",
+        "link": "https://www.gratissoftwaresite.nl/downloads/gnucash-boekhouding-financieel-administratie",
+        "pubDate": "28 september 2026"
+    },
+    {
         "title": "Double Commander 1.2.9",
         "link": "https://www.gratissoftwaresite.nl/downloads/doublecommander-bestanden-beheer-verkenner-vensters-werktuigen",
-        "pubDate": "27 september 2026"
+        "pubDate": "28 september 2026"
     },
     {
         "title": "Gnumeric 1.12.62",
@@ -47,11 +72,6 @@
     {
         "title": "Zen Browser 1.22.3b",
         "link": "https://www.gratissoftwaresite.nl/downloads/zen-browser-web-internet",
-        "pubDate": "26 september 2026"
-    },
-    {
-        "title": "Clementine 1.4.1-211",
-        "link": "https://www.gratissoftwaresite.nl/downloads/clementine-audio-muziekspeler-online",
         "pubDate": "26 september 2026"
     },
     {
@@ -177,11 +197,6 @@
     {
         "title": "VirtualBox 7.2.18",
         "link": "https://www.gratissoftwaresite.nl/downloads/virtualbox-virtualisatie-os-virtuele-machine",
-        "pubDate": "22 september 2026"
-    },
-    {
-        "title": "KillerPDF 1.8.61",
-        "link": "https://www.gratissoftwaresite.nl/downloads/killerpdf-bewerken-pdf",
         "pubDate": "22 september 2026"
     },
     {
@@ -355,11 +370,6 @@
         "pubDate": "13 september 2026"
     },
     {
-        "title": "Joplin 3.7.18",
-        "link": "https://www.gratissoftwaresite.nl/downloads/joplin-notitie-blok-aantekeningen-takenlijst-sync",
-        "pubDate": "12 september 2026"
-    },
-    {
         "title": "Debian 13.7.0",
         "link": "https://www.gratissoftwaresite.nl/downloads/debian-besturingssysteem",
         "pubDate": "12 september 2026"
@@ -463,15 +473,5 @@
         "title": "KNMI 5.4.1/5.4.0",
         "link": "https://www.gratissoftwaresite.nl/downloads/knmi-weer-app-regen-buien-voorspellingen-waarschuwingen",
         "pubDate": "1 september 2026"
-    },
-    {
-        "title": "SMPlayer 26.8",
-        "link": "https://www.gratissoftwaresite.nl/downloads/smplayer-mediaspeler-video-audio-youtube-ondertitels",
-        "pubDate": "31 augustus 2026"
-    },
-    {
-        "title": "GParted 1.8.1-6",
-        "link": "https://www.gratissoftwaresite.nl/downloads/gparted-partitiebeheer-iso-usb-cd",
-        "pubDate": "31 augustus 2026"
     }
 ]

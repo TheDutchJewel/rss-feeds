@@ -5,10 +5,40 @@
     <link>https://www.gratissoftwaresite.nl/downloads/nieuwe-updates</link>
     <description>Nieuwste software-updates van GratisSoftwareSite</description>
     <item>
+      <title>KillerPDF 1.8.71</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/killerpdf-bewerken-pdf</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/killerpdf-bewerken-pdf</guid>
+      <pubDate>28 september 2026</pubDate>
+    </item>
+    <item>
+      <title>Joplin 3.7.21</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/joplin-notitie-blok-aantekeningen-takenlijst-sync</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/joplin-notitie-blok-aantekeningen-takenlijst-sync</guid>
+      <pubDate>28 september 2026</pubDate>
+    </item>
+    <item>
+      <title>Clementine 1.4.1-235</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/clementine-audio-muziekspeler-online</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/clementine-audio-muziekspeler-online</guid>
+      <pubDate>28 september 2026</pubDate>
+    </item>
+    <item>
+      <title>Shotcut 26.9.27</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/shotcut-videobewerking-editor-tijdlijn-key-frames</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/shotcut-videobewerking-editor-tijdlijn-key-frames</guid>
+      <pubDate>28 september 2026</pubDate>
+    </item>
+    <item>
+      <title>GnuCash 5.17</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/gnucash-boekhouding-financieel-administratie</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/gnucash-boekhouding-financieel-administratie</guid>
+      <pubDate>28 september 2026</pubDate>
+    </item>
+    <item>
       <title>Double Commander 1.2.9</title>
       <link>https://www.gratissoftwaresite.nl/downloads/doublecommander-bestanden-beheer-verkenner-vensters-werktuigen</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/doublecommander-bestanden-beheer-verkenner-vensters-werktuigen</guid>
-      <pubDate>27 september 2026</pubDate>
+      <pubDate>28 september 2026</pubDate>
     </item>
     <item>
       <title>Gnumeric 1.12.62</title>
@@ -62,12 +92,6 @@
       <title>Zen Browser 1.22.3b</title>
       <link>https://www.gratissoftwaresite.nl/downloads/zen-browser-web-internet</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/zen-browser-web-internet</guid>
-      <pubDate>26 september 2026</pubDate>
-    </item>
-    <item>
-      <title>Clementine 1.4.1-211</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/clementine-audio-muziekspeler-online</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/clementine-audio-muziekspeler-online</guid>
       <pubDate>26 september 2026</pubDate>
     </item>
     <item>
@@ -218,12 +242,6 @@
       <title>VirtualBox 7.2.18</title>
       <link>https://www.gratissoftwaresite.nl/downloads/virtualbox-virtualisatie-os-virtuele-machine</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/virtualbox-virtualisatie-os-virtuele-machine</guid>
-      <pubDate>22 september 2026</pubDate>
-    </item>
-    <item>
-      <title>KillerPDF 1.8.61</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/killerpdf-bewerken-pdf</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/killerpdf-bewerken-pdf</guid>
       <pubDate>22 september 2026</pubDate>
     </item>
     <item>
@@ -431,12 +449,6 @@
       <pubDate>13 september 2026</pubDate>
     </item>
     <item>
-      <title>Joplin 3.7.18</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/joplin-notitie-blok-aantekeningen-takenlijst-sync</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/joplin-notitie-blok-aantekeningen-takenlijst-sync</guid>
-      <pubDate>12 september 2026</pubDate>
-    </item>
-    <item>
       <title>Debian 13.7.0</title>
       <link>https://www.gratissoftwaresite.nl/downloads/debian-besturingssysteem</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/debian-besturingssysteem</guid>
@@ -561,18 +573,6 @@
       <link>https://www.gratissoftwaresite.nl/downloads/knmi-weer-app-regen-buien-voorspellingen-waarschuwingen</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/knmi-weer-app-regen-buien-voorspellingen-waarschuwingen</guid>
       <pubDate>1 september 2026</pubDate>
-    </item>
-    <item>
-      <title>SMPlayer 26.8</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/smplayer-mediaspeler-video-audio-youtube-ondertitels</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/smplayer-mediaspeler-video-audio-youtube-ondertitels</guid>
-      <pubDate>31 augustus 2026</pubDate>
-    </item>
-    <item>
-      <title>GParted 1.8.1-6</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/gparted-partitiebeheer-iso-usb-cd</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/gparted-partitiebeheer-iso-usb-cd</guid>
-      <pubDate>31 augustus 2026</pubDate>
     </item>
   </channel>
 </rss>

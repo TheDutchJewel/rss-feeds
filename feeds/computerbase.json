@@ -1,5 +1,20 @@
 [
   {
+    "title": "OpenShot 4.0.1",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/openshot/",
+    "pubDate": "2026-09-28T06:48:00.000Z"
+  },
+  {
+    "title": "K-Lite Codec Pack Update 20.0.3",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/k-lite-codec-pack/",
+    "pubDate": "2026-09-28T06:45:00.000Z"
+  },
+  {
+    "title": "Shotcut 26.9.27",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/shotcut/",
+    "pubDate": "2026-09-28T06:39:00.000Z"
+  },
+  {
     "title": "CapFrameX 1.9.1",
     "link": "https://www.computerbase.de/downloads/systemtools/grafikkarten/capframex-tool/",
     "pubDate": "2026-09-27T15:46:00.000Z"
@@ -150,11 +165,6 @@
     "pubDate": "2026-09-25T05:11:00.000Z"
   },
   {
-    "title": "K-Lite Codec Pack Update 20.0.2",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/k-lite-codec-pack/",
-    "pubDate": "2026-09-25T05:03:00.000Z"
-  },
-  {
     "title": "Trillian 6.6 Build 19",
     "link": "https://www.computerbase.de/downloads/kommunikation/trillian/",
     "pubDate": "2026-09-25T05:02:00.000Z"
@@ -238,15 +248,5 @@
     "title": "Opera 136.0.6008.52",
     "link": "https://www.computerbase.de/downloads/browser/opera/",
     "pubDate": "2026-09-24T11:59:00.000Z"
-  },
-  {
-    "title": "EA-App 13.796.0.6309",
-    "link": "https://www.computerbase.de/downloads/games/ea-app/",
-    "pubDate": "2026-09-24T11:58:00.000Z"
-  },
-  {
-    "title": "Turtle Beach Swarm II 1.0.0.56",
-    "link": "https://www.computerbase.de/downloads/treiber/eingabegeraete/turtle-beach-swarm-ii/",
-    "pubDate": "2026-09-24T11:53:00.000Z"
   }
 ]
