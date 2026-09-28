@@ -1,5 +1,10 @@
 [
   {
+    "title": "WinDirStat updated to 2.9.0.2158.",
+    "link": "https://ninite.com/windirstat/",
+    "pubDate": "Mon, 28 Sep 2026 16:26:11 -0000"
+  },
+  {
     "title": "PeaZip updated to 11.3.0.",
     "link": "https://ninite.com/peazip/",
     "pubDate": "Sat, 26 Sep 2026 09:52:29 -0000"
@@ -373,10 +378,5 @@
     "title": "iTunes updated to 12.13.11.1.",
     "link": "https://ninite.com/itunes/",
     "pubDate": "Wed, 09 Sep 2026 23:16:52 -0000"
-  },
-  {
-    "title": "ASP.NET Core Runtime 8 updated to 8.0.31.26421.",
-    "link": "https://ninite.com/aspnet8/",
-    "pubDate": "Wed, 09 Sep 2026 20:36:55 -0000"
   }
 ]
