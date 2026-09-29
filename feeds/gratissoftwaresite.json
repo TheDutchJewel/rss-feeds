@@ -1,5 +1,25 @@
 [
     {
+        "title": "XnView MP 1.12.1 & Cl...",
+        "link": "https://www.gratissoftwaresite.nl/downloads/xnview-fotobewerking-beeld",
+        "pubDate": "29 september 2026"
+    },
+    {
+        "title": "FreeCAD 1.1.4",
+        "link": "https://www.gratissoftwaresite.nl/downloads/freecad-grafische-vormgeving-3d-modelling-computer-aided-design-ontwerp-tekenen",
+        "pubDate": "29 september 2026"
+    },
+    {
+        "title": "qBittorrent 5.2.4",
+        "link": "https://www.gratissoftwaresite.nl/downloads/qbittorrent-bestanden-delen-downloaden-p2p",
+        "pubDate": "29 september 2026"
+    },
+    {
+        "title": "Prey 1.13.41",
+        "link": "https://www.gratissoftwaresite.nl/downloads/prey-pc-beveiliging-anti-diefstal-laptop-smartphone",
+        "pubDate": "29 september 2026"
+    },
+    {
         "title": "KillerPDF 1.8.71",
         "link": "https://www.gratissoftwaresite.nl/downloads/killerpdf-bewerken-pdf",
         "pubDate": "28 september 2026"
@@ -127,11 +147,6 @@
     {
         "title": "Adobe Reader 26.001.21771",
         "link": "https://www.gratissoftwaresite.nl/downloads/reader-pdf-bekijken",
-        "pubDate": "24 september 2026"
-    },
-    {
-        "title": "XnView MP 1.11.7 & Cl...",
-        "link": "https://www.gratissoftwaresite.nl/downloads/xnview-fotobewerking-beeld",
         "pubDate": "24 september 2026"
     },
     {
@@ -453,20 +468,5 @@
         "title": "TeamViewer 15.81.6",
         "link": "https://www.gratissoftwaresite.nl/downloads/teamviewer-werktuigen-hulp-op-afstand-remote-desktop",
         "pubDate": "4 september 2026"
-    },
-    {
-        "title": "Proton Drive 3.0.6",
-        "link": "https://www.gratissoftwaresite.nl/downloads/proton-drive-cloud-opslag-foto",
-        "pubDate": "3 september 2026"
-    },
-    {
-        "title": "O&O ShutUp10++ 3.5.1130",
-        "link": "https://www.gratissoftwaresite.nl/downloads/oo-shutup10-privacy-extra-beveiliging-phone-home",
-        "pubDate": "2 september 2026"
-    },
-    {
-        "title": "Audacity 4.0.0",
-        "link": "https://www.gratissoftwaresite.nl/downloads/audacity-geluidsbewerking-mp3-wav-editor",
-        "pubDate": "2 september 2026"
     }
 ]

@@ -5,6 +5,30 @@
     <link>https://www.gratissoftwaresite.nl/downloads/nieuwe-updates</link>
     <description>Nieuwste software-updates van GratisSoftwareSite</description>
     <item>
+      <title/>
+      <link>https://www.gratissoftwaresite.nl/downloads/xnview-fotobewerking-beeld</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/xnview-fotobewerking-beeld</guid>
+      <pubDate>29 september 2026</pubDate>
+    </item>
+    <item>
+      <title>FreeCAD 1.1.4</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/freecad-grafische-vormgeving-3d-modelling-computer-aided-design-ontwerp-tekenen</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/freecad-grafische-vormgeving-3d-modelling-computer-aided-design-ontwerp-tekenen</guid>
+      <pubDate>29 september 2026</pubDate>
+    </item>
+    <item>
+      <title>qBittorrent 5.2.4</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/qbittorrent-bestanden-delen-downloaden-p2p</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/qbittorrent-bestanden-delen-downloaden-p2p</guid>
+      <pubDate>29 september 2026</pubDate>
+    </item>
+    <item>
+      <title>Prey 1.13.41</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/prey-pc-beveiliging-anti-diefstal-laptop-smartphone</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/prey-pc-beveiliging-anti-diefstal-laptop-smartphone</guid>
+      <pubDate>29 september 2026</pubDate>
+    </item>
+    <item>
       <title>KillerPDF 1.8.71</title>
       <link>https://www.gratissoftwaresite.nl/downloads/killerpdf-bewerken-pdf</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/killerpdf-bewerken-pdf</guid>
@@ -158,12 +182,6 @@
       <title>Adobe Reader 26.001.21771</title>
       <link>https://www.gratissoftwaresite.nl/downloads/reader-pdf-bekijken</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/reader-pdf-bekijken</guid>
-      <pubDate>24 september 2026</pubDate>
-    </item>
-    <item>
-      <title/>
-      <link>https://www.gratissoftwaresite.nl/downloads/xnview-fotobewerking-beeld</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/xnview-fotobewerking-beeld</guid>
       <pubDate>24 september 2026</pubDate>
     </item>
     <item>
@@ -549,24 +567,6 @@
       <link>https://www.gratissoftwaresite.nl/downloads/teamviewer-werktuigen-hulp-op-afstand-remote-desktop</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/teamviewer-werktuigen-hulp-op-afstand-remote-desktop</guid>
       <pubDate>4 september 2026</pubDate>
-    </item>
-    <item>
-      <title>Proton Drive 3.0.6</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/proton-drive-cloud-opslag-foto</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/proton-drive-cloud-opslag-foto</guid>
-      <pubDate>3 september 2026</pubDate>
-    </item>
-    <item>
-      <title/>
-      <link>https://www.gratissoftwaresite.nl/downloads/oo-shutup10-privacy-extra-beveiliging-phone-home</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/oo-shutup10-privacy-extra-beveiliging-phone-home</guid>
-      <pubDate>2 september 2026</pubDate>
-    </item>
-    <item>
-      <title>Audacity 4.0.0</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/audacity-geluidsbewerking-mp3-wav-editor</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/audacity-geluidsbewerking-mp3-wav-editor</guid>
-      <pubDate>2 september 2026</pubDate>
     </item>
   </channel>
 </rss>
