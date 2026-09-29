@@ -1,5 +1,95 @@
 [
   {
+    "title": "Google Chrome 154.0.8037.92/.93",
+    "link": "https://www.computerbase.de/downloads/browser/google-chrome/",
+    "pubDate": "2026-09-29T19:17:00.000Z"
+  },
+  {
+    "title": "Tunnelblick 10.0 Beta 4 (macOS)",
+    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/tunnelblick/",
+    "pubDate": "2026-09-29T18:58:00.000Z"
+  },
+  {
+    "title": "PDF-XChange Lite Free 11.1.0.0",
+    "link": "https://www.computerbase.de/downloads/office/pdf/pdf-xchange-lite/",
+    "pubDate": "2026-09-29T18:57:00.000Z"
+  },
+  {
+    "title": "PDF-XChange Editor 11.1.0.0",
+    "link": "https://www.computerbase.de/downloads/office/pdf/pdf-xchange-editor/",
+    "pubDate": "2026-09-29T18:56:00.000Z"
+  },
+  {
+    "title": "Windows 11 Media Creation Tool 26H2 (Build 26300.9457)",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/windows-11-media-creation-tool/",
+    "pubDate": "2026-09-29T18:50:00.000Z"
+  },
+  {
+    "title": "Visual Studio 2026 v18.10.3",
+    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/visual-studio-2026/",
+    "pubDate": "2026-09-29T18:26:00.000Z"
+  },
+  {
+    "title": "Visual Studio 2026 v18.11.12224.323 Insider",
+    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/visual-studio-2026/",
+    "pubDate": "2026-09-29T18:26:00.000Z"
+  },
+  {
+    "title": "Dropbox 274.3.4783 Beta",
+    "link": "https://www.computerbase.de/downloads/office/dateimanager/dropbox/",
+    "pubDate": "2026-09-29T18:24:00.000Z"
+  },
+  {
+    "title": "Dropbox 273.4.4708",
+    "link": "https://www.computerbase.de/downloads/office/dateimanager/dropbox/",
+    "pubDate": "2026-09-29T18:23:00.000Z"
+  },
+  {
+    "title": "Joomla! 6.1.4v1",
+    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/joomla/",
+    "pubDate": "2026-09-29T18:23:00.000Z"
+  },
+  {
+    "title": "Joomla! 5.4.9v1",
+    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/joomla/",
+    "pubDate": "2026-09-29T18:22:00.000Z"
+  },
+  {
+    "title": "TeamViewer 15.82.6",
+    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/teamviewer/",
+    "pubDate": "2026-09-29T18:21:00.000Z"
+  },
+  {
+    "title": "TeamViewer QuickSupport 15.82.6",
+    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/teamviewer/",
+    "pubDate": "2026-09-29T18:20:00.000Z"
+  },
+  {
+    "title": "TeamViewer Host 15.82.6",
+    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/teamviewer/",
+    "pubDate": "2026-09-29T18:19:00.000Z"
+  },
+  {
+    "title": "CCleaner 7.12.1526",
+    "link": "https://www.computerbase.de/downloads/systemtools/ccleaner/",
+    "pubDate": "2026-09-29T18:18:00.000Z"
+  },
+  {
+    "title": "Element 1.12.30",
+    "link": "https://www.computerbase.de/downloads/kommunikation/element/",
+    "pubDate": "2026-09-29T18:17:00.000Z"
+  },
+  {
+    "title": "Evernote 11.36.3",
+    "link": "https://www.computerbase.de/downloads/office/evernote/",
+    "pubDate": "2026-09-29T18:16:00.000Z"
+  },
+  {
+    "title": "Playnite 10.61",
+    "link": "https://www.computerbase.de/downloads/games/playnite/",
+    "pubDate": "2026-09-29T16:52:00.000Z"
+  },
+  {
     "title": "O&O ShutUp10 v3.6.1135",
     "link": "https://www.computerbase.de/downloads/systemtools/o-und-o-shutup10/",
     "pubDate": "2026-09-29T14:46:00.000Z"
@@ -158,95 +248,5 @@
     "title": "Flyoobe 3.03.100",
     "link": "https://www.computerbase.de/downloads/systemtools/flyoobe/",
     "pubDate": "2026-09-28T12:13:00.000Z"
-  },
-  {
-    "title": "ProtonVPN 4.18.5 (Linux)",
-    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/protonvpn/",
-    "pubDate": "2026-09-28T09:59:00.000Z"
-  },
-  {
-    "title": "OpenShot 4.0.1",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/openshot/",
-    "pubDate": "2026-09-28T06:48:00.000Z"
-  },
-  {
-    "title": "K-Lite Codec Pack Update 20.0.3",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/k-lite-codec-pack/",
-    "pubDate": "2026-09-28T06:45:00.000Z"
-  },
-  {
-    "title": "Shotcut 26.9.27",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/shotcut/",
-    "pubDate": "2026-09-28T06:39:00.000Z"
-  },
-  {
-    "title": "CapFrameX 1.9.1",
-    "link": "https://www.computerbase.de/downloads/systemtools/grafikkarten/capframex-tool/",
-    "pubDate": "2026-09-27T15:46:00.000Z"
-  },
-  {
-    "title": "Nobara Linux 44 2026-09-26",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/nobara-linux/",
-    "pubDate": "2026-09-27T14:51:00.000Z"
-  },
-  {
-    "title": "Tunnelblick 10.0 Beta 3 (macOS)",
-    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/tunnelblick/",
-    "pubDate": "2026-09-27T14:50:00.000Z"
-  },
-  {
-    "title": "Display Driver Uninstaller (DDU) 18.1.6.1",
-    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/display-driver-uninstaller-ddu/",
-    "pubDate": "2026-09-27T13:04:00.000Z"
-  },
-  {
-    "title": "W10Privacy 6.3.0.2",
-    "link": "https://www.computerbase.de/downloads/systemtools/w10privacy/",
-    "pubDate": "2026-09-27T10:42:00.000Z"
-  },
-  {
-    "title": "PowerFolder 28.1.100",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/powerfolder/",
-    "pubDate": "2026-09-27T05:29:00.000Z"
-  },
-  {
-    "title": "SmartFTP 10.0 Build 3331",
-    "link": "https://www.computerbase.de/downloads/office/dateitransfer/smartftp/",
-    "pubDate": "2026-09-27T05:25:00.000Z"
-  },
-  {
-    "title": "croc 11.5.4",
-    "link": "https://www.computerbase.de/downloads/office/dateitransfer/croc/",
-    "pubDate": "2026-09-26T22:26:00.000Z"
-  },
-  {
-    "title": "XMedia Recode 3.6.4.1",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/xmedia-recode/",
-    "pubDate": "2026-09-26T20:42:00.000Z"
-  },
-  {
-    "title": "WinDirStat 2.9.0",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/windirstat/",
-    "pubDate": "2026-09-26T20:32:00.000Z"
-  },
-  {
-    "title": "Fan Control V281",
-    "link": "https://www.computerbase.de/downloads/systemtools/fan-control/",
-    "pubDate": "2026-09-26T18:03:00.000Z"
-  },
-  {
-    "title": "Dropbox 273.3.4686 Beta",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/dropbox/",
-    "pubDate": "2026-09-26T15:59:00.000Z"
-  },
-  {
-    "title": "PeaZip 11.3.0",
-    "link": "https://www.computerbase.de/downloads/office/packprogramme/peazip/",
-    "pubDate": "2026-09-26T14:36:00.000Z"
-  },
-  {
-    "title": "OBS Studio 33.0.0 Beta 4",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/obs-studio/",
-    "pubDate": "2026-09-26T04:57:00.000Z"
   }
 ]

@@ -1,5 +1,40 @@
 [
   {
+    "title": "TeamViewer 15 updated to 15.82.6.",
+    "link": "https://ninite.com/teamviewer15/",
+    "pubDate": "Tue, 29 Sep 2026 18:29:30 -0000"
+  },
+  {
+    "title": "Teams updated to 26246.1604.5133.838.",
+    "link": "https://ninite.com/teams/",
+    "pubDate": "Tue, 29 Sep 2026 18:16:46 -0000"
+  },
+  {
+    "title": "Dropbox updated to 272.4.3798.",
+    "link": "https://ninite.com/dropbox/",
+    "pubDate": "Tue, 29 Sep 2026 18:07:29 -0000"
+  },
+  {
+    "title": "Evernote updated to 11.36.3.",
+    "link": "https://ninite.com/evernote/",
+    "pubDate": "Tue, 29 Sep 2026 15:50:33 -0000"
+  },
+  {
+    "title": "AnyDesk updated to 9.8.0.",
+    "link": "https://ninite.com/anydesk/",
+    "pubDate": "Tue, 29 Sep 2026 15:49:51 -0000"
+  },
+  {
+    "title": "Firefox updated to 157.0.",
+    "link": "https://ninite.com/firefox/",
+    "pubDate": "Tue, 29 Sep 2026 15:43:04 -0000"
+  },
+  {
+    "title": "Git updated to 2.56.0.",
+    "link": "https://ninite.com/git/",
+    "pubDate": "Tue, 29 Sep 2026 15:42:43 -0000"
+  },
+  {
     "title": "qBittorrent updated to 5.2.4.",
     "link": "https://ninite.com/qbittorrent/",
     "pubDate": "Mon, 28 Sep 2026 20:24:28 -0000"
@@ -318,60 +353,5 @@
     "title": "Spotify updated to 1.3.0.277.",
     "link": "https://ninite.com/spotify/",
     "pubDate": "Mon, 14 Sep 2026 11:30:31 -0000"
-  },
-  {
-    "title": "GIMP updated to 3.2.6.",
-    "link": "https://ninite.com/gimp/",
-    "pubDate": "Sat, 12 Sep 2026 19:53:14 -0000"
-  },
-  {
-    "title": "OneDrive updated to 26.158.0816.0003.",
-    "link": "https://ninite.com/onedrive/",
-    "pubDate": "Sat, 12 Sep 2026 16:10:58 -0000"
-  },
-  {
-    "title": "Cursor updated to 3.20.17.",
-    "link": "https://ninite.com/cursor/",
-    "pubDate": "Sat, 12 Sep 2026 16:08:02 -0000"
-  },
-  {
-    "title": "Brave updated to 1.95.101.",
-    "link": "https://ninite.com/brave/",
-    "pubDate": "Fri, 11 Sep 2026 16:31:43 -0000"
-  },
-  {
-    "title": "Vivaldi updated to 8.2.4133.52.",
-    "link": "https://ninite.com/vivaldi/",
-    "pubDate": "Fri, 11 Sep 2026 16:31:35 -0000"
-  },
-  {
-    "title": "Opera Chromium updated to 135.0.5973.133.",
-    "link": "https://ninite.com/operaChromium/",
-    "pubDate": "Fri, 11 Sep 2026 15:37:53 -0000"
-  },
-  {
-    "title": "Cursor updated to 3.20.10.",
-    "link": "https://ninite.com/cursor/",
-    "pubDate": "Fri, 11 Sep 2026 07:43:22 -0000"
-  },
-  {
-    "title": "Edge updated to 153.0.4234.32.",
-    "link": "https://ninite.com/edge/",
-    "pubDate": "Fri, 11 Sep 2026 01:58:24 -0000"
-  },
-  {
-    "title": "Discord updated to 1.0.9257.",
-    "link": "https://ninite.com/discord/",
-    "pubDate": "Thu, 10 Sep 2026 21:14:41 -0000"
-  },
-  {
-    "title": "Opera Chromium updated to 135.0.5973.123.",
-    "link": "https://ninite.com/operaChromium/",
-    "pubDate": "Thu, 10 Sep 2026 21:13:48 -0000"
-  },
-  {
-    "title": "Malwarebytes updated to 5.7.0.328.",
-    "link": "https://ninite.com/malwarebytes/",
-    "pubDate": "Thu, 10 Sep 2026 20:28:46 -0000"
   }
 ]
