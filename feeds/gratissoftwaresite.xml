@@ -5,6 +5,12 @@
     <link>https://www.gratissoftwaresite.nl/downloads/nieuwe-updates</link>
     <description>Nieuwste software-updates van GratisSoftwareSite</description>
     <item>
+      <title>Stellarium 26.3</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/stellarium-satellietbeelden-bekijken-sterrenkaart-planeten</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/stellarium-satellietbeelden-bekijken-sterrenkaart-planeten</guid>
+      <pubDate>29 september 2026</pubDate>
+    </item>
+    <item>
       <title/>
       <link>https://www.gratissoftwaresite.nl/downloads/xnview-fotobewerking-beeld</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/xnview-fotobewerking-beeld</guid>
@@ -560,12 +566,6 @@
       <title/>
       <link>https://www.gratissoftwaresite.nl/downloads/vmware-player-virtualisatie-virtuele-pc</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/vmware-player-virtualisatie-virtuele-pc</guid>
-      <pubDate>4 september 2026</pubDate>
-    </item>
-    <item>
-      <title>TeamViewer 15.81.6</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/teamviewer-werktuigen-hulp-op-afstand-remote-desktop</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/teamviewer-werktuigen-hulp-op-afstand-remote-desktop</guid>
       <pubDate>4 september 2026</pubDate>
     </item>
   </channel>

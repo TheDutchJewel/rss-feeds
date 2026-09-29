@@ -1,5 +1,10 @@
 [
     {
+        "title": "Stellarium 26.3",
+        "link": "https://www.gratissoftwaresite.nl/downloads/stellarium-satellietbeelden-bekijken-sterrenkaart-planeten",
+        "pubDate": "29 september 2026"
+    },
+    {
         "title": "XnView MP 1.12.1 & Cl...",
         "link": "https://www.gratissoftwaresite.nl/downloads/xnview-fotobewerking-beeld",
         "pubDate": "29 september 2026"
@@ -462,11 +467,6 @@
     {
         "title": "VMware Workstation Pro & Fusion 26H1u1",
         "link": "https://www.gratissoftwaresite.nl/downloads/vmware-player-virtualisatie-virtuele-pc",
-        "pubDate": "4 september 2026"
-    },
-    {
-        "title": "TeamViewer 15.81.6",
-        "link": "https://www.gratissoftwaresite.nl/downloads/teamviewer-werktuigen-hulp-op-afstand-remote-desktop",
         "pubDate": "4 september 2026"
     }
 ]
