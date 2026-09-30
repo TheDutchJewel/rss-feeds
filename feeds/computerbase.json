@@ -1,5 +1,50 @@
 [
   {
+    "title": "Opera 136.0.6008.80",
+    "link": "https://www.computerbase.de/downloads/browser/opera/",
+    "pubDate": "2026-09-30T08:20:00.000Z"
+  },
+  {
+    "title": "HWiNFO 8.54",
+    "link": "https://www.computerbase.de/downloads/systemtools/hwinfo/",
+    "pubDate": "2026-09-30T08:18:00.000Z"
+  },
+  {
+    "title": "Microsoft Edge 154.0.4258.48",
+    "link": "https://www.computerbase.de/downloads/browser/microsoft-edge/",
+    "pubDate": "2026-09-30T07:31:00.000Z"
+  },
+  {
+    "title": "Playnite 10.62",
+    "link": "https://www.computerbase.de/downloads/games/playnite/",
+    "pubDate": "2026-09-30T07:29:00.000Z"
+  },
+  {
+    "title": "Betterbird 153.4.0esr-bb10",
+    "link": "https://www.computerbase.de/downloads/kommunikation/betterbird/",
+    "pubDate": "2026-09-30T07:29:00.000Z"
+  },
+  {
+    "title": "K-Lite Codec Pack Update 20.0.4",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/k-lite-codec-pack/",
+    "pubDate": "2026-09-30T07:28:00.000Z"
+  },
+  {
+    "title": "Wise Disk Cleaner 11.4.0",
+    "link": "https://www.computerbase.de/downloads/systemtools/festplatten/wise-disk-cleaner/",
+    "pubDate": "2026-09-30T07:21:00.000Z"
+  },
+  {
+    "title": "Vivaldi 8.2 Build 4133.80",
+    "link": "https://www.computerbase.de/downloads/browser/vivaldi/",
+    "pubDate": "2026-09-30T07:19:00.000Z"
+  },
+  {
+    "title": "Windows 11 ISO 26H2 (Build 26300.9457)",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/windows-11-iso/",
+    "pubDate": "2026-09-30T07:18:00.000Z"
+  },
+  {
     "title": "Google Chrome 154.0.8037.92/.93",
     "link": "https://www.computerbase.de/downloads/browser/google-chrome/",
     "pubDate": "2026-09-29T19:17:00.000Z"
@@ -83,11 +128,6 @@
     "title": "Evernote 11.36.3",
     "link": "https://www.computerbase.de/downloads/office/evernote/",
     "pubDate": "2026-09-29T18:16:00.000Z"
-  },
-  {
-    "title": "Playnite 10.61",
-    "link": "https://www.computerbase.de/downloads/games/playnite/",
-    "pubDate": "2026-09-29T16:52:00.000Z"
   },
   {
     "title": "O&O ShutUp10 v3.6.1135",
@@ -208,45 +248,5 @@
     "title": "Slack 4.52.171 Beta (Linux)",
     "link": "https://www.computerbase.de/downloads/kommunikation/slack/",
     "pubDate": "2026-09-28T21:03:00.000Z"
-  },
-  {
-    "title": "qBittorrent 5.3.0 RC 1",
-    "link": "https://www.computerbase.de/downloads/office/dateitransfer/qbittorrent/",
-    "pubDate": "2026-09-28T21:01:00.000Z"
-  },
-  {
-    "title": "qBittorrent 5.2.4",
-    "link": "https://www.computerbase.de/downloads/office/dateitransfer/qbittorrent/",
-    "pubDate": "2026-09-28T21:00:00.000Z"
-  },
-  {
-    "title": "Mozilla Thunderbird 158.0 Beta 1",
-    "link": "https://www.computerbase.de/downloads/kommunikation/mozilla-thunderbird/",
-    "pubDate": "2026-09-28T20:59:00.000Z"
-  },
-  {
-    "title": "Mozilla Firefox 158.0 Beta 1",
-    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
-    "pubDate": "2026-09-28T20:59:00.000Z"
-  },
-  {
-    "title": "Git for Windows 2.56.0",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/git-windows/",
-    "pubDate": "2026-09-28T20:58:00.000Z"
-  },
-  {
-    "title": "Logitech G HUB 2026.6.974819 (macOS)",
-    "link": "https://www.computerbase.de/downloads/treiber/eingabegeraete/logitech-g-hub/",
-    "pubDate": "2026-09-28T17:01:00.000Z"
-  },
-  {
-    "title": "Zoom Player 23.0 Beta 2",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/zoom-player/",
-    "pubDate": "2026-09-28T12:14:00.000Z"
-  },
-  {
-    "title": "Flyoobe 3.03.100",
-    "link": "https://www.computerbase.de/downloads/systemtools/flyoobe/",
-    "pubDate": "2026-09-28T12:13:00.000Z"
   }
 ]

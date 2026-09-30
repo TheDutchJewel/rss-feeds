@@ -5,6 +5,42 @@
     <link>https://www.gratissoftwaresite.nl/downloads/nieuwe-updates</link>
     <description>Nieuwste software-updates van GratisSoftwareSite</description>
     <item>
+      <title>Google Chrome 154.0.8037.92/93</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/google-chrome-internet-web-browser</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/google-chrome-internet-web-browser</guid>
+      <pubDate>30 september 2026</pubDate>
+    </item>
+    <item>
+      <title>Tor Browser 15.0.24</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/tor-browser-internet-web-anoniem-surfen-ip-verbergen</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/tor-browser-internet-web-anoniem-surfen-ip-verbergen</guid>
+      <pubDate>30 september 2026</pubDate>
+    </item>
+    <item>
+      <title>antiX 26.1</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/besturingssysteem-os-antix</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/besturingssysteem-os-antix</guid>
+      <pubDate>30 september 2026</pubDate>
+    </item>
+    <item>
+      <title>CCleaner 7.12.1526</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/ccleaner-pc-opruimen-schoonmaken</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/ccleaner-pc-opruimen-schoonmaken</guid>
+      <pubDate>30 september 2026</pubDate>
+    </item>
+    <item>
+      <title>Wise Disk Cleaner 11.4.0</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/wise-disk-cleaner-pc-opruimen-schoonmaken</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/wise-disk-cleaner-pc-opruimen-schoonmaken</guid>
+      <pubDate>30 september 2026</pubDate>
+    </item>
+    <item>
+      <title/>
+      <link>https://www.gratissoftwaresite.nl/downloads/oo-shutup10-privacy-extra-beveiliging-phone-home</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/oo-shutup10-privacy-extra-beveiliging-phone-home</guid>
+      <pubDate>30 september 2026</pubDate>
+    </item>
+    <item>
       <title>Firefox 157.0</title>
       <link>https://www.gratissoftwaresite.nl/downloads/firefox-internet-web-browser</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/firefox-internet-web-browser</guid>
@@ -195,12 +231,6 @@
       <link>https://www.gratissoftwaresite.nl/downloads/reader-pdf-bekijken</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/reader-pdf-bekijken</guid>
       <pubDate>24 september 2026</pubDate>
-    </item>
-    <item>
-      <title>Google Chrome 154.0.8037.58</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/google-chrome-internet-web-browser</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/google-chrome-internet-web-browser</guid>
-      <pubDate>23 september 2026</pubDate>
     </item>
     <item>
       <title>AnyDesk 9.7.16</title>
@@ -395,12 +425,6 @@
       <pubDate>17 september 2026</pubDate>
     </item>
     <item>
-      <title>CCleaner 7.11.1522</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/ccleaner-pc-opruimen-schoonmaken</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/ccleaner-pc-opruimen-schoonmaken</guid>
-      <pubDate>17 september 2026</pubDate>
-    </item>
-    <item>
       <title>PicPick 7.6.1</title>
       <link>https://www.gratissoftwaresite.nl/downloads/picpick-fotobewerking-screenshot</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/picpick-fotobewerking-screenshot</guid>
@@ -416,12 +440,6 @@
       <title/>
       <link>https://www.gratissoftwaresite.nl/downloads/blender-3d-animatie-films</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/blender-3d-animatie-films</guid>
-      <pubDate>16 september 2026</pubDate>
-    </item>
-    <item>
-      <title>Tor Browser 15.0.23</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/tor-browser-internet-web-anoniem-surfen-ip-verbergen</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/tor-browser-internet-web-anoniem-surfen-ip-verbergen</guid>
       <pubDate>16 september 2026</pubDate>
     </item>
     <item>
@@ -549,24 +567,6 @@
       <link>https://www.gratissoftwaresite.nl/downloads/bleachbit-cleaner-pc-schoonmaken-shredder-bestanden-vernietigen</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/bleachbit-cleaner-pc-schoonmaken-shredder-bestanden-vernietigen</guid>
       <pubDate>9 september 2026</pubDate>
-    </item>
-    <item>
-      <title>Password Safe 3.72.2</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/password-safe-wachtwoord-beheer</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/password-safe-wachtwoord-beheer</guid>
-      <pubDate>8 september 2026</pubDate>
-    </item>
-    <item>
-      <title>7-Zip 26.03</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/7-zip-compressie-unzip</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/7-zip-compressie-unzip</guid>
-      <pubDate>6 september 2026</pubDate>
-    </item>
-    <item>
-      <title/>
-      <link>https://www.gratissoftwaresite.nl/downloads/vmware-player-virtualisatie-virtuele-pc</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/vmware-player-virtualisatie-virtuele-pc</guid>
-      <pubDate>4 september 2026</pubDate>
     </item>
   </channel>
 </rss>
