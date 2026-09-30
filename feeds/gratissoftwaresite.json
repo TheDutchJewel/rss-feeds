@@ -1,5 +1,25 @@
 [
     {
+        "title": "Vivaldi 8.2.4133.80",
+        "link": "https://www.gratissoftwaresite.nl/downloads/vivaldi-internet-web-browser",
+        "pubDate": "30 september 2026"
+    },
+    {
+        "title": "Opera 136.0.6008.80",
+        "link": "https://www.gratissoftwaresite.nl/downloads/opera-internet-web-browser",
+        "pubDate": "30 september 2026"
+    },
+    {
+        "title": "Microsoft Edge 154.0.4258.48",
+        "link": "https://www.gratissoftwaresite.nl/downloads/edge-internet-browser-ie-opvolger",
+        "pubDate": "30 september 2026"
+    },
+    {
+        "title": "AnyDesk 9.8.0",
+        "link": "https://www.gratissoftwaresite.nl/downloads/anydesk-remote-desktop-pc-hulp-op-afstand",
+        "pubDate": "30 september 2026"
+    },
+    {
         "title": "Google Chrome 154.0.8037.92/93",
         "link": "https://www.gratissoftwaresite.nl/downloads/google-chrome-internet-web-browser",
         "pubDate": "30 september 2026"
@@ -115,11 +135,6 @@
         "pubDate": "27 september 2026"
     },
     {
-        "title": "Opera 136.0.6008.52",
-        "link": "https://www.gratissoftwaresite.nl/downloads/opera-internet-web-browser",
-        "pubDate": "27 september 2026"
-    },
-    {
         "title": "WinScript 2.25.1",
         "link": "https://www.gratissoftwaresite.nl/downloads/winscript-tweaks-werktuigen-optimalisatie",
         "pubDate": "27 september 2026"
@@ -145,11 +160,6 @@
         "pubDate": "25 september 2026"
     },
     {
-        "title": "Vivaldi 8.2.4133.76",
-        "link": "https://www.gratissoftwaresite.nl/downloads/vivaldi-internet-web-browser",
-        "pubDate": "25 september 2026"
-    },
-    {
         "title": "Dropbox 270.4.3312",
         "link": "https://www.gratissoftwaresite.nl/downloads/dropbox-online-opslag-sync",
         "pubDate": "25 september 2026"
@@ -162,11 +172,6 @@
     {
         "title": "Brave 1.96.59",
         "link": "https://www.gratissoftwaresite.nl/downloads/brave-web-browser-internet-privacy-beveiliging-schilden-trackers-ads",
-        "pubDate": "25 september 2026"
-    },
-    {
-        "title": "Microsoft Edge 154.0.4258.37",
-        "link": "https://www.gratissoftwaresite.nl/downloads/edge-internet-browser-ie-opvolger",
         "pubDate": "25 september 2026"
     },
     {
@@ -188,11 +193,6 @@
         "title": "Adobe Reader 26.001.21771",
         "link": "https://www.gratissoftwaresite.nl/downloads/reader-pdf-bekijken",
         "pubDate": "24 september 2026"
-    },
-    {
-        "title": "AnyDesk 9.7.16",
-        "link": "https://www.gratissoftwaresite.nl/downloads/anydesk-remote-desktop-pc-hulp-op-afstand",
-        "pubDate": "23 september 2026"
     },
     {
         "title": "LibreWolf 156.0.1-1",

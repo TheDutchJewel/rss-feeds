@@ -1,5 +1,30 @@
 [
   {
+    "title": "Thunderbird updated to 157.0.",
+    "link": "https://ninite.com/thunderbird/",
+    "pubDate": "Wed, 30 Sep 2026 13:56:36 -0000"
+  },
+  {
+    "title": "Edge updated to 154.0.4258.48.",
+    "link": "https://ninite.com/edge/",
+    "pubDate": "Wed, 30 Sep 2026 09:08:11 -0000"
+  },
+  {
+    "title": "Vivaldi updated to 8.2.4133.80.",
+    "link": "https://ninite.com/vivaldi/",
+    "pubDate": "Wed, 30 Sep 2026 09:05:01 -0000"
+  },
+  {
+    "title": "Opera Chromium updated to 136.0.6008.80.",
+    "link": "https://ninite.com/operaChromium/",
+    "pubDate": "Wed, 30 Sep 2026 09:04:26 -0000"
+  },
+  {
+    "title": "Chrome updated to 154.0.8037.93.",
+    "link": "https://ninite.com/chrome/",
+    "pubDate": "Wed, 30 Sep 2026 09:03:01 -0000"
+  },
+  {
     "title": "TeamViewer 15 updated to 15.82.6.",
     "link": "https://ninite.com/teamviewer15/",
     "pubDate": "Tue, 29 Sep 2026 18:29:30 -0000"
@@ -328,30 +353,5 @@
     "title": "Firefox updated to 156.0.",
     "link": "https://ninite.com/firefox/",
     "pubDate": "Tue, 15 Sep 2026 21:35:02 -0000"
-  },
-  {
-    "title": "Blender updated to 5.2.2.",
-    "link": "https://ninite.com/blender/",
-    "pubDate": "Tue, 15 Sep 2026 21:25:23 -0000"
-  },
-  {
-    "title": "Opera Chromium updated to 135.0.5973.142.",
-    "link": "https://ninite.com/operaChromium/",
-    "pubDate": "Tue, 15 Sep 2026 12:34:07 -0000"
-  },
-  {
-    "title": "Evernote updated to 11.34.8.",
-    "link": "https://ninite.com/evernote/",
-    "pubDate": "Tue, 15 Sep 2026 12:06:30 -0000"
-  },
-  {
-    "title": "Cursor updated to 3.20.21.",
-    "link": "https://ninite.com/cursor/",
-    "pubDate": "Mon, 14 Sep 2026 12:15:13 -0000"
-  },
-  {
-    "title": "Spotify updated to 1.3.0.277.",
-    "link": "https://ninite.com/spotify/",
-    "pubDate": "Mon, 14 Sep 2026 11:30:31 -0000"
   }
 ]
