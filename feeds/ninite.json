@@ -1,5 +1,10 @@
 [
   {
+    "title": "Visual Studio Code updated to 1.140.0.",
+    "link": "https://ninite.com/vscode/",
+    "pubDate": "Wed, 30 Sep 2026 19:56:03 -0000"
+  },
+  {
     "title": "Thunderbird updated to 157.0.",
     "link": "https://ninite.com/thunderbird/",
     "pubDate": "Wed, 30 Sep 2026 13:56:36 -0000"
@@ -343,15 +348,5 @@
     "title": "Dropbox updated to 270.4.3312.",
     "link": "https://ninite.com/dropbox/",
     "pubDate": "Tue, 15 Sep 2026 21:46:59 -0000"
-  },
-  {
-    "title": "Chrome updated to 153.0.8010.48.",
-    "link": "https://ninite.com/chrome/",
-    "pubDate": "Tue, 15 Sep 2026 21:44:53 -0000"
-  },
-  {
-    "title": "Firefox updated to 156.0.",
-    "link": "https://ninite.com/firefox/",
-    "pubDate": "Tue, 15 Sep 2026 21:35:02 -0000"
   }
 ]
