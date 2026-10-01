@@ -1,5 +1,10 @@
 [
     {
+        "title": "HWiNFO 8.54",
+        "link": "https://www.gratissoftwaresite.nl/downloads/hwinfo-werktuigen-systeeminformatie",
+        "pubDate": "1 oktober 2026"
+    },
+    {
         "title": "OpenShot Video Editor 4.0.1",
         "link": "https://www.gratissoftwaresite.nl/downloads/openshot-video-editor-videobewerking-video-dvd-uploaden",
         "pubDate": "1 oktober 2026"
@@ -463,10 +468,5 @@
         "title": "WinSCP 6.5.7",
         "link": "https://www.gratissoftwaresite.nl/downloads/winscp-ftp-sftp-webdav-amazon-s3-website-beheer",
         "pubDate": "10 september 2026"
-    },
-    {
-        "title": "DaVinci Resolve 21.1.0",
-        "link": "https://www.gratissoftwaresite.nl/downloads/davinci-resolve-videobewerking-editor-kleur-correctie",
-        "pubDate": "9 september 2026"
     }
 ]

@@ -5,6 +5,12 @@
     <link>https://www.gratissoftwaresite.nl/downloads/nieuwe-updates</link>
     <description>Nieuwste software-updates van GratisSoftwareSite</description>
     <item>
+      <title>HWiNFO 8.54</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/hwinfo-werktuigen-systeeminformatie</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/hwinfo-werktuigen-systeeminformatie</guid>
+      <pubDate>1 oktober 2026</pubDate>
+    </item>
+    <item>
       <title>OpenShot Video Editor 4.0.1</title>
       <link>https://www.gratissoftwaresite.nl/downloads/openshot-video-editor-videobewerking-video-dvd-uploaden</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/openshot-video-editor-videobewerking-video-dvd-uploaden</guid>
@@ -561,12 +567,6 @@
       <link>https://www.gratissoftwaresite.nl/downloads/winscp-ftp-sftp-webdav-amazon-s3-website-beheer</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/winscp-ftp-sftp-webdav-amazon-s3-website-beheer</guid>
       <pubDate>10 september 2026</pubDate>
-    </item>
-    <item>
-      <title>DaVinci Resolve 21.1.0</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/davinci-resolve-videobewerking-editor-kleur-correctie</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/davinci-resolve-videobewerking-editor-kleur-correctie</guid>
-      <pubDate>9 september 2026</pubDate>
     </item>
   </channel>
 </rss>

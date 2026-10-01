@@ -1,5 +1,80 @@
 [
   {
+    "title": "foobar2000 v2.26",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/foobar2000/",
+    "pubDate": "2026-10-01T12:17:00.000Z"
+  },
+  {
+    "title": "Monolingual 2.0.0 (macOS)",
+    "link": "https://www.computerbase.de/downloads/systemtools/monolingual/",
+    "pubDate": "2026-10-01T12:11:00.000Z"
+  },
+  {
+    "title": "WhatsApp 2.26.39.19 (macOS)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/whatsapp/",
+    "pubDate": "2026-10-01T11:54:00.000Z"
+  },
+  {
+    "title": "Internet Download Manager 6.43 Build 12",
+    "link": "https://www.computerbase.de/downloads/office/dateitransfer/internet-download-manager/",
+    "pubDate": "2026-10-01T09:41:00.000Z"
+  },
+  {
+    "title": "SyncBackFree 12.1.22.0",
+    "link": "https://www.computerbase.de/downloads/sicherheit/backup/syncbackfree/",
+    "pubDate": "2026-10-01T09:31:00.000Z"
+  },
+  {
+    "title": "Spotify 1.3.3.264",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/spotify/",
+    "pubDate": "2026-10-01T08:10:00.000Z"
+  },
+  {
+    "title": "Microsoft Teams 26246.1709.5146.8945 (macOS)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/microsoft-teams/",
+    "pubDate": "2026-10-01T08:09:00.000Z"
+  },
+  {
+    "title": "Discord 1.0.9260",
+    "link": "https://www.computerbase.de/downloads/kommunikation/discord/",
+    "pubDate": "2026-10-01T08:07:00.000Z"
+  },
+  {
+    "title": "Brave 1.96.60",
+    "link": "https://www.computerbase.de/downloads/browser/brave/",
+    "pubDate": "2026-10-01T08:07:00.000Z"
+  },
+  {
+    "title": "Python 3.14.8",
+    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/python/",
+    "pubDate": "2026-10-01T08:06:00.000Z"
+  },
+  {
+    "title": "OBS Studio 33.0.0 Beta 5",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/obs-studio/",
+    "pubDate": "2026-10-01T08:06:00.000Z"
+  },
+  {
+    "title": "Python 3.13.16",
+    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/python/",
+    "pubDate": "2026-10-01T08:05:00.000Z"
+  },
+  {
+    "title": "Enpass 6.12.7 (macOS)",
+    "link": "https://www.computerbase.de/downloads/sicherheit/passwortmanager/enpass/",
+    "pubDate": "2026-10-01T07:59:00.000Z"
+  },
+  {
+    "title": "DivX 11.16.0",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/divx/",
+    "pubDate": "2026-10-01T07:57:00.000Z"
+  },
+  {
+    "title": "1Password 8.12.38",
+    "link": "https://www.computerbase.de/downloads/sicherheit/passwortmanager/1password/",
+    "pubDate": "2026-10-01T07:57:00.000Z"
+  },
+  {
     "title": "NTLite Free 2026.09.12311",
     "link": "https://www.computerbase.de/downloads/systemtools/ntlite-free/",
     "pubDate": "2026-09-30T19:36:00.000Z"
@@ -10,13 +85,13 @@
     "pubDate": "2026-09-30T19:25:00.000Z"
   },
   {
-    "title": "Mozilla Thunderbird 158.0 Beta 2",
-    "link": "https://www.computerbase.de/downloads/kommunikation/mozilla-thunderbird/",
+    "title": "Mozilla Firefox 158.0 Beta 2",
+    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
     "pubDate": "2026-09-30T18:32:00.000Z"
   },
   {
-    "title": "Mozilla Firefox 158.0 Beta 2",
-    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
+    "title": "Mozilla Thunderbird 158.0 Beta 2",
+    "link": "https://www.computerbase.de/downloads/kommunikation/mozilla-thunderbird/",
     "pubDate": "2026-09-30T18:32:00.000Z"
   },
   {
@@ -58,11 +133,6 @@
     "title": "HFS – HTTP File Server 3.3.4",
     "link": "https://www.computerbase.de/downloads/office/dateitransfer/hfs-http-file-server/",
     "pubDate": "2026-09-30T15:06:00.000Z"
-  },
-  {
-    "title": "WhatsApp 2.26.39.17 (macOS)",
-    "link": "https://www.computerbase.de/downloads/kommunikation/whatsapp/",
-    "pubDate": "2026-09-30T13:50:00.000Z"
   },
   {
     "title": "Fido 1.71",
@@ -178,75 +248,5 @@
     "title": "Visual Studio 2026 v18.11.12224.323 Insider",
     "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/visual-studio-2026/",
     "pubDate": "2026-09-29T18:26:00.000Z"
-  },
-  {
-    "title": "Dropbox 274.3.4783 Beta",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/dropbox/",
-    "pubDate": "2026-09-29T18:24:00.000Z"
-  },
-  {
-    "title": "Dropbox 273.4.4708",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/dropbox/",
-    "pubDate": "2026-09-29T18:23:00.000Z"
-  },
-  {
-    "title": "Joomla! 6.1.4v1",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/joomla/",
-    "pubDate": "2026-09-29T18:23:00.000Z"
-  },
-  {
-    "title": "Joomla! 5.4.9v1",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/joomla/",
-    "pubDate": "2026-09-29T18:22:00.000Z"
-  },
-  {
-    "title": "TeamViewer 15.82.6",
-    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/teamviewer/",
-    "pubDate": "2026-09-29T18:21:00.000Z"
-  },
-  {
-    "title": "TeamViewer QuickSupport 15.82.6",
-    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/teamviewer/",
-    "pubDate": "2026-09-29T18:20:00.000Z"
-  },
-  {
-    "title": "TeamViewer Host 15.82.6",
-    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/teamviewer/",
-    "pubDate": "2026-09-29T18:19:00.000Z"
-  },
-  {
-    "title": "CCleaner 7.12.1526",
-    "link": "https://www.computerbase.de/downloads/systemtools/ccleaner/",
-    "pubDate": "2026-09-29T18:18:00.000Z"
-  },
-  {
-    "title": "Element 1.12.30",
-    "link": "https://www.computerbase.de/downloads/kommunikation/element/",
-    "pubDate": "2026-09-29T18:17:00.000Z"
-  },
-  {
-    "title": "Evernote 11.36.3",
-    "link": "https://www.computerbase.de/downloads/office/evernote/",
-    "pubDate": "2026-09-29T18:16:00.000Z"
-  },
-  {
-    "title": "O&O ShutUp10 v3.6.1135",
-    "link": "https://www.computerbase.de/downloads/systemtools/o-und-o-shutup10/",
-    "pubDate": "2026-09-29T14:46:00.000Z"
-  },
-  {
-    "title": "Trellix Stinger 26.09.40.1",
-    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/mcafee-labs-stinger/",
-    "pubDate": "2026-09-29T14:34:00.000Z"
-  },
-  {
-    "title": "AMD Adrenalin Radeon-Treiber 26.9.2 (WHQL Optional)",
-    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/amd-adrenalin-treiber/",
-    "pubDate": "2026-09-29T14:18:00.000Z"
-  },
-  {
-    "title": "Tor Browser 15.0.24",
-    "link": "https://www.computerbase.de/downloads/browser/tor-browser/",
-    "pubDate": "2026-09-29T13:41:00.000Z"
   }
 ]
