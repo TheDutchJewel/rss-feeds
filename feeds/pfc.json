@@ -1,5 +1,20 @@
 [
   {
+    "title": "[UPDATE] PhotoRec v7.2",
+    "link": "https://www.portablefreeware.com/?id=1029&ts=1790829222",
+    "pubDate": "Wed, 30 Sep 2026 21:33:42 -0700"
+  },
+  {
+    "title": "[UPDATE] HWiNFO v8.54",
+    "link": "https://www.portablefreeware.com/?id=1715&ts=1790825837",
+    "pubDate": "Wed, 30 Sep 2026 20:37:17 -0700"
+  },
+  {
+    "title": "[UPDATE] GUIPropView v1.34",
+    "link": "https://www.portablefreeware.com/?id=2841&ts=1790817075",
+    "pubDate": "Wed, 30 Sep 2026 18:11:15 -0700"
+  },
+  {
     "title": "[UPDATE] Alarm Clock PowerPro 2026.09.29",
     "link": "https://www.portablefreeware.com/?id=3143&ts=1790807874",
     "pubDate": "Wed, 30 Sep 2026 15:37:54 -0700"
@@ -320,11 +335,6 @@
     "pubDate": "Sat, 05 Sep 2026 17:16:26 -0700"
   },
   {
-    "title": "[UPDATE] GUIPropView v1.33",
-    "link": "https://www.portablefreeware.com/?id=2841&ts=1788603563",
-    "pubDate": "Sat, 05 Sep 2026 03:19:23 -0700"
-  },
-  {
     "title": "[UPDATE] Shortcuts Search And Replace v2.7.3",
     "link": "https://www.portablefreeware.com/?id=2320&ts=1788603513",
     "pubDate": "Sat, 05 Sep 2026 03:18:33 -0700"
@@ -488,15 +498,5 @@
     "title": "[UPDATE] OBS Studio v32.2.2",
     "link": "https://www.portablefreeware.com/?id=2962&ts=1787050954",
     "pubDate": "Tue, 18 Aug 2026 04:02:34 -0700"
-  },
-  {
-    "title": "[UPDATE] CPU-Z v3.01",
-    "link": "https://www.portablefreeware.com/?id=437&ts=1787031907",
-    "pubDate": "Mon, 17 Aug 2026 22:45:07 -0700"
-  },
-  {
-    "title": "[NEW] PlaylistCreator64 v3.6.2.18",
-    "link": "https://www.portablefreeware.com/?id=3148&ts=1786971962",
-    "pubDate": "Mon, 17 Aug 2026 06:06:02 -0700"
   }
 ]

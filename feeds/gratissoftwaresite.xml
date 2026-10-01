@@ -5,6 +5,18 @@
     <link>https://www.gratissoftwaresite.nl/downloads/nieuwe-updates</link>
     <description>Nieuwste software-updates van GratisSoftwareSite</description>
     <item>
+      <title>OpenShot Video Editor 4.0.1</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/openshot-video-editor-videobewerking-video-dvd-uploaden</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/openshot-video-editor-videobewerking-video-dvd-uploaden</guid>
+      <pubDate>1 oktober 2026</pubDate>
+    </item>
+    <item>
+      <title>Audacity 4.0.1</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/audacity-geluidsbewerking-mp3-wav-editor</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/audacity-geluidsbewerking-mp3-wav-editor</guid>
+      <pubDate>1 oktober 2026</pubDate>
+    </item>
+    <item>
       <title>Thunderbird 157.0 Release...</title>
       <link>https://www.gratissoftwaresite.nl/downloads/thunderbird-mailprogramma-pop3-imap</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/thunderbird-mailprogramma-pop3-imap</guid>
@@ -554,18 +566,6 @@
       <title>DaVinci Resolve 21.1.0</title>
       <link>https://www.gratissoftwaresite.nl/downloads/davinci-resolve-videobewerking-editor-kleur-correctie</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/davinci-resolve-videobewerking-editor-kleur-correctie</guid>
-      <pubDate>9 september 2026</pubDate>
-    </item>
-    <item>
-      <title>Bulk Crap Uninstaller 6.3.0</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/bulk-crap-uninstaller-de-installatie-verwijder-software</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/bulk-crap-uninstaller-de-installatie-verwijder-software</guid>
-      <pubDate>9 september 2026</pubDate>
-    </item>
-    <item>
-      <title>BleachBit 6.0.4</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/bleachbit-cleaner-pc-schoonmaken-shredder-bestanden-vernietigen</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/bleachbit-cleaner-pc-schoonmaken-shredder-bestanden-vernietigen</guid>
       <pubDate>9 september 2026</pubDate>
     </item>
   </channel>
