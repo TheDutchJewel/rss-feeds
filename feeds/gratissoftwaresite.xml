@@ -5,6 +5,12 @@
     <link>https://www.gratissoftwaresite.nl/downloads/nieuwe-updates</link>
     <description>Nieuwste software-updates van GratisSoftwareSite</description>
     <item>
+      <title>foobar2000 2.26.0</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/foobar2000-muziekspeler-mp3</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/foobar2000-muziekspeler-mp3</guid>
+      <pubDate>1 oktober 2026</pubDate>
+    </item>
+    <item>
       <title>HWiNFO 8.54</title>
       <link>https://www.gratissoftwaresite.nl/downloads/hwinfo-werktuigen-systeeminformatie</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/hwinfo-werktuigen-systeeminformatie</guid>
@@ -560,12 +566,6 @@
       <title>SyncBack Free 12.1.6.0</title>
       <link>https://www.gratissoftwaresite.nl/downloads/syncback-freeware-backup-reservekopie</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/syncback-freeware-backup-reservekopie</guid>
-      <pubDate>10 september 2026</pubDate>
-    </item>
-    <item>
-      <title>WinSCP 6.5.7</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/winscp-ftp-sftp-webdav-amazon-s3-website-beheer</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/winscp-ftp-sftp-webdav-amazon-s3-website-beheer</guid>
       <pubDate>10 september 2026</pubDate>
     </item>
   </channel>

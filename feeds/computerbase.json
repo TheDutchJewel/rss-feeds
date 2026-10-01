@@ -1,5 +1,70 @@
 [
   {
+    "title": "Xubuntu 26.10 „Stonking Stingray“ Beta",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/xubuntu/",
+    "pubDate": "2026-10-01T21:29:00.000Z"
+  },
+  {
+    "title": "Ubuntu Unity 26.10 „Stonking Stingray“ Beta",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/ubuntu-unity/",
+    "pubDate": "2026-10-01T21:28:00.000Z"
+  },
+  {
+    "title": "Ubuntu Studio 26.10 „Stonking Stingray“ Beta",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/ubuntu-studio/",
+    "pubDate": "2026-10-01T21:27:00.000Z"
+  },
+  {
+    "title": "Ubuntu MATE 26.10 „Stonking Stingray“ Beta",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/ubuntu-mate/",
+    "pubDate": "2026-10-01T21:26:00.000Z"
+  },
+  {
+    "title": "Ubuntu Kylin 26.10 „Stonking Stingray“ Beta",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/ubuntu-kylin/",
+    "pubDate": "2026-10-01T21:25:00.000Z"
+  },
+  {
+    "title": "Ubuntu Cinnamon 26.10 „Stonking Stingray“ Beta",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/ubuntu-cinnamon/",
+    "pubDate": "2026-10-01T21:24:00.000Z"
+  },
+  {
+    "title": "Ubuntu Budgie 26.10 „Stonking Stingray“ Beta",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/ubuntu-budgie/",
+    "pubDate": "2026-10-01T21:23:00.000Z"
+  },
+  {
+    "title": "Lubuntu 26.10 „Stonking Stingray“ Beta",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/lubuntu/",
+    "pubDate": "2026-10-01T21:22:00.000Z"
+  },
+  {
+    "title": "Kubuntu 26.10 „Stonking Stingray“ Beta",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/kubuntu/",
+    "pubDate": "2026-10-01T21:21:00.000Z"
+  },
+  {
+    "title": "Ubuntu 26.10 „Stonking Stingray“ Beta",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/ubuntu/",
+    "pubDate": "2026-10-01T21:20:00.000Z"
+  },
+  {
+    "title": "Bitwarden 2026.9.1",
+    "link": "https://www.computerbase.de/downloads/sicherheit/passwortmanager/bitwarden/",
+    "pubDate": "2026-10-01T20:47:00.000Z"
+  },
+  {
+    "title": "Todoist 9.31.0",
+    "link": "https://www.computerbase.de/downloads/office/todoist/",
+    "pubDate": "2026-10-01T20:46:00.000Z"
+  },
+  {
+    "title": "Rocket.Chat Desktop 4.17.4",
+    "link": "https://www.computerbase.de/downloads/kommunikation/rocket.chat/",
+    "pubDate": "2026-10-01T19:28:00.000Z"
+  },
+  {
     "title": "Blizzard Battle.net 2.53.4.17896",
     "link": "https://www.computerbase.de/downloads/games/blizzard-battle.net/",
     "pubDate": "2026-10-01T16:11:00.000Z"
@@ -183,70 +248,5 @@
     "title": "Ubisoft Connect 174.0.0.13368",
     "link": "https://www.computerbase.de/downloads/games/ubisoft-connect/",
     "pubDate": "2026-09-30T09:33:00.000Z"
-  },
-  {
-    "title": "AIMP 6.00 Build 3087 Beta 6",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/aimp/",
-    "pubDate": "2026-09-30T09:31:00.000Z"
-  },
-  {
-    "title": "Opera 136.0.6008.80",
-    "link": "https://www.computerbase.de/downloads/browser/opera/",
-    "pubDate": "2026-09-30T08:20:00.000Z"
-  },
-  {
-    "title": "HWiNFO 8.54",
-    "link": "https://www.computerbase.de/downloads/systemtools/hwinfo/",
-    "pubDate": "2026-09-30T08:18:00.000Z"
-  },
-  {
-    "title": "Microsoft Edge 154.0.4258.48",
-    "link": "https://www.computerbase.de/downloads/browser/microsoft-edge/",
-    "pubDate": "2026-09-30T07:31:00.000Z"
-  },
-  {
-    "title": "Playnite 10.62",
-    "link": "https://www.computerbase.de/downloads/games/playnite/",
-    "pubDate": "2026-09-30T07:29:00.000Z"
-  },
-  {
-    "title": "Betterbird 153.4.0esr-bb10",
-    "link": "https://www.computerbase.de/downloads/kommunikation/betterbird/",
-    "pubDate": "2026-09-30T07:29:00.000Z"
-  },
-  {
-    "title": "K-Lite Codec Pack Update 20.0.4",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/k-lite-codec-pack/",
-    "pubDate": "2026-09-30T07:28:00.000Z"
-  },
-  {
-    "title": "Wise Disk Cleaner 11.4.0",
-    "link": "https://www.computerbase.de/downloads/systemtools/festplatten/wise-disk-cleaner/",
-    "pubDate": "2026-09-30T07:21:00.000Z"
-  },
-  {
-    "title": "Vivaldi 8.2 Build 4133.80",
-    "link": "https://www.computerbase.de/downloads/browser/vivaldi/",
-    "pubDate": "2026-09-30T07:19:00.000Z"
-  },
-  {
-    "title": "Windows 11 ISO 26H2 (Build 26300.9457)",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/windows-11-iso/",
-    "pubDate": "2026-09-30T07:18:00.000Z"
-  },
-  {
-    "title": "Google Chrome 154.0.8037.92/.93",
-    "link": "https://www.computerbase.de/downloads/browser/google-chrome/",
-    "pubDate": "2026-09-29T19:17:00.000Z"
-  },
-  {
-    "title": "Tunnelblick 10.0 Beta 4 (macOS)",
-    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/tunnelblick/",
-    "pubDate": "2026-09-29T18:58:00.000Z"
-  },
-  {
-    "title": "PDF-XChange Lite Free 11.1.0.0",
-    "link": "https://www.computerbase.de/downloads/office/pdf/pdf-xchange-lite/",
-    "pubDate": "2026-09-29T18:57:00.000Z"
   }
 ]

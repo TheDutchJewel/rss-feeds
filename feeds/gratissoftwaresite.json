@@ -1,5 +1,10 @@
 [
     {
+        "title": "foobar2000 2.26.0",
+        "link": "https://www.gratissoftwaresite.nl/downloads/foobar2000-muziekspeler-mp3",
+        "pubDate": "1 oktober 2026"
+    },
+    {
         "title": "HWiNFO 8.54",
         "link": "https://www.gratissoftwaresite.nl/downloads/hwinfo-werktuigen-systeeminformatie",
         "pubDate": "1 oktober 2026"
@@ -462,11 +467,6 @@
     {
         "title": "SyncBack Free 12.1.6.0",
         "link": "https://www.gratissoftwaresite.nl/downloads/syncback-freeware-backup-reservekopie",
-        "pubDate": "10 september 2026"
-    },
-    {
-        "title": "WinSCP 6.5.7",
-        "link": "https://www.gratissoftwaresite.nl/downloads/winscp-ftp-sftp-webdav-amazon-s3-website-beheer",
         "pubDate": "10 september 2026"
     }
 ]
