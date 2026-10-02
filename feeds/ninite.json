@@ -1,5 +1,15 @@
 [
   {
+    "title": "Thunderbird updated to 157.0.1.",
+    "link": "https://ninite.com/thunderbird/",
+    "pubDate": "Fri, 02 Oct 2026 00:00:53 -0000"
+  },
+  {
+    "title": "Evernote updated to 11.36.4.",
+    "link": "https://ninite.com/evernote/",
+    "pubDate": "Thu, 01 Oct 2026 23:32:17 -0000"
+  },
+  {
     "title": "Cursor updated to 3.23.12.",
     "link": "https://ninite.com/cursor/",
     "pubDate": "Thu, 01 Oct 2026 15:58:29 -0000"
@@ -343,20 +353,5 @@
     "title": "Brave updated to 1.95.104.",
     "link": "https://ninite.com/brave/",
     "pubDate": "Fri, 18 Sep 2026 17:29:46 -0000"
-  },
-  {
-    "title": "Vivaldi updated to 8.2.4133.68.",
-    "link": "https://ninite.com/vivaldi/",
-    "pubDate": "Fri, 18 Sep 2026 17:17:31 -0000"
-  },
-  {
-    "title": "Cursor updated to 3.21.9.",
-    "link": "https://ninite.com/cursor/",
-    "pubDate": "Thu, 17 Sep 2026 18:42:26 -0000"
-  },
-  {
-    "title": "Opera Chromium updated to 136.0.6008.22.",
-    "link": "https://ninite.com/operaChromium/",
-    "pubDate": "Thu, 17 Sep 2026 17:52:08 -0000"
   }
 ]
