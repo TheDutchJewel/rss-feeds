@@ -1,5 +1,20 @@
 [
     {
+        "title": "Brave 1.96.61",
+        "link": "https://www.gratissoftwaresite.nl/downloads/brave-web-browser-internet-privacy-beveiliging-schilden-trackers-ads",
+        "pubDate": "2 oktober 2026"
+    },
+    {
+        "title": "Google Chrome 154.0.8037.97/98",
+        "link": "https://www.gratissoftwaresite.nl/downloads/google-chrome-internet-web-browser",
+        "pubDate": "2 oktober 2026"
+    },
+    {
+        "title": "PDFsam 6.0.6",
+        "link": "https://www.gratissoftwaresite.nl/downloads/pdf-sam-split-merge-pdf-maken-tool",
+        "pubDate": "2 oktober 2026"
+    },
+    {
         "title": "RustDesk 1.5",
         "link": "https://www.gratissoftwaresite.nl/downloads/rustdesk-pc-hulp-op-afstand-remote-desktop",
         "pubDate": "2 oktober 2026"
@@ -72,11 +87,6 @@
     {
         "title": "AnyDesk 9.8.0",
         "link": "https://www.gratissoftwaresite.nl/downloads/anydesk-remote-desktop-pc-hulp-op-afstand",
-        "pubDate": "30 september 2026"
-    },
-    {
-        "title": "Google Chrome 154.0.8037.92/93",
-        "link": "https://www.gratissoftwaresite.nl/downloads/google-chrome-internet-web-browser",
         "pubDate": "30 september 2026"
     },
     {
@@ -217,11 +227,6 @@
     {
         "title": "Jitsi Meet 26.2.1",
         "link": "https://www.gratissoftwaresite.nl/downloads/jitsi-meet-video-bellen-vergaderen-tele-conferentie",
-        "pubDate": "25 september 2026"
-    },
-    {
-        "title": "Brave 1.96.59",
-        "link": "https://www.gratissoftwaresite.nl/downloads/brave-web-browser-internet-privacy-beveiliging-schilden-trackers-ads",
         "pubDate": "25 september 2026"
     },
     {
@@ -462,11 +467,6 @@
     {
         "title": "Bitdefender Antivirus Free 27.0.62.355",
         "link": "https://www.gratissoftwaresite.nl/downloads/bitdefender-antivirus-free-edition-virusscanner",
-        "pubDate": "11 september 2026"
-    },
-    {
-        "title": "CoMaps 2026.09.08",
-        "link": "https://www.gratissoftwaresite.nl/downloads/comaps-navigatie-kaarten-offline-reizen-route",
         "pubDate": "11 september 2026"
     }
 ]

@@ -1,5 +1,45 @@
 [
   {
+    "title": "Dropbox 274.3.4801 Beta",
+    "link": "https://www.computerbase.de/downloads/office/dateimanager/dropbox/",
+    "pubDate": "2026-10-02T21:45:00.000Z"
+  },
+  {
+    "title": "Windows Terminal 1.26.2734.0 Preview",
+    "link": "https://www.computerbase.de/downloads/systemtools/windows-terminal/",
+    "pubDate": "2026-10-02T21:42:00.000Z"
+  },
+  {
+    "title": "Windows Terminal 1.25.2733.0",
+    "link": "https://www.computerbase.de/downloads/systemtools/windows-terminal/",
+    "pubDate": "2026-10-02T21:41:00.000Z"
+  },
+  {
+    "title": "Wine 11.19 Beta (Linux)",
+    "link": "https://www.computerbase.de/downloads/systemtools/wine/",
+    "pubDate": "2026-10-02T21:40:00.000Z"
+  },
+  {
+    "title": "Brave 1.96.61",
+    "link": "https://www.computerbase.de/downloads/browser/brave/",
+    "pubDate": "2026-10-02T21:39:00.000Z"
+  },
+  {
+    "title": "WhatsApp 2.26.39.21 (macOS)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/whatsapp/",
+    "pubDate": "2026-10-02T19:53:00.000Z"
+  },
+  {
+    "title": "Mozilla Firefox 158.0 Beta 3",
+    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
+    "pubDate": "2026-10-02T19:52:00.000Z"
+  },
+  {
+    "title": "Mailspring 1.26.0",
+    "link": "https://www.computerbase.de/downloads/kommunikation/mailspring/",
+    "pubDate": "2026-10-02T15:05:00.000Z"
+  },
+  {
     "title": "Monolingual 2.0.1 (macOS)",
     "link": "https://www.computerbase.de/downloads/systemtools/monolingual/",
     "pubDate": "2026-10-02T14:42:00.000Z"
@@ -170,11 +210,6 @@
     "pubDate": "2026-10-01T12:17:00.000Z"
   },
   {
-    "title": "WhatsApp 2.26.39.19 (macOS)",
-    "link": "https://www.computerbase.de/downloads/kommunikation/whatsapp/",
-    "pubDate": "2026-10-01T11:54:00.000Z"
-  },
-  {
     "title": "Internet Download Manager 6.43 Build 12",
     "link": "https://www.computerbase.de/downloads/office/dateitransfer/internet-download-manager/",
     "pubDate": "2026-10-01T09:41:00.000Z"
@@ -200,11 +235,6 @@
     "pubDate": "2026-10-01T08:07:00.000Z"
   },
   {
-    "title": "Brave 1.96.60",
-    "link": "https://www.computerbase.de/downloads/browser/brave/",
-    "pubDate": "2026-10-01T08:07:00.000Z"
-  },
-  {
     "title": "Python 3.14.8",
     "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/python/",
     "pubDate": "2026-10-01T08:06:00.000Z"
@@ -218,35 +248,5 @@
     "title": "Python 3.13.16",
     "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/python/",
     "pubDate": "2026-10-01T08:05:00.000Z"
-  },
-  {
-    "title": "Enpass 6.12.7 (macOS)",
-    "link": "https://www.computerbase.de/downloads/sicherheit/passwortmanager/enpass/",
-    "pubDate": "2026-10-01T07:59:00.000Z"
-  },
-  {
-    "title": "DivX 11.16.0",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/divx/",
-    "pubDate": "2026-10-01T07:57:00.000Z"
-  },
-  {
-    "title": "1Password 8.12.38",
-    "link": "https://www.computerbase.de/downloads/sicherheit/passwortmanager/1password/",
-    "pubDate": "2026-10-01T07:57:00.000Z"
-  },
-  {
-    "title": "NTLite Free 2026.09.12311",
-    "link": "https://www.computerbase.de/downloads/systemtools/ntlite-free/",
-    "pubDate": "2026-09-30T19:36:00.000Z"
-  },
-  {
-    "title": "Nvidia GeForce-Treiber 582.78 Security Update Driver",
-    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/nvidia-geforce-treiber/",
-    "pubDate": "2026-09-30T19:25:00.000Z"
-  },
-  {
-    "title": "Mozilla Firefox 158.0 Beta 2",
-    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
-    "pubDate": "2026-09-30T18:32:00.000Z"
   }
 ]
