@@ -1,5 +1,15 @@
 [
     {
+        "title": "RustDesk 1.5",
+        "link": "https://www.gratissoftwaresite.nl/downloads/rustdesk-pc-hulp-op-afstand-remote-desktop",
+        "pubDate": "2 oktober 2026"
+    },
+    {
+        "title": "Everything 1.4.1",
+        "link": "https://www.gratissoftwaresite.nl/downloads/everything-zoeken",
+        "pubDate": "2 oktober 2026"
+    },
+    {
         "title": "HopToDesk 1.46.55",
         "link": "https://www.gratissoftwaresite.nl/downloads/hoptodesk-pc-hulp-op-afstand-remote-desktop",
         "pubDate": "2 oktober 2026"
@@ -458,15 +468,5 @@
         "title": "CoMaps 2026.09.08",
         "link": "https://www.gratissoftwaresite.nl/downloads/comaps-navigatie-kaarten-offline-reizen-route",
         "pubDate": "11 september 2026"
-    },
-    {
-        "title": "GIMP 3.2.6",
-        "link": "https://www.gratissoftwaresite.nl/downloads/gimp-fotobewerking-image-editor-tekenen",
-        "pubDate": "11 september 2026"
-    },
-    {
-        "title": "ObsIdentify 5.17.1",
-        "link": "https://www.gratissoftwaresite.nl/downloads/obsidentify-planten-dieren-idenficatie-hobby",
-        "pubDate": "10 september 2026"
     }
 ]

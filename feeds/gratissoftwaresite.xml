@@ -5,6 +5,18 @@
     <link>https://www.gratissoftwaresite.nl/downloads/nieuwe-updates</link>
     <description>Nieuwste software-updates van GratisSoftwareSite</description>
     <item>
+      <title>RustDesk 1.5</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/rustdesk-pc-hulp-op-afstand-remote-desktop</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/rustdesk-pc-hulp-op-afstand-remote-desktop</guid>
+      <pubDate>2 oktober 2026</pubDate>
+    </item>
+    <item>
+      <title>Everything 1.4.1</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/everything-zoeken</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/everything-zoeken</guid>
+      <pubDate>2 oktober 2026</pubDate>
+    </item>
+    <item>
       <title>HopToDesk 1.46.55</title>
       <link>https://www.gratissoftwaresite.nl/downloads/hoptodesk-pc-hulp-op-afstand-remote-desktop</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/hoptodesk-pc-hulp-op-afstand-remote-desktop</guid>
@@ -555,18 +567,6 @@
       <link>https://www.gratissoftwaresite.nl/downloads/comaps-navigatie-kaarten-offline-reizen-route</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/comaps-navigatie-kaarten-offline-reizen-route</guid>
       <pubDate>11 september 2026</pubDate>
-    </item>
-    <item>
-      <title>GIMP 3.2.6</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/gimp-fotobewerking-image-editor-tekenen</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/gimp-fotobewerking-image-editor-tekenen</guid>
-      <pubDate>11 september 2026</pubDate>
-    </item>
-    <item>
-      <title>ObsIdentify 5.17.1</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/obsidentify-planten-dieren-idenficatie-hobby</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/obsidentify-planten-dieren-idenficatie-hobby</guid>
-      <pubDate>10 september 2026</pubDate>
     </item>
   </channel>
 </rss>

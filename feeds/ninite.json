@@ -1,5 +1,15 @@
 [
   {
+    "title": "TightVNC updated to 2.8.89.",
+    "link": "https://ninite.com/tightvnc/",
+    "pubDate": "Fri, 02 Oct 2026 14:18:32 -0000"
+  },
+  {
+    "title": "Audacity updated to 4.0.1.",
+    "link": "https://ninite.com/audacity/",
+    "pubDate": "Fri, 02 Oct 2026 14:00:16 -0000"
+  },
+  {
     "title": "Chrome updated to 154.0.8037.98.",
     "link": "https://ninite.com/chrome/",
     "pubDate": "Fri, 02 Oct 2026 07:38:49 -0000"
@@ -338,10 +348,5 @@
     "title": "Zoom updated to 7.2.0.48358.",
     "link": "https://ninite.com/zoom/",
     "pubDate": "Fri, 18 Sep 2026 20:21:56 -0000"
-  },
-  {
-    "title": "K-Lite Codecs updated to 20.0.0.",
-    "link": "https://ninite.com/klitecodecs/",
-    "pubDate": "Fri, 18 Sep 2026 20:21:37 -0000"
   }
 ]
