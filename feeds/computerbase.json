@@ -1,5 +1,60 @@
 [
   {
+    "title": "Microsoft Edge 154.0.4258.53",
+    "link": "https://www.computerbase.de/downloads/browser/microsoft-edge/",
+    "pubDate": "2026-10-02T07:36:00.000Z"
+  },
+  {
+    "title": "Screenpresso 2.3.7 (Win 11)",
+    "link": "https://www.computerbase.de/downloads/foto-und-grafik/screenpresso/",
+    "pubDate": "2026-10-02T07:29:00.000Z"
+  },
+  {
+    "title": "DaVinci Resolve 21.1.1",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/davinci-resolve/",
+    "pubDate": "2026-10-02T07:28:00.000Z"
+  },
+  {
+    "title": "Signal 8.29.0",
+    "link": "https://www.computerbase.de/downloads/kommunikation/signal/",
+    "pubDate": "2026-10-02T05:49:00.000Z"
+  },
+  {
+    "title": "iDevice Manager 11.7.2.0",
+    "link": "https://www.computerbase.de/downloads/office/dateitransfer/idevice-manager/",
+    "pubDate": "2026-10-02T05:47:00.000Z"
+  },
+  {
+    "title": "BetterTouchTool 6.880 (macOS)",
+    "link": "https://www.computerbase.de/downloads/systemtools/bettertouchtool/",
+    "pubDate": "2026-10-02T05:47:00.000Z"
+  },
+  {
+    "title": "Google Chrome 154.0.8037.97/.98",
+    "link": "https://www.computerbase.de/downloads/browser/google-chrome/",
+    "pubDate": "2026-10-02T05:46:00.000Z"
+  },
+  {
+    "title": "Mozilla Thunderbird 157.0.1",
+    "link": "https://www.computerbase.de/downloads/kommunikation/mozilla-thunderbird/",
+    "pubDate": "2026-10-02T05:45:00.000Z"
+  },
+  {
+    "title": "RustDesk 1.5.0",
+    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/rustdesk/",
+    "pubDate": "2026-10-02T05:41:00.000Z"
+  },
+  {
+    "title": "Evernote 11.36.4",
+    "link": "https://www.computerbase.de/downloads/office/evernote/",
+    "pubDate": "2026-10-02T05:40:00.000Z"
+  },
+  {
+    "title": "Java SE Development Kit 28.0 Build 18 Dev",
+    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/java-se-development-kit/",
+    "pubDate": "2026-10-02T05:40:00.000Z"
+  },
+  {
     "title": "Xubuntu 26.10 „Stonking Stingray“ Beta",
     "link": "https://www.computerbase.de/downloads/betriebssysteme/xubuntu/",
     "pubDate": "2026-10-01T21:29:00.000Z"
@@ -88,11 +143,6 @@
     "title": "foobar2000 v2.26",
     "link": "https://www.computerbase.de/downloads/audio-und-video/foobar2000/",
     "pubDate": "2026-10-01T12:17:00.000Z"
-  },
-  {
-    "title": "Monolingual 2.0.0 Pre-Release (macOS)",
-    "link": "https://www.computerbase.de/downloads/systemtools/monolingual/",
-    "pubDate": "2026-10-01T12:11:00.000Z"
   },
   {
     "title": "WhatsApp 2.26.39.19 (macOS)",
@@ -195,58 +245,8 @@
     "pubDate": "2026-09-30T15:09:00.000Z"
   },
   {
-    "title": "Mozilla Thunderbird 157.0",
-    "link": "https://www.computerbase.de/downloads/kommunikation/mozilla-thunderbird/",
-    "pubDate": "2026-09-30T15:09:00.000Z"
-  },
-  {
     "title": "Mozilla Thunderbird 153.4.0esr",
     "link": "https://www.computerbase.de/downloads/kommunikation/mozilla-thunderbird/",
     "pubDate": "2026-09-30T15:08:00.000Z"
-  },
-  {
-    "title": "Mozilla Thunderbird 140.17.0esr",
-    "link": "https://www.computerbase.de/downloads/kommunikation/mozilla-thunderbird/",
-    "pubDate": "2026-09-30T15:07:00.000Z"
-  },
-  {
-    "title": "LibreWolf 157.0-1",
-    "link": "https://www.computerbase.de/downloads/browser/librewolf/",
-    "pubDate": "2026-09-30T15:06:00.000Z"
-  },
-  {
-    "title": "HFS – HTTP File Server 3.3.4",
-    "link": "https://www.computerbase.de/downloads/office/dateitransfer/hfs-http-file-server/",
-    "pubDate": "2026-09-30T15:06:00.000Z"
-  },
-  {
-    "title": "Fido 1.71",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/fido/",
-    "pubDate": "2026-09-30T13:49:00.000Z"
-  },
-  {
-    "title": "Audacity 4.0.1",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/audacity/",
-    "pubDate": "2026-09-30T12:05:00.000Z"
-  },
-  {
-    "title": "Viber für Desktop 28.11.0.0",
-    "link": "https://www.computerbase.de/downloads/kommunikation/viber-fuer-desktop/",
-    "pubDate": "2026-09-30T11:26:00.000Z"
-  },
-  {
-    "title": "Wargaming Game Center 26.05.01.3645",
-    "link": "https://www.computerbase.de/downloads/games/wargaming-game-center/",
-    "pubDate": "2026-09-30T10:17:00.000Z"
-  },
-  {
-    "title": "Turtle Beach Swarm II 1.0.0.57",
-    "link": "https://www.computerbase.de/downloads/treiber/eingabegeraete/turtle-beach-swarm-ii/",
-    "pubDate": "2026-09-30T09:49:00.000Z"
-  },
-  {
-    "title": "Ubisoft Connect 174.0.0.13368",
-    "link": "https://www.computerbase.de/downloads/games/ubisoft-connect/",
-    "pubDate": "2026-09-30T09:33:00.000Z"
   }
 ]

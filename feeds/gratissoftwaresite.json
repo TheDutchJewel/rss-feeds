@@ -1,5 +1,25 @@
 [
     {
+        "title": "HopToDesk 1.46.55",
+        "link": "https://www.gratissoftwaresite.nl/downloads/hoptodesk-pc-hulp-op-afstand-remote-desktop",
+        "pubDate": "2 oktober 2026"
+    },
+    {
+        "title": "TeamViewer 15.82.6",
+        "link": "https://www.gratissoftwaresite.nl/downloads/teamviewer-werktuigen-hulp-op-afstand-remote-desktop",
+        "pubDate": "2 oktober 2026"
+    },
+    {
+        "title": "Clementine 1.4.1-275",
+        "link": "https://www.gratissoftwaresite.nl/downloads/clementine-audio-muziekspeler-online",
+        "pubDate": "2 oktober 2026"
+    },
+    {
+        "title": "SyncBack Free 12.1.22.0",
+        "link": "https://www.gratissoftwaresite.nl/downloads/syncback-freeware-backup-reservekopie",
+        "pubDate": "2 oktober 2026"
+    },
+    {
         "title": "foobar2000 2.26.0",
         "link": "https://www.gratissoftwaresite.nl/downloads/foobar2000-muziekspeler-mp3",
         "pubDate": "1 oktober 2026"
@@ -112,11 +132,6 @@
     {
         "title": "Joplin 3.7.21",
         "link": "https://www.gratissoftwaresite.nl/downloads/joplin-notitie-blok-aantekeningen-takenlijst-sync",
-        "pubDate": "28 september 2026"
-    },
-    {
-        "title": "Clementine 1.4.1-235",
-        "link": "https://www.gratissoftwaresite.nl/downloads/clementine-audio-muziekspeler-online",
         "pubDate": "28 september 2026"
     },
     {
@@ -452,21 +467,6 @@
     {
         "title": "ObsIdentify 5.17.1",
         "link": "https://www.gratissoftwaresite.nl/downloads/obsidentify-planten-dieren-idenficatie-hobby",
-        "pubDate": "10 september 2026"
-    },
-    {
-        "title": "Windscribe 2.24.13",
-        "link": "https://www.gratissoftwaresite.nl/downloads/windscribe-vpn-anoniem-beveiligd-ip-geo",
-        "pubDate": "10 september 2026"
-    },
-    {
-        "title": "FreeFileSync 14.12",
-        "link": "https://www.gratissoftwaresite.nl/downloads/freefilesync-backup-synchronisatie",
-        "pubDate": "10 september 2026"
-    },
-    {
-        "title": "SyncBack Free 12.1.6.0",
-        "link": "https://www.gratissoftwaresite.nl/downloads/syncback-freeware-backup-reservekopie",
         "pubDate": "10 september 2026"
     }
 ]
