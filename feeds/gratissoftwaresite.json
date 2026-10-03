@@ -1,5 +1,30 @@
 [
     {
+        "title": "SRWare Iron 154.0.8100.0",
+        "link": "https://www.gratissoftwaresite.nl/downloads/srware-iron-internet-web-browser-privacy",
+        "pubDate": "3 oktober 2026"
+    },
+    {
+        "title": "Mullvad Browser 15.0.24",
+        "link": "https://www.gratissoftwaresite.nl/downloads/mullvad-browser-privacy",
+        "pubDate": "3 oktober 2026"
+    },
+    {
+        "title": "Zen Browser 1.23b",
+        "link": "https://www.gratissoftwaresite.nl/downloads/zen-browser-web-internet",
+        "pubDate": "3 oktober 2026"
+    },
+    {
+        "title": "Waterfox 6.7.5",
+        "link": "https://www.gratissoftwaresite.nl/downloads/waterfox-web-browser",
+        "pubDate": "3 oktober 2026"
+    },
+    {
+        "title": "LibreWolf 157.0-1",
+        "link": "https://www.gratissoftwaresite.nl/downloads/librewolf-web-browser-privacy",
+        "pubDate": "3 oktober 2026"
+    },
+    {
         "title": "Malwarebytes 5.7.2",
         "link": "https://www.gratissoftwaresite.nl/downloads/malwarebytes-anti-malware-anti-spyware-virussen",
         "pubDate": "3 oktober 2026"
@@ -215,11 +240,6 @@
         "pubDate": "26 september 2026"
     },
     {
-        "title": "Zen Browser 1.22.3b",
-        "link": "https://www.gratissoftwaresite.nl/downloads/zen-browser-web-internet",
-        "pubDate": "26 september 2026"
-    },
-    {
         "title": "Workrave 1.11.4",
         "link": "https://www.gratissoftwaresite.nl/downloads/workrave-anti-rsi-tools",
         "pubDate": "26 september 2026"
@@ -240,11 +260,6 @@
         "pubDate": "25 september 2026"
     },
     {
-        "title": "Mullvad Browser 15.0.23",
-        "link": "https://www.gratissoftwaresite.nl/downloads/mullvad-browser-privacy",
-        "pubDate": "25 september 2026"
-    },
-    {
         "title": "Affinity 3.3.0",
         "link": "https://www.gratissoftwaresite.nl/downloads/aff-fotobewerking-tekenen-grafisch-ontwerp",
         "pubDate": "25 september 2026"
@@ -258,11 +273,6 @@
         "title": "Adobe Reader 26.001.21771",
         "link": "https://www.gratissoftwaresite.nl/downloads/reader-pdf-bekijken",
         "pubDate": "24 september 2026"
-    },
-    {
-        "title": "LibreWolf 156.0.1-1",
-        "link": "https://www.gratissoftwaresite.nl/downloads/librewolf-web-browser-privacy",
-        "pubDate": "23 september 2026"
     },
     {
         "title": "Giada 1.6.0",
@@ -287,11 +297,6 @@
     {
         "title": "GeekUninstaller 1.5.5.181",
         "link": "https://www.gratissoftwaresite.nl/downloads/geekuninstaller-werktuigen-de-installatie-software-verwijderen",
-        "pubDate": "22 september 2026"
-    },
-    {
-        "title": "Waterfox 6.7.4",
-        "link": "https://www.gratissoftwaresite.nl/downloads/waterfox-web-browser",
         "pubDate": "22 september 2026"
     },
     {
@@ -462,11 +467,6 @@
     {
         "title": "Debian 13.7.0",
         "link": "https://www.gratissoftwaresite.nl/downloads/debian-besturingssysteem",
-        "pubDate": "12 september 2026"
-    },
-    {
-        "title": "Kdenlive 26.08.1",
-        "link": "https://www.gratissoftwaresite.nl/downloads/kdenlive-videobewerking-dvd-effecten-clips",
         "pubDate": "12 september 2026"
     }
 ]

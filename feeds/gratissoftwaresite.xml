@@ -5,6 +5,36 @@
     <link>https://www.gratissoftwaresite.nl/downloads/nieuwe-updates</link>
     <description>Nieuwste software-updates van GratisSoftwareSite</description>
     <item>
+      <title>SRWare Iron 154.0.8100.0</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/srware-iron-internet-web-browser-privacy</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/srware-iron-internet-web-browser-privacy</guid>
+      <pubDate>3 oktober 2026</pubDate>
+    </item>
+    <item>
+      <title>Mullvad Browser 15.0.24</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/mullvad-browser-privacy</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/mullvad-browser-privacy</guid>
+      <pubDate>3 oktober 2026</pubDate>
+    </item>
+    <item>
+      <title>Zen Browser 1.23b</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/zen-browser-web-internet</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/zen-browser-web-internet</guid>
+      <pubDate>3 oktober 2026</pubDate>
+    </item>
+    <item>
+      <title>Waterfox 6.7.5</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/waterfox-web-browser</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/waterfox-web-browser</guid>
+      <pubDate>3 oktober 2026</pubDate>
+    </item>
+    <item>
+      <title>LibreWolf 157.0-1</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/librewolf-web-browser-privacy</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/librewolf-web-browser-privacy</guid>
+      <pubDate>3 oktober 2026</pubDate>
+    </item>
+    <item>
       <title>Malwarebytes 5.7.2</title>
       <link>https://www.gratissoftwaresite.nl/downloads/malwarebytes-anti-malware-anti-spyware-virussen</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/malwarebytes-anti-malware-anti-spyware-virussen</guid>
@@ -263,12 +293,6 @@
       <pubDate>26 september 2026</pubDate>
     </item>
     <item>
-      <title>Zen Browser 1.22.3b</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/zen-browser-web-internet</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/zen-browser-web-internet</guid>
-      <pubDate>26 september 2026</pubDate>
-    </item>
-    <item>
       <title>Workrave 1.11.4</title>
       <link>https://www.gratissoftwaresite.nl/downloads/workrave-anti-rsi-tools</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/workrave-anti-rsi-tools</guid>
@@ -293,12 +317,6 @@
       <pubDate>25 september 2026</pubDate>
     </item>
     <item>
-      <title>Mullvad Browser 15.0.23</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/mullvad-browser-privacy</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/mullvad-browser-privacy</guid>
-      <pubDate>25 september 2026</pubDate>
-    </item>
-    <item>
       <title>Affinity 3.3.0</title>
       <link>https://www.gratissoftwaresite.nl/downloads/aff-fotobewerking-tekenen-grafisch-ontwerp</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/aff-fotobewerking-tekenen-grafisch-ontwerp</guid>
@@ -315,12 +333,6 @@
       <link>https://www.gratissoftwaresite.nl/downloads/reader-pdf-bekijken</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/reader-pdf-bekijken</guid>
       <pubDate>24 september 2026</pubDate>
-    </item>
-    <item>
-      <title>LibreWolf 156.0.1-1</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/librewolf-web-browser-privacy</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/librewolf-web-browser-privacy</guid>
-      <pubDate>23 september 2026</pubDate>
     </item>
     <item>
       <title>Giada 1.6.0</title>
@@ -350,12 +362,6 @@
       <title>GeekUninstaller 1.5.5.181</title>
       <link>https://www.gratissoftwaresite.nl/downloads/geekuninstaller-werktuigen-de-installatie-software-verwijderen</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/geekuninstaller-werktuigen-de-installatie-software-verwijderen</guid>
-      <pubDate>22 september 2026</pubDate>
-    </item>
-    <item>
-      <title>Waterfox 6.7.4</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/waterfox-web-browser</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/waterfox-web-browser</guid>
       <pubDate>22 september 2026</pubDate>
     </item>
     <item>
@@ -560,12 +566,6 @@
       <title>Debian 13.7.0</title>
       <link>https://www.gratissoftwaresite.nl/downloads/debian-besturingssysteem</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/debian-besturingssysteem</guid>
-      <pubDate>12 september 2026</pubDate>
-    </item>
-    <item>
-      <title>Kdenlive 26.08.1</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/kdenlive-videobewerking-dvd-effecten-clips</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/kdenlive-videobewerking-dvd-effecten-clips</guid>
       <pubDate>12 september 2026</pubDate>
     </item>
   </channel>
