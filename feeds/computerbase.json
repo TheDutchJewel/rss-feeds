@@ -1,5 +1,35 @@
 [
   {
+    "title": "openSUSE Tumbleweed 2026-10",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/opensuse/",
+    "pubDate": "2026-10-03T18:04:00.000Z"
+  },
+  {
+    "title": "YUMI Py 1.0.9",
+    "link": "https://www.computerbase.de/downloads/systemtools/festplatten/yumi/",
+    "pubDate": "2026-10-03T17:39:00.000Z"
+  },
+  {
+    "title": "CS Browser 13.6.3",
+    "link": "https://www.computerbase.de/downloads/office/dateitransfer/s3-browser/",
+    "pubDate": "2026-10-03T17:38:00.000Z"
+  },
+  {
+    "title": "Iriun Webcam 2.9.9",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/iriun-webcam/",
+    "pubDate": "2026-10-03T17:37:00.000Z"
+  },
+  {
+    "title": "Linux Kernel 7.2.9 (Linux)",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/linux-kernel/",
+    "pubDate": "2026-10-03T16:49:00.000Z"
+  },
+  {
+    "title": "Linux Kernel 6.18.55 (Linux)",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/linux-kernel/",
+    "pubDate": "2026-10-03T16:48:00.000Z"
+  },
+  {
     "title": "AutoHotkey 2.0.29",
     "link": "https://www.computerbase.de/downloads/systemtools/autohotkey/",
     "pubDate": "2026-10-03T09:53:00.000Z"
@@ -218,35 +248,5 @@
     "title": "Apache HTTP Server 2.4.69 (Linux)",
     "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/apache-http-server/",
     "pubDate": "2026-10-01T14:14:00.000Z"
-  },
-  {
-    "title": "Avast Free Antivirus 26.10.11190 Beta",
-    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/avast-free-antivirus/",
-    "pubDate": "2026-10-01T13:15:00.000Z"
-  },
-  {
-    "title": "foobar2000 v2.26",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/foobar2000/",
-    "pubDate": "2026-10-01T12:17:00.000Z"
-  },
-  {
-    "title": "Internet Download Manager 6.43 Build 12",
-    "link": "https://www.computerbase.de/downloads/office/dateitransfer/internet-download-manager/",
-    "pubDate": "2026-10-01T09:41:00.000Z"
-  },
-  {
-    "title": "SyncBackFree 12.1.22.0",
-    "link": "https://www.computerbase.de/downloads/sicherheit/backup/syncbackfree/",
-    "pubDate": "2026-10-01T09:31:00.000Z"
-  },
-  {
-    "title": "Spotify 1.3.3.264",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/spotify/",
-    "pubDate": "2026-10-01T08:10:00.000Z"
-  },
-  {
-    "title": "Microsoft Teams 26246.1709.5146.8945 (macOS)",
-    "link": "https://www.computerbase.de/downloads/kommunikation/microsoft-teams/",
-    "pubDate": "2026-10-01T08:09:00.000Z"
   }
 ]
