@@ -1,5 +1,15 @@
 [
     {
+        "title": "Malwarebytes 5.7.2",
+        "link": "https://www.gratissoftwaresite.nl/downloads/malwarebytes-anti-malware-anti-spyware-virussen",
+        "pubDate": "3 oktober 2026"
+    },
+    {
+        "title": "DaVinci Resolve 21.1.1",
+        "link": "https://www.gratissoftwaresite.nl/downloads/davinci-resolve-videobewerking-editor-kleur-correctie",
+        "pubDate": "3 oktober 2026"
+    },
+    {
         "title": "WinScript 2.26.0",
         "link": "https://www.gratissoftwaresite.nl/downloads/winscript-tweaks-werktuigen-optimalisatie",
         "pubDate": "3 oktober 2026"
@@ -280,11 +290,6 @@
         "pubDate": "22 september 2026"
     },
     {
-        "title": "Malwarebytes 5.7.1",
-        "link": "https://www.gratissoftwaresite.nl/downloads/malwarebytes-anti-malware-anti-spyware-virussen",
-        "pubDate": "22 september 2026"
-    },
-    {
         "title": "Waterfox 6.7.4",
         "link": "https://www.gratissoftwaresite.nl/downloads/waterfox-web-browser",
         "pubDate": "22 september 2026"
@@ -463,10 +468,5 @@
         "title": "Kdenlive 26.08.1",
         "link": "https://www.gratissoftwaresite.nl/downloads/kdenlive-videobewerking-dvd-effecten-clips",
         "pubDate": "12 september 2026"
-    },
-    {
-        "title": "Bitdefender Antivirus Free 27.0.62.355",
-        "link": "https://www.gratissoftwaresite.nl/downloads/bitdefender-antivirus-free-edition-virusscanner",
-        "pubDate": "11 september 2026"
     }
 ]

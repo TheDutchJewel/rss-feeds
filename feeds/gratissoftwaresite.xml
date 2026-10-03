@@ -5,6 +5,18 @@
     <link>https://www.gratissoftwaresite.nl/downloads/nieuwe-updates</link>
     <description>Nieuwste software-updates van GratisSoftwareSite</description>
     <item>
+      <title>Malwarebytes 5.7.2</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/malwarebytes-anti-malware-anti-spyware-virussen</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/malwarebytes-anti-malware-anti-spyware-virussen</guid>
+      <pubDate>3 oktober 2026</pubDate>
+    </item>
+    <item>
+      <title>DaVinci Resolve 21.1.1</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/davinci-resolve-videobewerking-editor-kleur-correctie</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/davinci-resolve-videobewerking-editor-kleur-correctie</guid>
+      <pubDate>3 oktober 2026</pubDate>
+    </item>
+    <item>
       <title>WinScript 2.26.0</title>
       <link>https://www.gratissoftwaresite.nl/downloads/winscript-tweaks-werktuigen-optimalisatie</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/winscript-tweaks-werktuigen-optimalisatie</guid>
@@ -341,12 +353,6 @@
       <pubDate>22 september 2026</pubDate>
     </item>
     <item>
-      <title>Malwarebytes 5.7.1</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/malwarebytes-anti-malware-anti-spyware-virussen</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/malwarebytes-anti-malware-anti-spyware-virussen</guid>
-      <pubDate>22 september 2026</pubDate>
-    </item>
-    <item>
       <title>Waterfox 6.7.4</title>
       <link>https://www.gratissoftwaresite.nl/downloads/waterfox-web-browser</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/waterfox-web-browser</guid>
@@ -561,12 +567,6 @@
       <link>https://www.gratissoftwaresite.nl/downloads/kdenlive-videobewerking-dvd-effecten-clips</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/kdenlive-videobewerking-dvd-effecten-clips</guid>
       <pubDate>12 september 2026</pubDate>
-    </item>
-    <item>
-      <title>Bitdefender Antivirus Free 27.0.62.355</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/bitdefender-antivirus-free-edition-virusscanner</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/bitdefender-antivirus-free-edition-virusscanner</guid>
-      <pubDate>11 september 2026</pubDate>
     </item>
   </channel>
 </rss>
