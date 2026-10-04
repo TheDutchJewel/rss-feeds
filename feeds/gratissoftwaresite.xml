@@ -5,6 +5,18 @@
     <link>https://www.gratissoftwaresite.nl/downloads/nieuwe-updates</link>
     <description>Nieuwste software-updates van GratisSoftwareSite</description>
     <item>
+      <title>PrivaZer 4.0.127</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/privazer-pc-opruimen-cleaner</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/privazer-pc-opruimen-cleaner</guid>
+      <pubDate>4 oktober 2026</pubDate>
+    </item>
+    <item>
+      <title>Dropbox 273.4.4708</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/dropbox-online-opslag-sync</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/dropbox-online-opslag-sync</guid>
+      <pubDate>4 oktober 2026</pubDate>
+    </item>
+    <item>
       <title>Clementine 1.4.2-7</title>
       <link>https://www.gratissoftwaresite.nl/downloads/clementine-audio-muziekspeler-online</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/clementine-audio-muziekspeler-online</guid>
@@ -305,12 +317,6 @@
       <pubDate>25 september 2026</pubDate>
     </item>
     <item>
-      <title>Dropbox 270.4.3312</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/dropbox-online-opslag-sync</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/dropbox-online-opslag-sync</guid>
-      <pubDate>25 september 2026</pubDate>
-    </item>
-    <item>
       <title>Jitsi Meet 26.2.1</title>
       <link>https://www.gratissoftwaresite.nl/downloads/jitsi-meet-video-bellen-vergaderen-tele-conferentie</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/jitsi-meet-video-bellen-vergaderen-tele-conferentie</guid>
@@ -561,12 +567,6 @@
       <link>https://www.gratissoftwaresite.nl/downloads/subtitle-edit-ondertitels-video</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/subtitle-edit-ondertitels-video</guid>
       <pubDate>13 september 2026</pubDate>
-    </item>
-    <item>
-      <title>Debian 13.7.0</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/debian-besturingssysteem</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/debian-besturingssysteem</guid>
-      <pubDate>12 september 2026</pubDate>
     </item>
   </channel>
 </rss>

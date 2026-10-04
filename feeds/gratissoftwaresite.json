@@ -1,5 +1,15 @@
 [
     {
+        "title": "PrivaZer 4.0.127",
+        "link": "https://www.gratissoftwaresite.nl/downloads/privazer-pc-opruimen-cleaner",
+        "pubDate": "4 oktober 2026"
+    },
+    {
+        "title": "Dropbox 273.4.4708",
+        "link": "https://www.gratissoftwaresite.nl/downloads/dropbox-online-opslag-sync",
+        "pubDate": "4 oktober 2026"
+    },
+    {
         "title": "Clementine 1.4.2-7",
         "link": "https://www.gratissoftwaresite.nl/downloads/clementine-audio-muziekspeler-online",
         "pubDate": "4 oktober 2026"
@@ -250,11 +260,6 @@
         "pubDate": "25 september 2026"
     },
     {
-        "title": "Dropbox 270.4.3312",
-        "link": "https://www.gratissoftwaresite.nl/downloads/dropbox-online-opslag-sync",
-        "pubDate": "25 september 2026"
-    },
-    {
         "title": "Jitsi Meet 26.2.1",
         "link": "https://www.gratissoftwaresite.nl/downloads/jitsi-meet-video-bellen-vergaderen-tele-conferentie",
         "pubDate": "25 september 2026"
@@ -463,10 +468,5 @@
         "title": "Subtitle Edit 5.2.0",
         "link": "https://www.gratissoftwaresite.nl/downloads/subtitle-edit-ondertitels-video",
         "pubDate": "13 september 2026"
-    },
-    {
-        "title": "Debian 13.7.0",
-        "link": "https://www.gratissoftwaresite.nl/downloads/debian-besturingssysteem",
-        "pubDate": "12 september 2026"
     }
 ]
