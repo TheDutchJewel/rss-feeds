@@ -1,5 +1,20 @@
 [
   {
+    "title": "[UPDATE] JSONedit v0.9.45",
+    "link": "https://www.portablefreeware.com/?id=2393&ts=1791086456",
+    "pubDate": "Sat, 03 Oct 2026 21:00:56 -0700"
+  },
+  {
+    "title": "[UPDATE] foobar2000 v2.26",
+    "link": "https://www.portablefreeware.com/?id=184&ts=1791086360",
+    "pubDate": "Sat, 03 Oct 2026 20:59:20 -0700"
+  },
+  {
+    "title": "[UPDATE] NAPS2 v8.4.1",
+    "link": "https://www.portablefreeware.com/?id=3020&ts=1791086311",
+    "pubDate": "Sat, 03 Oct 2026 20:58:31 -0700"
+  },
+  {
     "title": "[UPDATE] AutoHotkey v2.0.29",
     "link": "https://www.portablefreeware.com/?id=217&ts=1791020372",
     "pubDate": "Sat, 03 Oct 2026 02:39:32 -0700"
@@ -483,20 +498,5 @@
     "title": "[UPDATE] FastCopy v5.12.0",
     "link": "https://www.portablefreeware.com/?id=1437&ts=1787285325",
     "pubDate": "Thu, 20 Aug 2026 21:08:45 -0700"
-  },
-  {
-    "title": "[UPDATE] PotPlayer v260819",
-    "link": "https://www.portablefreeware.com/?id=2483&ts=1787226651",
-    "pubDate": "Thu, 20 Aug 2026 04:50:51 -0700"
-  },
-  {
-    "title": "[UPDATE] ZoomIt Portable v12.2",
-    "link": "https://www.portablefreeware.com/?id=2580&ts=1787205277",
-    "pubDate": "Wed, 19 Aug 2026 22:54:37 -0700"
-  },
-  {
-    "title": "[UPDATE] MetarWeather v1.80",
-    "link": "https://www.portablefreeware.com/?id=1677&ts=1787121814",
-    "pubDate": "Tue, 18 Aug 2026 23:43:34 -0700"
   }
 ]
