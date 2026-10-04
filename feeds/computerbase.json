@@ -1,5 +1,10 @@
 [
   {
+    "title": "HyperSnap 10.4.3",
+    "link": "https://www.computerbase.de/downloads/foto-und-grafik/hypersnap/",
+    "pubDate": "2026-10-04T17:01:00.000Z"
+  },
+  {
     "title": "Vivaldi 8.2 Build 4133.83",
     "link": "https://www.computerbase.de/downloads/browser/vivaldi/",
     "pubDate": "2026-10-04T16:17:00.000Z"
@@ -243,10 +248,5 @@
     "title": "Kubuntu 26.10 „Stonking Stingray“ Beta",
     "link": "https://www.computerbase.de/downloads/betriebssysteme/kubuntu/",
     "pubDate": "2026-10-01T21:21:00.000Z"
-  },
-  {
-    "title": "Ubuntu 26.10 „Stonking Stingray“ Beta",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/ubuntu/",
-    "pubDate": "2026-10-01T21:20:00.000Z"
   }
 ]
