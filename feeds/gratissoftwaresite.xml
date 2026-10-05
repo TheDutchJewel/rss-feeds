@@ -5,6 +5,24 @@
     <link>https://www.gratissoftwaresite.nl/downloads/nieuwe-updates</link>
     <description>Nieuwste software-updates van GratisSoftwareSite</description>
     <item>
+      <title>Vivaldi 8.2.4133.83</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/vivaldi-internet-web-browser</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/vivaldi-internet-web-browser</guid>
+      <pubDate>5 oktober 2026</pubDate>
+    </item>
+    <item>
+      <title>Darktable 5.6.2</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/darktable-fotobewerking-raw-workflow</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/darktable-fotobewerking-raw-workflow</guid>
+      <pubDate>5 oktober 2026</pubDate>
+    </item>
+    <item>
+      <title>TunnelBear 4.20.0</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/tunnelbear-vpn-beveiligd-internetten-ip-anoniem</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/tunnelbear-vpn-beveiligd-internetten-ip-anoniem</guid>
+      <pubDate>5 oktober 2026</pubDate>
+    </item>
+    <item>
       <title>LibreCAD 2.2.1.5</title>
       <link>https://www.gratissoftwaresite.nl/downloads/librecad-computer-aided-design-grafische-vormgeving-ontwerpen-cad</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/librecad-computer-aided-design-grafische-vormgeving-ontwerpen-cad</guid>
@@ -152,12 +170,6 @@
       <title>Thunderbird 157.0 Release...</title>
       <link>https://www.gratissoftwaresite.nl/downloads/thunderbird-mailprogramma-pop3-imap</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/thunderbird-mailprogramma-pop3-imap</guid>
-      <pubDate>30 september 2026</pubDate>
-    </item>
-    <item>
-      <title>Vivaldi 8.2.4133.80</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/vivaldi-internet-web-browser</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/vivaldi-internet-web-browser</guid>
       <pubDate>30 september 2026</pubDate>
     </item>
     <item>
@@ -554,18 +566,6 @@
       <title>7-Zip Next 1.3</title>
       <link>https://www.gratissoftwaresite.nl/downloads/7-zip-next-compressie</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/7-zip-next-compressie</guid>
-      <pubDate>14 september 2026</pubDate>
-    </item>
-    <item>
-      <title>Proton VPN 5.1.8</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/proton-vpn-beveiligde-anonieme-verbinding-privacy-geen-ip</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/proton-vpn-beveiligde-anonieme-verbinding-privacy-geen-ip</guid>
-      <pubDate>14 september 2026</pubDate>
-    </item>
-    <item>
-      <title>LuLu 4.5.1</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/lulu-firewall-mac-controle-applicaties</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/lulu-firewall-mac-controle-applicaties</guid>
       <pubDate>14 september 2026</pubDate>
     </item>
   </channel>
