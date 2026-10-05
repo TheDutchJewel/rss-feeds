@@ -1,5 +1,55 @@
 [
   {
+    "title": "Microsoft Edge 154.0.4258.62",
+    "link": "https://www.computerbase.de/downloads/browser/microsoft-edge/",
+    "pubDate": "2026-10-05T21:20:00.000Z"
+  },
+  {
+    "title": "Slack 4.52.178 (Win 11)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/slack/",
+    "pubDate": "2026-10-05T21:19:00.000Z"
+  },
+  {
+    "title": "Slack 4.52.178 (macOS)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/slack/",
+    "pubDate": "2026-10-05T21:18:00.000Z"
+  },
+  {
+    "title": "Slack 4.52.178 Beta (Linux)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/slack/",
+    "pubDate": "2026-10-05T21:17:00.000Z"
+  },
+  {
+    "title": "Rocket.Chat Server 8.9.0 (Linux)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/rocket.chat/",
+    "pubDate": "2026-10-05T21:16:00.000Z"
+  },
+  {
+    "title": "Discord 0.0.415 (macOS)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/discord/",
+    "pubDate": "2026-10-05T21:15:00.000Z"
+  },
+  {
+    "title": "Discord 1.0.161 (Linux)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/discord/",
+    "pubDate": "2026-10-05T21:15:00.000Z"
+  },
+  {
+    "title": "Obsidian 1.14.4",
+    "link": "https://www.computerbase.de/downloads/office/obsidian/",
+    "pubDate": "2026-10-05T21:13:00.000Z"
+  },
+  {
+    "title": "ChromeOS Flex 1.0.0",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/chromeos-flex/",
+    "pubDate": "2026-10-05T21:11:00.000Z"
+  },
+  {
+    "title": "Mozilla Thunderbird 158.0 Beta 3",
+    "link": "https://www.computerbase.de/downloads/kommunikation/mozilla-thunderbird/",
+    "pubDate": "2026-10-05T21:10:00.000Z"
+  },
+  {
     "title": "AIDA64 v8.40.8510 Beta",
     "link": "https://www.computerbase.de/downloads/systemtools/aida64/",
     "pubDate": "2026-10-05T16:39:00.000Z"
@@ -190,11 +240,6 @@
     "pubDate": "2026-10-02T09:39:00.000Z"
   },
   {
-    "title": "Microsoft Edge 154.0.4258.53",
-    "link": "https://www.computerbase.de/downloads/browser/microsoft-edge/",
-    "pubDate": "2026-10-02T07:36:00.000Z"
-  },
-  {
     "title": "Screenpresso 2.3.7 (Win 11)",
     "link": "https://www.computerbase.de/downloads/foto-und-grafik/screenpresso/",
     "pubDate": "2026-10-02T07:29:00.000Z"
@@ -203,50 +248,5 @@
     "title": "DaVinci Resolve 21.1.1",
     "link": "https://www.computerbase.de/downloads/audio-und-video/davinci-resolve/",
     "pubDate": "2026-10-02T07:28:00.000Z"
-  },
-  {
-    "title": "Signal 8.29.0",
-    "link": "https://www.computerbase.de/downloads/kommunikation/signal/",
-    "pubDate": "2026-10-02T05:49:00.000Z"
-  },
-  {
-    "title": "iDevice Manager 11.7.2.0",
-    "link": "https://www.computerbase.de/downloads/office/dateitransfer/idevice-manager/",
-    "pubDate": "2026-10-02T05:47:00.000Z"
-  },
-  {
-    "title": "Google Chrome 154.0.8037.97/.98",
-    "link": "https://www.computerbase.de/downloads/browser/google-chrome/",
-    "pubDate": "2026-10-02T05:46:00.000Z"
-  },
-  {
-    "title": "Mozilla Thunderbird 157.0.1",
-    "link": "https://www.computerbase.de/downloads/kommunikation/mozilla-thunderbird/",
-    "pubDate": "2026-10-02T05:45:00.000Z"
-  },
-  {
-    "title": "RustDesk 1.5.0",
-    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/rustdesk/",
-    "pubDate": "2026-10-02T05:41:00.000Z"
-  },
-  {
-    "title": "Evernote 11.36.4",
-    "link": "https://www.computerbase.de/downloads/office/evernote/",
-    "pubDate": "2026-10-02T05:40:00.000Z"
-  },
-  {
-    "title": "Java SE Development Kit 28.0 Build 18 Dev",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/java-se-development-kit/",
-    "pubDate": "2026-10-02T05:40:00.000Z"
-  },
-  {
-    "title": "Xubuntu 26.10 „Stonking Stingray“ Beta",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/xubuntu/",
-    "pubDate": "2026-10-01T21:29:00.000Z"
-  },
-  {
-    "title": "Ubuntu Unity 26.10 „Stonking Stingray“ Beta",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/ubuntu-unity/",
-    "pubDate": "2026-10-01T21:28:00.000Z"
   }
 ]
