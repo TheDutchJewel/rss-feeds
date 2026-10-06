@@ -1,5 +1,60 @@
 [
   {
+    "title": "Git for Windows 2.56.0(2)",
+    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/git-windows/",
+    "pubDate": "2026-10-06T07:34:00.000Z"
+  },
+  {
+    "title": "Asus GPU Tweak III v2.2.0.1 Beta",
+    "link": "https://www.computerbase.de/downloads/systemtools/grafikkarten/asus-gpu-tweak/",
+    "pubDate": "2026-10-06T07:32:00.000Z"
+  },
+  {
+    "title": "itch 26.21.0 Beta",
+    "link": "https://www.computerbase.de/downloads/games/itch/",
+    "pubDate": "2026-10-06T07:30:00.000Z"
+  },
+  {
+    "title": "Gigabyte RGB Fusion 2.0 B26.0923.1",
+    "link": "https://www.computerbase.de/downloads/systemtools/gigabyte-rgb-fusion/",
+    "pubDate": "2026-10-06T07:28:00.000Z"
+  },
+  {
+    "title": "Malwarebytes 5.28.3.4239 (macOS)",
+    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/malwarebytes/",
+    "pubDate": "2026-10-06T07:24:00.000Z"
+  },
+  {
+    "title": "pdfFactory 9.35",
+    "link": "https://www.computerbase.de/downloads/office/pdf/pdffactory/",
+    "pubDate": "2026-10-06T07:20:00.000Z"
+  },
+  {
+    "title": "Ocenaudio 3.22",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/ocenaudio/",
+    "pubDate": "2026-10-06T07:19:00.000Z"
+  },
+  {
+    "title": "AIMP 6.00 Build 3089 Beta 7",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/aimp/",
+    "pubDate": "2026-10-06T07:19:00.000Z"
+  },
+  {
+    "title": "Syncthing 2.1.6",
+    "link": "https://www.computerbase.de/downloads/office/dateimanager/syncthing/",
+    "pubDate": "2026-10-06T07:17:00.000Z"
+  },
+  {
+    "title": "Bazzite 44.20261006",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/bazzite/",
+    "pubDate": "2026-10-06T07:15:00.000Z"
+  },
+  {
+    "title": "MediaInfo 26.10",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/mediainfo/",
+    "pubDate": "2026-10-06T07:14:00.000Z"
+  },
+  {
     "title": "Microsoft Edge 154.0.4258.62",
     "link": "https://www.computerbase.de/downloads/browser/microsoft-edge/",
     "pubDate": "2026-10-05T21:20:00.000Z"
@@ -193,60 +248,5 @@
     "title": "Dropbox 274.3.4801 Beta",
     "link": "https://www.computerbase.de/downloads/office/dateimanager/dropbox/",
     "pubDate": "2026-10-02T21:45:00.000Z"
-  },
-  {
-    "title": "Windows Terminal 1.26.2734.0 Preview",
-    "link": "https://www.computerbase.de/downloads/systemtools/windows-terminal/",
-    "pubDate": "2026-10-02T21:42:00.000Z"
-  },
-  {
-    "title": "Windows Terminal 1.25.2733.0",
-    "link": "https://www.computerbase.de/downloads/systemtools/windows-terminal/",
-    "pubDate": "2026-10-02T21:41:00.000Z"
-  },
-  {
-    "title": "Wine 11.19 Beta (Linux)",
-    "link": "https://www.computerbase.de/downloads/systemtools/wine/",
-    "pubDate": "2026-10-02T21:40:00.000Z"
-  },
-  {
-    "title": "Brave 1.96.61",
-    "link": "https://www.computerbase.de/downloads/browser/brave/",
-    "pubDate": "2026-10-02T21:39:00.000Z"
-  },
-  {
-    "title": "Mailspring 1.26.0",
-    "link": "https://www.computerbase.de/downloads/kommunikation/mailspring/",
-    "pubDate": "2026-10-02T15:05:00.000Z"
-  },
-  {
-    "title": "Monolingual 2.0.1 (macOS)",
-    "link": "https://www.computerbase.de/downloads/systemtools/monolingual/",
-    "pubDate": "2026-10-02T14:42:00.000Z"
-  },
-  {
-    "title": "ZenTimings 141.703 Beta",
-    "link": "https://www.computerbase.de/downloads/systemtools/zentimings/",
-    "pubDate": "2026-10-02T12:44:00.000Z"
-  },
-  {
-    "title": "BetterTouchTool 6.884 (macOS)",
-    "link": "https://www.computerbase.de/downloads/systemtools/bettertouchtool/",
-    "pubDate": "2026-10-02T12:36:00.000Z"
-  },
-  {
-    "title": "AIMP 6.00 Build 3088 Beta 7",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/aimp/",
-    "pubDate": "2026-10-02T09:39:00.000Z"
-  },
-  {
-    "title": "Screenpresso 2.3.7 (Win 11)",
-    "link": "https://www.computerbase.de/downloads/foto-und-grafik/screenpresso/",
-    "pubDate": "2026-10-02T07:29:00.000Z"
-  },
-  {
-    "title": "DaVinci Resolve 21.1.1",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/davinci-resolve/",
-    "pubDate": "2026-10-02T07:28:00.000Z"
   }
 ]
