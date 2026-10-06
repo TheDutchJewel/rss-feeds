@@ -1,5 +1,10 @@
 [
   {
+    "title": "Git updated to 2.56.0.2.",
+    "link": "https://ninite.com/git/",
+    "pubDate": "Tue, 06 Oct 2026 00:31:15 -0000"
+  },
+  {
     "title": "TightVNC updated to 2.8.90.",
     "link": "https://ninite.com/tightvnc/",
     "pubDate": "Mon, 05 Oct 2026 20:49:02 -0000"
@@ -348,15 +353,5 @@
     "title": "Chrome updated to 154.0.8037.58.",
     "link": "https://ninite.com/chrome/",
     "pubDate": "Tue, 22 Sep 2026 20:07:13 -0000"
-  },
-  {
-    "title": "XnView updated to 2.52.6.",
-    "link": "https://ninite.com/xnview/",
-    "pubDate": "Tue, 22 Sep 2026 15:06:28 -0000"
-  },
-  {
-    "title": "Cursor updated to 3.21.18.",
-    "link": "https://ninite.com/cursor/",
-    "pubDate": "Tue, 22 Sep 2026 13:53:51 -0000"
   }
 ]
