@@ -5,6 +5,42 @@
     <link>https://www.gratissoftwaresite.nl/downloads/nieuwe-updates</link>
     <description>Nieuwste software-updates van GratisSoftwareSite</description>
     <item>
+      <title>AnyDesk 9.8.1</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/anydesk-remote-desktop-pc-hulp-op-afstand</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/anydesk-remote-desktop-pc-hulp-op-afstand</guid>
+      <pubDate>6 oktober 2026</pubDate>
+    </item>
+    <item>
+      <title>NirLauncher Utilities 1.30.26</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/nirlauncher-nirsoft-utilities-werktuigen-tools-pc-onderhoud-beheer</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/nirlauncher-nirsoft-utilities-werktuigen-tools-pc-onderhoud-beheer</guid>
+      <pubDate>6 oktober 2026</pubDate>
+    </item>
+    <item>
+      <title>WinDirStat 2.9.2</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/windirstat-werktuig-tools-schijfruimte</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/windirstat-werktuig-tools-schijfruimte</guid>
+      <pubDate>6 oktober 2026</pubDate>
+    </item>
+    <item>
+      <title>Pale Moon 35.0.2</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/pale-moon-web-browser-internet</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/pale-moon-web-browser-internet</guid>
+      <pubDate>6 oktober 2026</pubDate>
+    </item>
+    <item>
+      <title>7-Zip 26.04</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/7-zip-compressie-unzip</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/7-zip-compressie-unzip</guid>
+      <pubDate>6 oktober 2026</pubDate>
+    </item>
+    <item>
+      <title>Firefox 157.0.1</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/firefox-internet-web-browser</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/firefox-internet-web-browser</guid>
+      <pubDate>6 oktober 2026</pubDate>
+    </item>
+    <item>
       <title>Clementine 1.4.2-36</title>
       <link>https://www.gratissoftwaresite.nl/downloads/clementine-audio-muziekspeler-online</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/clementine-audio-muziekspeler-online</guid>
@@ -221,12 +257,6 @@
       <pubDate>30 september 2026</pubDate>
     </item>
     <item>
-      <title>AnyDesk 9.8.0</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/anydesk-remote-desktop-pc-hulp-op-afstand</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/anydesk-remote-desktop-pc-hulp-op-afstand</guid>
-      <pubDate>30 september 2026</pubDate>
-    </item>
-    <item>
       <title>Tor Browser 15.0.24</title>
       <link>https://www.gratissoftwaresite.nl/downloads/tor-browser-internet-web-anoniem-surfen-ip-verbergen</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/tor-browser-internet-web-anoniem-surfen-ip-verbergen</guid>
@@ -255,12 +285,6 @@
       <link>https://www.gratissoftwaresite.nl/downloads/oo-shutup10-privacy-extra-beveiliging-phone-home</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/oo-shutup10-privacy-extra-beveiliging-phone-home</guid>
       <pubDate>30 september 2026</pubDate>
-    </item>
-    <item>
-      <title>Firefox 157.0</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/firefox-internet-web-browser</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/firefox-internet-web-browser</guid>
-      <pubDate>29 september 2026</pubDate>
     </item>
     <item>
       <title>Stellarium 26.3</title>
@@ -326,12 +350,6 @@
       <title/>
       <link>https://www.gratissoftwaresite.nl/downloads/ios-mobiel-besturingssysteem-os-iphone</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/ios-mobiel-besturingssysteem-os-iphone</guid>
-      <pubDate>27 september 2026</pubDate>
-    </item>
-    <item>
-      <title>WinDirStat 2.9.0</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/windirstat-werktuig-tools-schijfruimte</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/windirstat-werktuig-tools-schijfruimte</guid>
       <pubDate>27 september 2026</pubDate>
     </item>
     <item>
@@ -407,12 +425,6 @@
       <pubDate>22 september 2026</pubDate>
     </item>
     <item>
-      <title>Pale Moon 35.0.1</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/pale-moon-web-browser-internet</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/pale-moon-web-browser-internet</guid>
-      <pubDate>22 september 2026</pubDate>
-    </item>
-    <item>
       <title>VirtualBox 7.2.18</title>
       <link>https://www.gratissoftwaresite.nl/downloads/virtualbox-virtualisatie-os-virtuele-machine</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/virtualbox-virtualisatie-os-virtuele-machine</guid>
@@ -473,7 +485,7 @@
       <pubDate>21 september 2026</pubDate>
     </item>
     <item>
-      <title>Media Player Classic - Home Cinema 2.8.2</title>
+      <title>Media Player Classic - HC 2.8.2</title>
       <link>https://www.gratissoftwaresite.nl/downloads/media-player-classic-home-cinema-mediaspeler</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/media-player-classic-home-cinema-mediaspeler</guid>
       <pubDate>19 september 2026</pubDate>
@@ -555,18 +567,6 @@
       <link>https://www.gratissoftwaresite.nl/downloads/blender-3d-animatie-films</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/blender-3d-animatie-films</guid>
       <pubDate>16 september 2026</pubDate>
-    </item>
-    <item>
-      <title>UniGetUI 26.3.0</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/unigetui-software-update-controle-verwijderen</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/unigetui-software-update-controle-verwijderen</guid>
-      <pubDate>16 september 2026</pubDate>
-    </item>
-    <item>
-      <title>iTunes 12.13.11.1</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/itunes-mediaspeler-synchroniseer-iphone-ipad</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/itunes-mediaspeler-synchroniseer-iphone-ipad</guid>
-      <pubDate>15 september 2026</pubDate>
     </item>
   </channel>
 </rss>

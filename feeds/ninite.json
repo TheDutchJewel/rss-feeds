@@ -1,5 +1,60 @@
 [
   {
+    "title": "VSTO Runtime updated to 10.0.60917.",
+    "link": "https://ninite.com/vstoruntime/",
+    "pubDate": "Tue, 06 Oct 2026 16:14:48 -0000"
+  },
+  {
+    "title": "Telegram updated to 7.2.9.",
+    "link": "https://ninite.com/telegram/",
+    "pubDate": "Tue, 06 Oct 2026 16:14:36 -0000"
+  },
+  {
+    "title": "Claude updated to 2.19675.1.",
+    "link": "https://ninite.com/claude/",
+    "pubDate": "Tue, 06 Oct 2026 14:35:11 -0000"
+  },
+  {
+    "title": "WinDirStat updated to 2.9.2.2243.",
+    "link": "https://ninite.com/windirstat/",
+    "pubDate": "Tue, 06 Oct 2026 14:31:39 -0000"
+  },
+  {
+    "title": "Node.js 26 updated to 26.10.0.",
+    "link": "https://ninite.com/node.js26/",
+    "pubDate": "Tue, 06 Oct 2026 14:31:29 -0000"
+  },
+  {
+    "title": "Node.js 24 updated to 24.21.0.",
+    "link": "https://ninite.com/node.js24/",
+    "pubDate": "Tue, 06 Oct 2026 14:31:19 -0000"
+  },
+  {
+    "title": "Node.js 22 updated to 22.23.3.",
+    "link": "https://ninite.com/node.js22/",
+    "pubDate": "Tue, 06 Oct 2026 14:31:00 -0000"
+  },
+  {
+    "title": "ChatGPT updated to 26.930.7945.",
+    "link": "https://ninite.com/chatgpt/",
+    "pubDate": "Tue, 06 Oct 2026 14:16:42 -0000"
+  },
+  {
+    "title": "Firefox updated to 157.0.1.",
+    "link": "https://ninite.com/firefox/",
+    "pubDate": "Tue, 06 Oct 2026 13:40:47 -0000"
+  },
+  {
+    "title": "AnyDesk updated to 9.8.1.",
+    "link": "https://ninite.com/anydesk/",
+    "pubDate": "Tue, 06 Oct 2026 12:24:32 -0000"
+  },
+  {
+    "title": "7-Zip updated to 26.04.",
+    "link": "https://ninite.com/7zip/",
+    "pubDate": "Tue, 06 Oct 2026 12:22:15 -0000"
+  },
+  {
     "title": "Slack updated to 4.52.178.",
     "link": "https://ninite.com/slack/",
     "pubDate": "Tue, 06 Oct 2026 09:22:26 -0000"
@@ -308,45 +363,5 @@
     "title": "Edge updated to 154.0.4258.37.",
     "link": "https://ninite.com/edge/",
     "pubDate": "Fri, 25 Sep 2026 06:36:01 -0000"
-  },
-  {
-    "title": "Notepad++ updated to 8.9.8.1.",
-    "link": "https://ninite.com/notepadplusplus/",
-    "pubDate": "Thu, 24 Sep 2026 18:20:38 -0000"
-  },
-  {
-    "title": "Discord updated to 1.0.9259.",
-    "link": "https://ninite.com/discord/",
-    "pubDate": "Thu, 24 Sep 2026 18:20:24 -0000"
-  },
-  {
-    "title": "Cursor updated to 3.22.7.",
-    "link": "https://ninite.com/cursor/",
-    "pubDate": "Thu, 24 Sep 2026 18:20:18 -0000"
-  },
-  {
-    "title": "Vivaldi updated to 8.2.4133.76.",
-    "link": "https://ninite.com/vivaldi/",
-    "pubDate": "Thu, 24 Sep 2026 15:35:42 -0000"
-  },
-  {
-    "title": "Epic Games Launcher updated to 1.3.210.0.",
-    "link": "https://ninite.com/epic/",
-    "pubDate": "Thu, 24 Sep 2026 15:00:49 -0000"
-  },
-  {
-    "title": "Opera Chromium updated to 136.0.6008.52.",
-    "link": "https://ninite.com/operaChromium/",
-    "pubDate": "Thu, 24 Sep 2026 08:50:34 -0000"
-  },
-  {
-    "title": "Malwarebytes updated to 5.7.1.346.",
-    "link": "https://ninite.com/malwarebytes/",
-    "pubDate": "Wed, 23 Sep 2026 18:46:27 -0000"
-  },
-  {
-    "title": "XnView updated to 2.52.7.",
-    "link": "https://ninite.com/xnview/",
-    "pubDate": "Wed, 23 Sep 2026 17:18:10 -0000"
   }
 ]

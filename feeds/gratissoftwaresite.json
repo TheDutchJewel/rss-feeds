@@ -1,5 +1,35 @@
 [
     {
+        "title": "AnyDesk 9.8.1",
+        "link": "https://www.gratissoftwaresite.nl/downloads/anydesk-remote-desktop-pc-hulp-op-afstand",
+        "pubDate": "6 oktober 2026"
+    },
+    {
+        "title": "NirLauncher Utilities 1.30.26",
+        "link": "https://www.gratissoftwaresite.nl/downloads/nirlauncher-nirsoft-utilities-werktuigen-tools-pc-onderhoud-beheer",
+        "pubDate": "6 oktober 2026"
+    },
+    {
+        "title": "WinDirStat 2.9.2",
+        "link": "https://www.gratissoftwaresite.nl/downloads/windirstat-werktuig-tools-schijfruimte",
+        "pubDate": "6 oktober 2026"
+    },
+    {
+        "title": "Pale Moon 35.0.2",
+        "link": "https://www.gratissoftwaresite.nl/downloads/pale-moon-web-browser-internet",
+        "pubDate": "6 oktober 2026"
+    },
+    {
+        "title": "7-Zip 26.04",
+        "link": "https://www.gratissoftwaresite.nl/downloads/7-zip-compressie-unzip",
+        "pubDate": "6 oktober 2026"
+    },
+    {
+        "title": "Firefox 157.0.1",
+        "link": "https://www.gratissoftwaresite.nl/downloads/firefox-internet-web-browser",
+        "pubDate": "6 oktober 2026"
+    },
+    {
         "title": "Clementine 1.4.2-36",
         "link": "https://www.gratissoftwaresite.nl/downloads/clementine-audio-muziekspeler-online",
         "pubDate": "6 oktober 2026"
@@ -180,11 +210,6 @@
         "pubDate": "30 september 2026"
     },
     {
-        "title": "AnyDesk 9.8.0",
-        "link": "https://www.gratissoftwaresite.nl/downloads/anydesk-remote-desktop-pc-hulp-op-afstand",
-        "pubDate": "30 september 2026"
-    },
-    {
         "title": "Tor Browser 15.0.24",
         "link": "https://www.gratissoftwaresite.nl/downloads/tor-browser-internet-web-anoniem-surfen-ip-verbergen",
         "pubDate": "30 september 2026"
@@ -208,11 +233,6 @@
         "title": "O&O ShutUp10++ 3.6.1135",
         "link": "https://www.gratissoftwaresite.nl/downloads/oo-shutup10-privacy-extra-beveiliging-phone-home",
         "pubDate": "30 september 2026"
-    },
-    {
-        "title": "Firefox 157.0",
-        "link": "https://www.gratissoftwaresite.nl/downloads/firefox-internet-web-browser",
-        "pubDate": "29 september 2026"
     },
     {
         "title": "Stellarium 26.3",
@@ -267,11 +287,6 @@
     {
         "title": "iOS en iPadOS 27.0 & 26.7...",
         "link": "https://www.gratissoftwaresite.nl/downloads/ios-mobiel-besturingssysteem-os-iphone",
-        "pubDate": "27 september 2026"
-    },
-    {
-        "title": "WinDirStat 2.9.0",
-        "link": "https://www.gratissoftwaresite.nl/downloads/windirstat-werktuig-tools-schijfruimte",
         "pubDate": "27 september 2026"
     },
     {
@@ -335,11 +350,6 @@
         "pubDate": "22 september 2026"
     },
     {
-        "title": "Pale Moon 35.0.1",
-        "link": "https://www.gratissoftwaresite.nl/downloads/pale-moon-web-browser-internet",
-        "pubDate": "22 september 2026"
-    },
-    {
         "title": "VirtualBox 7.2.18",
         "link": "https://www.gratissoftwaresite.nl/downloads/virtualbox-virtualisatie-os-virtuele-machine",
         "pubDate": "22 september 2026"
@@ -390,7 +400,7 @@
         "pubDate": "21 september 2026"
     },
     {
-        "title": "Media Player Classic - Home Cinema 2.8.2",
+        "title": "Media Player Classic - HC 2.8.2",
         "link": "https://www.gratissoftwaresite.nl/downloads/media-player-classic-home-cinema-mediaspeler",
         "pubDate": "19 september 2026"
     },
@@ -458,15 +468,5 @@
         "title": "Blender 5.2.2 LTS & 4....",
         "link": "https://www.gratissoftwaresite.nl/downloads/blender-3d-animatie-films",
         "pubDate": "16 september 2026"
-    },
-    {
-        "title": "UniGetUI 26.3.0",
-        "link": "https://www.gratissoftwaresite.nl/downloads/unigetui-software-update-controle-verwijderen",
-        "pubDate": "16 september 2026"
-    },
-    {
-        "title": "iTunes 12.13.11.1",
-        "link": "https://www.gratissoftwaresite.nl/downloads/itunes-mediaspeler-synchroniseer-iphone-ipad",
-        "pubDate": "15 september 2026"
     }
 ]

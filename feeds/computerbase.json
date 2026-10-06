@@ -1,5 +1,65 @@
 [
   {
+    "title": "XnConvert 1.117",
+    "link": "https://www.computerbase.de/downloads/foto-und-grafik/xnconvert/",
+    "pubDate": "2026-10-06T15:11:00.000Z"
+  },
+  {
+    "title": "SteelSeries GG 121.0.0",
+    "link": "https://www.computerbase.de/downloads/treiber/eingabegeraete/steelseries-gg/",
+    "pubDate": "2026-10-06T15:09:00.000Z"
+  },
+  {
+    "title": "Bitdefender Antivirus Free 27.0.63.360",
+    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/bitdefender-antivirus/",
+    "pubDate": "2026-10-06T15:09:00.000Z"
+  },
+  {
+    "title": "Revo Uninstaller Free 2.7.2",
+    "link": "https://www.computerbase.de/downloads/systemtools/revo-uninstaller-free/",
+    "pubDate": "2026-10-06T15:07:00.000Z"
+  },
+  {
+    "title": "7-Zip 26.04",
+    "link": "https://www.computerbase.de/downloads/office/packprogramme/7-zip/",
+    "pubDate": "2026-10-06T15:06:00.000Z"
+  },
+  {
+    "title": "Evernote 11.37.5",
+    "link": "https://www.computerbase.de/downloads/office/evernote/",
+    "pubDate": "2026-10-06T15:05:00.000Z"
+  },
+  {
+    "title": "AnyDesk 9.8.1",
+    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/anydesk/",
+    "pubDate": "2026-10-06T15:04:00.000Z"
+  },
+  {
+    "title": "HWMonitor for ARM64 1.06",
+    "link": "https://www.computerbase.de/downloads/systemtools/hwmonitor/",
+    "pubDate": "2026-10-06T15:03:00.000Z"
+  },
+  {
+    "title": "Mozilla Firefox 157.0.1",
+    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
+    "pubDate": "2026-10-06T15:02:00.000Z"
+  },
+  {
+    "title": "NirLauncher 1.30.26",
+    "link": "https://www.computerbase.de/downloads/systemtools/nirlauncher/",
+    "pubDate": "2026-10-06T15:01:00.000Z"
+  },
+  {
+    "title": "CPU-Z for ARM64 1.06 (Win 11)",
+    "link": "https://www.computerbase.de/downloads/systemtools/cpu-z/",
+    "pubDate": "2026-10-06T14:59:00.000Z"
+  },
+  {
+    "title": "WinDirStat 2.9.2",
+    "link": "https://www.computerbase.de/downloads/office/dateimanager/windirstat/",
+    "pubDate": "2026-10-06T14:58:00.000Z"
+  },
+  {
     "title": "Git for Windows 2.56.0(2)",
     "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/git-windows/",
     "pubDate": "2026-10-06T07:34:00.000Z"
@@ -188,65 +248,5 @@
     "title": "Intel Arc & Xe Grafiktreiber 32.0.101.9034",
     "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/intel-grafiktreiber/",
     "pubDate": "2026-10-04T08:59:00.000Z"
-  },
-  {
-    "title": "LibreOffice 26.8.1",
-    "link": "https://www.computerbase.de/downloads/office/libreoffice/",
-    "pubDate": "2026-10-04T08:56:00.000Z"
-  },
-  {
-    "title": "openSUSE Tumbleweed 2026-10",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/opensuse/",
-    "pubDate": "2026-10-03T18:04:00.000Z"
-  },
-  {
-    "title": "YUMI Py 1.0.9",
-    "link": "https://www.computerbase.de/downloads/systemtools/festplatten/yumi/",
-    "pubDate": "2026-10-03T17:39:00.000Z"
-  },
-  {
-    "title": "CS Browser 13.6.3",
-    "link": "https://www.computerbase.de/downloads/office/dateitransfer/s3-browser/",
-    "pubDate": "2026-10-03T17:38:00.000Z"
-  },
-  {
-    "title": "Iriun Webcam 2.9.9",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/iriun-webcam/",
-    "pubDate": "2026-10-03T17:37:00.000Z"
-  },
-  {
-    "title": "Linux Kernel 7.2.9 (Linux)",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/linux-kernel/",
-    "pubDate": "2026-10-03T16:49:00.000Z"
-  },
-  {
-    "title": "Linux Kernel 6.18.55 (Linux)",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/linux-kernel/",
-    "pubDate": "2026-10-03T16:48:00.000Z"
-  },
-  {
-    "title": "AutoHotkey 2.0.29",
-    "link": "https://www.computerbase.de/downloads/systemtools/autohotkey/",
-    "pubDate": "2026-10-03T09:53:00.000Z"
-  },
-  {
-    "title": "Paint.NET 5.2.0 Beta Build 9772.9330",
-    "link": "https://www.computerbase.de/downloads/foto-und-grafik/paint.net/",
-    "pubDate": "2026-10-03T07:40:00.000Z"
-  },
-  {
-    "title": "OBS Studio 33.0.0 Beta 6",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/obs-studio/",
-    "pubDate": "2026-10-03T07:38:00.000Z"
-  },
-  {
-    "title": "ZenTimings 141.706",
-    "link": "https://www.computerbase.de/downloads/systemtools/zentimings/",
-    "pubDate": "2026-10-03T07:37:00.000Z"
-  },
-  {
-    "title": "Dropbox 274.3.4801 Beta",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/dropbox/",
-    "pubDate": "2026-10-02T21:45:00.000Z"
   }
 ]
