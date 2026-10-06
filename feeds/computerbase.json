@@ -1,5 +1,65 @@
 [
   {
+    "title": "Corsair iCUE 5.52.87",
+    "link": "https://www.computerbase.de/downloads/systemtools/corsair-utility-engine/",
+    "pubDate": "2026-10-06T18:19:00.000Z"
+  },
+  {
+    "title": "Nextcloud Client 34.0.5",
+    "link": "https://www.computerbase.de/downloads/office/dateimanager/nextcloud/",
+    "pubDate": "2026-10-06T17:50:00.000Z"
+  },
+  {
+    "title": "Ubisoft Connect 174.1.0.13380",
+    "link": "https://www.computerbase.de/downloads/games/ubisoft-connect/",
+    "pubDate": "2026-10-06T17:49:00.000Z"
+  },
+  {
+    "title": "Adobe Acrobat Reader DC (26.002.2xxxx)",
+    "link": "https://www.computerbase.de/downloads/office/pdf/adobe-acrobat-reader/",
+    "pubDate": "2026-10-06T17:45:00.000Z"
+  },
+  {
+    "title": "Camtasia 2026.2.4 (macOS)",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/camtasia-studio/",
+    "pubDate": "2026-10-06T17:41:00.000Z"
+  },
+  {
+    "title": "Snagit 2026.4.0",
+    "link": "https://www.computerbase.de/downloads/foto-und-grafik/snagit/",
+    "pubDate": "2026-10-06T17:40:00.000Z"
+  },
+  {
+    "title": "FurMark 1.39.4",
+    "link": "https://www.computerbase.de/downloads/benchmarks/furmark/",
+    "pubDate": "2026-10-06T17:37:00.000Z"
+  },
+  {
+    "title": "Google Chrome 155.0.8059.39/.40",
+    "link": "https://www.computerbase.de/downloads/browser/google-chrome/",
+    "pubDate": "2026-10-06T17:34:00.000Z"
+  },
+  {
+    "title": "SmartFTP 10.0 Build 3332 (Win 11)",
+    "link": "https://www.computerbase.de/downloads/office/dateitransfer/smartftp/",
+    "pubDate": "2026-10-06T17:32:00.000Z"
+  },
+  {
+    "title": "AMD Radeon Treiber für Linux 26.16 (Linux)",
+    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/amd-radeon-treiber-linux/",
+    "pubDate": "2026-10-06T17:32:00.000Z"
+  },
+  {
+    "title": "Nvidia Studio-Treiber 617.42",
+    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/nvidia-studio-treiber/",
+    "pubDate": "2026-10-06T17:27:00.000Z"
+  },
+  {
+    "title": "Nvidia GeForce-Treiber 617.42",
+    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/nvidia-geforce-treiber/",
+    "pubDate": "2026-10-06T17:27:00.000Z"
+  },
+  {
     "title": "XnConvert 1.117",
     "link": "https://www.computerbase.de/downloads/foto-und-grafik/xnconvert/",
     "pubDate": "2026-10-06T15:11:00.000Z"
@@ -188,65 +248,5 @@
     "title": "TightVNC 2.8.90",
     "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/tightvnc/",
     "pubDate": "2026-10-05T12:01:00.000Z"
-  },
-  {
-    "title": "ProtonVPN 4.18.6 (Linux)",
-    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/protonvpn/",
-    "pubDate": "2026-10-05T10:58:00.000Z"
-  },
-  {
-    "title": "TreeSize 9.9",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/treesize/",
-    "pubDate": "2026-10-05T10:58:00.000Z"
-  },
-  {
-    "title": "scrcpy 5.0",
-    "link": "https://www.computerbase.de/downloads/office/scrcpy/",
-    "pubDate": "2026-10-05T10:56:00.000Z"
-  },
-  {
-    "title": "Realtek Ethernet Controller Driver 11.31 (09222026) (Win 11)",
-    "link": "https://www.computerbase.de/downloads/treiber/netzwerk/realtek-ethernet-controller-driver/",
-    "pubDate": "2026-10-05T09:52:00.000Z"
-  },
-  {
-    "title": "Realtek Ethernet Controller Driver 10.080 (09222026)",
-    "link": "https://www.computerbase.de/downloads/treiber/netzwerk/realtek-ethernet-controller-driver/",
-    "pubDate": "2026-10-05T09:51:00.000Z"
-  },
-  {
-    "title": "1Password 8.12.40",
-    "link": "https://www.computerbase.de/downloads/sicherheit/passwortmanager/1password/",
-    "pubDate": "2026-10-05T09:46:00.000Z"
-  },
-  {
-    "title": "HyperSnap 10.4.3",
-    "link": "https://www.computerbase.de/downloads/foto-und-grafik/hypersnap/",
-    "pubDate": "2026-10-04T17:01:00.000Z"
-  },
-  {
-    "title": "Vivaldi 8.2 Build 4133.83",
-    "link": "https://www.computerbase.de/downloads/browser/vivaldi/",
-    "pubDate": "2026-10-04T16:17:00.000Z"
-  },
-  {
-    "title": "Fan Control V282",
-    "link": "https://www.computerbase.de/downloads/systemtools/fan-control/",
-    "pubDate": "2026-10-04T16:16:00.000Z"
-  },
-  {
-    "title": "CapFrameX 1.9.2 Beta",
-    "link": "https://www.computerbase.de/downloads/systemtools/grafikkarten/capframex-tool/",
-    "pubDate": "2026-10-04T14:57:00.000Z"
-  },
-  {
-    "title": "WinMerge 2.16.59 Beta",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/winmerge/",
-    "pubDate": "2026-10-04T14:52:00.000Z"
-  },
-  {
-    "title": "Intel Arc & Xe Grafiktreiber 32.0.101.9034",
-    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/intel-grafiktreiber/",
-    "pubDate": "2026-10-04T08:59:00.000Z"
   }
 ]
