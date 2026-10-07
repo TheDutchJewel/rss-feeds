@@ -1,5 +1,35 @@
 [
   {
+    "title": "TeamViewer Portable 15.82.6 (pc control, screen sharing) Released",
+    "link": "https://portableapps.com/news/2026-10-07--teamviewer-portable-15.82.6-released",
+    "pubDate": "Wed, 07 Oct 2026 16:50:14 +0000"
+  },
+  {
+    "title": "HWiNFO 32+64 Portable 8.54.6090 (detailed info about your hardware and software) Released",
+    "link": "https://portableapps.com/news/2026-10-07--hwinfo-portable-8.54.6090-released",
+    "pubDate": "Wed, 07 Oct 2026 16:46:28 +0000"
+  },
+  {
+    "title": "Chromium Portable 154.0.8037.98 (web browser) Released",
+    "link": "https://portableapps.com/news/2026-10-07--chromium-portable-154.0.8037.98-released",
+    "pubDate": "Wed, 07 Oct 2026 16:44:06 +0000"
+  },
+  {
+    "title": "Google Chrome Portable 157 Dev (web browser) Released",
+    "link": "https://portableapps.com/news/2026-10-07--google-chrome-portable-157-dev-released",
+    "pubDate": "Wed, 07 Oct 2026 16:42:33 +0000"
+  },
+  {
+    "title": "Google Chrome Portable 156 Beta (web browser) Released",
+    "link": "https://portableapps.com/news/2026-10-07--google-chrome-portable-156-beta-released",
+    "pubDate": "Wed, 07 Oct 2026 16:42:08 +0000"
+  },
+  {
+    "title": "Google Chrome Portable 155.0.8059.40 Stable (web browser) Released",
+    "link": "https://portableapps.com/news/2026-10-07--google-chrome-portable-155.0.8059.40-released",
+    "pubDate": "Wed, 07 Oct 2026 16:41:44 +0000"
+  },
+  {
     "title": "Mozilla Firefox, Portable Edition Legacy 115.42.0 (web browser) Released",
     "link": "https://portableapps.com/news/2026-10-06--firefox-portable-legacy-115.42.0-released",
     "pubDate": "Tue, 06 Oct 2026 23:55:01 +0000"
@@ -43,35 +73,5 @@
     "title": "Thunderbird, Portable Edition 157.0.1 (email client) Released",
     "link": "https://portableapps.com/news/2026-10-05--thunderbird-portable-157.0.1-released",
     "pubDate": "Mon, 05 Oct 2026 18:07:01 +0000"
-  },
-  {
-    "title": "Mozilla Firefox, Portable Edition Stable 157.0 (web browser) Released",
-    "link": "https://portableapps.com/news/2026-10-03--firefox-portable-157.0-released",
-    "pubDate": "Sun, 04 Oct 2026 00:24:28 +0000"
-  },
-  {
-    "title": "VLC Media Player Portable 3.0.24 (audio and video player) Released",
-    "link": "https://portableapps.com/news/2026-09-30--vlc-media-player-portable-3.0.24-released",
-    "pubDate": "Thu, 01 Oct 2026 04:30:38 +0000"
-  },
-  {
-    "title": "Notepad++ Portable 8.9.8.1 (developer's text editor) Released",
-    "link": "https://portableapps.com/news/2026-09-25--notepadpp-portable-8.9.8.1-released",
-    "pubDate": "Fri, 25 Sep 2026 04:20:16 +0000"
-  },
-  {
-    "title": "ZoomIt Portable 12.22 (screen zoom and draw for presentations) Released",
-    "link": "https://portableapps.com/news/2026-09-24--zoomit-portable-12.22-released",
-    "pubDate": "Thu, 24 Sep 2026 20:15:07 +0000"
-  },
-  {
-    "title": "DebugView Portable 5.0.2 (system debug output monitor) Released",
-    "link": "https://portableapps.com/news/2026-09-24--debugview-portable-5.0.2-released",
-    "pubDate": "Thu, 24 Sep 2026 20:12:30 +0000"
-  },
-  {
-    "title": "Coreinfo Portable 4.0.2 (Processor details utility) Released",
-    "link": "https://portableapps.com/news/2026-09-24--coreinfo-portable-4.0.2-released",
-    "pubDate": "Thu, 24 Sep 2026 20:08:42 +0000"
   }
 ]

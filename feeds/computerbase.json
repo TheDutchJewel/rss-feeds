@@ -1,5 +1,80 @@
 [
   {
+    "title": "Krita 5.3.4.1",
+    "link": "https://www.computerbase.de/downloads/foto-und-grafik/krita/",
+    "pubDate": "2026-10-07T18:02:00.000Z"
+  },
+  {
+    "title": "Krita 6.0.4.1",
+    "link": "https://www.computerbase.de/downloads/foto-und-grafik/krita/",
+    "pubDate": "2026-10-07T18:02:00.000Z"
+  },
+  {
+    "title": "Viber für Desktop 29.0.0.0",
+    "link": "https://www.computerbase.de/downloads/kommunikation/viber-fuer-desktop/",
+    "pubDate": "2026-10-07T18:01:00.000Z"
+  },
+  {
+    "title": "Nvidia Linux Display Driver 615.78.08 NFB (Linux)",
+    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/nvidia-linux-display-driver/",
+    "pubDate": "2026-10-07T17:53:00.000Z"
+  },
+  {
+    "title": "Geekbench 7.1.0",
+    "link": "https://www.computerbase.de/downloads/benchmarks/geekbench/",
+    "pubDate": "2026-10-07T17:49:00.000Z"
+  },
+  {
+    "title": "EA-App 13.805.2.6319",
+    "link": "https://www.computerbase.de/downloads/games/ea-app/",
+    "pubDate": "2026-10-07T17:40:00.000Z"
+  },
+  {
+    "title": "DiskInternals Linux Reader 5.3",
+    "link": "https://www.computerbase.de/downloads/systemtools/festplatten/diskinternals-linux-reader/",
+    "pubDate": "2026-10-07T17:37:00.000Z"
+  },
+  {
+    "title": "ShareMouse for Mac 7.0.30 (macOS)",
+    "link": "https://www.computerbase.de/downloads/treiber/eingabegeraete/sharemouse/",
+    "pubDate": "2026-10-07T17:36:00.000Z"
+  },
+  {
+    "title": "Snagit 2026.4.0 (macOS)",
+    "link": "https://www.computerbase.de/downloads/foto-und-grafik/snagit/",
+    "pubDate": "2026-10-07T15:32:00.000Z"
+  },
+  {
+    "title": "Opera 137.0.6036.39",
+    "link": "https://www.computerbase.de/downloads/browser/opera/",
+    "pubDate": "2026-10-07T15:31:00.000Z"
+  },
+  {
+    "title": "Internet Download Manager 6.43 Build 14",
+    "link": "https://www.computerbase.de/downloads/office/dateitransfer/internet-download-manager/",
+    "pubDate": "2026-10-07T15:30:00.000Z"
+  },
+  {
+    "title": "1Password 8.12.42-32 Beta",
+    "link": "https://www.computerbase.de/downloads/sicherheit/passwortmanager/1password/",
+    "pubDate": "2026-10-07T15:29:00.000Z"
+  },
+  {
+    "title": "OpenVPN 2.7.8",
+    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/openvpn/",
+    "pubDate": "2026-10-07T15:28:00.000Z"
+  },
+  {
+    "title": "Duplicati 2.4.0.1",
+    "link": "https://www.computerbase.de/downloads/sicherheit/backup/duplicati/",
+    "pubDate": "2026-10-07T15:27:00.000Z"
+  },
+  {
+    "title": "Mozilla Thunderbird 158.0 Beta 4",
+    "link": "https://www.computerbase.de/downloads/kommunikation/mozilla-thunderbird/",
+    "pubDate": "2026-10-07T15:24:00.000Z"
+  },
+  {
     "title": "O&O Defrag 32.1 Build 26138",
     "link": "https://www.computerbase.de/downloads/systemtools/festplatten/o-und-o-defrag/",
     "pubDate": "2026-10-07T11:28:00.000Z"
@@ -173,80 +248,5 @@
     "title": "pdfFactory 9.35",
     "link": "https://www.computerbase.de/downloads/office/pdf/pdffactory/",
     "pubDate": "2026-10-06T07:20:00.000Z"
-  },
-  {
-    "title": "Ocenaudio 3.22",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/ocenaudio/",
-    "pubDate": "2026-10-06T07:19:00.000Z"
-  },
-  {
-    "title": "AIMP 6.00 Build 3089 Beta 7",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/aimp/",
-    "pubDate": "2026-10-06T07:19:00.000Z"
-  },
-  {
-    "title": "Syncthing 2.1.6",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/syncthing/",
-    "pubDate": "2026-10-06T07:17:00.000Z"
-  },
-  {
-    "title": "MediaInfo 26.10",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/mediainfo/",
-    "pubDate": "2026-10-06T07:14:00.000Z"
-  },
-  {
-    "title": "Microsoft Edge 154.0.4258.62",
-    "link": "https://www.computerbase.de/downloads/browser/microsoft-edge/",
-    "pubDate": "2026-10-05T21:20:00.000Z"
-  },
-  {
-    "title": "Slack 4.52.178 (Win 11)",
-    "link": "https://www.computerbase.de/downloads/kommunikation/slack/",
-    "pubDate": "2026-10-05T21:19:00.000Z"
-  },
-  {
-    "title": "Slack 4.52.178 (macOS)",
-    "link": "https://www.computerbase.de/downloads/kommunikation/slack/",
-    "pubDate": "2026-10-05T21:18:00.000Z"
-  },
-  {
-    "title": "Slack 4.52.178 Beta (Linux)",
-    "link": "https://www.computerbase.de/downloads/kommunikation/slack/",
-    "pubDate": "2026-10-05T21:17:00.000Z"
-  },
-  {
-    "title": "Rocket.Chat Server 8.9.0 (Linux)",
-    "link": "https://www.computerbase.de/downloads/kommunikation/rocket.chat/",
-    "pubDate": "2026-10-05T21:16:00.000Z"
-  },
-  {
-    "title": "Discord 0.0.415 (macOS)",
-    "link": "https://www.computerbase.de/downloads/kommunikation/discord/",
-    "pubDate": "2026-10-05T21:15:00.000Z"
-  },
-  {
-    "title": "Discord 1.0.161 (Linux)",
-    "link": "https://www.computerbase.de/downloads/kommunikation/discord/",
-    "pubDate": "2026-10-05T21:15:00.000Z"
-  },
-  {
-    "title": "Obsidian 1.14.4",
-    "link": "https://www.computerbase.de/downloads/office/obsidian/",
-    "pubDate": "2026-10-05T21:13:00.000Z"
-  },
-  {
-    "title": "ChromeOS Flex 1.0.0",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/chromeos-flex/",
-    "pubDate": "2026-10-05T21:11:00.000Z"
-  },
-  {
-    "title": "Mozilla Thunderbird 158.0 Beta 3",
-    "link": "https://www.computerbase.de/downloads/kommunikation/mozilla-thunderbird/",
-    "pubDate": "2026-10-05T21:10:00.000Z"
-  },
-  {
-    "title": "AIDA64 v8.40.8510 Beta",
-    "link": "https://www.computerbase.de/downloads/systemtools/aida64/",
-    "pubDate": "2026-10-05T16:39:00.000Z"
   }
 ]

@@ -1,5 +1,40 @@
 [
   {
+    "title": "Malwarebytes updated to 5.7.2.358.",
+    "link": "https://ninite.com/malwarebytes/",
+    "pubDate": "Wed, 07 Oct 2026 17:51:23 -0000"
+  },
+  {
+    "title": "Node.js 26 updated to 26.11.0.",
+    "link": "https://ninite.com/node.js26/",
+    "pubDate": "Wed, 07 Oct 2026 16:26:19 -0000"
+  },
+  {
+    "title": "Google Drive for Desktop updated to 132.0.0.0.",
+    "link": "https://ninite.com/googledrivefordesktop/",
+    "pubDate": "Wed, 07 Oct 2026 16:25:20 -0000"
+  },
+  {
+    "title": "Claude updated to 2.26454.0.",
+    "link": "https://ninite.com/claude/",
+    "pubDate": "Wed, 07 Oct 2026 15:09:27 -0000"
+  },
+  {
+    "title": "Vivaldi updated to 8.2.4133.84.",
+    "link": "https://ninite.com/vivaldi/",
+    "pubDate": "Wed, 07 Oct 2026 15:09:02 -0000"
+  },
+  {
+    "title": "Visual Studio Code updated to 1.141.0.",
+    "link": "https://ninite.com/vscode/",
+    "pubDate": "Wed, 07 Oct 2026 15:08:35 -0000"
+  },
+  {
+    "title": "Opera Chromium updated to 137.0.6036.39.",
+    "link": "https://ninite.com/operaChromium/",
+    "pubDate": "Wed, 07 Oct 2026 15:08:14 -0000"
+  },
+  {
     "title": "WhatsApp updated to 2.2638.102.",
     "link": "https://ninite.com/whatsapp/",
     "pubDate": "Tue, 06 Oct 2026 21:00:52 -0000"
@@ -348,35 +383,5 @@
     "title": "OneDrive updated to 26.168.0830.0006.",
     "link": "https://ninite.com/onedrive/",
     "pubDate": "Sat, 26 Sep 2026 08:15:20 -0000"
-  },
-  {
-    "title": "Wireshark updated to 4.6.9.",
-    "link": "https://ninite.com/wireshark/",
-    "pubDate": "Fri, 25 Sep 2026 20:17:51 -0000"
-  },
-  {
-    "title": "UltiMaker Cura updated to 5.13.0.",
-    "link": "https://ninite.com/ultimakercura/",
-    "pubDate": "Fri, 25 Sep 2026 20:17:36 -0000"
-  },
-  {
-    "title": "PowerToys updated to 0.101.2362.0.",
-    "link": "https://ninite.com/powertoys/",
-    "pubDate": "Fri, 25 Sep 2026 20:17:23 -0000"
-  },
-  {
-    "title": "Bambu Studio updated to 2.8.2.61.",
-    "link": "https://ninite.com/bambustudio/",
-    "pubDate": "Fri, 25 Sep 2026 20:17:08 -0000"
-  },
-  {
-    "title": "Visual Studio Code updated to 1.139.1.",
-    "link": "https://ninite.com/vscode/",
-    "pubDate": "Fri, 25 Sep 2026 13:21:36 -0000"
-  },
-  {
-    "title": "Brave updated to 1.96.59.",
-    "link": "https://ninite.com/brave/",
-    "pubDate": "Fri, 25 Sep 2026 09:08:24 -0000"
   }
 ]
