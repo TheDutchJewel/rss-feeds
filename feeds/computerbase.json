@@ -1,5 +1,35 @@
 [
   {
+    "title": "CapFrameX 1.9.2.1 Beta",
+    "link": "https://www.computerbase.de/downloads/systemtools/grafikkarten/capframex-tool/",
+    "pubDate": "2026-10-07T20:50:00.000Z"
+  },
+  {
+    "title": "Google Chrome 156.0.8078.17 Beta",
+    "link": "https://www.computerbase.de/downloads/browser/google-chrome/",
+    "pubDate": "2026-10-07T20:48:00.000Z"
+  },
+  {
+    "title": "Brave 1.97.56",
+    "link": "https://www.computerbase.de/downloads/browser/brave/",
+    "pubDate": "2026-10-07T20:46:00.000Z"
+  },
+  {
+    "title": "Mozilla Firefox 158.0 Beta 5",
+    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
+    "pubDate": "2026-10-07T20:46:00.000Z"
+  },
+  {
+    "title": "Signal 8.30.0",
+    "link": "https://www.computerbase.de/downloads/kommunikation/signal/",
+    "pubDate": "2026-10-07T20:45:00.000Z"
+  },
+  {
+    "title": "Turtle Beach Swarm II 1.0.0.59",
+    "link": "https://www.computerbase.de/downloads/treiber/eingabegeraete/turtle-beach-swarm-ii/",
+    "pubDate": "2026-10-07T20:44:00.000Z"
+  },
+  {
     "title": "Krita 5.3.4.1",
     "link": "https://www.computerbase.de/downloads/foto-und-grafik/krita/",
     "pubDate": "2026-10-07T18:02:00.000Z"
@@ -218,35 +248,5 @@
     "title": "WinDirStat 2.9.2",
     "link": "https://www.computerbase.de/downloads/office/dateimanager/windirstat/",
     "pubDate": "2026-10-06T14:58:00.000Z"
-  },
-  {
-    "title": "Git for Windows 2.56.0(2)",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/git-windows/",
-    "pubDate": "2026-10-06T07:34:00.000Z"
-  },
-  {
-    "title": "Asus GPU Tweak III v2.2.0.1 Beta",
-    "link": "https://www.computerbase.de/downloads/systemtools/grafikkarten/asus-gpu-tweak/",
-    "pubDate": "2026-10-06T07:32:00.000Z"
-  },
-  {
-    "title": "itch 26.21.0 Beta",
-    "link": "https://www.computerbase.de/downloads/games/itch/",
-    "pubDate": "2026-10-06T07:30:00.000Z"
-  },
-  {
-    "title": "Gigabyte RGB Fusion 2.0 B26.0923.1",
-    "link": "https://www.computerbase.de/downloads/systemtools/gigabyte-rgb-fusion/",
-    "pubDate": "2026-10-06T07:28:00.000Z"
-  },
-  {
-    "title": "Malwarebytes 5.28.3.4239 (macOS)",
-    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/malwarebytes/",
-    "pubDate": "2026-10-06T07:24:00.000Z"
-  },
-  {
-    "title": "pdfFactory 9.35",
-    "link": "https://www.computerbase.de/downloads/office/pdf/pdffactory/",
-    "pubDate": "2026-10-06T07:20:00.000Z"
   }
 ]
