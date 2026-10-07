@@ -1,5 +1,10 @@
 [
   {
+    "title": "ZenTimings 142.713",
+    "link": "https://www.computerbase.de/downloads/systemtools/zentimings/",
+    "pubDate": "2026-10-06T21:51:00.000Z"
+  },
+  {
     "title": "Corsair iCUE 5.52.87",
     "link": "https://www.computerbase.de/downloads/systemtools/corsair-utility-engine/",
     "pubDate": "2026-10-06T18:19:00.000Z"
@@ -50,13 +55,13 @@
     "pubDate": "2026-10-06T17:32:00.000Z"
   },
   {
-    "title": "Nvidia Studio-Treiber 617.42",
-    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/nvidia-studio-treiber/",
+    "title": "Nvidia GeForce-Treiber 617.42",
+    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/nvidia-geforce-treiber/",
     "pubDate": "2026-10-06T17:27:00.000Z"
   },
   {
-    "title": "Nvidia GeForce-Treiber 617.42",
-    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/nvidia-geforce-treiber/",
+    "title": "Nvidia Studio-Treiber 617.42",
+    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/nvidia-studio-treiber/",
     "pubDate": "2026-10-06T17:27:00.000Z"
   },
   {
@@ -243,10 +248,5 @@
     "title": "PDF24 Creator 11.31.0",
     "link": "https://www.computerbase.de/downloads/office/pdf/pdf24-creator/",
     "pubDate": "2026-10-05T12:02:00.000Z"
-  },
-  {
-    "title": "TightVNC 2.8.90",
-    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/tightvnc/",
-    "pubDate": "2026-10-05T12:01:00.000Z"
   }
 ]
