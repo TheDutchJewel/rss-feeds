@@ -1,5 +1,25 @@
 [
   {
+    "title": "O&O Defrag 32.1 Build 26138",
+    "link": "https://www.computerbase.de/downloads/systemtools/festplatten/o-und-o-defrag/",
+    "pubDate": "2026-10-07T11:28:00.000Z"
+  },
+  {
+    "title": "Visual Studio Code (VS Code) 1.141.0",
+    "link": "https://www.computerbase.de/downloads/office/editoren/visual-studio-code/",
+    "pubDate": "2026-10-07T11:27:00.000Z"
+  },
+  {
+    "title": "Bazzite 44.20261006.1",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/bazzite/",
+    "pubDate": "2026-10-07T08:36:00.000Z"
+  },
+  {
+    "title": "Vivaldi 8.2 Build 4133.84",
+    "link": "https://www.computerbase.de/downloads/browser/vivaldi/",
+    "pubDate": "2026-10-07T08:34:00.000Z"
+  },
+  {
     "title": "ZenTimings 142.713",
     "link": "https://www.computerbase.de/downloads/systemtools/zentimings/",
     "pubDate": "2026-10-06T21:51:00.000Z"
@@ -55,13 +75,13 @@
     "pubDate": "2026-10-06T17:32:00.000Z"
   },
   {
-    "title": "Nvidia GeForce-Treiber 617.42",
-    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/nvidia-geforce-treiber/",
+    "title": "Nvidia Studio-Treiber 617.42",
+    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/nvidia-studio-treiber/",
     "pubDate": "2026-10-06T17:27:00.000Z"
   },
   {
-    "title": "Nvidia Studio-Treiber 617.42",
-    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/nvidia-studio-treiber/",
+    "title": "Nvidia GeForce-Treiber 617.42",
+    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/nvidia-geforce-treiber/",
     "pubDate": "2026-10-06T17:27:00.000Z"
   },
   {
@@ -170,11 +190,6 @@
     "pubDate": "2026-10-06T07:17:00.000Z"
   },
   {
-    "title": "Bazzite 44.20261006",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/bazzite/",
-    "pubDate": "2026-10-06T07:15:00.000Z"
-  },
-  {
     "title": "MediaInfo 26.10",
     "link": "https://www.computerbase.de/downloads/audio-und-video/mediainfo/",
     "pubDate": "2026-10-06T07:14:00.000Z"
@@ -233,20 +248,5 @@
     "title": "AIDA64 v8.40.8510 Beta",
     "link": "https://www.computerbase.de/downloads/systemtools/aida64/",
     "pubDate": "2026-10-05T16:39:00.000Z"
-  },
-  {
-    "title": "Mozilla Firefox 158.0 Beta 4",
-    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
-    "pubDate": "2026-10-05T16:38:00.000Z"
-  },
-  {
-    "title": "WhatsApp 2.26.40.16 (macOS)",
-    "link": "https://www.computerbase.de/downloads/kommunikation/whatsapp/",
-    "pubDate": "2026-10-05T14:58:00.000Z"
-  },
-  {
-    "title": "PDF24 Creator 11.31.0",
-    "link": "https://www.computerbase.de/downloads/office/pdf/pdf24-creator/",
-    "pubDate": "2026-10-05T12:02:00.000Z"
   }
 ]
