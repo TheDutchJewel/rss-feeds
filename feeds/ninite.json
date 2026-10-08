@@ -1,5 +1,35 @@
 [
   {
+    "title": "Krita updated to 5.3.4.1.",
+    "link": "https://ninite.com/krita/",
+    "pubDate": "Thu, 08 Oct 2026 03:22:27 -0000"
+  },
+  {
+    "title": "Brave updated to 1.97.56.",
+    "link": "https://ninite.com/brave/",
+    "pubDate": "Thu, 08 Oct 2026 02:44:38 -0000"
+  },
+  {
+    "title": "Tailscale updated to 1.104.1.",
+    "link": "https://ninite.com/tailscale/",
+    "pubDate": "Thu, 08 Oct 2026 02:10:50 -0000"
+  },
+  {
+    "title": "Claude updated to 2.26454.2.",
+    "link": "https://ninite.com/claude/",
+    "pubDate": "Thu, 08 Oct 2026 02:10:40 -0000"
+  },
+  {
+    "title": "Node.js 26 updated to 26.11.1.",
+    "link": "https://ninite.com/node.js26/",
+    "pubDate": "Thu, 08 Oct 2026 02:09:31 -0000"
+  },
+  {
+    "title": "Cursor updated to 3.24.7.",
+    "link": "https://ninite.com/cursor/",
+    "pubDate": "Thu, 08 Oct 2026 02:08:19 -0000"
+  },
+  {
     "title": "Malwarebytes updated to 5.7.2.358.",
     "link": "https://ninite.com/malwarebytes/",
     "pubDate": "Wed, 07 Oct 2026 17:51:23 -0000"
@@ -358,30 +388,5 @@
     "title": "Git updated to 2.56.0.",
     "link": "https://ninite.com/git/",
     "pubDate": "Tue, 29 Sep 2026 15:42:43 -0000"
-  },
-  {
-    "title": "qBittorrent updated to 5.2.4.",
-    "link": "https://ninite.com/qbittorrent/",
-    "pubDate": "Mon, 28 Sep 2026 20:24:28 -0000"
-  },
-  {
-    "title": "Cursor updated to 3.22.12.",
-    "link": "https://ninite.com/cursor/",
-    "pubDate": "Mon, 28 Sep 2026 17:44:14 -0000"
-  },
-  {
-    "title": "WinDirStat updated to 2.9.0.2158.",
-    "link": "https://ninite.com/windirstat/",
-    "pubDate": "Mon, 28 Sep 2026 16:26:11 -0000"
-  },
-  {
-    "title": "PeaZip updated to 11.3.0.",
-    "link": "https://ninite.com/peazip/",
-    "pubDate": "Sat, 26 Sep 2026 09:52:29 -0000"
-  },
-  {
-    "title": "OneDrive updated to 26.168.0830.0006.",
-    "link": "https://ninite.com/onedrive/",
-    "pubDate": "Sat, 26 Sep 2026 08:15:20 -0000"
   }
 ]
