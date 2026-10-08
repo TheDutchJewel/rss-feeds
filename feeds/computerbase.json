@@ -1,5 +1,135 @@
 [
   {
+    "title": "PDF24 Creator 11.31.1",
+    "link": "https://www.computerbase.de/downloads/office/pdf/pdf24-creator/",
+    "pubDate": "2026-10-08T10:52:00.000Z"
+  },
+  {
+    "title": "Internet Download Manager 6.43 Build 15",
+    "link": "https://www.computerbase.de/downloads/office/dateitransfer/internet-download-manager/",
+    "pubDate": "2026-10-08T10:52:00.000Z"
+  },
+  {
+    "title": "doPDF 11.9.530",
+    "link": "https://www.computerbase.de/downloads/office/pdf/dopdf/",
+    "pubDate": "2026-10-08T10:51:00.000Z"
+  },
+  {
+    "title": "GitHub Desktop 3.6.7 Beta 3",
+    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/github-desktop/",
+    "pubDate": "2026-10-08T10:04:00.000Z"
+  },
+  {
+    "title": "Wipe 2612.00",
+    "link": "https://www.computerbase.de/downloads/systemtools/wipe/",
+    "pubDate": "2026-10-08T09:59:00.000Z"
+  },
+  {
+    "title": "itch 26.22.0",
+    "link": "https://www.computerbase.de/downloads/games/itch/",
+    "pubDate": "2026-10-08T09:56:00.000Z"
+  },
+  {
+    "title": "Hotspot Shield 6.21.0 (macOS)",
+    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/hotspot-shield/",
+    "pubDate": "2026-10-08T09:52:00.000Z"
+  },
+  {
+    "title": "WinSCP 6.6.4 RC",
+    "link": "https://www.computerbase.de/downloads/office/dateitransfer/winscp/",
+    "pubDate": "2026-10-08T09:50:00.000Z"
+  },
+  {
+    "title": "Google Drive for desktop 132.0.0",
+    "link": "https://www.computerbase.de/downloads/office/dateimanager/google-drive/",
+    "pubDate": "2026-10-08T09:46:00.000Z"
+  },
+  {
+    "title": "Google Drive for desktop 132.0.0 ARM64-Beta (Win 11)",
+    "link": "https://www.computerbase.de/downloads/office/dateimanager/google-drive/",
+    "pubDate": "2026-10-08T09:46:00.000Z"
+  },
+  {
+    "title": "Dropbox 275.3.3520 Beta",
+    "link": "https://www.computerbase.de/downloads/office/dateimanager/dropbox/",
+    "pubDate": "2026-10-08T09:45:00.000Z"
+  },
+  {
+    "title": "Dropbox 274.4.4841",
+    "link": "https://www.computerbase.de/downloads/office/dateimanager/dropbox/",
+    "pubDate": "2026-10-08T09:44:00.000Z"
+  },
+  {
+    "title": "LibreOffice 26.8.1 RC1",
+    "link": "https://www.computerbase.de/downloads/office/libreoffice/",
+    "pubDate": "2026-10-08T09:42:00.000Z"
+  },
+  {
+    "title": "Microsoft Teams 26260.1701.5139.3736",
+    "link": "https://www.computerbase.de/downloads/kommunikation/microsoft-teams/",
+    "pubDate": "2026-10-08T09:40:00.000Z"
+  },
+  {
+    "title": "Affinity 3.3.1",
+    "link": "https://www.computerbase.de/downloads/foto-und-grafik/affinity/",
+    "pubDate": "2026-10-08T09:38:00.000Z"
+  },
+  {
+    "title": "Microsoft Teams 26261.303.5165.1465 (macOS)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/microsoft-teams/",
+    "pubDate": "2026-10-08T09:37:00.000Z"
+  },
+  {
+    "title": "Logitech G HUB 2026.6.981214",
+    "link": "https://www.computerbase.de/downloads/treiber/eingabegeraete/logitech-g-hub/",
+    "pubDate": "2026-10-08T09:32:00.000Z"
+  },
+  {
+    "title": "Free PC Audit 5.4.1",
+    "link": "https://www.computerbase.de/downloads/systemtools/free-pc-audit/",
+    "pubDate": "2026-10-08T09:31:00.000Z"
+  },
+  {
+    "title": "Mozilla Thunderbird 158.0 Beta 5",
+    "link": "https://www.computerbase.de/downloads/kommunikation/mozilla-thunderbird/",
+    "pubDate": "2026-10-08T09:28:00.000Z"
+  },
+  {
+    "title": "AnyDesk 9.8.1 (macOS)",
+    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/anydesk/",
+    "pubDate": "2026-10-08T09:26:00.000Z"
+  },
+  {
+    "title": "Pandoc 3.12.1",
+    "link": "https://www.computerbase.de/downloads/office/pandoc/",
+    "pubDate": "2026-10-08T09:24:00.000Z"
+  },
+  {
+    "title": "LibreWolf 157.0.1-1",
+    "link": "https://www.computerbase.de/downloads/browser/librewolf/",
+    "pubDate": "2026-10-08T09:23:00.000Z"
+  },
+  {
+    "title": "foobar2000 v2.26.1 preview 2026-10-08",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/foobar2000/",
+    "pubDate": "2026-10-08T09:22:00.000Z"
+  },
+  {
+    "title": "scrcpy 5.0.1",
+    "link": "https://www.computerbase.de/downloads/office/scrcpy/",
+    "pubDate": "2026-10-08T09:20:00.000Z"
+  },
+  {
+    "title": "Greenshot 1.3.323",
+    "link": "https://www.computerbase.de/downloads/foto-und-grafik/greenshot/",
+    "pubDate": "2026-10-08T09:19:00.000Z"
+  },
+  {
+    "title": "Opera GX 136.0.6008.111 Early Access",
+    "link": "https://www.computerbase.de/downloads/browser/opera-gx/",
+    "pubDate": "2026-10-08T09:18:00.000Z"
+  },
+  {
     "title": "CapFrameX 1.9.2.1 Beta",
     "link": "https://www.computerbase.de/downloads/systemtools/grafikkarten/capframex-tool/",
     "pubDate": "2026-10-07T20:50:00.000Z"
@@ -80,11 +210,6 @@
     "pubDate": "2026-10-07T15:31:00.000Z"
   },
   {
-    "title": "Internet Download Manager 6.43 Build 14",
-    "link": "https://www.computerbase.de/downloads/office/dateitransfer/internet-download-manager/",
-    "pubDate": "2026-10-07T15:30:00.000Z"
-  },
-  {
     "title": "1Password 8.12.42-32 Beta",
     "link": "https://www.computerbase.de/downloads/sicherheit/passwortmanager/1password/",
     "pubDate": "2026-10-07T15:29:00.000Z"
@@ -98,11 +223,6 @@
     "title": "Duplicati 2.4.0.1",
     "link": "https://www.computerbase.de/downloads/sicherheit/backup/duplicati/",
     "pubDate": "2026-10-07T15:27:00.000Z"
-  },
-  {
-    "title": "Mozilla Thunderbird 158.0 Beta 4",
-    "link": "https://www.computerbase.de/downloads/kommunikation/mozilla-thunderbird/",
-    "pubDate": "2026-10-07T15:24:00.000Z"
   },
   {
     "title": "O&O Defrag 32.1 Build 26138",
@@ -128,125 +248,5 @@
     "title": "ZenTimings 142.713",
     "link": "https://www.computerbase.de/downloads/systemtools/zentimings/",
     "pubDate": "2026-10-06T21:51:00.000Z"
-  },
-  {
-    "title": "Corsair iCUE 5.52.87",
-    "link": "https://www.computerbase.de/downloads/systemtools/corsair-utility-engine/",
-    "pubDate": "2026-10-06T18:19:00.000Z"
-  },
-  {
-    "title": "Nextcloud Client 34.0.5",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/nextcloud/",
-    "pubDate": "2026-10-06T17:50:00.000Z"
-  },
-  {
-    "title": "Ubisoft Connect 174.1.0.13380",
-    "link": "https://www.computerbase.de/downloads/games/ubisoft-connect/",
-    "pubDate": "2026-10-06T17:49:00.000Z"
-  },
-  {
-    "title": "Adobe Acrobat Reader DC (26.002.2xxxx)",
-    "link": "https://www.computerbase.de/downloads/office/pdf/adobe-acrobat-reader/",
-    "pubDate": "2026-10-06T17:45:00.000Z"
-  },
-  {
-    "title": "Camtasia 2026.2.4 (macOS)",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/camtasia-studio/",
-    "pubDate": "2026-10-06T17:41:00.000Z"
-  },
-  {
-    "title": "Snagit 2026.4.0",
-    "link": "https://www.computerbase.de/downloads/foto-und-grafik/snagit/",
-    "pubDate": "2026-10-06T17:40:00.000Z"
-  },
-  {
-    "title": "FurMark 1.39.4",
-    "link": "https://www.computerbase.de/downloads/benchmarks/furmark/",
-    "pubDate": "2026-10-06T17:37:00.000Z"
-  },
-  {
-    "title": "Google Chrome 155.0.8059.39/.40",
-    "link": "https://www.computerbase.de/downloads/browser/google-chrome/",
-    "pubDate": "2026-10-06T17:34:00.000Z"
-  },
-  {
-    "title": "SmartFTP 10.0 Build 3332 (Win 11)",
-    "link": "https://www.computerbase.de/downloads/office/dateitransfer/smartftp/",
-    "pubDate": "2026-10-06T17:32:00.000Z"
-  },
-  {
-    "title": "AMD Radeon Treiber für Linux 26.16 (Linux)",
-    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/amd-radeon-treiber-linux/",
-    "pubDate": "2026-10-06T17:32:00.000Z"
-  },
-  {
-    "title": "Nvidia Studio-Treiber 617.42",
-    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/nvidia-studio-treiber/",
-    "pubDate": "2026-10-06T17:27:00.000Z"
-  },
-  {
-    "title": "Nvidia GeForce-Treiber 617.42",
-    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/nvidia-geforce-treiber/",
-    "pubDate": "2026-10-06T17:27:00.000Z"
-  },
-  {
-    "title": "XnConvert 1.117",
-    "link": "https://www.computerbase.de/downloads/foto-und-grafik/xnconvert/",
-    "pubDate": "2026-10-06T15:11:00.000Z"
-  },
-  {
-    "title": "SteelSeries GG 121.0.0",
-    "link": "https://www.computerbase.de/downloads/treiber/eingabegeraete/steelseries-gg/",
-    "pubDate": "2026-10-06T15:09:00.000Z"
-  },
-  {
-    "title": "Bitdefender Antivirus Free 27.0.63.360",
-    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/bitdefender-antivirus/",
-    "pubDate": "2026-10-06T15:09:00.000Z"
-  },
-  {
-    "title": "Revo Uninstaller Free 2.7.2",
-    "link": "https://www.computerbase.de/downloads/systemtools/revo-uninstaller-free/",
-    "pubDate": "2026-10-06T15:07:00.000Z"
-  },
-  {
-    "title": "7-Zip 26.04",
-    "link": "https://www.computerbase.de/downloads/office/packprogramme/7-zip/",
-    "pubDate": "2026-10-06T15:06:00.000Z"
-  },
-  {
-    "title": "Evernote 11.37.5",
-    "link": "https://www.computerbase.de/downloads/office/evernote/",
-    "pubDate": "2026-10-06T15:05:00.000Z"
-  },
-  {
-    "title": "AnyDesk 9.8.1",
-    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/anydesk/",
-    "pubDate": "2026-10-06T15:04:00.000Z"
-  },
-  {
-    "title": "HWMonitor for ARM64 1.06",
-    "link": "https://www.computerbase.de/downloads/systemtools/hwmonitor/",
-    "pubDate": "2026-10-06T15:03:00.000Z"
-  },
-  {
-    "title": "Mozilla Firefox 157.0.1",
-    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
-    "pubDate": "2026-10-06T15:02:00.000Z"
-  },
-  {
-    "title": "NirLauncher 1.30.26",
-    "link": "https://www.computerbase.de/downloads/systemtools/nirlauncher/",
-    "pubDate": "2026-10-06T15:01:00.000Z"
-  },
-  {
-    "title": "CPU-Z for ARM64 1.06 (Win 11)",
-    "link": "https://www.computerbase.de/downloads/systemtools/cpu-z/",
-    "pubDate": "2026-10-06T14:59:00.000Z"
-  },
-  {
-    "title": "WinDirStat 2.9.2",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/windirstat/",
-    "pubDate": "2026-10-06T14:58:00.000Z"
   }
 ]

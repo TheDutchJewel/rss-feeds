@@ -5,6 +5,30 @@
     <link>https://www.gratissoftwaresite.nl/downloads/nieuwe-updates</link>
     <description>Nieuwste software-updates van GratisSoftwareSite</description>
     <item>
+      <title>Ubuntu 26.04.1 LTS</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/ubuntu-besturingssysteem-linux-windows-vervanger-os</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/ubuntu-besturingssysteem-linux-windows-vervanger-os</guid>
+      <pubDate>8 oktober 2026</pubDate>
+    </item>
+    <item>
+      <title>WinScript 2.27.0</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/winscript-tweaks-werktuigen-optimalisatie</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/winscript-tweaks-werktuigen-optimalisatie</guid>
+      <pubDate>8 oktober 2026</pubDate>
+    </item>
+    <item>
+      <title>Brave 1.97.56</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/brave-web-browser-internet-privacy-beveiliging-schilden-trackers-ads</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/brave-web-browser-internet-privacy-beveiliging-schilden-trackers-ads</guid>
+      <pubDate>8 oktober 2026</pubDate>
+    </item>
+    <item>
+      <title>Vivaldi 8.2.4133.84</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/vivaldi-internet-web-browser</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/vivaldi-internet-web-browser</guid>
+      <pubDate>8 oktober 2026</pubDate>
+    </item>
+    <item>
       <title>RapidRaw 1.6.5</title>
       <link>https://www.gratissoftwaresite.nl/downloads/rapidraw-fotobewerking-beheer-workflow</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/rapidraw-fotobewerking-beheer-workflow</guid>
@@ -113,12 +137,6 @@
       <pubDate>5 oktober 2026</pubDate>
     </item>
     <item>
-      <title>Vivaldi 8.2.4133.83</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/vivaldi-internet-web-browser</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/vivaldi-internet-web-browser</guid>
-      <pubDate>5 oktober 2026</pubDate>
-    </item>
-    <item>
       <title>Darktable 5.6.2</title>
       <link>https://www.gratissoftwaresite.nl/downloads/darktable-fotobewerking-raw-workflow</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/darktable-fotobewerking-raw-workflow</guid>
@@ -189,18 +207,6 @@
       <link>https://www.gratissoftwaresite.nl/downloads/davinci-resolve-videobewerking-editor-kleur-correctie</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/davinci-resolve-videobewerking-editor-kleur-correctie</guid>
       <pubDate>3 oktober 2026</pubDate>
-    </item>
-    <item>
-      <title>WinScript 2.26.0</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/winscript-tweaks-werktuigen-optimalisatie</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/winscript-tweaks-werktuigen-optimalisatie</guid>
-      <pubDate>3 oktober 2026</pubDate>
-    </item>
-    <item>
-      <title>Brave 1.96.61</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/brave-web-browser-internet-privacy-beveiliging-schilden-trackers-ads</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/brave-web-browser-internet-privacy-beveiliging-schilden-trackers-ads</guid>
-      <pubDate>2 oktober 2026</pubDate>
     </item>
     <item>
       <title>PDFsam 6.0.6</title>
@@ -561,12 +567,6 @@
       <link>https://www.gratissoftwaresite.nl/downloads/picpick-fotobewerking-screenshot</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/picpick-fotobewerking-screenshot</guid>
       <pubDate>17 september 2026</pubDate>
-    </item>
-    <item>
-      <title>ProjectLibre 1.9.8</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/projectlibre-projectmanagement-gantt-pert-planning-zakelijk</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/projectlibre-projectmanagement-gantt-pert-planning-zakelijk</guid>
-      <pubDate>16 september 2026</pubDate>
     </item>
   </channel>
 </rss>
