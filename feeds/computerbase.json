@@ -1,5 +1,20 @@
 [
   {
+    "title": "Microsoft Edge 155.0.4283.45",
+    "link": "https://www.computerbase.de/downloads/browser/microsoft-edge/",
+    "pubDate": "2026-10-08T22:03:00.000Z"
+  },
+  {
+    "title": "WhatsApp 2.26.40.20 (macOS)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/whatsapp/",
+    "pubDate": "2026-10-08T22:00:00.000Z"
+  },
+  {
+    "title": "UniGetUI 2026.3.1",
+    "link": "https://www.computerbase.de/downloads/systemtools/unigetui/",
+    "pubDate": "2026-10-08T22:00:00.000Z"
+  },
+  {
     "title": "Acrylic Wi-Fi Analyzer 1.5.9776.17788",
     "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/acrylic-wi-fi-analyzer/",
     "pubDate": "2026-10-08T17:28:00.000Z"
@@ -233,20 +248,5 @@
     "title": "DiskInternals Linux Reader 5.3",
     "link": "https://www.computerbase.de/downloads/systemtools/festplatten/diskinternals-linux-reader/",
     "pubDate": "2026-10-07T17:37:00.000Z"
-  },
-  {
-    "title": "ShareMouse for Mac 7.0.30 (macOS)",
-    "link": "https://www.computerbase.de/downloads/treiber/eingabegeraete/sharemouse/",
-    "pubDate": "2026-10-07T17:36:00.000Z"
-  },
-  {
-    "title": "Snagit 2026.4.0 (macOS)",
-    "link": "https://www.computerbase.de/downloads/foto-und-grafik/snagit/",
-    "pubDate": "2026-10-07T15:32:00.000Z"
-  },
-  {
-    "title": "Opera 137.0.6036.39",
-    "link": "https://www.computerbase.de/downloads/browser/opera/",
-    "pubDate": "2026-10-07T15:31:00.000Z"
   }
 ]
