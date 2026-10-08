@@ -1,5 +1,30 @@
 [
     {
+        "title": "Microsoft Edge 154.0.4258.62",
+        "link": "https://www.gratissoftwaresite.nl/downloads/edge-internet-browser-ie-opvolger",
+        "pubDate": "8 oktober 2026"
+    },
+    {
+        "title": "LibreWolf 157.0.1-1",
+        "link": "https://www.gratissoftwaresite.nl/downloads/librewolf-web-browser-privacy",
+        "pubDate": "8 oktober 2026"
+    },
+    {
+        "title": "Media Player Classic - HC 2.8.3",
+        "link": "https://www.gratissoftwaresite.nl/downloads/media-player-classic-home-cinema-mediaspeler",
+        "pubDate": "8 oktober 2026"
+    },
+    {
+        "title": "Password Safe 3.72.3",
+        "link": "https://www.gratissoftwaresite.nl/downloads/password-safe-wachtwoord-beheer",
+        "pubDate": "8 oktober 2026"
+    },
+    {
+        "title": "LibreOffice 26.8.1",
+        "link": "https://www.gratissoftwaresite.nl/downloads/libreoffice-kantoorpakket-writer-calc-impress-draw-math",
+        "pubDate": "8 oktober 2026"
+    },
+    {
         "title": "Ubuntu 26.04.1 LTS",
         "link": "https://www.gratissoftwaresite.nl/downloads/ubuntu-besturingssysteem-linux-windows-vervanger-os",
         "pubDate": "8 oktober 2026"
@@ -155,11 +180,6 @@
         "pubDate": "3 oktober 2026"
     },
     {
-        "title": "LibreWolf 157.0-1",
-        "link": "https://www.gratissoftwaresite.nl/downloads/librewolf-web-browser-privacy",
-        "pubDate": "3 oktober 2026"
-    },
-    {
         "title": "Malwarebytes 5.7.2",
         "link": "https://www.gratissoftwaresite.nl/downloads/malwarebytes-anti-malware-anti-spyware-virussen",
         "pubDate": "3 oktober 2026"
@@ -222,11 +242,6 @@
     {
         "title": "Opera 136.0.6008.80",
         "link": "https://www.gratissoftwaresite.nl/downloads/opera-internet-web-browser",
-        "pubDate": "30 september 2026"
-    },
-    {
-        "title": "Microsoft Edge 154.0.4258.48",
-        "link": "https://www.gratissoftwaresite.nl/downloads/edge-internet-browser-ie-opvolger",
         "pubDate": "30 september 2026"
     },
     {
@@ -415,11 +430,6 @@
         "pubDate": "21 september 2026"
     },
     {
-        "title": "Media Player Classic - HC 2.8.2",
-        "link": "https://www.gratissoftwaresite.nl/downloads/media-player-classic-home-cinema-mediaspeler",
-        "pubDate": "19 september 2026"
-    },
-    {
         "title": "Zoom 7.2.0",
         "link": "https://www.gratissoftwaresite.nl/downloads/zoom-videobellen-groepen-teleconferentie-online-les",
         "pubDate": "19 september 2026"
@@ -457,16 +467,6 @@
     {
         "title": "WizTree 4.33.0",
         "link": "https://www.gratissoftwaresite.nl/downloads/wiztree-schijfruimte-werktuig-tools",
-        "pubDate": "17 september 2026"
-    },
-    {
-        "title": "Krita 5.3.4",
-        "link": "https://www.gratissoftwaresite.nl/downloads/krita-tekenen-vector-bitmap-paint",
-        "pubDate": "17 september 2026"
-    },
-    {
-        "title": "PicPick 7.6.1",
-        "link": "https://www.gratissoftwaresite.nl/downloads/picpick-fotobewerking-screenshot",
         "pubDate": "17 september 2026"
     }
 ]

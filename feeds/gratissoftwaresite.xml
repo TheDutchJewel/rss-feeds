@@ -5,6 +5,36 @@
     <link>https://www.gratissoftwaresite.nl/downloads/nieuwe-updates</link>
     <description>Nieuwste software-updates van GratisSoftwareSite</description>
     <item>
+      <title>Microsoft Edge 154.0.4258.62</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/edge-internet-browser-ie-opvolger</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/edge-internet-browser-ie-opvolger</guid>
+      <pubDate>8 oktober 2026</pubDate>
+    </item>
+    <item>
+      <title>LibreWolf 157.0.1-1</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/librewolf-web-browser-privacy</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/librewolf-web-browser-privacy</guid>
+      <pubDate>8 oktober 2026</pubDate>
+    </item>
+    <item>
+      <title>Media Player Classic - HC 2.8.3</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/media-player-classic-home-cinema-mediaspeler</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/media-player-classic-home-cinema-mediaspeler</guid>
+      <pubDate>8 oktober 2026</pubDate>
+    </item>
+    <item>
+      <title>Password Safe 3.72.3</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/password-safe-wachtwoord-beheer</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/password-safe-wachtwoord-beheer</guid>
+      <pubDate>8 oktober 2026</pubDate>
+    </item>
+    <item>
+      <title>LibreOffice 26.8.1</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/libreoffice-kantoorpakket-writer-calc-impress-draw-math</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/libreoffice-kantoorpakket-writer-calc-impress-draw-math</guid>
+      <pubDate>8 oktober 2026</pubDate>
+    </item>
+    <item>
       <title>Ubuntu 26.04.1 LTS</title>
       <link>https://www.gratissoftwaresite.nl/downloads/ubuntu-besturingssysteem-linux-windows-vervanger-os</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/ubuntu-besturingssysteem-linux-windows-vervanger-os</guid>
@@ -191,12 +221,6 @@
       <pubDate>3 oktober 2026</pubDate>
     </item>
     <item>
-      <title>LibreWolf 157.0-1</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/librewolf-web-browser-privacy</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/librewolf-web-browser-privacy</guid>
-      <pubDate>3 oktober 2026</pubDate>
-    </item>
-    <item>
       <title>Malwarebytes 5.7.2</title>
       <link>https://www.gratissoftwaresite.nl/downloads/malwarebytes-anti-malware-anti-spyware-virussen</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/malwarebytes-anti-malware-anti-spyware-virussen</guid>
@@ -272,12 +296,6 @@
       <title>Opera 136.0.6008.80</title>
       <link>https://www.gratissoftwaresite.nl/downloads/opera-internet-web-browser</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/opera-internet-web-browser</guid>
-      <pubDate>30 september 2026</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Edge 154.0.4258.48</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/edge-internet-browser-ie-opvolger</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/edge-internet-browser-ie-opvolger</guid>
       <pubDate>30 september 2026</pubDate>
     </item>
     <item>
@@ -503,12 +521,6 @@
       <pubDate>21 september 2026</pubDate>
     </item>
     <item>
-      <title>Media Player Classic - HC 2.8.2</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/media-player-classic-home-cinema-mediaspeler</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/media-player-classic-home-cinema-mediaspeler</guid>
-      <pubDate>19 september 2026</pubDate>
-    </item>
-    <item>
       <title>Zoom 7.2.0</title>
       <link>https://www.gratissoftwaresite.nl/downloads/zoom-videobellen-groepen-teleconferentie-online-les</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/zoom-videobellen-groepen-teleconferentie-online-les</guid>
@@ -554,18 +566,6 @@
       <title>WizTree 4.33.0</title>
       <link>https://www.gratissoftwaresite.nl/downloads/wiztree-schijfruimte-werktuig-tools</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/wiztree-schijfruimte-werktuig-tools</guid>
-      <pubDate>17 september 2026</pubDate>
-    </item>
-    <item>
-      <title>Krita 5.3.4</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/krita-tekenen-vector-bitmap-paint</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/krita-tekenen-vector-bitmap-paint</guid>
-      <pubDate>17 september 2026</pubDate>
-    </item>
-    <item>
-      <title>PicPick 7.6.1</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/picpick-fotobewerking-screenshot</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/picpick-fotobewerking-screenshot</guid>
       <pubDate>17 september 2026</pubDate>
     </item>
   </channel>

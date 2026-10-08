@@ -1,5 +1,35 @@
 [
   {
+    "title": "Windows App updated to 2.0.1482.",
+    "link": "https://ninite.com/windowsapp/",
+    "pubDate": "Thu, 08 Oct 2026 16:57:14 -0000"
+  },
+  {
+    "title": "GitHub Desktop updated to 3.6.7.",
+    "link": "https://ninite.com/githubdesktop/",
+    "pubDate": "Thu, 08 Oct 2026 16:56:34 -0000"
+  },
+  {
+    "title": "LibreOffice updated to 26.8.1.",
+    "link": "https://ninite.com/libreoffice/",
+    "pubDate": "Thu, 08 Oct 2026 12:00:53 -0000"
+  },
+  {
+    "title": "Greenshot updated to 1.3.323.",
+    "link": "https://ninite.com/greenshot/",
+    "pubDate": "Thu, 08 Oct 2026 11:23:08 -0000"
+  },
+  {
+    "title": "Spotify updated to 1.3.4.258.",
+    "link": "https://ninite.com/spotify/",
+    "pubDate": "Thu, 08 Oct 2026 11:22:43 -0000"
+  },
+  {
+    "title": "WhatsApp updated to 2.2639.100.",
+    "link": "https://ninite.com/whatsapp/",
+    "pubDate": "Thu, 08 Oct 2026 11:18:24 -0000"
+  },
+  {
     "title": "Krita updated to 5.3.4.1.",
     "link": "https://ninite.com/krita/",
     "pubDate": "Thu, 08 Oct 2026 03:22:27 -0000"
@@ -358,35 +388,5 @@
     "title": "TeamViewer 15 updated to 15.82.6.",
     "link": "https://ninite.com/teamviewer15/",
     "pubDate": "Tue, 29 Sep 2026 18:29:30 -0000"
-  },
-  {
-    "title": "Teams updated to 26246.1604.5133.838.",
-    "link": "https://ninite.com/teams/",
-    "pubDate": "Tue, 29 Sep 2026 18:16:46 -0000"
-  },
-  {
-    "title": "Dropbox updated to 272.4.3798.",
-    "link": "https://ninite.com/dropbox/",
-    "pubDate": "Tue, 29 Sep 2026 18:07:29 -0000"
-  },
-  {
-    "title": "Evernote updated to 11.36.3.",
-    "link": "https://ninite.com/evernote/",
-    "pubDate": "Tue, 29 Sep 2026 15:50:33 -0000"
-  },
-  {
-    "title": "AnyDesk updated to 9.8.0.",
-    "link": "https://ninite.com/anydesk/",
-    "pubDate": "Tue, 29 Sep 2026 15:49:51 -0000"
-  },
-  {
-    "title": "Firefox updated to 157.0.",
-    "link": "https://ninite.com/firefox/",
-    "pubDate": "Tue, 29 Sep 2026 15:43:04 -0000"
-  },
-  {
-    "title": "Git updated to 2.56.0.",
-    "link": "https://ninite.com/git/",
-    "pubDate": "Tue, 29 Sep 2026 15:42:43 -0000"
   }
 ]
