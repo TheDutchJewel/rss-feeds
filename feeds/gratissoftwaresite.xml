@@ -5,6 +5,36 @@
     <link>https://www.gratissoftwaresite.nl/downloads/nieuwe-updates</link>
     <description>Nieuwste software-updates van GratisSoftwareSite</description>
     <item>
+      <title>UniGetUI 26.3.1</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/unigetui-software-update-controle-verwijderen</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/unigetui-software-update-controle-verwijderen</guid>
+      <pubDate>9 oktober 2026</pubDate>
+    </item>
+    <item>
+      <title>eM Client 11.0.1054.0</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/em-client-e-mail</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/em-client-e-mail</guid>
+      <pubDate>9 oktober 2026</pubDate>
+    </item>
+    <item>
+      <title>Microsoft PC Manager 3.23.0</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/pc-manager-cleaner-opschonen-beheer</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/pc-manager-cleaner-opschonen-beheer</guid>
+      <pubDate>9 oktober 2026</pubDate>
+    </item>
+    <item>
+      <title>HopToDesk 1.46.64</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/hoptodesk-pc-hulp-op-afstand-remote-desktop</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/hoptodesk-pc-hulp-op-afstand-remote-desktop</guid>
+      <pubDate>9 oktober 2026</pubDate>
+    </item>
+    <item>
+      <title>7-Zip Next 1.4</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/7-zip-next-compressie</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/7-zip-next-compressie</guid>
+      <pubDate>9 oktober 2026</pubDate>
+    </item>
+    <item>
       <title>Microsoft Edge 154.0.4258.62</title>
       <link>https://www.gratissoftwaresite.nl/downloads/edge-internet-browser-ie-opvolger</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/edge-internet-browser-ie-opvolger</guid>
@@ -134,12 +164,6 @@
       <title>Adobe Reader 26.002.21931</title>
       <link>https://www.gratissoftwaresite.nl/downloads/reader-pdf-bekijken</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/reader-pdf-bekijken</guid>
-      <pubDate>6 oktober 2026</pubDate>
-    </item>
-    <item>
-      <title>HopToDesk 1.46.60</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/hoptodesk-pc-hulp-op-afstand-remote-desktop</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/hoptodesk-pc-hulp-op-afstand-remote-desktop</guid>
       <pubDate>6 oktober 2026</pubDate>
     </item>
     <item>
@@ -455,12 +479,6 @@
       <pubDate>23 september 2026</pubDate>
     </item>
     <item>
-      <title>Microsoft PC Manager 3.22.6.0</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/pc-manager-cleaner-opschonen-beheer</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/pc-manager-cleaner-opschonen-beheer</guid>
-      <pubDate>23 september 2026</pubDate>
-    </item>
-    <item>
       <title>GeekUninstaller 1.5.5.181</title>
       <link>https://www.gratissoftwaresite.nl/downloads/geekuninstaller-werktuigen-de-installatie-software-verwijderen</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/geekuninstaller-werktuigen-de-installatie-software-verwijderen</guid>
@@ -549,24 +567,6 @@
       <link>https://www.gratissoftwaresite.nl/downloads/bitwarden-wachtwoordbeheerder-online-kluis-versleuteld-privacy</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/bitwarden-wachtwoordbeheerder-online-kluis-versleuteld-privacy</guid>
       <pubDate>18 september 2026</pubDate>
-    </item>
-    <item>
-      <title>AVG Anti-Virus Free 26.9</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/avg-anti-virus-free-virusscanner</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/avg-anti-virus-free-virusscanner</guid>
-      <pubDate>17 september 2026</pubDate>
-    </item>
-    <item>
-      <title>Avast Free Antivirus 26.9</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/avast-free-anti-virus-virusscanner</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/avast-free-anti-virus-virusscanner</guid>
-      <pubDate>17 september 2026</pubDate>
-    </item>
-    <item>
-      <title>WizTree 4.33.0</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/wiztree-schijfruimte-werktuig-tools</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/wiztree-schijfruimte-werktuig-tools</guid>
-      <pubDate>17 september 2026</pubDate>
     </item>
   </channel>
 </rss>
