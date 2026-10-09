@@ -1,5 +1,25 @@
 [
     {
+        "title": "AOMEI Backupper Standard 8.5",
+        "link": "https://www.gratissoftwaresite.nl/downloads/aomei-backupper-standard-backup-image-clone-restore",
+        "pubDate": "9 oktober 2026"
+    },
+    {
+        "title": "Calibre 9.16.0",
+        "link": "https://www.gratissoftwaresite.nl/downloads/calibre-e-book-reader-epub-mobi-pdf",
+        "pubDate": "9 oktober 2026"
+    },
+    {
+        "title": "Ventoy 1.1.18",
+        "link": "https://www.gratissoftwaresite.nl/downloads/ventoy-opstartbare-usb-maken-os-rescue-disk-installeren",
+        "pubDate": "9 oktober 2026"
+    },
+    {
+        "title": "Greenshot 1.3.323",
+        "link": "https://www.gratissoftwaresite.nl/downloads/greenshot-schermafbeelding-venster-bewerking",
+        "pubDate": "9 oktober 2026"
+    },
+    {
         "title": "UniGetUI 26.3.1",
         "link": "https://www.gratissoftwaresite.nl/downloads/unigetui-software-update-controle-verwijderen",
         "pubDate": "9 oktober 2026"
@@ -448,25 +468,5 @@
         "title": "Zoom 7.2.0",
         "link": "https://www.gratissoftwaresite.nl/downloads/zoom-videobellen-groepen-teleconferentie-online-les",
         "pubDate": "19 september 2026"
-    },
-    {
-        "title": "balena Etcher 2.1.7",
-        "link": "https://www.gratissoftwaresite.nl/downloads/etcher-opstartbare-usb-sd-maken-os-installeren",
-        "pubDate": "19 september 2026"
-    },
-    {
-        "title": "IrfanView 4.76",
-        "link": "https://www.gratissoftwaresite.nl/downloads/irfanview-fotobewerking-viewer-batch-conversie",
-        "pubDate": "18 september 2026"
-    },
-    {
-        "title": "Calibre 9.15.0",
-        "link": "https://www.gratissoftwaresite.nl/downloads/calibre-e-book-reader-epub-mobi-pdf",
-        "pubDate": "18 september 2026"
-    },
-    {
-        "title": "Bitwarden 2026.9.0",
-        "link": "https://www.gratissoftwaresite.nl/downloads/bitwarden-wachtwoordbeheerder-online-kluis-versleuteld-privacy",
-        "pubDate": "18 september 2026"
     }
 ]
