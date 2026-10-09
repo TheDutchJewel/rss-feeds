@@ -5,6 +5,12 @@
     <link>https://www.gratissoftwaresite.nl/downloads/nieuwe-updates</link>
     <description>Nieuwste software-updates van GratisSoftwareSite</description>
     <item>
+      <title>Raspberry Pi Desktop 6.3</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/raspberry-pi-desktop-besturingssysteem-os</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/raspberry-pi-desktop-besturingssysteem-os</guid>
+      <pubDate>9 oktober 2026</pubDate>
+    </item>
+    <item>
       <title>AOMEI Backupper Standard 8.5</title>
       <link>https://www.gratissoftwaresite.nl/downloads/aomei-backupper-standard-backup-image-clone-restore</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/aomei-backupper-standard-backup-image-clone-restore</guid>
@@ -561,12 +567,6 @@
       <link>https://www.gratissoftwaresite.nl/downloads/clonezilla-backup-kloon-image-data-transfer-pc</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/clonezilla-backup-kloon-image-data-transfer-pc</guid>
       <pubDate>21 september 2026</pubDate>
-    </item>
-    <item>
-      <title>Zoom 7.2.0</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/zoom-videobellen-groepen-teleconferentie-online-les</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/zoom-videobellen-groepen-teleconferentie-online-les</guid>
-      <pubDate>19 september 2026</pubDate>
     </item>
   </channel>
 </rss>

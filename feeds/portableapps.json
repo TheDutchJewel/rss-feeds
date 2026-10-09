@@ -1,5 +1,30 @@
 [
   {
+    "title": "LibreWolf Portable 157.0.1-1 (web browser) Released",
+    "link": "https://portableapps.com/news/2026-10-09--librewolf-portable-157.0.1-1-released",
+    "pubDate": "Fri, 09 Oct 2026 17:55:26 +0000"
+  },
+  {
+    "title": " qBittorrent Enhanced Portable 5.2.43.10 (lightweight bittorrent client) Released",
+    "link": "https://portableapps.com/news/2026-10-09--qbittorrent-enhanced-portable-5.2.4.10-released",
+    "pubDate": "Fri, 09 Oct 2026 16:42:32 +0000"
+  },
+  {
+    "title": "qBittorrent Portable 5.2.4 (lightweight bittorrent client) Released",
+    "link": "https://portableapps.com/news/2026-10-09--qbittorrent--portable-5.2.4-released",
+    "pubDate": "Fri, 09 Oct 2026 16:41:23 +0000"
+  },
+  {
+    "title": "GPG Plugin Portable 2.5.24 (GnuPG encrypt and sign utility) Released",
+    "link": "https://portableapps.com/news/2026-10-09--gpg-plugin-portable-2.5.24-released",
+    "pubDate": "Fri, 09 Oct 2026 16:39:45 +0000"
+  },
+  {
+    "title": "Draw.io Portable 32.4.1 (diagramming) Released ",
+    "link": "https://portableapps.com/news/2026-10-09--draw.io-portable-32.4.1-released",
+    "pubDate": "Fri, 09 Oct 2026 16:19:18 +0000"
+  },
+  {
     "title": "TeamViewer Portable 15.82.6 (pc control, screen sharing) Released",
     "link": "https://portableapps.com/news/2026-10-07--teamviewer-portable-15.82.6-released",
     "pubDate": "Wed, 07 Oct 2026 16:50:14 +0000"
@@ -48,30 +73,5 @@
     "title": "Mozilla Firefox Developer Edition, Portable 158b1 (web browser) Released",
     "link": "https://portableapps.com/news/2026-10-05--firefox-portable-developer-158b1-released",
     "pubDate": "Mon, 05 Oct 2026 18:22:12 +0000"
-  },
-  {
-    "title": "Mozilla Firefox ESR, Portable Edition 153.4.0 (web browser) Released",
-    "link": "https://portableapps.com/news/2026-10-05--firefox-portable-esr-153.4.0-released",
-    "pubDate": "Mon, 05 Oct 2026 18:19:53 +0000"
-  },
-  {
-    "title": "Thunderbird ESR, Portable Edition 153.4.0 (email client) Released",
-    "link": "https://portableapps.com/news/2026-10-05--thunderbird-portable-esr-153.4.0-released",
-    "pubDate": "Mon, 05 Oct 2026 18:17:41 +0000"
-  },
-  {
-    "title": "Thunderbird, Portable Edition 158.0 Beta 2 (email client) Released",
-    "link": "https://portableapps.com/news/2026-10-05--thunderbird-portable-158.0-beta-2-released",
-    "pubDate": "Mon, 05 Oct 2026 18:12:07 +0000"
-  },
-  {
-    "title": "Mozilla Firefox, Portable Edition 158.0 Beta 1 (web browser) Released",
-    "link": "https://portableapps.com/news/2026-10-05--firefox-portable-158.0-beta-1-released",
-    "pubDate": "Mon, 05 Oct 2026 18:09:37 +0000"
-  },
-  {
-    "title": "Thunderbird, Portable Edition 157.0.1 (email client) Released",
-    "link": "https://portableapps.com/news/2026-10-05--thunderbird-portable-157.0.1-released",
-    "pubDate": "Mon, 05 Oct 2026 18:07:01 +0000"
   }
 ]

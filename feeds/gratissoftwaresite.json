@@ -1,5 +1,10 @@
 [
     {
+        "title": "Raspberry Pi Desktop 6.3",
+        "link": "https://www.gratissoftwaresite.nl/downloads/raspberry-pi-desktop-besturingssysteem-os",
+        "pubDate": "9 oktober 2026"
+    },
+    {
         "title": "AOMEI Backupper Standard 8.5",
         "link": "https://www.gratissoftwaresite.nl/downloads/aomei-backupper-standard-backup-image-clone-restore",
         "pubDate": "9 oktober 2026"
@@ -463,10 +468,5 @@
         "title": "CloneZilla 3.3.3-37",
         "link": "https://www.gratissoftwaresite.nl/downloads/clonezilla-backup-kloon-image-data-transfer-pc",
         "pubDate": "21 september 2026"
-    },
-    {
-        "title": "Zoom 7.2.0",
-        "link": "https://www.gratissoftwaresite.nl/downloads/zoom-videobellen-groepen-teleconferentie-online-les",
-        "pubDate": "19 september 2026"
     }
 ]
