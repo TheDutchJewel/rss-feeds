@@ -1,5 +1,30 @@
 [
   {
+    "title": "OneDrive updated to 26.178.0913.0007.",
+    "link": "https://ninite.com/onedrive/",
+    "pubDate": "Sat, 10 Oct 2026 18:31:16 -0000"
+  },
+  {
+    "title": "TeraCopy updated to 4.0.5.",
+    "link": "https://ninite.com/teracopy/",
+    "pubDate": "Sat, 10 Oct 2026 18:17:49 -0000"
+  },
+  {
+    "title": "Telegram updated to 7.3.1.",
+    "link": "https://ninite.com/telegram/",
+    "pubDate": "Sat, 10 Oct 2026 17:55:21 -0000"
+  },
+  {
+    "title": "Claude updated to 2.31226.1.",
+    "link": "https://ninite.com/claude/",
+    "pubDate": "Sat, 10 Oct 2026 17:54:55 -0000"
+  },
+  {
+    "title": "ChatGPT updated to 26.1007.2314.",
+    "link": "https://ninite.com/chatgpt/",
+    "pubDate": "Sat, 10 Oct 2026 17:54:34 -0000"
+  },
+  {
     "title": "Cursor updated to 3.24.9.",
     "link": "https://ninite.com/cursor/",
     "pubDate": "Fri, 09 Oct 2026 17:59:50 -0000"
@@ -318,40 +343,5 @@
     "title": "Audacity updated to 4.0.1.",
     "link": "https://ninite.com/audacity/",
     "pubDate": "Fri, 02 Oct 2026 14:00:16 -0000"
-  },
-  {
-    "title": "RustDesk updated to 1.5.0.",
-    "link": "https://ninite.com/rustdesk/",
-    "pubDate": "Fri, 02 Oct 2026 07:39:10 -0000"
-  },
-  {
-    "title": "Chrome updated to 154.0.8037.98.",
-    "link": "https://ninite.com/chrome/",
-    "pubDate": "Fri, 02 Oct 2026 07:38:49 -0000"
-  },
-  {
-    "title": "Edge updated to 154.0.4258.53.",
-    "link": "https://ninite.com/edge/",
-    "pubDate": "Fri, 02 Oct 2026 06:56:22 -0000"
-  },
-  {
-    "title": "Thunderbird updated to 157.0.1.",
-    "link": "https://ninite.com/thunderbird/",
-    "pubDate": "Fri, 02 Oct 2026 00:00:53 -0000"
-  },
-  {
-    "title": "Evernote updated to 11.36.4.",
-    "link": "https://ninite.com/evernote/",
-    "pubDate": "Thu, 01 Oct 2026 23:32:17 -0000"
-  },
-  {
-    "title": "Cursor updated to 3.23.12.",
-    "link": "https://ninite.com/cursor/",
-    "pubDate": "Thu, 01 Oct 2026 15:58:29 -0000"
-  },
-  {
-    "title": "JRE (Amazon Corretto) x64 8 updated to 8u504-b04.",
-    "link": "https://ninite.com/correttojrex8/",
-    "pubDate": "Thu, 01 Oct 2026 14:33:19 -0000"
   }
 ]
