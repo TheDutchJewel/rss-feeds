@@ -1,5 +1,10 @@
 [
   {
+    "title": "Cursor updated to 3.24.12.",
+    "link": "https://ninite.com/cursor/",
+    "pubDate": "Sat, 10 Oct 2026 23:24:37 -0000"
+  },
+  {
     "title": "OneDrive updated to 26.178.0913.0007.",
     "link": "https://ninite.com/onedrive/",
     "pubDate": "Sat, 10 Oct 2026 18:31:16 -0000"
@@ -338,10 +343,5 @@
     "title": "TightVNC updated to 2.8.89.",
     "link": "https://ninite.com/tightvnc/",
     "pubDate": "Fri, 02 Oct 2026 14:18:32 -0000"
-  },
-  {
-    "title": "Audacity updated to 4.0.1.",
-    "link": "https://ninite.com/audacity/",
-    "pubDate": "Fri, 02 Oct 2026 14:00:16 -0000"
   }
 ]
