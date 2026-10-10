@@ -1,8 +1,28 @@
 [
   {
-    "title": "mp3Tag 3.37 Beta 1",
+    "title": "Snagit 2026.4.1 (macOS)",
+    "link": "https://www.computerbase.de/downloads/foto-und-grafik/snagit/",
+    "pubDate": "2026-10-09T22:34:00.000Z"
+  },
+  {
+    "title": "EA-App 13.805.11.6320",
+    "link": "https://www.computerbase.de/downloads/games/ea-app/",
+    "pubDate": "2026-10-09T22:33:00.000Z"
+  },
+  {
+    "title": "FotoSketcher Studio 4.70 Beta 1",
+    "link": "https://www.computerbase.de/downloads/foto-und-grafik/fotosketcher/",
+    "pubDate": "2026-10-09T22:31:00.000Z"
+  },
+  {
+    "title": "mp3Tag 3.37 Beta 2",
     "link": "https://www.computerbase.de/downloads/audio-und-video/mp3tag/",
-    "pubDate": "2026-10-09T15:37:00.000Z"
+    "pubDate": "2026-10-09T22:26:00.000Z"
+  },
+  {
+    "title": "Java SE Development Kit 28.0 Build 19 Dev",
+    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/java-se-development-kit/",
+    "pubDate": "2026-10-09T22:25:00.000Z"
   },
   {
     "title": "HyperX NGENUITY 3.1.0",
@@ -228,25 +248,5 @@
     "title": "AnyDesk 9.8.1 (macOS)",
     "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/anydesk/",
     "pubDate": "2026-10-08T09:26:00.000Z"
-  },
-  {
-    "title": "Pandoc 3.12.1",
-    "link": "https://www.computerbase.de/downloads/office/pandoc/",
-    "pubDate": "2026-10-08T09:24:00.000Z"
-  },
-  {
-    "title": "LibreWolf 157.0.1-1",
-    "link": "https://www.computerbase.de/downloads/browser/librewolf/",
-    "pubDate": "2026-10-08T09:23:00.000Z"
-  },
-  {
-    "title": "scrcpy 5.0.1",
-    "link": "https://www.computerbase.de/downloads/office/scrcpy/",
-    "pubDate": "2026-10-08T09:20:00.000Z"
-  },
-  {
-    "title": "Greenshot 1.3.323",
-    "link": "https://www.computerbase.de/downloads/foto-und-grafik/greenshot/",
-    "pubDate": "2026-10-08T09:19:00.000Z"
   }
 ]
