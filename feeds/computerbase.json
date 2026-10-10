@@ -1,5 +1,35 @@
 [
   {
+    "title": "mIRC 7.85.1267 Beta",
+    "link": "https://www.computerbase.de/downloads/kommunikation/mirc/",
+    "pubDate": "2026-10-10T08:46:00.000Z"
+  },
+  {
+    "title": "ChromeOS Flex 1.0.1",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/chromeos-flex/",
+    "pubDate": "2026-10-10T08:44:00.000Z"
+  },
+  {
+    "title": "Rocket.Chat Desktop 4.18.1",
+    "link": "https://www.computerbase.de/downloads/kommunikation/rocket.chat/",
+    "pubDate": "2026-10-10T08:37:00.000Z"
+  },
+  {
+    "title": "Kodi 22.0 „Piers“ RC1",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/kodi-entertainment-center/",
+    "pubDate": "2026-10-10T08:35:00.000Z"
+  },
+  {
+    "title": "Monolingual 2.0.2 (macOS)",
+    "link": "https://www.computerbase.de/downloads/systemtools/monolingual/",
+    "pubDate": "2026-10-10T08:23:00.000Z"
+  },
+  {
+    "title": "Driver Store Explorer 1.0.28",
+    "link": "https://www.computerbase.de/downloads/systemtools/driver-store-explorer/",
+    "pubDate": "2026-10-10T08:21:00.000Z"
+  },
+  {
     "title": "Snagit 2026.4.1 (macOS)",
     "link": "https://www.computerbase.de/downloads/foto-und-grafik/snagit/",
     "pubDate": "2026-10-09T22:34:00.000Z"
@@ -38,11 +68,6 @@
     "title": "foobar2000 v2.26.1",
     "link": "https://www.computerbase.de/downloads/audio-und-video/foobar2000/",
     "pubDate": "2026-10-09T14:45:00.000Z"
-  },
-  {
-    "title": "Rocket.Chat Desktop 4.18.0",
-    "link": "https://www.computerbase.de/downloads/kommunikation/rocket.chat/",
-    "pubDate": "2026-10-09T14:43:00.000Z"
   },
   {
     "title": "Python 3.15.0",
@@ -223,30 +248,5 @@
     "title": "Affinity 3.3.1",
     "link": "https://www.computerbase.de/downloads/foto-und-grafik/affinity/",
     "pubDate": "2026-10-08T09:38:00.000Z"
-  },
-  {
-    "title": "Microsoft Teams 26261.303.5165.1465 (macOS)",
-    "link": "https://www.computerbase.de/downloads/kommunikation/microsoft-teams/",
-    "pubDate": "2026-10-08T09:37:00.000Z"
-  },
-  {
-    "title": "Logitech G HUB 2026.6.981214",
-    "link": "https://www.computerbase.de/downloads/treiber/eingabegeraete/logitech-g-hub/",
-    "pubDate": "2026-10-08T09:32:00.000Z"
-  },
-  {
-    "title": "Free PC Audit 5.4.1",
-    "link": "https://www.computerbase.de/downloads/systemtools/free-pc-audit/",
-    "pubDate": "2026-10-08T09:31:00.000Z"
-  },
-  {
-    "title": "Mozilla Thunderbird 158.0 Beta 5",
-    "link": "https://www.computerbase.de/downloads/kommunikation/mozilla-thunderbird/",
-    "pubDate": "2026-10-08T09:28:00.000Z"
-  },
-  {
-    "title": "AnyDesk 9.8.1 (macOS)",
-    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/anydesk/",
-    "pubDate": "2026-10-08T09:26:00.000Z"
   }
 ]

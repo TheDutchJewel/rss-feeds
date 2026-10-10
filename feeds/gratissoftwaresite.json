@@ -1,5 +1,10 @@
 [
     {
+        "title": "foobar2000 2.26.1",
+        "link": "https://www.gratissoftwaresite.nl/downloads/foobar2000-muziekspeler-mp3",
+        "pubDate": "10 oktober 2026"
+    },
+    {
         "title": "Raspberry Pi Desktop 6.3",
         "link": "https://www.gratissoftwaresite.nl/downloads/raspberry-pi-desktop-besturingssysteem-os",
         "pubDate": "9 oktober 2026"
@@ -258,11 +263,6 @@
         "title": "SyncBack Free 12.1.22.0",
         "link": "https://www.gratissoftwaresite.nl/downloads/syncback-freeware-backup-reservekopie",
         "pubDate": "2 oktober 2026"
-    },
-    {
-        "title": "foobar2000 2.26.0",
-        "link": "https://www.gratissoftwaresite.nl/downloads/foobar2000-muziekspeler-mp3",
-        "pubDate": "1 oktober 2026"
     },
     {
         "title": "HWiNFO 8.54",

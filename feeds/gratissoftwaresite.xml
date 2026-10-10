@@ -5,6 +5,12 @@
     <link>https://www.gratissoftwaresite.nl/downloads/nieuwe-updates</link>
     <description>Nieuwste software-updates van GratisSoftwareSite</description>
     <item>
+      <title>foobar2000 2.26.1</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/foobar2000-muziekspeler-mp3</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/foobar2000-muziekspeler-mp3</guid>
+      <pubDate>10 oktober 2026</pubDate>
+    </item>
+    <item>
       <title>Raspberry Pi Desktop 6.3</title>
       <link>https://www.gratissoftwaresite.nl/downloads/raspberry-pi-desktop-besturingssysteem-os</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/raspberry-pi-desktop-besturingssysteem-os</guid>
@@ -315,12 +321,6 @@
       <link>https://www.gratissoftwaresite.nl/downloads/syncback-freeware-backup-reservekopie</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/syncback-freeware-backup-reservekopie</guid>
       <pubDate>2 oktober 2026</pubDate>
-    </item>
-    <item>
-      <title>foobar2000 2.26.0</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/foobar2000-muziekspeler-mp3</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/foobar2000-muziekspeler-mp3</guid>
-      <pubDate>1 oktober 2026</pubDate>
     </item>
     <item>
       <title>HWiNFO 8.54</title>
