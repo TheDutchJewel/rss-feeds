@@ -1,18 +1,43 @@
 [
   {
-    "title": "mIRC 7.85.1267 Beta",
+    "title": "mIRC 7.85.1319 Beta",
     "link": "https://www.computerbase.de/downloads/kommunikation/mirc/",
-    "pubDate": "2026-10-10T08:46:00.000Z"
+    "pubDate": "2026-10-11T09:36:00.000Z"
+  },
+  {
+    "title": "FrostWire 7.1.0",
+    "link": "https://www.computerbase.de/downloads/office/dateitransfer/frostwire/",
+    "pubDate": "2026-10-11T09:34:00.000Z"
+  },
+  {
+    "title": "2FAGuard 1.8.4",
+    "link": "https://www.computerbase.de/downloads/sicherheit/2faguard/",
+    "pubDate": "2026-10-11T09:33:00.000Z"
+  },
+  {
+    "title": "Telegram Desktop 7.3.1",
+    "link": "https://www.computerbase.de/downloads/kommunikation/telegram-desktop/",
+    "pubDate": "2026-10-11T09:32:00.000Z"
+  },
+  {
+    "title": "Rocket.Chat Desktop 4.18.2",
+    "link": "https://www.computerbase.de/downloads/kommunikation/rocket.chat/",
+    "pubDate": "2026-10-11T09:32:00.000Z"
+  },
+  {
+    "title": "OnyX 5.1.1 (macOS)",
+    "link": "https://www.computerbase.de/downloads/systemtools/onyx/",
+    "pubDate": "2026-10-11T09:31:00.000Z"
+  },
+  {
+    "title": "Driver Store Explorer 1.0.36",
+    "link": "https://www.computerbase.de/downloads/systemtools/driver-store-explorer/",
+    "pubDate": "2026-10-11T09:30:00.000Z"
   },
   {
     "title": "ChromeOS Flex 1.0.1",
     "link": "https://www.computerbase.de/downloads/betriebssysteme/chromeos-flex/",
     "pubDate": "2026-10-10T08:44:00.000Z"
-  },
-  {
-    "title": "Rocket.Chat Desktop 4.18.1",
-    "link": "https://www.computerbase.de/downloads/kommunikation/rocket.chat/",
-    "pubDate": "2026-10-10T08:37:00.000Z"
   },
   {
     "title": "Kodi 22.0 „Piers“ RC1",
@@ -23,11 +48,6 @@
     "title": "Monolingual 2.0.2 (macOS)",
     "link": "https://www.computerbase.de/downloads/systemtools/monolingual/",
     "pubDate": "2026-10-10T08:23:00.000Z"
-  },
-  {
-    "title": "Driver Store Explorer 1.0.28",
-    "link": "https://www.computerbase.de/downloads/systemtools/driver-store-explorer/",
-    "pubDate": "2026-10-10T08:21:00.000Z"
   },
   {
     "title": "Snagit 2026.4.1 (macOS)",
@@ -73,11 +93,6 @@
     "title": "Python 3.15.0",
     "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/python/",
     "pubDate": "2026-10-09T14:42:00.000Z"
-  },
-  {
-    "title": "Telegram Desktop 7.3.0",
-    "link": "https://www.computerbase.de/downloads/kommunikation/telegram-desktop/",
-    "pubDate": "2026-10-09T09:46:00.000Z"
   },
   {
     "title": "OBS Studio 33.0.0 RC 1",
@@ -233,20 +248,5 @@
     "title": "Dropbox 275.3.3520 Beta",
     "link": "https://www.computerbase.de/downloads/office/dateimanager/dropbox/",
     "pubDate": "2026-10-08T09:45:00.000Z"
-  },
-  {
-    "title": "Dropbox 274.4.4841",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/dropbox/",
-    "pubDate": "2026-10-08T09:44:00.000Z"
-  },
-  {
-    "title": "Microsoft Teams 26260.1701.5139.3736",
-    "link": "https://www.computerbase.de/downloads/kommunikation/microsoft-teams/",
-    "pubDate": "2026-10-08T09:40:00.000Z"
-  },
-  {
-    "title": "Affinity 3.3.1",
-    "link": "https://www.computerbase.de/downloads/foto-und-grafik/affinity/",
-    "pubDate": "2026-10-08T09:38:00.000Z"
   }
 ]
