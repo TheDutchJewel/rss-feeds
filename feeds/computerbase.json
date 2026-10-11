@@ -1,5 +1,10 @@
 [
   {
+    "title": "Fan Control V283",
+    "link": "https://www.computerbase.de/downloads/systemtools/fan-control/",
+    "pubDate": "2026-10-11T17:42:00.000Z"
+  },
+  {
     "title": "Linux Kernel 7.2.10 (Linux)",
     "link": "https://www.computerbase.de/downloads/betriebssysteme/linux-kernel/",
     "pubDate": "2026-10-11T14:40:00.000Z"
@@ -243,10 +248,5 @@
     "title": "itch 26.22.0",
     "link": "https://www.computerbase.de/downloads/games/itch/",
     "pubDate": "2026-10-08T09:56:00.000Z"
-  },
-  {
-    "title": "Hotspot Shield 6.21.0 (macOS)",
-    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/hotspot-shield/",
-    "pubDate": "2026-10-08T09:52:00.000Z"
   }
 ]
