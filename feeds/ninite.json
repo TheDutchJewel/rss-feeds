@@ -1,5 +1,10 @@
 [
   {
+    "title": "WinDirStat updated to 2.9.3.2253.",
+    "link": "https://ninite.com/windirstat/",
+    "pubDate": "Mon, 12 Oct 2026 13:38:09 -0000"
+  },
+  {
     "title": "Cursor updated to 3.24.12.",
     "link": "https://ninite.com/cursor/",
     "pubDate": "Sat, 10 Oct 2026 23:24:37 -0000"
@@ -293,20 +298,5 @@
     "title": "Sublime Text 4 updated to 4215.",
     "link": "https://ninite.com/sublimetext4/",
     "pubDate": "Mon, 05 Oct 2026 18:11:55 -0000"
-  },
-  {
-    "title": "OBS Studio updated to 32.2.2.",
-    "link": "https://ninite.com/obsstudio/",
-    "pubDate": "Mon, 05 Oct 2026 18:11:43 -0000"
-  },
-  {
-    "title": "Ghostscript updated to 10.08.0.",
-    "link": "https://ninite.com/ghostscript/",
-    "pubDate": "Mon, 05 Oct 2026 18:11:29 -0000"
-  },
-  {
-    "title": "ChatGPT updated to 26.930.4958.",
-    "link": "https://ninite.com/chatgpt/",
-    "pubDate": "Mon, 05 Oct 2026 17:40:48 -0000"
   }
 ]
