@@ -1,5 +1,30 @@
 [
     {
+        "title": "WinDirStat 2.9.3",
+        "link": "https://www.gratissoftwaresite.nl/downloads/windirstat-werktuig-tools-schijfruimte",
+        "pubDate": "12 oktober 2026"
+    },
+    {
+        "title": "WinScript 2.27.1",
+        "link": "https://www.gratissoftwaresite.nl/downloads/winscript-tweaks-werktuigen-optimalisatie",
+        "pubDate": "12 oktober 2026"
+    },
+    {
+        "title": "Super Productivity 19.2.0",
+        "link": "https://www.gratissoftwaresite.nl/downloads/super-productivity-taken-plannen-workflow-projectbeheer",
+        "pubDate": "12 oktober 2026"
+    },
+    {
+        "title": "Photoflare 1.7.5",
+        "link": "https://www.gratissoftwaresite.nl/downloads/photoflare-fotobewerking-beheer",
+        "pubDate": "12 oktober 2026"
+    },
+    {
+        "title": "FrostWire 7.1.0",
+        "link": "https://www.gratissoftwaresite.nl/downloads/frostwire-bestanden-muziek-film-mp3-downloaden",
+        "pubDate": "12 oktober 2026"
+    },
+    {
         "title": "Softmaker FreeOffice 2024 revisie 1238",
         "link": "https://www.gratissoftwaresite.nl/downloads/softmaker-freeoffice-textmaker-planmaker-presentations-kantoor-office",
         "pubDate": "11 oktober 2026"
@@ -90,11 +115,6 @@
         "pubDate": "8 oktober 2026"
     },
     {
-        "title": "WinScript 2.27.0",
-        "link": "https://www.gratissoftwaresite.nl/downloads/winscript-tweaks-werktuigen-optimalisatie",
-        "pubDate": "8 oktober 2026"
-    },
-    {
         "title": "Brave 1.97.56",
         "link": "https://www.gratissoftwaresite.nl/downloads/brave-web-browser-internet-privacy-beveiliging-schilden-trackers-ads",
         "pubDate": "8 oktober 2026"
@@ -137,11 +157,6 @@
     {
         "title": "NirLauncher Utilities 1.30.26",
         "link": "https://www.gratissoftwaresite.nl/downloads/nirlauncher-nirsoft-utilities-werktuigen-tools-pc-onderhoud-beheer",
-        "pubDate": "6 oktober 2026"
-    },
-    {
-        "title": "WinDirStat 2.9.2",
-        "link": "https://www.gratissoftwaresite.nl/downloads/windirstat-werktuig-tools-schijfruimte",
         "pubDate": "6 oktober 2026"
     },
     {
@@ -450,11 +465,6 @@
         "pubDate": "22 september 2026"
     },
     {
-        "title": "Super Productivity 19.1.0",
-        "link": "https://www.gratissoftwaresite.nl/downloads/super-productivity-taken-plannen-workflow-projectbeheer",
-        "pubDate": "21 september 2026"
-    },
-    {
         "title": "Franz 6.8.2",
         "link": "https://www.gratissoftwaresite.nl/downloads/franz-chat-instant-messenger-whatsapp-facebook-skype-hangouts-telegram",
         "pubDate": "21 september 2026"
@@ -462,16 +472,6 @@
     {
         "title": "Ferdium 7.2.3",
         "link": "https://www.gratissoftwaresite.nl/downloads/ferdium-multi-chat-mail-overzicht",
-        "pubDate": "21 september 2026"
-    },
-    {
-        "title": "Fotowall 1.1.4",
-        "link": "https://www.gratissoftwaresite.nl/downloads/fotowall-fotobewerking-collage-maken",
-        "pubDate": "21 september 2026"
-    },
-    {
-        "title": "CloneZilla 3.3.3-37",
-        "link": "https://www.gratissoftwaresite.nl/downloads/clonezilla-backup-kloon-image-data-transfer-pc",
         "pubDate": "21 september 2026"
     }
 ]
