@@ -1,5 +1,55 @@
 [
   {
+    "title": "Nobara Linux 44 2026-10-12",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/nobara-linux/",
+    "pubDate": "2026-10-13T08:25:00.000Z"
+  },
+  {
+    "title": "Rainmeter 4.5.28",
+    "link": "https://www.computerbase.de/downloads/systemtools/rainmeter/",
+    "pubDate": "2026-10-13T08:23:00.000Z"
+  },
+  {
+    "title": "Open-Shell 4.4.202 Beta",
+    "link": "https://www.computerbase.de/downloads/systemtools/open-shell/",
+    "pubDate": "2026-10-13T08:22:00.000Z"
+  },
+  {
+    "title": "K-Lite Codec Pack Update 20.0.7",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/k-lite-codec-pack/",
+    "pubDate": "2026-10-13T08:22:00.000Z"
+  },
+  {
+    "title": "Tor Browser 15.0.25",
+    "link": "https://www.computerbase.de/downloads/browser/tor-browser/",
+    "pubDate": "2026-10-13T08:20:00.000Z"
+  },
+  {
+    "title": "Mozilla Thunderbird 159.0 Beta 1",
+    "link": "https://www.computerbase.de/downloads/kommunikation/mozilla-thunderbird/",
+    "pubDate": "2026-10-13T08:20:00.000Z"
+  },
+  {
+    "title": "Bazzite 44.20261012.1",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/bazzite/",
+    "pubDate": "2026-10-13T08:19:00.000Z"
+  },
+  {
+    "title": "Bandizip 7.47",
+    "link": "https://www.computerbase.de/downloads/office/packprogramme/bandizip/",
+    "pubDate": "2026-10-13T08:19:00.000Z"
+  },
+  {
+    "title": "Bandizip 8.0 Beta 43",
+    "link": "https://www.computerbase.de/downloads/office/packprogramme/bandizip/",
+    "pubDate": "2026-10-13T08:19:00.000Z"
+  },
+  {
+    "title": "Intel Arc & Xe Grafiktreiber 32.0.101.9150 WHQL",
+    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/intel-grafiktreiber/",
+    "pubDate": "2026-10-13T08:18:00.000Z"
+  },
+  {
     "title": "Mozilla Firefox 159.0 Beta 1",
     "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
     "pubDate": "2026-10-12T17:06:00.000Z"
@@ -62,11 +112,6 @@
   {
     "title": "XnConvert 1.118",
     "link": "https://www.computerbase.de/downloads/foto-und-grafik/xnconvert/",
-    "pubDate": "2026-10-12T12:46:00.000Z"
-  },
-  {
-    "title": "Bazzite 44.20261012",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/bazzite/",
     "pubDate": "2026-10-12T12:46:00.000Z"
   },
   {
@@ -203,50 +248,5 @@
     "title": "Java SE Development Kit 28.0 Build 19 Dev",
     "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/java-se-development-kit/",
     "pubDate": "2026-10-09T22:25:00.000Z"
-  },
-  {
-    "title": "HyperX NGENUITY 3.1.0",
-    "link": "https://www.computerbase.de/downloads/treiber/eingabegeraete/hyperx-ngenuity/",
-    "pubDate": "2026-10-09T15:20:00.000Z"
-  },
-  {
-    "title": "Tunnelblick 10.0 Beta 5 (macOS)",
-    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/tunnelblick/",
-    "pubDate": "2026-10-09T14:47:00.000Z"
-  },
-  {
-    "title": "foobar2000 v2.26.1",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/foobar2000/",
-    "pubDate": "2026-10-09T14:45:00.000Z"
-  },
-  {
-    "title": "Python 3.15.0",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/python/",
-    "pubDate": "2026-10-09T14:42:00.000Z"
-  },
-  {
-    "title": "OBS Studio 33.0.0 RC 1",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/obs-studio/",
-    "pubDate": "2026-10-09T09:45:00.000Z"
-  },
-  {
-    "title": "Windows 11 Installationsassistent 26H2 Build 1.4.19041.7779",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/windows-11-installationsassistent/",
-    "pubDate": "2026-10-09T09:39:00.000Z"
-  },
-  {
-    "title": "Nero Burning ROM 28.5.10130",
-    "link": "https://www.computerbase.de/downloads/office/brennprogramme/nero/",
-    "pubDate": "2026-10-09T09:32:00.000Z"
-  },
-  {
-    "title": "calibre 9.16.0",
-    "link": "https://www.computerbase.de/downloads/office/calibre-ebook-management/",
-    "pubDate": "2026-10-09T09:32:00.000Z"
-  },
-  {
-    "title": "Ventoy 1.1.18",
-    "link": "https://www.computerbase.de/downloads/systemtools/festplatten/ventoy/",
-    "pubDate": "2026-10-09T09:31:00.000Z"
   }
 ]

@@ -1,5 +1,25 @@
 [
   {
+    "title": "Telegram Desktop Portable 7.3.1 (secure instant messaging) Released",
+    "link": "https://portableapps.com/news/2026-10-12--telegram-desktop-portable-7.3.1-released",
+    "pubDate": "Tue, 13 Oct 2026 03:59:26 +0000"
+  },
+  {
+    "title": "InnoUnpacker Portable 2.2.13 (InnoSetup inspector and extractor) Released",
+    "link": "https://portableapps.com/news/2026-10-12--innounpacker-portable-2.2.13-released",
+    "pubDate": "Tue, 13 Oct 2026 01:31:17 +0000"
+  },
+  {
+    "title": "Opera GX, Portable Edition 136.0.6008.111 (gaming browser) Released",
+    "link": "https://portableapps.com/news/2026-10-12--opera-gx-portable-136.0.6008.111-released",
+    "pubDate": "Tue, 13 Oct 2026 01:19:54 +0000"
+  },
+  {
+    "title": "Opera, Portable Edition 137.0.6036.39 (web browser) Released",
+    "link": "https://portableapps.com/news/2026-10-12--opera-portable-137.0.6036.39-released",
+    "pubDate": "Tue, 13 Oct 2026 01:16:12 +0000"
+  },
+  {
     "title": "Iron Portable 154.0.8100.0 (web browser) Released",
     "link": "https://portableapps.com/news/2026-10-12--iron-portable-154.0.8100.0-released",
     "pubDate": "Tue, 13 Oct 2026 00:52:00 +0000"
@@ -53,25 +73,5 @@
     "title": "7-Zip Portable 26.04 (file archiver) Released ",
     "link": "https://portableapps.com/news/2026-10-09--7-zip-portable-26.04-released",
     "pubDate": "Fri, 09 Oct 2026 19:28:19 +0000"
-  },
-  {
-    "title": "LibreWolf Portable 157.0.1-1 (web browser) Released",
-    "link": "https://portableapps.com/news/2026-10-09--librewolf-portable-157.0.1-1-released",
-    "pubDate": "Fri, 09 Oct 2026 17:55:26 +0000"
-  },
-  {
-    "title": " qBittorrent Enhanced Portable 5.2.43.10 (lightweight bittorrent client) Released",
-    "link": "https://portableapps.com/news/2026-10-09--qbittorrent-enhanced-portable-5.2.4.10-released",
-    "pubDate": "Fri, 09 Oct 2026 16:42:32 +0000"
-  },
-  {
-    "title": "qBittorrent Portable 5.2.4 (lightweight bittorrent client) Released",
-    "link": "https://portableapps.com/news/2026-10-09--qbittorrent--portable-5.2.4-released",
-    "pubDate": "Fri, 09 Oct 2026 16:41:23 +0000"
-  },
-  {
-    "title": "GPG Plugin Portable 2.5.24 (GnuPG encrypt and sign utility) Released",
-    "link": "https://portableapps.com/news/2026-10-09--gpg-plugin-portable-2.5.24-released",
-    "pubDate": "Fri, 09 Oct 2026 16:39:45 +0000"
   }
 ]
