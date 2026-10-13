@@ -5,6 +5,48 @@
     <link>https://www.gratissoftwaresite.nl/downloads/nieuwe-updates</link>
     <description>Nieuwste software-updates van GratisSoftwareSite</description>
     <item>
+      <title>Waterfox 6.7.6</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/waterfox-web-browser</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/waterfox-web-browser</guid>
+      <pubDate>13 oktober 2026</pubDate>
+    </item>
+    <item>
+      <title>AVG Anti-Virus Free 26.10</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/avg-anti-virus-free-virusscanner</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/avg-anti-virus-free-virusscanner</guid>
+      <pubDate>13 oktober 2026</pubDate>
+    </item>
+    <item>
+      <title>Avast Free Antivirus 26.10</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/avast-free-anti-virus-virusscanner</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/avast-free-anti-virus-virusscanner</guid>
+      <pubDate>13 oktober 2026</pubDate>
+    </item>
+    <item>
+      <title/>
+      <link>https://www.gratissoftwaresite.nl/downloads/mediaportal-mediacenter-audio-video-tv</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/mediaportal-mediacenter-audio-video-tv</guid>
+      <pubDate>13 oktober 2026</pubDate>
+    </item>
+    <item>
+      <title>Tor Browser 15.0.25</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/tor-browser-internet-web-anoniem-surfen-ip-verbergen</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/tor-browser-internet-web-anoniem-surfen-ip-verbergen</guid>
+      <pubDate>13 oktober 2026</pubDate>
+    </item>
+    <item>
+      <title>Firefox 158.0</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/firefox-internet-web-browser</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/firefox-internet-web-browser</guid>
+      <pubDate>13 oktober 2026</pubDate>
+    </item>
+    <item>
+      <title>Franz 6.9.2</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/franz-chat-instant-messenger-whatsapp-facebook-skype-hangouts-telegram</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/franz-chat-instant-messenger-whatsapp-facebook-skype-hangouts-telegram</guid>
+      <pubDate>13 oktober 2026</pubDate>
+    </item>
+    <item>
       <title>HDCleaner 2.096</title>
       <link>https://www.gratissoftwaresite.nl/downloads/hdcleaner-pc-schoonmaken-optimaliseren-tools-werktuigen</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/hdcleaner-pc-schoonmaken-optimaliseren-tools-werktuigen</guid>
@@ -215,12 +257,6 @@
       <pubDate>6 oktober 2026</pubDate>
     </item>
     <item>
-      <title>Firefox 157.0.1</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/firefox-internet-web-browser</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/firefox-internet-web-browser</guid>
-      <pubDate>6 oktober 2026</pubDate>
-    </item>
-    <item>
       <title>ocenaudio 3.22.0</title>
       <link>https://www.gratissoftwaresite.nl/downloads/ocenaudio-geluidsbewerking-mp3-audio-editor</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/ocenaudio-geluidsbewerking-mp3-audio-editor</guid>
@@ -305,12 +341,6 @@
       <pubDate>3 oktober 2026</pubDate>
     </item>
     <item>
-      <title>Waterfox 6.7.5</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/waterfox-web-browser</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/waterfox-web-browser</guid>
-      <pubDate>3 oktober 2026</pubDate>
-    </item>
-    <item>
       <title>Malwarebytes 5.7.2</title>
       <link>https://www.gratissoftwaresite.nl/downloads/malwarebytes-anti-malware-anti-spyware-virussen</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/malwarebytes-anti-malware-anti-spyware-virussen</guid>
@@ -380,12 +410,6 @@
       <title>Opera 136.0.6008.80</title>
       <link>https://www.gratissoftwaresite.nl/downloads/opera-internet-web-browser</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/opera-internet-web-browser</guid>
-      <pubDate>30 september 2026</pubDate>
-    </item>
-    <item>
-      <title>Tor Browser 15.0.24</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/tor-browser-internet-web-anoniem-surfen-ip-verbergen</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/tor-browser-internet-web-anoniem-surfen-ip-verbergen</guid>
       <pubDate>30 september 2026</pubDate>
     </item>
     <item>
@@ -549,30 +573,6 @@
       <link>https://www.gratissoftwaresite.nl/downloads/virtualbox-virtualisatie-os-virtuele-machine</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/virtualbox-virtualisatie-os-virtuele-machine</guid>
       <pubDate>22 september 2026</pubDate>
-    </item>
-    <item>
-      <title>VLC media player 3.0.24.0</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/vlc-media-player-mediaspeler-video-audio-dvd</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/vlc-media-player-mediaspeler-video-audio-dvd</guid>
-      <pubDate>22 september 2026</pubDate>
-    </item>
-    <item>
-      <title>MX Linux MX-25.3</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/mx-linux-besturingssysteem</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/mx-linux-besturingssysteem</guid>
-      <pubDate>22 september 2026</pubDate>
-    </item>
-    <item>
-      <title>Glary Utilities 6.48.0.52</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/glary-utilities-pc-opruimen-cleaner</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/glary-utilities-pc-opruimen-cleaner</guid>
-      <pubDate>22 september 2026</pubDate>
-    </item>
-    <item>
-      <title>Franz 6.8.2</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/franz-chat-instant-messenger-whatsapp-facebook-skype-hangouts-telegram</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/franz-chat-instant-messenger-whatsapp-facebook-skype-hangouts-telegram</guid>
-      <pubDate>21 september 2026</pubDate>
     </item>
   </channel>
 </rss>

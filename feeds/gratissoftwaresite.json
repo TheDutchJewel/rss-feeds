@@ -1,5 +1,40 @@
 [
     {
+        "title": "Waterfox 6.7.6",
+        "link": "https://www.gratissoftwaresite.nl/downloads/waterfox-web-browser",
+        "pubDate": "13 oktober 2026"
+    },
+    {
+        "title": "AVG Anti-Virus Free 26.10",
+        "link": "https://www.gratissoftwaresite.nl/downloads/avg-anti-virus-free-virusscanner",
+        "pubDate": "13 oktober 2026"
+    },
+    {
+        "title": "Avast Free Antivirus 26.10",
+        "link": "https://www.gratissoftwaresite.nl/downloads/avast-free-anti-virus-virusscanner",
+        "pubDate": "13 oktober 2026"
+    },
+    {
+        "title": "MediaPortal 2.5.0 & 1.39",
+        "link": "https://www.gratissoftwaresite.nl/downloads/mediaportal-mediacenter-audio-video-tv",
+        "pubDate": "13 oktober 2026"
+    },
+    {
+        "title": "Tor Browser 15.0.25",
+        "link": "https://www.gratissoftwaresite.nl/downloads/tor-browser-internet-web-anoniem-surfen-ip-verbergen",
+        "pubDate": "13 oktober 2026"
+    },
+    {
+        "title": "Firefox 158.0",
+        "link": "https://www.gratissoftwaresite.nl/downloads/firefox-internet-web-browser",
+        "pubDate": "13 oktober 2026"
+    },
+    {
+        "title": "Franz 6.9.2",
+        "link": "https://www.gratissoftwaresite.nl/downloads/franz-chat-instant-messenger-whatsapp-facebook-skype-hangouts-telegram",
+        "pubDate": "13 oktober 2026"
+    },
+    {
         "title": "HDCleaner 2.096",
         "link": "https://www.gratissoftwaresite.nl/downloads/hdcleaner-pc-schoonmaken-optimaliseren-tools-werktuigen",
         "pubDate": "12 oktober 2026"
@@ -175,11 +210,6 @@
         "pubDate": "6 oktober 2026"
     },
     {
-        "title": "Firefox 157.0.1",
-        "link": "https://www.gratissoftwaresite.nl/downloads/firefox-internet-web-browser",
-        "pubDate": "6 oktober 2026"
-    },
-    {
         "title": "ocenaudio 3.22.0",
         "link": "https://www.gratissoftwaresite.nl/downloads/ocenaudio-geluidsbewerking-mp3-audio-editor",
         "pubDate": "6 oktober 2026"
@@ -250,11 +280,6 @@
         "pubDate": "3 oktober 2026"
     },
     {
-        "title": "Waterfox 6.7.5",
-        "link": "https://www.gratissoftwaresite.nl/downloads/waterfox-web-browser",
-        "pubDate": "3 oktober 2026"
-    },
-    {
         "title": "Malwarebytes 5.7.2",
         "link": "https://www.gratissoftwaresite.nl/downloads/malwarebytes-anti-malware-anti-spyware-virussen",
         "pubDate": "3 oktober 2026"
@@ -312,11 +337,6 @@
     {
         "title": "Opera 136.0.6008.80",
         "link": "https://www.gratissoftwaresite.nl/downloads/opera-internet-web-browser",
-        "pubDate": "30 september 2026"
-    },
-    {
-        "title": "Tor Browser 15.0.24",
-        "link": "https://www.gratissoftwaresite.nl/downloads/tor-browser-internet-web-anoniem-surfen-ip-verbergen",
         "pubDate": "30 september 2026"
     },
     {
@@ -453,25 +473,5 @@
         "title": "VirtualBox 7.2.18",
         "link": "https://www.gratissoftwaresite.nl/downloads/virtualbox-virtualisatie-os-virtuele-machine",
         "pubDate": "22 september 2026"
-    },
-    {
-        "title": "VLC media player 3.0.24.0",
-        "link": "https://www.gratissoftwaresite.nl/downloads/vlc-media-player-mediaspeler-video-audio-dvd",
-        "pubDate": "22 september 2026"
-    },
-    {
-        "title": "MX Linux MX-25.3",
-        "link": "https://www.gratissoftwaresite.nl/downloads/mx-linux-besturingssysteem",
-        "pubDate": "22 september 2026"
-    },
-    {
-        "title": "Glary Utilities 6.48.0.52",
-        "link": "https://www.gratissoftwaresite.nl/downloads/glary-utilities-pc-opruimen-cleaner",
-        "pubDate": "22 september 2026"
-    },
-    {
-        "title": "Franz 6.8.2",
-        "link": "https://www.gratissoftwaresite.nl/downloads/franz-chat-instant-messenger-whatsapp-facebook-skype-hangouts-telegram",
-        "pubDate": "21 september 2026"
     }
 ]

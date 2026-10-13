@@ -1,5 +1,20 @@
 [
   {
+    "title": "AVG updated to 26.10.11201.3863.",
+    "link": "https://ninite.com/avg/",
+    "pubDate": "Tue, 13 Oct 2026 14:41:04 -0000"
+  },
+  {
+    "title": "Avast updated to 26.10.11201.3859.",
+    "link": "https://ninite.com/avast/",
+    "pubDate": "Tue, 13 Oct 2026 14:40:35 -0000"
+  },
+  {
+    "title": "Firefox updated to 158.0.",
+    "link": "https://ninite.com/firefox/",
+    "pubDate": "Tue, 13 Oct 2026 13:14:05 -0000"
+  },
+  {
     "title": "WinDirStat updated to 2.9.3.2253.",
     "link": "https://ninite.com/windirstat/",
     "pubDate": "Mon, 12 Oct 2026 13:38:09 -0000"
@@ -278,10 +293,5 @@
     "title": "Git updated to 2.56.0.2.",
     "link": "https://ninite.com/git/",
     "pubDate": "Tue, 06 Oct 2026 00:31:15 -0000"
-  },
-  {
-    "title": "TightVNC updated to 2.8.90.",
-    "link": "https://ninite.com/tightvnc/",
-    "pubDate": "Mon, 05 Oct 2026 20:49:02 -0000"
   }
 ]

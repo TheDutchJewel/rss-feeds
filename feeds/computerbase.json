@@ -1,5 +1,60 @@
 [
   {
+    "title": "Nvidia App 11.0.9.565",
+    "link": "https://www.computerbase.de/downloads/systemtools/grafikkarten/nvidia-app/",
+    "pubDate": "2026-10-13T16:54:00.000Z"
+  },
+  {
+    "title": "Nvidia Broadcast 2.3.0",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/nvidia-broadcast/",
+    "pubDate": "2026-10-13T16:53:00.000Z"
+  },
+  {
+    "title": "MediaPortal 1 v1.39.0",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/mediaportal/",
+    "pubDate": "2026-10-13T16:51:00.000Z"
+  },
+  {
+    "title": "OnlyOffice Desktop Editoren 10.0.0",
+    "link": "https://www.computerbase.de/downloads/office/onlyoffice/",
+    "pubDate": "2026-10-13T16:50:00.000Z"
+  },
+  {
+    "title": "Telegram for macOS 13.0 (macOS)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/telegram-for-macos/",
+    "pubDate": "2026-10-13T16:49:00.000Z"
+  },
+  {
+    "title": "Element 1.12.31",
+    "link": "https://www.computerbase.de/downloads/kommunikation/element/",
+    "pubDate": "2026-10-13T16:48:00.000Z"
+  },
+  {
+    "title": "Evernote 11.38.5",
+    "link": "https://www.computerbase.de/downloads/office/evernote/",
+    "pubDate": "2026-10-13T16:47:00.000Z"
+  },
+  {
+    "title": "Trellix Stinger 26.10.42.1",
+    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/mcafee-labs-stinger/",
+    "pubDate": "2026-10-13T16:47:00.000Z"
+  },
+  {
+    "title": "Mozilla Firefox 158.0",
+    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
+    "pubDate": "2026-10-13T16:41:00.000Z"
+  },
+  {
+    "title": "Mozilla Firefox 153.5.0 ESR",
+    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
+    "pubDate": "2026-10-13T16:40:00.000Z"
+  },
+  {
+    "title": "Mozilla Firefox 115.43.0 ESR",
+    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
+    "pubDate": "2026-10-13T16:39:00.000Z"
+  },
+  {
     "title": "Nobara Linux 44 2026-10-12",
     "link": "https://www.computerbase.de/downloads/betriebssysteme/nobara-linux/",
     "pubDate": "2026-10-13T08:25:00.000Z"
@@ -193,60 +248,5 @@
     "title": "mIRC 7.85.1319 Beta",
     "link": "https://www.computerbase.de/downloads/kommunikation/mirc/",
     "pubDate": "2026-10-11T09:36:00.000Z"
-  },
-  {
-    "title": "FrostWire 7.1.0",
-    "link": "https://www.computerbase.de/downloads/office/dateitransfer/frostwire/",
-    "pubDate": "2026-10-11T09:34:00.000Z"
-  },
-  {
-    "title": "2FAGuard 1.8.4",
-    "link": "https://www.computerbase.de/downloads/sicherheit/2faguard/",
-    "pubDate": "2026-10-11T09:33:00.000Z"
-  },
-  {
-    "title": "Telegram Desktop 7.3.1",
-    "link": "https://www.computerbase.de/downloads/kommunikation/telegram-desktop/",
-    "pubDate": "2026-10-11T09:32:00.000Z"
-  },
-  {
-    "title": "Rocket.Chat Desktop 4.18.2",
-    "link": "https://www.computerbase.de/downloads/kommunikation/rocket.chat/",
-    "pubDate": "2026-10-11T09:32:00.000Z"
-  },
-  {
-    "title": "OnyX 5.1.1 (macOS)",
-    "link": "https://www.computerbase.de/downloads/systemtools/onyx/",
-    "pubDate": "2026-10-11T09:31:00.000Z"
-  },
-  {
-    "title": "Driver Store Explorer 1.0.36",
-    "link": "https://www.computerbase.de/downloads/systemtools/driver-store-explorer/",
-    "pubDate": "2026-10-11T09:30:00.000Z"
-  },
-  {
-    "title": "Kodi 22.0 „Piers“ RC1",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/kodi-entertainment-center/",
-    "pubDate": "2026-10-10T08:35:00.000Z"
-  },
-  {
-    "title": "Monolingual 2.0.2 (macOS)",
-    "link": "https://www.computerbase.de/downloads/systemtools/monolingual/",
-    "pubDate": "2026-10-10T08:23:00.000Z"
-  },
-  {
-    "title": "EA-App 13.805.11.6320",
-    "link": "https://www.computerbase.de/downloads/games/ea-app/",
-    "pubDate": "2026-10-09T22:33:00.000Z"
-  },
-  {
-    "title": "mp3Tag 3.37 Beta 2",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/mp3tag/",
-    "pubDate": "2026-10-09T22:26:00.000Z"
-  },
-  {
-    "title": "Java SE Development Kit 28.0 Build 19 Dev",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/java-se-development-kit/",
-    "pubDate": "2026-10-09T22:25:00.000Z"
   }
 ]

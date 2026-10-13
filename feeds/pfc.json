@@ -1,5 +1,20 @@
 [
   {
+    "title": "[UPDATE] Rainmeter v4.5.28",
+    "link": "https://www.portablefreeware.com/?id=586&ts=1791903126",
+    "pubDate": "Tue, 13 Oct 2026 07:52:06 -0700"
+  },
+  {
+    "title": "[UPDATE] Tor Browser v15.0.25",
+    "link": "https://www.portablefreeware.com/?id=2392&ts=1791903017",
+    "pubDate": "Tue, 13 Oct 2026 07:50:17 -0700"
+  },
+  {
+    "title": "[UPDATE] InnoUnpacker v2.2.13",
+    "link": "https://www.portablefreeware.com/?id=3132&ts=1791902931",
+    "pubDate": "Tue, 13 Oct 2026 07:48:51 -0700"
+  },
+  {
     "title": "[UPDATE] TcpLogView v1.42",
     "link": "https://www.portablefreeware.com/?id=2419&ts=1791867611",
     "pubDate": "Mon, 12 Oct 2026 22:00:11 -0700"
@@ -10,7 +25,7 @@
     "pubDate": "Mon, 12 Oct 2026 21:59:32 -0700"
   },
   {
-    "title": "[UPDATE] PolyHostInterface v3.0.38",
+    "title": "[UPDATE] PolyHostInterface v3.1.1",
     "link": "https://www.portablefreeware.com/?id=3149&ts=1791828685",
     "pubDate": "Mon, 12 Oct 2026 11:11:25 -0700"
   },
@@ -30,7 +45,7 @@
     "pubDate": "Sun, 11 Oct 2026 07:07:51 -0700"
   },
   {
-    "title": "[UPDATE] CHK v6.20",
+    "title": "[UPDATE] CHK v6.21",
     "link": "https://www.portablefreeware.com/?id=2359&ts=1791727619",
     "pubDate": "Sun, 11 Oct 2026 07:06:59 -0700"
   },
@@ -65,7 +80,7 @@
     "pubDate": "Thu, 08 Oct 2026 06:28:47 -0700"
   },
   {
-    "title": "[UPDATE] Chromium Portable v154.0.8037.98",
+    "title": "[UPDATE] Chromium Portable v155.0.8059.40",
     "link": "https://www.portablefreeware.com/?id=2169&ts=1791465860",
     "pubDate": "Thu, 08 Oct 2026 06:24:20 -0700"
   },
@@ -93,11 +108,6 @@
     "title": "[UPDATE] LiveTcpUdpWatch v1.59",
     "link": "https://www.portablefreeware.com/?id=2948&ts=1791346894",
     "pubDate": "Tue, 06 Oct 2026 21:21:34 -0700"
-  },
-  {
-    "title": "[UPDATE] Rainmeter v4.5.27",
-    "link": "https://www.portablefreeware.com/?id=586&ts=1791296032",
-    "pubDate": "Tue, 06 Oct 2026 07:13:52 -0700"
   },
   {
     "title": "[UPDATE] Mozilla Firefox, Portable Edition v157.0.1",
@@ -335,11 +345,6 @@
     "pubDate": "Thu, 17 Sep 2026 23:19:36 -0700"
   },
   {
-    "title": "[UPDATE] Tor Browser v15.0.23",
-    "link": "https://www.portablefreeware.com/?id=2392&ts=1789664431",
-    "pubDate": "Thu, 17 Sep 2026 10:00:31 -0700"
-  },
-  {
     "title": "[UPDATE] Windows System Control Center v10.0.4.3",
     "link": "https://www.portablefreeware.com/?id=1666&ts=1789664325",
     "pubDate": "Thu, 17 Sep 2026 09:58:45 -0700"
@@ -483,11 +488,6 @@
     "title": "[UPDATE] SideSlide v6.50",
     "link": "https://www.portablefreeware.com/?id=1409&ts=1788252663",
     "pubDate": "Tue, 01 Sep 2026 01:51:03 -0700"
-  },
-  {
-    "title": "[UPDATE] InnoUnpacker v2.2.12.1",
-    "link": "https://www.portablefreeware.com/?id=3132&ts=1788102096",
-    "pubDate": "Sun, 30 Aug 2026 08:01:36 -0700"
   },
   {
     "title": "[UPDATE] TheAeroClock v9.36",
