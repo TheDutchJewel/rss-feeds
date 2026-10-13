@@ -1,5 +1,35 @@
 [
   {
+    "title": "Iron Portable 154.0.8100.0 (web browser) Released",
+    "link": "https://portableapps.com/news/2026-10-12--iron-portable-154.0.8100.0-released",
+    "pubDate": "Tue, 13 Oct 2026 00:52:00 +0000"
+  },
+  {
+    "title": "Chromium Portable 155.0.8059.40 (web browser) Released",
+    "link": "https://portableapps.com/news/2026-10-12--chromium-portable-155.0.8059.40-released",
+    "pubDate": "Tue, 13 Oct 2026 00:49:55 +0000"
+  },
+  {
+    "title": "QOwnNotes Portable 26.10.5 (markdown note taker) Released",
+    "link": "https://portableapps.com/news/2026-10-12--qownnotes-portable-26.10.5-released",
+    "pubDate": "Mon, 12 Oct 2026 23:40:11 +0000"
+  },
+  {
+    "title": "gVim Portable 9.2.1176 (advanced text editor) Released",
+    "link": "https://portableapps.com/news/2026-10-12--gvim-portable-9.2.1176-released",
+    "pubDate": "Mon, 12 Oct 2026 23:38:53 +0000"
+  },
+  {
+    "title": "Trellix Stinger Portable 26.09.40.1 (common virus remover) Released",
+    "link": "https://portableapps.com/news/2026-10-12--trellix-stinger-portable-26.09.40.1-released",
+    "pubDate": "Mon, 12 Oct 2026 22:25:17 +0000"
+  },
+  {
+    "title": "mssPortable 1.459.690 (Microsoft Safety Scanner antivirus launcher) Released",
+    "link": "https://portableapps.com/news/2026-10-12--mssportable-1.459.690-released",
+    "pubDate": "Mon, 12 Oct 2026 22:20:22 +0000"
+  },
+  {
     "title": "PortableApps.com Platform 30.6: October Maintenance Release",
     "link": "https://portableapps.com/news/2026-10-12--portableapps.com-platform-30.6-released",
     "pubDate": "Mon, 12 Oct 2026 06:08:15 +0000"
@@ -43,35 +73,5 @@
     "title": "GPG Plugin Portable 2.5.24 (GnuPG encrypt and sign utility) Released",
     "link": "https://portableapps.com/news/2026-10-09--gpg-plugin-portable-2.5.24-released",
     "pubDate": "Fri, 09 Oct 2026 16:39:45 +0000"
-  },
-  {
-    "title": "Draw.io Portable 32.4.1 (diagramming) Released ",
-    "link": "https://portableapps.com/news/2026-10-09--draw.io-portable-32.4.1-released",
-    "pubDate": "Fri, 09 Oct 2026 16:19:18 +0000"
-  },
-  {
-    "title": "TeamViewer Portable 15.82.6 (pc control, screen sharing) Released",
-    "link": "https://portableapps.com/news/2026-10-07--teamviewer-portable-15.82.6-released",
-    "pubDate": "Wed, 07 Oct 2026 16:50:14 +0000"
-  },
-  {
-    "title": "HWiNFO 32+64 Portable 8.54.6090 (detailed info about your hardware and software) Released",
-    "link": "https://portableapps.com/news/2026-10-07--hwinfo-portable-8.54.6090-released",
-    "pubDate": "Wed, 07 Oct 2026 16:46:28 +0000"
-  },
-  {
-    "title": "Chromium Portable 154.0.8037.98 (web browser) Released",
-    "link": "https://portableapps.com/news/2026-10-07--chromium-portable-154.0.8037.98-released",
-    "pubDate": "Wed, 07 Oct 2026 16:44:06 +0000"
-  },
-  {
-    "title": "Google Chrome Portable 157 Dev (web browser) Released",
-    "link": "https://portableapps.com/news/2026-10-07--google-chrome-portable-157-dev-released",
-    "pubDate": "Wed, 07 Oct 2026 16:42:33 +0000"
-  },
-  {
-    "title": "Google Chrome Portable 156 Beta (web browser) Released",
-    "link": "https://portableapps.com/news/2026-10-07--google-chrome-portable-156-beta-released",
-    "pubDate": "Wed, 07 Oct 2026 16:42:08 +0000"
   }
 ]
