@@ -1,5 +1,150 @@
 [
   {
+    "title": "Discord 1.0.162 (Linux)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/discord/",
+    "pubDate": "2026-10-13T20:10:00.000Z"
+  },
+  {
+    "title": "Discord 0.0.416 (macOS)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/discord/",
+    "pubDate": "2026-10-13T20:09:00.000Z"
+  },
+  {
+    "title": "VSCodium 1.140.06880",
+    "link": "https://www.computerbase.de/downloads/office/editoren/vscodium/",
+    "pubDate": "2026-10-13T19:40:00.000Z"
+  },
+  {
+    "title": "Visual Studio 2022 v17.14.42",
+    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/visual-studio-2022/",
+    "pubDate": "2026-10-13T19:39:00.000Z"
+  },
+  {
+    "title": "Visual Studio 2026 v18.12.12308.306 Insider",
+    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/visual-studio-2026/",
+    "pubDate": "2026-10-13T19:38:00.000Z"
+  },
+  {
+    "title": "Visual Studio 2026 v18.11.0",
+    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/visual-studio-2026/",
+    "pubDate": "2026-10-13T19:37:00.000Z"
+  },
+  {
+    "title": "Windows 10 Kumulatives Update 21H2/22H2 (Build 19045.7807) KB5126657 (Win 10)",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/windows-10-kumulatives-update/",
+    "pubDate": "2026-10-13T19:30:00.000Z"
+  },
+  {
+    "title": "Windows 10 Kumulatives Update 1809 (Build 17763.9376) KB5126651 (Win 10)",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/windows-10-kumulatives-update/",
+    "pubDate": "2026-10-13T19:29:00.000Z"
+  },
+  {
+    "title": "Windows 10 Kumulatives Update 1607 (Build 14393.9612) KB5126868 (Win 10)",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/windows-10-kumulatives-update/",
+    "pubDate": "2026-10-13T19:28:00.000Z"
+  },
+  {
+    "title": "Microsoft .NET Windows Desktop Runtime 11.0.0 RC2",
+    "link": "https://www.computerbase.de/downloads/systemtools/microsoft-.net/",
+    "pubDate": "2026-10-13T19:25:00.000Z"
+  },
+  {
+    "title": "Microsoft .NET Windows Desktop Runtime 10.0.13",
+    "link": "https://www.computerbase.de/downloads/systemtools/microsoft-.net/",
+    "pubDate": "2026-10-13T19:24:00.000Z"
+  },
+  {
+    "title": "Microsoft .NET Windows Desktop Runtime 9.0.21",
+    "link": "https://www.computerbase.de/downloads/systemtools/microsoft-.net/",
+    "pubDate": "2026-10-13T19:23:00.000Z"
+  },
+  {
+    "title": "Microsoft .NET Windows Desktop Runtime 8.0.32",
+    "link": "https://www.computerbase.de/downloads/systemtools/microsoft-.net/",
+    "pubDate": "2026-10-13T19:22:00.000Z"
+  },
+  {
+    "title": "1Password 8.12.42-34 Beta",
+    "link": "https://www.computerbase.de/downloads/sicherheit/passwortmanager/1password/",
+    "pubDate": "2026-10-13T19:20:00.000Z"
+  },
+  {
+    "title": "Mozilla Thunderbird 158.0",
+    "link": "https://www.computerbase.de/downloads/kommunikation/mozilla-thunderbird/",
+    "pubDate": "2026-10-13T19:19:00.000Z"
+  },
+  {
+    "title": "Mozilla Thunderbird 153.5.0esr",
+    "link": "https://www.computerbase.de/downloads/kommunikation/mozilla-thunderbird/",
+    "pubDate": "2026-10-13T19:18:00.000Z"
+  },
+  {
+    "title": "Dropbox 276.3.5209 Beta",
+    "link": "https://www.computerbase.de/downloads/office/dateimanager/dropbox/",
+    "pubDate": "2026-10-13T17:46:00.000Z"
+  },
+  {
+    "title": "Dropbox 275.4.3565",
+    "link": "https://www.computerbase.de/downloads/office/dateimanager/dropbox/",
+    "pubDate": "2026-10-13T17:45:00.000Z"
+  },
+  {
+    "title": "Nvidia Profile Inspector 3.0.2.3 Beta",
+    "link": "https://www.computerbase.de/downloads/systemtools/grafikkarten/nvidia-profile-inspector/",
+    "pubDate": "2026-10-13T17:44:00.000Z"
+  },
+  {
+    "title": "TeamSpeak 6.0.0-beta5",
+    "link": "https://www.computerbase.de/downloads/kommunikation/teamspeak/",
+    "pubDate": "2026-10-13T17:42:00.000Z"
+  },
+  {
+    "title": "Windows 11 Kumulatives Update 24H2/25H2/26H2 (Build 26300.9711) KB5127648 (Win 11)",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/windows-11-kumulatives-update/",
+    "pubDate": "2026-10-13T17:25:00.000Z"
+  },
+  {
+    "title": "Windows 11 Kumulatives Update 26H1 (Build 28000.3231) KB5127646 (Win 11)",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/windows-11-kumulatives-update/",
+    "pubDate": "2026-10-13T17:24:00.000Z"
+  },
+  {
+    "title": "Windows 11 Kumulatives Update 23H2 (Build 22631.7652) KB5126653 (Win 11)",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/windows-11-kumulatives-update/",
+    "pubDate": "2026-10-13T17:23:00.000Z"
+  },
+  {
+    "title": "Glorious Core 2.1.22",
+    "link": "https://www.computerbase.de/downloads/treiber/eingabegeraete/glorious-core/",
+    "pubDate": "2026-10-13T17:18:00.000Z"
+  },
+  {
+    "title": "Visual Studio Code (VS Code) 1.141.1",
+    "link": "https://www.computerbase.de/downloads/office/editoren/visual-studio-code/",
+    "pubDate": "2026-10-13T17:17:00.000Z"
+  },
+  {
+    "title": "UL 3DMark 2.32.8919",
+    "link": "https://www.computerbase.de/downloads/benchmarks/ul-3dmark/",
+    "pubDate": "2026-10-13T17:04:00.000Z"
+  },
+  {
+    "title": "AVG AntiVirus Free 26.10.11201",
+    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/avg-antivirus-free/",
+    "pubDate": "2026-10-13T16:56:00.000Z"
+  },
+  {
+    "title": "ProtonVPN 6.5.2 (macOS)",
+    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/protonvpn/",
+    "pubDate": "2026-10-13T16:56:00.000Z"
+  },
+  {
+    "title": "Avast Free Antivirus 26.10.11201",
+    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/avast-free-antivirus/",
+    "pubDate": "2026-10-13T16:55:00.000Z"
+  },
+  {
     "title": "Nvidia App 11.0.9.565",
     "link": "https://www.computerbase.de/downloads/systemtools/grafikkarten/nvidia-app/",
     "pubDate": "2026-10-13T16:54:00.000Z"
@@ -103,150 +248,5 @@
     "title": "Intel Arc & Xe Grafiktreiber 32.0.101.9150 WHQL",
     "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/intel-grafiktreiber/",
     "pubDate": "2026-10-13T08:18:00.000Z"
-  },
-  {
-    "title": "Mozilla Firefox 159.0 Beta 1",
-    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
-    "pubDate": "2026-10-12T17:06:00.000Z"
-  },
-  {
-    "title": "Snagit 2026.4.2 (macOS)",
-    "link": "https://www.computerbase.de/downloads/foto-und-grafik/snagit/",
-    "pubDate": "2026-10-12T16:22:00.000Z"
-  },
-  {
-    "title": "Adobe AIR SDK 51.4.1.2",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/adobe-air-sdk/",
-    "pubDate": "2026-10-12T16:19:00.000Z"
-  },
-  {
-    "title": "WhatsApp 2.26.41.14 (macOS)",
-    "link": "https://www.computerbase.de/downloads/kommunikation/whatsapp/",
-    "pubDate": "2026-10-12T15:12:00.000Z"
-  },
-  {
-    "title": "TeamDrive 5.3.0 Build 3925",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/teamdrive/",
-    "pubDate": "2026-10-12T15:09:00.000Z"
-  },
-  {
-    "title": "XnView MP 1.12.2",
-    "link": "https://www.computerbase.de/downloads/foto-und-grafik/xnview-mp/",
-    "pubDate": "2026-10-12T14:12:00.000Z"
-  },
-  {
-    "title": "Ubisoft Connect 174.2.0.13389",
-    "link": "https://www.computerbase.de/downloads/games/ubisoft-connect/",
-    "pubDate": "2026-10-12T14:06:00.000Z"
-  },
-  {
-    "title": "Zoom Player 23.0 Beta 3",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/zoom-player/",
-    "pubDate": "2026-10-12T13:06:00.000Z"
-  },
-  {
-    "title": "PortableApps.com Platform 30.6",
-    "link": "https://www.computerbase.de/downloads/systemtools/portableapps-platform/",
-    "pubDate": "2026-10-12T12:56:00.000Z"
-  },
-  {
-    "title": "Core Temp 1.21",
-    "link": "https://www.computerbase.de/downloads/systemtools/core-temp/",
-    "pubDate": "2026-10-12T12:53:00.000Z"
-  },
-  {
-    "title": "ScummVM 2026.4.0",
-    "link": "https://www.computerbase.de/downloads/games/scummvm/",
-    "pubDate": "2026-10-12T12:52:00.000Z"
-  },
-  {
-    "title": "Files 4.3",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/files/",
-    "pubDate": "2026-10-12T12:48:00.000Z"
-  },
-  {
-    "title": "XnConvert 1.118",
-    "link": "https://www.computerbase.de/downloads/foto-und-grafik/xnconvert/",
-    "pubDate": "2026-10-12T12:46:00.000Z"
-  },
-  {
-    "title": "Sandboxie Plus 1.18.6",
-    "link": "https://www.computerbase.de/downloads/sicherheit/sandboxie/",
-    "pubDate": "2026-10-12T12:45:00.000Z"
-  },
-  {
-    "title": "Sandboxie Classic 5.73.6",
-    "link": "https://www.computerbase.de/downloads/sicherheit/sandboxie/",
-    "pubDate": "2026-10-12T12:44:00.000Z"
-  },
-  {
-    "title": "ProtonVPN 4.18.7 (Linux)",
-    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/protonvpn/",
-    "pubDate": "2026-10-12T12:43:00.000Z"
-  },
-  {
-    "title": "Nextcloud Client 35.0.0",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/nextcloud/",
-    "pubDate": "2026-10-12T12:42:00.000Z"
-  },
-  {
-    "title": "FotoSketcher Studio 4.70 Beta 2",
-    "link": "https://www.computerbase.de/downloads/foto-und-grafik/fotosketcher/",
-    "pubDate": "2026-10-12T12:41:00.000Z"
-  },
-  {
-    "title": "Dropbox 275.3.3537 Beta",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/dropbox/",
-    "pubDate": "2026-10-12T12:40:00.000Z"
-  },
-  {
-    "title": "ChromeOS Flex 1.0.2",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/chromeos-flex/",
-    "pubDate": "2026-10-12T12:39:00.000Z"
-  },
-  {
-    "title": "WinDirStat 2.9.3",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/windirstat/",
-    "pubDate": "2026-10-12T12:39:00.000Z"
-  },
-  {
-    "title": "EPIM Mail 26.5.3",
-    "link": "https://www.computerbase.de/downloads/office/essentialpim-free/",
-    "pubDate": "2026-10-12T12:38:00.000Z"
-  },
-  {
-    "title": "HWiNFO 8.55 Build 6095 Beta",
-    "link": "https://www.computerbase.de/downloads/systemtools/hwinfo/",
-    "pubDate": "2026-10-12T12:37:00.000Z"
-  },
-  {
-    "title": "Fan Control V283",
-    "link": "https://www.computerbase.de/downloads/systemtools/fan-control/",
-    "pubDate": "2026-10-11T17:42:00.000Z"
-  },
-  {
-    "title": "Linux Kernel 7.2.10 (Linux)",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/linux-kernel/",
-    "pubDate": "2026-10-11T14:40:00.000Z"
-  },
-  {
-    "title": "Linux Kernel 6.18.56 (Linux)",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/linux-kernel/",
-    "pubDate": "2026-10-11T14:39:00.000Z"
-  },
-  {
-    "title": "CrystalDiskInfo 9.9.3",
-    "link": "https://www.computerbase.de/downloads/systemtools/festplatten/crystaldiskinfo/",
-    "pubDate": "2026-10-11T12:20:00.000Z"
-  },
-  {
-    "title": "Mumble 1.5.939",
-    "link": "https://www.computerbase.de/downloads/kommunikation/mumble/",
-    "pubDate": "2026-10-11T12:16:00.000Z"
-  },
-  {
-    "title": "mIRC 7.85.1319 Beta",
-    "link": "https://www.computerbase.de/downloads/kommunikation/mirc/",
-    "pubDate": "2026-10-11T09:36:00.000Z"
   }
 ]
