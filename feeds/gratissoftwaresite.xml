@@ -5,6 +5,30 @@
     <link>https://www.gratissoftwaresite.nl/downloads/nieuwe-updates</link>
     <description>Nieuwste software-updates van GratisSoftwareSite</description>
     <item>
+      <title/>
+      <link>https://www.gratissoftwaresite.nl/downloads/xnview-fotobewerking-beeld</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/xnview-fotobewerking-beeld</guid>
+      <pubDate>14 oktober 2026</pubDate>
+    </item>
+    <item>
+      <title>LibreWolf 158.0-1</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/librewolf-web-browser-privacy</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/librewolf-web-browser-privacy</guid>
+      <pubDate>14 oktober 2026</pubDate>
+    </item>
+    <item>
+      <title>Kdenlive 26.08.2</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/kdenlive-videobewerking-dvd-effecten-clips</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/kdenlive-videobewerking-dvd-effecten-clips</guid>
+      <pubDate>14 oktober 2026</pubDate>
+    </item>
+    <item>
+      <title>Thunderbird 158.0 Release...</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/thunderbird-mailprogramma-pop3-imap</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/thunderbird-mailprogramma-pop3-imap</guid>
+      <pubDate>14 oktober 2026</pubDate>
+    </item>
+    <item>
       <title>Waterfox 6.7.6</title>
       <link>https://www.gratissoftwaresite.nl/downloads/waterfox-web-browser</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/waterfox-web-browser</guid>
@@ -158,12 +182,6 @@
       <title>Microsoft Edge 154.0.4258.62</title>
       <link>https://www.gratissoftwaresite.nl/downloads/edge-internet-browser-ie-opvolger</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/edge-internet-browser-ie-opvolger</guid>
-      <pubDate>8 oktober 2026</pubDate>
-    </item>
-    <item>
-      <title>LibreWolf 157.0.1-1</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/librewolf-web-browser-privacy</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/librewolf-web-browser-privacy</guid>
       <pubDate>8 oktober 2026</pubDate>
     </item>
     <item>
@@ -401,12 +419,6 @@
       <pubDate>1 oktober 2026</pubDate>
     </item>
     <item>
-      <title>Thunderbird 157.0 Release...</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/thunderbird-mailprogramma-pop3-imap</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/thunderbird-mailprogramma-pop3-imap</guid>
-      <pubDate>30 september 2026</pubDate>
-    </item>
-    <item>
       <title>Opera 136.0.6008.80</title>
       <link>https://www.gratissoftwaresite.nl/downloads/opera-internet-web-browser</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/opera-internet-web-browser</guid>
@@ -440,12 +452,6 @@
       <title>Stellarium 26.3</title>
       <link>https://www.gratissoftwaresite.nl/downloads/stellarium-satellietbeelden-bekijken-sterrenkaart-planeten</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/stellarium-satellietbeelden-bekijken-sterrenkaart-planeten</guid>
-      <pubDate>29 september 2026</pubDate>
-    </item>
-    <item>
-      <title/>
-      <link>https://www.gratissoftwaresite.nl/downloads/xnview-fotobewerking-beeld</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/xnview-fotobewerking-beeld</guid>
       <pubDate>29 september 2026</pubDate>
     </item>
     <item>
@@ -566,12 +572,6 @@
       <title>GeekUninstaller 1.5.5.181</title>
       <link>https://www.gratissoftwaresite.nl/downloads/geekuninstaller-werktuigen-de-installatie-software-verwijderen</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/geekuninstaller-werktuigen-de-installatie-software-verwijderen</guid>
-      <pubDate>22 september 2026</pubDate>
-    </item>
-    <item>
-      <title>VirtualBox 7.2.18</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/virtualbox-virtualisatie-os-virtuele-machine</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/virtualbox-virtualisatie-os-virtuele-machine</guid>
       <pubDate>22 september 2026</pubDate>
     </item>
   </channel>

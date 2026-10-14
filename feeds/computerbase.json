@@ -1,5 +1,45 @@
 [
   {
+    "title": "Viber für Desktop 29.1.0.0",
+    "link": "https://www.computerbase.de/downloads/kommunikation/viber-fuer-desktop/",
+    "pubDate": "2026-10-14T09:33:00.000Z"
+  },
+  {
+    "title": "Joomla! 6.2.0v1",
+    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/joomla/",
+    "pubDate": "2026-10-14T08:02:00.000Z"
+  },
+  {
+    "title": "Joomla! 5.4.10v1",
+    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/joomla/",
+    "pubDate": "2026-10-14T08:01:00.000Z"
+  },
+  {
+    "title": "Seafile Sync Client 9.0.22",
+    "link": "https://www.computerbase.de/downloads/office/dateimanager/seafile/",
+    "pubDate": "2026-10-14T08:00:00.000Z"
+  },
+  {
+    "title": "Steam 2026-10-13",
+    "link": "https://www.computerbase.de/downloads/games/steam/",
+    "pubDate": "2026-10-14T07:55:00.000Z"
+  },
+  {
+    "title": "Microsoft Windows-Tool zum Entfernen bösartiger Software 5.146",
+    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/microsoft-anti-viren-tool/",
+    "pubDate": "2026-10-14T07:52:00.000Z"
+  },
+  {
+    "title": "Nobara Linux 44 2026-10-13",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/nobara-linux/",
+    "pubDate": "2026-10-14T07:50:00.000Z"
+  },
+  {
+    "title": "AIMP 6.00 Build 3090 Beta 7",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/aimp/",
+    "pubDate": "2026-10-14T07:50:00.000Z"
+  },
+  {
     "title": "NTLite Free 2026.10.12522",
     "link": "https://www.computerbase.de/downloads/systemtools/ntlite-free/",
     "pubDate": "2026-10-13T22:20:00.000Z"
@@ -208,45 +248,5 @@
     "title": "Mozilla Firefox 158.0",
     "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
     "pubDate": "2026-10-13T16:41:00.000Z"
-  },
-  {
-    "title": "Mozilla Firefox 153.5.0 ESR",
-    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
-    "pubDate": "2026-10-13T16:40:00.000Z"
-  },
-  {
-    "title": "Mozilla Firefox 115.43.0 ESR",
-    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
-    "pubDate": "2026-10-13T16:39:00.000Z"
-  },
-  {
-    "title": "Nobara Linux 44 2026-10-12",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/nobara-linux/",
-    "pubDate": "2026-10-13T08:25:00.000Z"
-  },
-  {
-    "title": "Rainmeter 4.5.28",
-    "link": "https://www.computerbase.de/downloads/systemtools/rainmeter/",
-    "pubDate": "2026-10-13T08:23:00.000Z"
-  },
-  {
-    "title": "Open-Shell 4.4.202 Beta",
-    "link": "https://www.computerbase.de/downloads/systemtools/open-shell/",
-    "pubDate": "2026-10-13T08:22:00.000Z"
-  },
-  {
-    "title": "K-Lite Codec Pack Update 20.0.7",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/k-lite-codec-pack/",
-    "pubDate": "2026-10-13T08:22:00.000Z"
-  },
-  {
-    "title": "Tor Browser 15.0.25",
-    "link": "https://www.computerbase.de/downloads/browser/tor-browser/",
-    "pubDate": "2026-10-13T08:20:00.000Z"
-  },
-  {
-    "title": "Mozilla Thunderbird 159.0 Beta 1",
-    "link": "https://www.computerbase.de/downloads/kommunikation/mozilla-thunderbird/",
-    "pubDate": "2026-10-13T08:20:00.000Z"
   }
 ]
