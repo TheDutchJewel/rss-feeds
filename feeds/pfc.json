@@ -1,5 +1,20 @@
 [
   {
+    "title": "[UPDATE] Q-Dir v12.79",
+    "link": "https://www.portablefreeware.com/?id=1431&ts=1791946246",
+    "pubDate": "Tue, 13 Oct 2026 19:50:46 -0700"
+  },
+  {
+    "title": "[UPDATE] NAPS2 v8.5.1",
+    "link": "https://www.portablefreeware.com/?id=3020&ts=1791946215",
+    "pubDate": "Tue, 13 Oct 2026 19:50:15 -0700"
+  },
+  {
+    "title": "[UPDATE] Core Temp v1.21",
+    "link": "https://www.portablefreeware.com/?id=2347&ts=1791946169",
+    "pubDate": "Tue, 13 Oct 2026 19:49:29 -0700"
+  },
+  {
     "title": "[UPDATE] Rainmeter v4.5.28",
     "link": "https://www.portablefreeware.com/?id=586&ts=1791903126",
     "pubDate": "Tue, 13 Oct 2026 07:52:06 -0700"
@@ -148,11 +163,6 @@
     "title": "[UPDATE] foobar2000 v2.26",
     "link": "https://www.portablefreeware.com/?id=184&ts=1791086360",
     "pubDate": "Sat, 03 Oct 2026 20:59:20 -0700"
-  },
-  {
-    "title": "[UPDATE] NAPS2 v8.4.1",
-    "link": "https://www.portablefreeware.com/?id=3020&ts=1791086311",
-    "pubDate": "Sat, 03 Oct 2026 20:58:31 -0700"
   },
   {
     "title": "[UPDATE] AutoHotkey v2.0.30",
@@ -488,15 +498,5 @@
     "title": "[UPDATE] SideSlide v6.50",
     "link": "https://www.portablefreeware.com/?id=1409&ts=1788252663",
     "pubDate": "Tue, 01 Sep 2026 01:51:03 -0700"
-  },
-  {
-    "title": "[UPDATE] TheAeroClock v9.36",
-    "link": "https://www.portablefreeware.com/?id=2209&ts=1788072915",
-    "pubDate": "Sat, 29 Aug 2026 23:55:15 -0700"
-  },
-  {
-    "title": "[UPDATE] Blank And Secure v8.44",
-    "link": "https://www.portablefreeware.com/?id=1691&ts=1788072860",
-    "pubDate": "Sat, 29 Aug 2026 23:54:20 -0700"
   }
 ]
