@@ -1,5 +1,30 @@
 [
   {
+    "title": "Brave updated to 1.97.57.",
+    "link": "https://ninite.com/brave/",
+    "pubDate": "Wed, 14 Oct 2026 18:46:14 -0000"
+  },
+  {
+    "title": "Docker Desktop updated to 4.95.0.",
+    "link": "https://ninite.com/dockerdesktop/",
+    "pubDate": "Wed, 14 Oct 2026 16:55:16 -0000"
+  },
+  {
+    "title": "WhatsApp updated to 2.2640.100.",
+    "link": "https://ninite.com/whatsapp/",
+    "pubDate": "Wed, 14 Oct 2026 16:04:47 -0000"
+  },
+  {
+    "title": "PDF24 Creator updated to 11.31.1.",
+    "link": "https://ninite.com/pdf24creator/",
+    "pubDate": "Wed, 14 Oct 2026 15:54:48 -0000"
+  },
+  {
+    "title": "Node.js 24 updated to 24.22.0.",
+    "link": "https://ninite.com/node.js24/",
+    "pubDate": "Wed, 14 Oct 2026 15:51:41 -0000"
+  },
+  {
     "title": "Visual Studio Code updated to 1.141.2.",
     "link": "https://ninite.com/vscode/",
     "pubDate": "Wed, 14 Oct 2026 14:57:03 -0000"
@@ -263,10 +288,5 @@
     "title": "GitHub Desktop updated to 3.6.7.",
     "link": "https://ninite.com/githubdesktop/",
     "pubDate": "Thu, 08 Oct 2026 16:56:34 -0000"
-  },
-  {
-    "title": "LibreOffice updated to 26.8.1.",
-    "link": "https://ninite.com/libreoffice/",
-    "pubDate": "Thu, 08 Oct 2026 12:00:53 -0000"
   }
 ]

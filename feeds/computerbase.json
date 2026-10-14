@@ -1,5 +1,45 @@
 [
   {
+    "title": "Epic Games Launcher 0.95.2 Preview",
+    "link": "https://www.computerbase.de/downloads/games/epic-games-launcher/",
+    "pubDate": "2026-10-14T18:47:00.000Z"
+  },
+  {
+    "title": "Blizzard Battle.net 2.53.5.17932",
+    "link": "https://www.computerbase.de/downloads/games/blizzard-battle.net/",
+    "pubDate": "2026-10-14T18:34:00.000Z"
+  },
+  {
+    "title": "eDocPrintPro 5.9.1",
+    "link": "https://www.computerbase.de/downloads/office/pdf/edocprintpro/",
+    "pubDate": "2026-10-14T18:33:00.000Z"
+  },
+  {
+    "title": "Rocket.Chat Desktop 4.18.3",
+    "link": "https://www.computerbase.de/downloads/kommunikation/rocket.chat/",
+    "pubDate": "2026-10-14T18:31:00.000Z"
+  },
+  {
+    "title": "Mozilla Firefox 159.0 Beta 2",
+    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
+    "pubDate": "2026-10-14T18:30:00.000Z"
+  },
+  {
+    "title": "Mozilla Thunderbird 159.0 Beta 2",
+    "link": "https://www.computerbase.de/downloads/kommunikation/mozilla-thunderbird/",
+    "pubDate": "2026-10-14T15:29:00.000Z"
+  },
+  {
+    "title": "Visual Studio Code (VS Code) 1.141.2",
+    "link": "https://www.computerbase.de/downloads/office/editoren/visual-studio-code/",
+    "pubDate": "2026-10-14T15:26:00.000Z"
+  },
+  {
+    "title": "BetterTouchTool 6.929 (macOS)",
+    "link": "https://www.computerbase.de/downloads/systemtools/bettertouchtool/",
+    "pubDate": "2026-10-14T15:26:00.000Z"
+  },
+  {
     "title": "Vivaldi 8.2 Build 4133.87",
     "link": "https://www.computerbase.de/downloads/browser/vivaldi/",
     "pubDate": "2026-10-14T13:43:00.000Z"
@@ -208,45 +248,5 @@
     "title": "TeamSpeak 6.0.0-beta5",
     "link": "https://www.computerbase.de/downloads/kommunikation/teamspeak/",
     "pubDate": "2026-10-13T17:42:00.000Z"
-  },
-  {
-    "title": "Windows 11 Kumulatives Update 24H2/25H2/26H2 (Build 26300.9711) KB5127648 (Win 11)",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/windows-11-kumulatives-update/",
-    "pubDate": "2026-10-13T17:25:00.000Z"
-  },
-  {
-    "title": "Windows 11 Kumulatives Update 26H1 (Build 28000.3231) KB5127646 (Win 11)",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/windows-11-kumulatives-update/",
-    "pubDate": "2026-10-13T17:24:00.000Z"
-  },
-  {
-    "title": "Windows 11 Kumulatives Update 23H2 (Build 22631.7652) KB5126653 (Win 11)",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/windows-11-kumulatives-update/",
-    "pubDate": "2026-10-13T17:23:00.000Z"
-  },
-  {
-    "title": "Glorious Core 2.1.22",
-    "link": "https://www.computerbase.de/downloads/treiber/eingabegeraete/glorious-core/",
-    "pubDate": "2026-10-13T17:18:00.000Z"
-  },
-  {
-    "title": "Visual Studio Code (VS Code) 1.141.1",
-    "link": "https://www.computerbase.de/downloads/office/editoren/visual-studio-code/",
-    "pubDate": "2026-10-13T17:17:00.000Z"
-  },
-  {
-    "title": "UL 3DMark 2.32.8919",
-    "link": "https://www.computerbase.de/downloads/benchmarks/ul-3dmark/",
-    "pubDate": "2026-10-13T17:04:00.000Z"
-  },
-  {
-    "title": "AVG AntiVirus Free 26.10.11201",
-    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/avg-antivirus-free/",
-    "pubDate": "2026-10-13T16:56:00.000Z"
-  },
-  {
-    "title": "ProtonVPN 6.5.2 (macOS)",
-    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/protonvpn/",
-    "pubDate": "2026-10-13T16:56:00.000Z"
   }
 ]
