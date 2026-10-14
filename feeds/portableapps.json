@@ -1,5 +1,20 @@
 [
   {
+    "title": "LibreWolf Portable 158.0-1 (web browser) Released",
+    "link": "https://portableapps.com/news/2026-10-14--librewolf-portable-158.0-1-released",
+    "pubDate": "Wed, 14 Oct 2026 18:22:32 +0000"
+  },
+  {
+    "title": "Chromium Portable 155.0.8059.80 (web browser) Released",
+    "link": "https://portableapps.com/news/2026-10-14--chromium-portable-155.0.8059.80-released",
+    "pubDate": "Wed, 14 Oct 2026 18:20:56 +0000"
+  },
+  {
+    "title": "Opera, Portable Edition 137.0.6036.63 (web browser) Released",
+    "link": "https://portableapps.com/news/2026-10-14--opera-portable-137.0.6036.63-released",
+    "pubDate": "Wed, 14 Oct 2026 18:14:01 +0000"
+  },
+  {
     "title": "Google Chrome Portable 155.0.8059.80 Stable (web browser) Released",
     "link": "https://portableapps.com/news/2026-10-13--google-chrome-portable-155.0.8059.80-released",
     "pubDate": "Wed, 14 Oct 2026 02:00:25 +0000"
@@ -58,20 +73,5 @@
     "title": "Iron Portable 154.0.8100.0 (web browser) Released",
     "link": "https://portableapps.com/news/2026-10-12--iron-portable-154.0.8100.0-released",
     "pubDate": "Tue, 13 Oct 2026 00:52:00 +0000"
-  },
-  {
-    "title": "Chromium Portable 155.0.8059.40 (web browser) Released",
-    "link": "https://portableapps.com/news/2026-10-12--chromium-portable-155.0.8059.40-released",
-    "pubDate": "Tue, 13 Oct 2026 00:49:55 +0000"
-  },
-  {
-    "title": "QOwnNotes Portable 26.10.5 (markdown note taker) Released",
-    "link": "https://portableapps.com/news/2026-10-12--qownnotes-portable-26.10.5-released",
-    "pubDate": "Mon, 12 Oct 2026 23:40:11 +0000"
-  },
-  {
-    "title": "gVim Portable 9.2.1176 (advanced text editor) Released",
-    "link": "https://portableapps.com/news/2026-10-12--gvim-portable-9.2.1176-released",
-    "pubDate": "Mon, 12 Oct 2026 23:38:53 +0000"
   }
 ]
