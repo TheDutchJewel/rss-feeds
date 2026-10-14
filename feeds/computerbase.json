@@ -1,5 +1,55 @@
 [
   {
+    "title": "Vivaldi 8.2 Build 4133.87",
+    "link": "https://www.computerbase.de/downloads/browser/vivaldi/",
+    "pubDate": "2026-10-14T13:43:00.000Z"
+  },
+  {
+    "title": "SmartFTP 10.0 Build 3333",
+    "link": "https://www.computerbase.de/downloads/office/dateitransfer/smartftp/",
+    "pubDate": "2026-10-14T12:41:00.000Z"
+  },
+  {
+    "title": "NZXT CAM 4.76.6",
+    "link": "https://www.computerbase.de/downloads/systemtools/nzxt-cam/",
+    "pubDate": "2026-10-14T12:18:00.000Z"
+  },
+  {
+    "title": "Opera 137.0.6036.63",
+    "link": "https://www.computerbase.de/downloads/browser/opera/",
+    "pubDate": "2026-10-14T12:01:00.000Z"
+  },
+  {
+    "title": "eM Client 11.0.1201.0",
+    "link": "https://www.computerbase.de/downloads/kommunikation/em-client/",
+    "pubDate": "2026-10-14T11:57:00.000Z"
+  },
+  {
+    "title": "Geek Uninstaller 1.6.0.200",
+    "link": "https://www.computerbase.de/downloads/systemtools/geek-uninstaller/",
+    "pubDate": "2026-10-14T11:56:00.000Z"
+  },
+  {
+    "title": "WinSCP 6.7",
+    "link": "https://www.computerbase.de/downloads/office/dateitransfer/winscp/",
+    "pubDate": "2026-10-14T11:53:00.000Z"
+  },
+  {
+    "title": "Adobe Creative Cloud 6.11.0.478.6",
+    "link": "https://www.computerbase.de/downloads/foto-und-grafik/adobe-creative-cloud/",
+    "pubDate": "2026-10-14T11:47:00.000Z"
+  },
+  {
+    "title": "TreeSize 9.9.1",
+    "link": "https://www.computerbase.de/downloads/office/dateimanager/treesize/",
+    "pubDate": "2026-10-14T11:45:00.000Z"
+  },
+  {
+    "title": "Adobe Acrobat Reader DC (26.002.22031)",
+    "link": "https://www.computerbase.de/downloads/office/pdf/adobe-acrobat-reader/",
+    "pubDate": "2026-10-14T11:45:00.000Z"
+  },
+  {
     "title": "Viber für Desktop 29.1.0.0",
     "link": "https://www.computerbase.de/downloads/kommunikation/viber-fuer-desktop/",
     "pubDate": "2026-10-14T09:33:00.000Z"
@@ -198,55 +248,5 @@
     "title": "ProtonVPN 6.5.2 (macOS)",
     "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/protonvpn/",
     "pubDate": "2026-10-13T16:56:00.000Z"
-  },
-  {
-    "title": "Avast Free Antivirus 26.10.11201",
-    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/avast-free-antivirus/",
-    "pubDate": "2026-10-13T16:55:00.000Z"
-  },
-  {
-    "title": "Nvidia App 11.0.9.565",
-    "link": "https://www.computerbase.de/downloads/systemtools/grafikkarten/nvidia-app/",
-    "pubDate": "2026-10-13T16:54:00.000Z"
-  },
-  {
-    "title": "Nvidia Broadcast 2.3.0",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/nvidia-broadcast/",
-    "pubDate": "2026-10-13T16:53:00.000Z"
-  },
-  {
-    "title": "MediaPortal 1 v1.39.0",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/mediaportal/",
-    "pubDate": "2026-10-13T16:51:00.000Z"
-  },
-  {
-    "title": "OnlyOffice Desktop Editoren 10.0.0",
-    "link": "https://www.computerbase.de/downloads/office/onlyoffice/",
-    "pubDate": "2026-10-13T16:50:00.000Z"
-  },
-  {
-    "title": "Telegram for macOS 13.0 (macOS)",
-    "link": "https://www.computerbase.de/downloads/kommunikation/telegram-for-macos/",
-    "pubDate": "2026-10-13T16:49:00.000Z"
-  },
-  {
-    "title": "Element 1.12.31",
-    "link": "https://www.computerbase.de/downloads/kommunikation/element/",
-    "pubDate": "2026-10-13T16:48:00.000Z"
-  },
-  {
-    "title": "Evernote 11.38.5",
-    "link": "https://www.computerbase.de/downloads/office/evernote/",
-    "pubDate": "2026-10-13T16:47:00.000Z"
-  },
-  {
-    "title": "Trellix Stinger 26.10.42.1",
-    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/mcafee-labs-stinger/",
-    "pubDate": "2026-10-13T16:47:00.000Z"
-  },
-  {
-    "title": "Mozilla Firefox 158.0",
-    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
-    "pubDate": "2026-10-13T16:41:00.000Z"
   }
 ]

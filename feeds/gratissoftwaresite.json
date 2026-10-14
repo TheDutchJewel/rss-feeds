@@ -1,5 +1,25 @@
 [
     {
+        "title": "Subtitle Edit 5.3.0",
+        "link": "https://www.gratissoftwaresite.nl/downloads/subtitle-edit-ondertitels-video",
+        "pubDate": "14 oktober 2026"
+    },
+    {
+        "title": "Nextcloud Office 9.3.5",
+        "link": "https://www.gratissoftwaresite.nl/downloads/nextcloud-office-kantoorpakket",
+        "pubDate": "14 oktober 2026"
+    },
+    {
+        "title": "Euro-Office 9.3.5",
+        "link": "https://www.gratissoftwaresite.nl/downloads/euro-office-kantoorpakket",
+        "pubDate": "14 oktober 2026"
+    },
+    {
+        "title": "Google Chrome 155.0.8059.79/80",
+        "link": "https://www.gratissoftwaresite.nl/downloads/google-chrome-internet-web-browser",
+        "pubDate": "14 oktober 2026"
+    },
+    {
         "title": "XnView MP 1.12.2 & Cl...",
         "link": "https://www.gratissoftwaresite.nl/downloads/xnview-fotobewerking-beeld",
         "pubDate": "14 oktober 2026"
@@ -197,11 +217,6 @@
     {
         "title": "Windows Firewall Control 6.36.0.0",
         "link": "https://www.gratissoftwaresite.nl/downloads/windows-firewall-control-malwarebytes-internet-toegang-applicaties",
-        "pubDate": "7 oktober 2026"
-    },
-    {
-        "title": "Google Chrome 155.0.8059.39/40",
-        "link": "https://www.gratissoftwaresite.nl/downloads/google-chrome-internet-web-browser",
         "pubDate": "7 oktober 2026"
     },
     {
@@ -458,20 +473,5 @@
         "title": "Ente 1.3.64",
         "link": "https://www.gratissoftwaresite.nl/downloads/ente-photos-foto-cloud-online-opslag",
         "pubDate": "24 september 2026"
-    },
-    {
-        "title": "Giada 1.6.0",
-        "link": "https://www.gratissoftwaresite.nl/downloads/giada-geluidsbewerking-dj-mixen-audio-loops-samples",
-        "pubDate": "23 september 2026"
-    },
-    {
-        "title": "Foxit Reader 2026.2.1",
-        "link": "https://www.gratissoftwaresite.nl/downloads/foxit-reader-pdf-bekijken-viewer",
-        "pubDate": "23 september 2026"
-    },
-    {
-        "title": "GeekUninstaller 1.5.5.181",
-        "link": "https://www.gratissoftwaresite.nl/downloads/geekuninstaller-werktuigen-de-installatie-software-verwijderen",
-        "pubDate": "22 september 2026"
     }
 ]

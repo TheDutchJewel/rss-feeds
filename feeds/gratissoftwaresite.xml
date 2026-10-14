@@ -5,6 +5,30 @@
     <link>https://www.gratissoftwaresite.nl/downloads/nieuwe-updates</link>
     <description>Nieuwste software-updates van GratisSoftwareSite</description>
     <item>
+      <title>Subtitle Edit 5.3.0</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/subtitle-edit-ondertitels-video</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/subtitle-edit-ondertitels-video</guid>
+      <pubDate>14 oktober 2026</pubDate>
+    </item>
+    <item>
+      <title>Nextcloud Office 9.3.5</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/nextcloud-office-kantoorpakket</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/nextcloud-office-kantoorpakket</guid>
+      <pubDate>14 oktober 2026</pubDate>
+    </item>
+    <item>
+      <title>Euro-Office 9.3.5</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/euro-office-kantoorpakket</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/euro-office-kantoorpakket</guid>
+      <pubDate>14 oktober 2026</pubDate>
+    </item>
+    <item>
+      <title>Google Chrome 155.0.8059.79/80</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/google-chrome-internet-web-browser</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/google-chrome-internet-web-browser</guid>
+      <pubDate>14 oktober 2026</pubDate>
+    </item>
+    <item>
       <title/>
       <link>https://www.gratissoftwaresite.nl/downloads/xnview-fotobewerking-beeld</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/xnview-fotobewerking-beeld</guid>
@@ -242,12 +266,6 @@
       <title>Windows Firewall Control 6.36.0.0</title>
       <link>https://www.gratissoftwaresite.nl/downloads/windows-firewall-control-malwarebytes-internet-toegang-applicaties</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/windows-firewall-control-malwarebytes-internet-toegang-applicaties</guid>
-      <pubDate>7 oktober 2026</pubDate>
-    </item>
-    <item>
-      <title>Google Chrome 155.0.8059.39/40</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/google-chrome-internet-web-browser</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/google-chrome-internet-web-browser</guid>
       <pubDate>7 oktober 2026</pubDate>
     </item>
     <item>
@@ -555,24 +573,6 @@
       <link>https://www.gratissoftwaresite.nl/downloads/ente-photos-foto-cloud-online-opslag</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/ente-photos-foto-cloud-online-opslag</guid>
       <pubDate>24 september 2026</pubDate>
-    </item>
-    <item>
-      <title>Giada 1.6.0</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/giada-geluidsbewerking-dj-mixen-audio-loops-samples</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/giada-geluidsbewerking-dj-mixen-audio-loops-samples</guid>
-      <pubDate>23 september 2026</pubDate>
-    </item>
-    <item>
-      <title>Foxit Reader 2026.2.1</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/foxit-reader-pdf-bekijken-viewer</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/foxit-reader-pdf-bekijken-viewer</guid>
-      <pubDate>23 september 2026</pubDate>
-    </item>
-    <item>
-      <title>GeekUninstaller 1.5.5.181</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/geekuninstaller-werktuigen-de-installatie-software-verwijderen</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/geekuninstaller-werktuigen-de-installatie-software-verwijderen</guid>
-      <pubDate>22 september 2026</pubDate>
     </item>
   </channel>
 </rss>
