@@ -1,5 +1,10 @@
 [
     {
+        "title": "AnyDesk 9.8.2",
+        "link": "https://www.gratissoftwaresite.nl/downloads/anydesk-remote-desktop-pc-hulp-op-afstand",
+        "pubDate": "15 oktober 2026"
+    },
+    {
         "title": "Brave 1.97.57",
         "link": "https://www.gratissoftwaresite.nl/downloads/brave-web-browser-internet-privacy-beveiliging-schilden-trackers-ads",
         "pubDate": "15 oktober 2026"
@@ -15,7 +20,7 @@
         "pubDate": "15 oktober 2026"
     },
     {
-        "title": "eM Client 11.0.1121.0",
+        "title": "eM Client 11.0.1201.0",
         "link": "https://www.gratissoftwaresite.nl/downloads/em-client-e-mail",
         "pubDate": "15 oktober 2026"
     },
@@ -253,11 +258,6 @@
         "title": "Windows Firewall Control 6.36.0.0",
         "link": "https://www.gratissoftwaresite.nl/downloads/windows-firewall-control-malwarebytes-internet-toegang-applicaties",
         "pubDate": "7 oktober 2026"
-    },
-    {
-        "title": "AnyDesk 9.8.1",
-        "link": "https://www.gratissoftwaresite.nl/downloads/anydesk-remote-desktop-pc-hulp-op-afstand",
-        "pubDate": "6 oktober 2026"
     },
     {
         "title": "NirLauncher Utilities 1.30.26",

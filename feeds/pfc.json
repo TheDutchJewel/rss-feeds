@@ -1,5 +1,15 @@
 [
   {
+    "title": "[UPDATE] Chromium Portable v155.0.8059.80",
+    "link": "https://www.portablefreeware.com/?id=2169&ts=1792070854",
+    "pubDate": "Thu, 15 Oct 2026 06:27:34 -0700"
+  },
+  {
+    "title": "[UPDATE] Letos v4.0.5",
+    "link": "https://www.portablefreeware.com/?id=3087&ts=1792070719",
+    "pubDate": "Thu, 15 Oct 2026 06:25:19 -0700"
+  },
+  {
     "title": "[UPDATE] FCEUX v2.7.0",
     "link": "https://www.portablefreeware.com/?id=1024&ts=1792038123",
     "pubDate": "Wed, 14 Oct 2026 21:22:03 -0700"
@@ -70,7 +80,7 @@
     "pubDate": "Mon, 12 Oct 2026 21:59:32 -0700"
   },
   {
-    "title": "[UPDATE] PolyHostInterface v3.1.1",
+    "title": "[UPDATE] PolyHostInterface v3.2.0",
     "link": "https://www.portablefreeware.com/?id=3149&ts=1791828685",
     "pubDate": "Mon, 12 Oct 2026 11:11:25 -0700"
   },
@@ -123,11 +133,6 @@
     "title": "[UPDATE] Greenshot v1.3.323",
     "link": "https://www.portablefreeware.com/?id=2340&ts=1791466127",
     "pubDate": "Thu, 08 Oct 2026 06:28:47 -0700"
-  },
-  {
-    "title": "[UPDATE] Chromium Portable v155.0.8059.40",
-    "link": "https://www.portablefreeware.com/?id=2169&ts=1791465860",
-    "pubDate": "Thu, 08 Oct 2026 06:24:20 -0700"
   },
   {
     "title": "[UPDATE] PDFsam Basic v6.0.6",
@@ -493,10 +498,5 @@
     "title": "[UPDATE] SMPlayer v26.8.29",
     "link": "https://www.portablefreeware.com/?id=1358&ts=1788419496",
     "pubDate": "Thu, 03 Sep 2026 00:11:36 -0700"
-  },
-  {
-    "title": "[UPDATE] PortableApps.com AppCompactor v3.18",
-    "link": "https://www.portablefreeware.com/?id=1472&ts=1788279604",
-    "pubDate": "Tue, 01 Sep 2026 09:20:04 -0700"
   }
 ]

@@ -5,6 +5,12 @@
     <link>https://www.gratissoftwaresite.nl/downloads/nieuwe-updates</link>
     <description>Nieuwste software-updates van GratisSoftwareSite</description>
     <item>
+      <title>AnyDesk 9.8.2</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/anydesk-remote-desktop-pc-hulp-op-afstand</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/anydesk-remote-desktop-pc-hulp-op-afstand</guid>
+      <pubDate>15 oktober 2026</pubDate>
+    </item>
+    <item>
       <title>Brave 1.97.57</title>
       <link>https://www.gratissoftwaresite.nl/downloads/brave-web-browser-internet-privacy-beveiliging-schilden-trackers-ads</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/brave-web-browser-internet-privacy-beveiliging-schilden-trackers-ads</guid>
@@ -23,7 +29,7 @@
       <pubDate>15 oktober 2026</pubDate>
     </item>
     <item>
-      <title>eM Client 11.0.1121.0</title>
+      <title>eM Client 11.0.1201.0</title>
       <link>https://www.gratissoftwaresite.nl/downloads/em-client-e-mail</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/em-client-e-mail</guid>
       <pubDate>15 oktober 2026</pubDate>
@@ -309,12 +315,6 @@
       <link>https://www.gratissoftwaresite.nl/downloads/windows-firewall-control-malwarebytes-internet-toegang-applicaties</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/windows-firewall-control-malwarebytes-internet-toegang-applicaties</guid>
       <pubDate>7 oktober 2026</pubDate>
-    </item>
-    <item>
-      <title>AnyDesk 9.8.1</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/anydesk-remote-desktop-pc-hulp-op-afstand</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/anydesk-remote-desktop-pc-hulp-op-afstand</guid>
-      <pubDate>6 oktober 2026</pubDate>
     </item>
     <item>
       <title>NirLauncher Utilities 1.30.26</title>
