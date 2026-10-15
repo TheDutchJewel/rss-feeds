@@ -1,5 +1,145 @@
 [
   {
+    "title": "ACDSee Photo Studio 2027 v20.0.0.4683",
+    "link": "https://www.computerbase.de/downloads/foto-und-grafik/acdsee/",
+    "pubDate": "2026-10-15T18:49:00.000Z"
+  },
+  {
+    "title": "ACDSee Photo Studio 2027 v20.0.0.3742",
+    "link": "https://www.computerbase.de/downloads/foto-und-grafik/acdsee/",
+    "pubDate": "2026-10-15T18:48:00.000Z"
+  },
+  {
+    "title": "ACDSee Photo Studio 2027 v30.0.0.3643",
+    "link": "https://www.computerbase.de/downloads/foto-und-grafik/acdsee/",
+    "pubDate": "2026-10-15T18:47:00.000Z"
+  },
+  {
+    "title": "Xubuntu 26.10 „Stonking Stingray“",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/xubuntu/",
+    "pubDate": "2026-10-15T18:36:00.000Z"
+  },
+  {
+    "title": "Ubuntu Unity 26.10 „Stonking Stingray“",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/ubuntu-unity/",
+    "pubDate": "2026-10-15T18:35:00.000Z"
+  },
+  {
+    "title": "Ubuntu Studio 26.10 „Stonking Stingray“",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/ubuntu-studio/",
+    "pubDate": "2026-10-15T18:34:00.000Z"
+  },
+  {
+    "title": "Ubuntu MATE 26.10 „Stonking Stingray“",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/ubuntu-mate/",
+    "pubDate": "2026-10-15T18:33:00.000Z"
+  },
+  {
+    "title": "Ubuntu Kylin 26.10 „Stonking Stingray“",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/ubuntu-kylin/",
+    "pubDate": "2026-10-15T18:32:00.000Z"
+  },
+  {
+    "title": "Ubuntu Cinnamon 26.10 „Stonking Stingray“",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/ubuntu-cinnamon/",
+    "pubDate": "2026-10-15T18:31:00.000Z"
+  },
+  {
+    "title": "Ubuntu Budgie 26.10 „Stonking Stingray“",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/ubuntu-budgie/",
+    "pubDate": "2026-10-15T18:30:00.000Z"
+  },
+  {
+    "title": "Lubuntu 26.10 „Stonking Stingray“",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/lubuntu/",
+    "pubDate": "2026-10-15T18:29:00.000Z"
+  },
+  {
+    "title": "Kubuntu 26.10 „Stonking Stingray“",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/kubuntu/",
+    "pubDate": "2026-10-15T18:28:00.000Z"
+  },
+  {
+    "title": "Ubuntu 26.10 „Stonking Stingray“",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/ubuntu/",
+    "pubDate": "2026-10-15T18:27:00.000Z"
+  },
+  {
+    "title": "Memtest86+ 9.00",
+    "link": "https://www.computerbase.de/downloads/systemtools/memtest86-plus/",
+    "pubDate": "2026-10-15T18:20:00.000Z"
+  },
+  {
+    "title": "Microsoft Power Automate for desktop 2.73.155.26278",
+    "link": "https://www.computerbase.de/downloads/systemtools/microsoft-power-automate-desktop/",
+    "pubDate": "2026-10-15T18:18:00.000Z"
+  },
+  {
+    "title": "Spotify 1.3.5.3058",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/spotify/",
+    "pubDate": "2026-10-15T18:16:00.000Z"
+  },
+  {
+    "title": "EA-App 13.809.0.6322",
+    "link": "https://www.computerbase.de/downloads/games/ea-app/",
+    "pubDate": "2026-10-15T18:16:00.000Z"
+  },
+  {
+    "title": "Visual Studio Code (VS Code) 1.142.0",
+    "link": "https://www.computerbase.de/downloads/office/editoren/visual-studio-code/",
+    "pubDate": "2026-10-15T15:56:00.000Z"
+  },
+  {
+    "title": "Opera GX 137.0.6036.65 Early Access",
+    "link": "https://www.computerbase.de/downloads/browser/opera-gx/",
+    "pubDate": "2026-10-15T15:55:00.000Z"
+  },
+  {
+    "title": "Linux Kernel 7.2.11 (Linux)",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/linux-kernel/",
+    "pubDate": "2026-10-15T15:54:00.000Z"
+  },
+  {
+    "title": "Linux Kernel 6.18.57 (Linux)",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/linux-kernel/",
+    "pubDate": "2026-10-15T15:53:00.000Z"
+  },
+  {
+    "title": "AIDA64 v8.40.8515 Beta",
+    "link": "https://www.computerbase.de/downloads/systemtools/aida64/",
+    "pubDate": "2026-10-15T15:52:00.000Z"
+  },
+  {
+    "title": "Turtle Beach Swarm II 1.0.0.61",
+    "link": "https://www.computerbase.de/downloads/treiber/eingabegeraete/turtle-beach-swarm-ii/",
+    "pubDate": "2026-10-15T15:51:00.000Z"
+  },
+  {
+    "title": "Nextcloud Server 35.0.2 (Linux)",
+    "link": "https://www.computerbase.de/downloads/office/dateimanager/nextcloud/",
+    "pubDate": "2026-10-15T15:50:00.000Z"
+  },
+  {
+    "title": "mp3Tag 3.37 Beta 3",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/mp3tag/",
+    "pubDate": "2026-10-15T15:48:00.000Z"
+  },
+  {
+    "title": "Signal 8.31.0",
+    "link": "https://www.computerbase.de/downloads/kommunikation/signal/",
+    "pubDate": "2026-10-15T15:48:00.000Z"
+  },
+  {
+    "title": "AnyDesk 9.8.2",
+    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/anydesk/",
+    "pubDate": "2026-10-15T15:47:00.000Z"
+  },
+  {
+    "title": "Discord 1.0.9262",
+    "link": "https://www.computerbase.de/downloads/kommunikation/discord/",
+    "pubDate": "2026-10-15T15:45:00.000Z"
+  },
+  {
     "title": "Tunnelblick 10.1 Beta 1 (macOS)",
     "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/tunnelblick/",
     "pubDate": "2026-10-15T04:25:00.000Z"
@@ -60,11 +200,6 @@
     "pubDate": "2026-10-14T15:29:00.000Z"
   },
   {
-    "title": "Visual Studio Code (VS Code) 1.141.2",
-    "link": "https://www.computerbase.de/downloads/office/editoren/visual-studio-code/",
-    "pubDate": "2026-10-14T15:26:00.000Z"
-  },
-  {
     "title": "BetterTouchTool 6.929 (macOS)",
     "link": "https://www.computerbase.de/downloads/systemtools/bettertouchtool/",
     "pubDate": "2026-10-14T15:26:00.000Z"
@@ -113,140 +248,5 @@
     "title": "TreeSize 9.9.1",
     "link": "https://www.computerbase.de/downloads/office/dateimanager/treesize/",
     "pubDate": "2026-10-14T11:45:00.000Z"
-  },
-  {
-    "title": "Adobe Acrobat Reader DC (26.002.22031)",
-    "link": "https://www.computerbase.de/downloads/office/pdf/adobe-acrobat-reader/",
-    "pubDate": "2026-10-14T11:45:00.000Z"
-  },
-  {
-    "title": "Viber für Desktop 29.1.0.0",
-    "link": "https://www.computerbase.de/downloads/kommunikation/viber-fuer-desktop/",
-    "pubDate": "2026-10-14T09:33:00.000Z"
-  },
-  {
-    "title": "Joomla! 6.2.0v1",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/joomla/",
-    "pubDate": "2026-10-14T08:02:00.000Z"
-  },
-  {
-    "title": "Joomla! 5.4.10v1",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/joomla/",
-    "pubDate": "2026-10-14T08:01:00.000Z"
-  },
-  {
-    "title": "Seafile Sync Client 9.0.22",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/seafile/",
-    "pubDate": "2026-10-14T08:00:00.000Z"
-  },
-  {
-    "title": "Steam 2026-10-13",
-    "link": "https://www.computerbase.de/downloads/games/steam/",
-    "pubDate": "2026-10-14T07:55:00.000Z"
-  },
-  {
-    "title": "Microsoft Windows-Tool zum Entfernen bösartiger Software 5.146",
-    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/microsoft-anti-viren-tool/",
-    "pubDate": "2026-10-14T07:52:00.000Z"
-  },
-  {
-    "title": "Nobara Linux 44 2026-10-13",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/nobara-linux/",
-    "pubDate": "2026-10-14T07:50:00.000Z"
-  },
-  {
-    "title": "AIMP 6.00 Build 3090 Beta 7",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/aimp/",
-    "pubDate": "2026-10-14T07:50:00.000Z"
-  },
-  {
-    "title": "NTLite Free 2026.10.12522",
-    "link": "https://www.computerbase.de/downloads/systemtools/ntlite-free/",
-    "pubDate": "2026-10-13T22:20:00.000Z"
-  },
-  {
-    "title": "Google Chrome 155.0.8059.79/.80",
-    "link": "https://www.computerbase.de/downloads/browser/google-chrome/",
-    "pubDate": "2026-10-13T22:19:00.000Z"
-  },
-  {
-    "title": "Betterbird 153.5.0esr-bb11",
-    "link": "https://www.computerbase.de/downloads/kommunikation/betterbird/",
-    "pubDate": "2026-10-13T22:18:00.000Z"
-  },
-  {
-    "title": "LibreWolf 158.0-1",
-    "link": "https://www.computerbase.de/downloads/browser/librewolf/",
-    "pubDate": "2026-10-13T22:17:00.000Z"
-  },
-  {
-    "title": "Discord 1.0.162 (Linux)",
-    "link": "https://www.computerbase.de/downloads/kommunikation/discord/",
-    "pubDate": "2026-10-13T20:10:00.000Z"
-  },
-  {
-    "title": "Discord 0.0.416 (macOS)",
-    "link": "https://www.computerbase.de/downloads/kommunikation/discord/",
-    "pubDate": "2026-10-13T20:09:00.000Z"
-  },
-  {
-    "title": "VSCodium 1.140.06880",
-    "link": "https://www.computerbase.de/downloads/office/editoren/vscodium/",
-    "pubDate": "2026-10-13T19:40:00.000Z"
-  },
-  {
-    "title": "Visual Studio 2022 v17.14.42",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/visual-studio-2022/",
-    "pubDate": "2026-10-13T19:39:00.000Z"
-  },
-  {
-    "title": "Visual Studio 2026 v18.12.12308.306 Insider",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/visual-studio-2026/",
-    "pubDate": "2026-10-13T19:38:00.000Z"
-  },
-  {
-    "title": "Visual Studio 2026 v18.11.0",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/visual-studio-2026/",
-    "pubDate": "2026-10-13T19:37:00.000Z"
-  },
-  {
-    "title": "Windows 10 Kumulatives Update 21H2/22H2 (Build 19045.7807) KB5126657 (Win 10)",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/windows-10-kumulatives-update/",
-    "pubDate": "2026-10-13T19:30:00.000Z"
-  },
-  {
-    "title": "Windows 10 Kumulatives Update 1809 (Build 17763.9376) KB5126651 (Win 10)",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/windows-10-kumulatives-update/",
-    "pubDate": "2026-10-13T19:29:00.000Z"
-  },
-  {
-    "title": "Windows 10 Kumulatives Update 1607 (Build 14393.9612) KB5126868 (Win 10)",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/windows-10-kumulatives-update/",
-    "pubDate": "2026-10-13T19:28:00.000Z"
-  },
-  {
-    "title": "Microsoft .NET Windows Desktop Runtime 11.0.0 RC2",
-    "link": "https://www.computerbase.de/downloads/systemtools/microsoft-.net/",
-    "pubDate": "2026-10-13T19:25:00.000Z"
-  },
-  {
-    "title": "Microsoft .NET Windows Desktop Runtime 10.0.13",
-    "link": "https://www.computerbase.de/downloads/systemtools/microsoft-.net/",
-    "pubDate": "2026-10-13T19:24:00.000Z"
-  },
-  {
-    "title": "Microsoft .NET Windows Desktop Runtime 9.0.21",
-    "link": "https://www.computerbase.de/downloads/systemtools/microsoft-.net/",
-    "pubDate": "2026-10-13T19:23:00.000Z"
-  },
-  {
-    "title": "Microsoft .NET Windows Desktop Runtime 8.0.32",
-    "link": "https://www.computerbase.de/downloads/systemtools/microsoft-.net/",
-    "pubDate": "2026-10-13T19:22:00.000Z"
-  },
-  {
-    "title": "1Password 8.12.42-34 Beta",
-    "link": "https://www.computerbase.de/downloads/sicherheit/passwortmanager/1password/",
-    "pubDate": "2026-10-13T19:20:00.000Z"
   }
 ]
