@@ -1,5 +1,35 @@
 [
   {
+    "title": "Carbon Copy Cloner 7.2.2 (macOS)",
+    "link": "https://www.computerbase.de/downloads/sicherheit/backup/carbon-copy-cloner/",
+    "pubDate": "2026-10-15T20:18:00.000Z"
+  },
+  {
+    "title": "Java SE Development Kit 28.0 Build 20 Dev",
+    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/java-se-development-kit/",
+    "pubDate": "2026-10-15T20:09:00.000Z"
+  },
+  {
+    "title": "Crucial Storage Executive 12.09",
+    "link": "https://www.computerbase.de/downloads/systemtools/festplatten/crucial-storage-executive/",
+    "pubDate": "2026-10-15T20:04:00.000Z"
+  },
+  {
+    "title": "Apache OpenOffice 4.1.17",
+    "link": "https://www.computerbase.de/downloads/office/apache-openoffice/",
+    "pubDate": "2026-10-15T19:50:00.000Z"
+  },
+  {
+    "title": "Bitwarden 2026.10.0",
+    "link": "https://www.computerbase.de/downloads/sicherheit/passwortmanager/bitwarden/",
+    "pubDate": "2026-10-15T19:43:00.000Z"
+  },
+  {
+    "title": "UniGetUI 2026.3.2",
+    "link": "https://www.computerbase.de/downloads/systemtools/unigetui/",
+    "pubDate": "2026-10-15T19:42:00.000Z"
+  },
+  {
     "title": "ACDSee Photo Studio 2027 v20.0.0.4683",
     "link": "https://www.computerbase.de/downloads/foto-und-grafik/acdsee/",
     "pubDate": "2026-10-15T18:49:00.000Z"
@@ -218,35 +248,5 @@
     "title": "NZXT CAM 4.76.6",
     "link": "https://www.computerbase.de/downloads/systemtools/nzxt-cam/",
     "pubDate": "2026-10-14T12:18:00.000Z"
-  },
-  {
-    "title": "Opera 137.0.6036.63",
-    "link": "https://www.computerbase.de/downloads/browser/opera/",
-    "pubDate": "2026-10-14T12:01:00.000Z"
-  },
-  {
-    "title": "eM Client 11.0.1201.0",
-    "link": "https://www.computerbase.de/downloads/kommunikation/em-client/",
-    "pubDate": "2026-10-14T11:57:00.000Z"
-  },
-  {
-    "title": "Geek Uninstaller 1.6.0.200",
-    "link": "https://www.computerbase.de/downloads/systemtools/geek-uninstaller/",
-    "pubDate": "2026-10-14T11:56:00.000Z"
-  },
-  {
-    "title": "WinSCP 6.7",
-    "link": "https://www.computerbase.de/downloads/office/dateitransfer/winscp/",
-    "pubDate": "2026-10-14T11:53:00.000Z"
-  },
-  {
-    "title": "Adobe Creative Cloud 6.11.0.478.6",
-    "link": "https://www.computerbase.de/downloads/foto-und-grafik/adobe-creative-cloud/",
-    "pubDate": "2026-10-14T11:47:00.000Z"
-  },
-  {
-    "title": "TreeSize 9.9.1",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/treesize/",
-    "pubDate": "2026-10-14T11:45:00.000Z"
   }
 ]
