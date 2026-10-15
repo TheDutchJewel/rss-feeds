@@ -1,8 +1,38 @@
 [
   {
-    "title": "Epic Games Launcher 0.95.2 Preview",
+    "title": "Tunnelblick 10.1 Beta 1 (macOS)",
+    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/tunnelblick/",
+    "pubDate": "2026-10-15T04:25:00.000Z"
+  },
+  {
+    "title": "Tunnelblick 10.0 (macOS)",
+    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/tunnelblick/",
+    "pubDate": "2026-10-15T04:24:00.000Z"
+  },
+  {
+    "title": "Box Drive 2.55",
+    "link": "https://www.computerbase.de/downloads/office/dateimanager/box-drive/",
+    "pubDate": "2026-10-15T04:22:00.000Z"
+  },
+  {
+    "title": "Everything 1.5.0.1424 Beta",
+    "link": "https://www.computerbase.de/downloads/office/dateimanager/everything/",
+    "pubDate": "2026-10-15T04:18:00.000Z"
+  },
+  {
+    "title": "Brave 1.97.57",
+    "link": "https://www.computerbase.de/downloads/browser/brave/",
+    "pubDate": "2026-10-15T04:12:00.000Z"
+  },
+  {
+    "title": "Epic Games Launcher 0.96.0 Preview",
     "link": "https://www.computerbase.de/downloads/games/epic-games-launcher/",
-    "pubDate": "2026-10-14T18:47:00.000Z"
+    "pubDate": "2026-10-15T04:11:00.000Z"
+  },
+  {
+    "title": "Heroic Games Launcher 2.22.4",
+    "link": "https://www.computerbase.de/downloads/games/heroic-games-launcher/",
+    "pubDate": "2026-10-15T04:10:00.000Z"
   },
   {
     "title": "Blizzard Battle.net 2.53.5.17932",
@@ -218,35 +248,5 @@
     "title": "1Password 8.12.42-34 Beta",
     "link": "https://www.computerbase.de/downloads/sicherheit/passwortmanager/1password/",
     "pubDate": "2026-10-13T19:20:00.000Z"
-  },
-  {
-    "title": "Mozilla Thunderbird 158.0",
-    "link": "https://www.computerbase.de/downloads/kommunikation/mozilla-thunderbird/",
-    "pubDate": "2026-10-13T19:19:00.000Z"
-  },
-  {
-    "title": "Mozilla Thunderbird 153.5.0esr",
-    "link": "https://www.computerbase.de/downloads/kommunikation/mozilla-thunderbird/",
-    "pubDate": "2026-10-13T19:18:00.000Z"
-  },
-  {
-    "title": "Dropbox 276.3.5209 Beta",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/dropbox/",
-    "pubDate": "2026-10-13T17:46:00.000Z"
-  },
-  {
-    "title": "Dropbox 275.4.3565",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/dropbox/",
-    "pubDate": "2026-10-13T17:45:00.000Z"
-  },
-  {
-    "title": "Nvidia Profile Inspector 3.0.2.3 Beta",
-    "link": "https://www.computerbase.de/downloads/systemtools/grafikkarten/nvidia-profile-inspector/",
-    "pubDate": "2026-10-13T17:44:00.000Z"
-  },
-  {
-    "title": "TeamSpeak 6.0.0-beta5",
-    "link": "https://www.computerbase.de/downloads/kommunikation/teamspeak/",
-    "pubDate": "2026-10-13T17:42:00.000Z"
   }
 ]

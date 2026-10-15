@@ -1,5 +1,20 @@
 [
   {
+    "title": "[UPDATE] FCEUX v2.7.0",
+    "link": "https://www.portablefreeware.com/?id=1024&ts=1792038123",
+    "pubDate": "Wed, 14 Oct 2026 21:22:03 -0700"
+  },
+  {
+    "title": "[UPDATE] Imagine v2.7.2",
+    "link": "https://www.portablefreeware.com/?id=1819&ts=1792038070",
+    "pubDate": "Wed, 14 Oct 2026 21:21:10 -0700"
+  },
+  {
+    "title": "[UPDATE] phiola v2.11.1",
+    "link": "https://www.portablefreeware.com/?id=3124&ts=1792038040",
+    "pubDate": "Wed, 14 Oct 2026 21:20:40 -0700"
+  },
+  {
     "title": "[UPDATE] Text Editor Pro v37.3.1",
     "link": "https://www.portablefreeware.com/?id=2706&ts=1791991407",
     "pubDate": "Wed, 14 Oct 2026 08:23:27 -0700"
@@ -165,11 +180,6 @@
     "pubDate": "Sun, 04 Oct 2026 09:21:06 -0700"
   },
   {
-    "title": "[UPDATE] Imagine v2.7.1",
-    "link": "https://www.portablefreeware.com/?id=1819&ts=1791099418",
-    "pubDate": "Sun, 04 Oct 2026 00:36:58 -0700"
-  },
-  {
     "title": "[UPDATE] JSONedit v0.9.45",
     "link": "https://www.portablefreeware.com/?id=2393&ts=1791086456",
     "pubDate": "Sat, 03 Oct 2026 21:00:56 -0700"
@@ -308,11 +318,6 @@
     "title": "[UPDATE] ocenaudio v3.21.4",
     "link": "https://www.portablefreeware.com/?id=2799&ts=1790169880",
     "pubDate": "Wed, 23 Sep 2026 06:24:40 -0700"
-  },
-  {
-    "title": "[UPDATE] phiola v2.9.2",
-    "link": "https://www.portablefreeware.com/?id=3124&ts=1790138418",
-    "pubDate": "Tue, 22 Sep 2026 21:40:18 -0700"
   },
   {
     "title": "[UPDATE] FileAccessErrorView v1.34",
@@ -493,10 +498,5 @@
     "title": "[UPDATE] PortableApps.com AppCompactor v3.18",
     "link": "https://www.portablefreeware.com/?id=1472&ts=1788279604",
     "pubDate": "Tue, 01 Sep 2026 09:20:04 -0700"
-  },
-  {
-    "title": "[UPDATE] Advanced Renamer v4.25",
-    "link": "https://www.portablefreeware.com/?id=1848&ts=1788252703",
-    "pubDate": "Tue, 01 Sep 2026 01:51:43 -0700"
   }
 ]
