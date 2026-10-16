@@ -1,5 +1,15 @@
 [
   {
+    "title": "Brave updated to 1.97.59.",
+    "link": "https://ninite.com/brave/",
+    "pubDate": "Fri, 16 Oct 2026 16:23:38 -0000"
+  },
+  {
+    "title": "ChatGPT updated to 26.1013.3656.",
+    "link": "https://ninite.com/chatgpt/",
+    "pubDate": "Fri, 16 Oct 2026 15:14:44 -0000"
+  },
+  {
     "title": "Edge updated to 155.0.4283.60.",
     "link": "https://ninite.com/edge/",
     "pubDate": "Thu, 15 Oct 2026 21:55:43 -0000"
@@ -293,15 +303,5 @@
     "title": "Python x64 3 updated to 3.15.0.",
     "link": "https://ninite.com/pythonx3/",
     "pubDate": "Fri, 09 Oct 2026 17:40:47 -0000"
-  },
-  {
-    "title": "Python 3 updated to 3.15.0.",
-    "link": "https://ninite.com/python3/",
-    "pubDate": "Fri, 09 Oct 2026 17:40:24 -0000"
-  },
-  {
-    "title": "Python arm64 3 updated to 3.15.0.",
-    "link": "https://ninite.com/pythona3/",
-    "pubDate": "Fri, 09 Oct 2026 17:40:02 -0000"
   }
 ]

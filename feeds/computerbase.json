@@ -1,5 +1,35 @@
 [
   {
+    "title": "TeamDrive 5.3.0 Build 3927",
+    "link": "https://www.computerbase.de/downloads/office/dateimanager/teamdrive/",
+    "pubDate": "2026-10-16T15:09:00.000Z"
+  },
+  {
+    "title": "Google Chrome 157.0.8103.6 Beta",
+    "link": "https://www.computerbase.de/downloads/browser/google-chrome/",
+    "pubDate": "2026-10-16T15:08:00.000Z"
+  },
+  {
+    "title": "WhatsApp 2.26.41.28 (macOS)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/whatsapp/",
+    "pubDate": "2026-10-16T15:06:00.000Z"
+  },
+  {
+    "title": "Screenpresso 2.3.8 (Win 11)",
+    "link": "https://www.computerbase.de/downloads/foto-und-grafik/screenpresso/",
+    "pubDate": "2026-10-16T15:02:00.000Z"
+  },
+  {
+    "title": "Element 1.12.32",
+    "link": "https://www.computerbase.de/downloads/kommunikation/element/",
+    "pubDate": "2026-10-16T15:01:00.000Z"
+  },
+  {
+    "title": "OnionShare 2.7",
+    "link": "https://www.computerbase.de/downloads/office/dateitransfer/onionshare/",
+    "pubDate": "2026-10-16T14:55:00.000Z"
+  },
+  {
     "title": "Microsoft Edge 155.0.4283.60",
     "link": "https://www.computerbase.de/downloads/browser/microsoft-edge/",
     "pubDate": "2026-10-16T04:35:00.000Z"
@@ -218,35 +248,5 @@
     "title": "Box Drive 2.55",
     "link": "https://www.computerbase.de/downloads/office/dateimanager/box-drive/",
     "pubDate": "2026-10-15T04:22:00.000Z"
-  },
-  {
-    "title": "Everything 1.5.0.1424 Beta",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/everything/",
-    "pubDate": "2026-10-15T04:18:00.000Z"
-  },
-  {
-    "title": "Brave 1.97.57",
-    "link": "https://www.computerbase.de/downloads/browser/brave/",
-    "pubDate": "2026-10-15T04:12:00.000Z"
-  },
-  {
-    "title": "Heroic Games Launcher 2.22.4",
-    "link": "https://www.computerbase.de/downloads/games/heroic-games-launcher/",
-    "pubDate": "2026-10-15T04:10:00.000Z"
-  },
-  {
-    "title": "Blizzard Battle.net 2.53.5.17932",
-    "link": "https://www.computerbase.de/downloads/games/blizzard-battle.net/",
-    "pubDate": "2026-10-14T18:34:00.000Z"
-  },
-  {
-    "title": "eDocPrintPro 5.9.1",
-    "link": "https://www.computerbase.de/downloads/office/pdf/edocprintpro/",
-    "pubDate": "2026-10-14T18:33:00.000Z"
-  },
-  {
-    "title": "Rocket.Chat Desktop 4.18.3",
-    "link": "https://www.computerbase.de/downloads/kommunikation/rocket.chat/",
-    "pubDate": "2026-10-14T18:31:00.000Z"
   }
 ]
