@@ -1,5 +1,40 @@
 [
   {
+    "title": "Microsoft Edge 155.0.4283.60",
+    "link": "https://www.computerbase.de/downloads/browser/microsoft-edge/",
+    "pubDate": "2026-10-16T04:35:00.000Z"
+  },
+  {
+    "title": "LibreOffice 26.2.7 RC1",
+    "link": "https://www.computerbase.de/downloads/office/libreoffice/",
+    "pubDate": "2026-10-16T04:29:00.000Z"
+  },
+  {
+    "title": "Google Chrome 155.0.8059.84/.85",
+    "link": "https://www.computerbase.de/downloads/browser/google-chrome/",
+    "pubDate": "2026-10-16T04:27:00.000Z"
+  },
+  {
+    "title": "Process Explorer 17.2",
+    "link": "https://www.computerbase.de/downloads/systemtools/process-explorer/",
+    "pubDate": "2026-10-16T04:25:00.000Z"
+  },
+  {
+    "title": "Process Monitor 4.12",
+    "link": "https://www.computerbase.de/downloads/systemtools/process-monitor/",
+    "pubDate": "2026-10-16T04:25:00.000Z"
+  },
+  {
+    "title": "Windows Sysinternals 2026-10-15",
+    "link": "https://www.computerbase.de/downloads/systemtools/sysinternals/",
+    "pubDate": "2026-10-16T04:24:00.000Z"
+  },
+  {
+    "title": "Epic Games Launcher 0.96.1 Preview",
+    "link": "https://www.computerbase.de/downloads/games/epic-games-launcher/",
+    "pubDate": "2026-10-16T04:20:00.000Z"
+  },
+  {
     "title": "Carbon Copy Cloner 7.2.2 (macOS)",
     "link": "https://www.computerbase.de/downloads/sicherheit/backup/carbon-copy-cloner/",
     "pubDate": "2026-10-15T20:18:00.000Z"
@@ -195,11 +230,6 @@
     "pubDate": "2026-10-15T04:12:00.000Z"
   },
   {
-    "title": "Epic Games Launcher 0.96.0 Preview",
-    "link": "https://www.computerbase.de/downloads/games/epic-games-launcher/",
-    "pubDate": "2026-10-15T04:11:00.000Z"
-  },
-  {
     "title": "Heroic Games Launcher 2.22.4",
     "link": "https://www.computerbase.de/downloads/games/heroic-games-launcher/",
     "pubDate": "2026-10-15T04:10:00.000Z"
@@ -218,35 +248,5 @@
     "title": "Rocket.Chat Desktop 4.18.3",
     "link": "https://www.computerbase.de/downloads/kommunikation/rocket.chat/",
     "pubDate": "2026-10-14T18:31:00.000Z"
-  },
-  {
-    "title": "Mozilla Firefox 159.0 Beta 2",
-    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
-    "pubDate": "2026-10-14T18:30:00.000Z"
-  },
-  {
-    "title": "Mozilla Thunderbird 159.0 Beta 2",
-    "link": "https://www.computerbase.de/downloads/kommunikation/mozilla-thunderbird/",
-    "pubDate": "2026-10-14T15:29:00.000Z"
-  },
-  {
-    "title": "BetterTouchTool 6.929 (macOS)",
-    "link": "https://www.computerbase.de/downloads/systemtools/bettertouchtool/",
-    "pubDate": "2026-10-14T15:26:00.000Z"
-  },
-  {
-    "title": "Vivaldi 8.2 Build 4133.87",
-    "link": "https://www.computerbase.de/downloads/browser/vivaldi/",
-    "pubDate": "2026-10-14T13:43:00.000Z"
-  },
-  {
-    "title": "SmartFTP 10.0 Build 3333",
-    "link": "https://www.computerbase.de/downloads/office/dateitransfer/smartftp/",
-    "pubDate": "2026-10-14T12:41:00.000Z"
-  },
-  {
-    "title": "NZXT CAM 4.76.6",
-    "link": "https://www.computerbase.de/downloads/systemtools/nzxt-cam/",
-    "pubDate": "2026-10-14T12:18:00.000Z"
   }
 ]
