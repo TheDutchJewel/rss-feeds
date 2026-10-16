@@ -1,5 +1,55 @@
 [
   {
+    "title": "Microsoft Edge 155.0.4283.62",
+    "link": "https://www.computerbase.de/downloads/browser/microsoft-edge/",
+    "pubDate": "2026-10-16T19:33:00.000Z"
+  },
+  {
+    "title": "Wine 11.20 Beta (Linux)",
+    "link": "https://www.computerbase.de/downloads/systemtools/wine/",
+    "pubDate": "2026-10-16T19:31:00.000Z"
+  },
+  {
+    "title": "Microsoft Teams 26260.1717.5229.7049",
+    "link": "https://www.computerbase.de/downloads/kommunikation/microsoft-teams/",
+    "pubDate": "2026-10-16T17:58:00.000Z"
+  },
+  {
+    "title": "FrostWire 7.1.1",
+    "link": "https://www.computerbase.de/downloads/office/dateitransfer/frostwire/",
+    "pubDate": "2026-10-16T17:54:00.000Z"
+  },
+  {
+    "title": "Sandboxie Plus 1.18.7",
+    "link": "https://www.computerbase.de/downloads/sicherheit/sandboxie/",
+    "pubDate": "2026-10-16T17:52:00.000Z"
+  },
+  {
+    "title": "Sandboxie Classic 5.73.7",
+    "link": "https://www.computerbase.de/downloads/sicherheit/sandboxie/",
+    "pubDate": "2026-10-16T17:51:00.000Z"
+  },
+  {
+    "title": "Mozilla Firefox 159.0 Beta 3",
+    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
+    "pubDate": "2026-10-16T17:50:00.000Z"
+  },
+  {
+    "title": "FreeFileSync 14.13",
+    "link": "https://www.computerbase.de/downloads/sicherheit/backup/freefilesync/",
+    "pubDate": "2026-10-16T17:49:00.000Z"
+  },
+  {
+    "title": "Fotosizer 3.24.0.596",
+    "link": "https://www.computerbase.de/downloads/foto-und-grafik/fotosizer/",
+    "pubDate": "2026-10-16T17:48:00.000Z"
+  },
+  {
+    "title": "Epic Games Launcher 0.97.0 Preview",
+    "link": "https://www.computerbase.de/downloads/games/epic-games-launcher/",
+    "pubDate": "2026-10-16T17:44:00.000Z"
+  },
+  {
     "title": "TeamDrive 5.3.0 Build 3927",
     "link": "https://www.computerbase.de/downloads/office/dateimanager/teamdrive/",
     "pubDate": "2026-10-16T15:09:00.000Z"
@@ -30,11 +80,6 @@
     "pubDate": "2026-10-16T14:55:00.000Z"
   },
   {
-    "title": "Microsoft Edge 155.0.4283.60",
-    "link": "https://www.computerbase.de/downloads/browser/microsoft-edge/",
-    "pubDate": "2026-10-16T04:35:00.000Z"
-  },
-  {
     "title": "LibreOffice 26.2.7 RC1",
     "link": "https://www.computerbase.de/downloads/office/libreoffice/",
     "pubDate": "2026-10-16T04:29:00.000Z"
@@ -58,11 +103,6 @@
     "title": "Windows Sysinternals 2026-10-15",
     "link": "https://www.computerbase.de/downloads/systemtools/sysinternals/",
     "pubDate": "2026-10-16T04:24:00.000Z"
-  },
-  {
-    "title": "Epic Games Launcher 0.96.1 Preview",
-    "link": "https://www.computerbase.de/downloads/games/epic-games-launcher/",
-    "pubDate": "2026-10-16T04:20:00.000Z"
   },
   {
     "title": "Carbon Copy Cloner 7.2.2 (macOS)",
@@ -208,45 +248,5 @@
     "title": "Turtle Beach Swarm II 1.0.0.61",
     "link": "https://www.computerbase.de/downloads/treiber/eingabegeraete/turtle-beach-swarm-ii/",
     "pubDate": "2026-10-15T15:51:00.000Z"
-  },
-  {
-    "title": "Nextcloud Server 35.0.2 (Linux)",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/nextcloud/",
-    "pubDate": "2026-10-15T15:50:00.000Z"
-  },
-  {
-    "title": "mp3Tag 3.37 Beta 3",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/mp3tag/",
-    "pubDate": "2026-10-15T15:48:00.000Z"
-  },
-  {
-    "title": "Signal 8.31.0",
-    "link": "https://www.computerbase.de/downloads/kommunikation/signal/",
-    "pubDate": "2026-10-15T15:48:00.000Z"
-  },
-  {
-    "title": "AnyDesk 9.8.2",
-    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/anydesk/",
-    "pubDate": "2026-10-15T15:47:00.000Z"
-  },
-  {
-    "title": "Discord 1.0.9262",
-    "link": "https://www.computerbase.de/downloads/kommunikation/discord/",
-    "pubDate": "2026-10-15T15:45:00.000Z"
-  },
-  {
-    "title": "Tunnelblick 10.1 Beta 1 (macOS)",
-    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/tunnelblick/",
-    "pubDate": "2026-10-15T04:25:00.000Z"
-  },
-  {
-    "title": "Tunnelblick 10.0 (macOS)",
-    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/tunnelblick/",
-    "pubDate": "2026-10-15T04:24:00.000Z"
-  },
-  {
-    "title": "Box Drive 2.55",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/box-drive/",
-    "pubDate": "2026-10-15T04:22:00.000Z"
   }
 ]
