@@ -1,5 +1,10 @@
 [
   {
+    "title": "Windows 11 Media Creation Tool 26H2 (Build 26300.9711)",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/windows-11-media-creation-tool/",
+    "pubDate": "2026-10-16T20:05:00.000Z"
+  },
+  {
     "title": "Microsoft Edge 155.0.4283.62",
     "link": "https://www.computerbase.de/downloads/browser/microsoft-edge/",
     "pubDate": "2026-10-16T19:33:00.000Z"
@@ -243,10 +248,5 @@
     "title": "AIDA64 v8.40.8515 Beta",
     "link": "https://www.computerbase.de/downloads/systemtools/aida64/",
     "pubDate": "2026-10-15T15:52:00.000Z"
-  },
-  {
-    "title": "Turtle Beach Swarm II 1.0.0.61",
-    "link": "https://www.computerbase.de/downloads/treiber/eingabegeraete/turtle-beach-swarm-ii/",
-    "pubDate": "2026-10-15T15:51:00.000Z"
   }
 ]
