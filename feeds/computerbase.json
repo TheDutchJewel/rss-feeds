@@ -1,5 +1,20 @@
 [
   {
+    "title": "KDE neon 20261016-0658",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/kde-neon/",
+    "pubDate": "2026-10-17T15:37:00.000Z"
+  },
+  {
+    "title": "Intel Netzwerkadapter-Treiber 31.3",
+    "link": "https://www.computerbase.de/downloads/treiber/netzwerk/intel-netzwerkadapter-treiber/",
+    "pubDate": "2026-10-17T15:35:00.000Z"
+  },
+  {
+    "title": "BetterTouchTool 6.943 (macOS)",
+    "link": "https://www.computerbase.de/downloads/systemtools/bettertouchtool/",
+    "pubDate": "2026-10-17T15:32:00.000Z"
+  },
+  {
     "title": "Dropbox 276.3.5225 Beta",
     "link": "https://www.computerbase.de/downloads/office/dateimanager/dropbox/",
     "pubDate": "2026-10-17T09:14:00.000Z"
@@ -233,20 +248,5 @@
     "title": "Ubuntu Cinnamon 26.10 „Stonking Stingray“",
     "link": "https://www.computerbase.de/downloads/betriebssysteme/ubuntu-cinnamon/",
     "pubDate": "2026-10-15T18:31:00.000Z"
-  },
-  {
-    "title": "Ubuntu Budgie 26.10 „Stonking Stingray“",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/ubuntu-budgie/",
-    "pubDate": "2026-10-15T18:30:00.000Z"
-  },
-  {
-    "title": "Lubuntu 26.10 „Stonking Stingray“",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/lubuntu/",
-    "pubDate": "2026-10-15T18:29:00.000Z"
-  },
-  {
-    "title": "Kubuntu 26.10 „Stonking Stingray“",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/kubuntu/",
-    "pubDate": "2026-10-15T18:28:00.000Z"
   }
 ]
