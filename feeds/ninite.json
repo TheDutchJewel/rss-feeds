@@ -1,5 +1,20 @@
 [
   {
+    "title": "Cursor updated to 3.25.9.",
+    "link": "https://ninite.com/cursor/",
+    "pubDate": "Sat, 17 Oct 2026 19:08:05 -0000"
+  },
+  {
+    "title": "UltraVNC updated to 1.8.3.0.",
+    "link": "https://ninite.com/ultravnc/",
+    "pubDate": "Sat, 17 Oct 2026 18:54:22 -0000"
+  },
+  {
+    "title": "Advanced IP Scanner updated to 2.5.4594.1.",
+    "link": "https://ninite.com/advancedipscanner/",
+    "pubDate": "Sat, 17 Oct 2026 18:53:46 -0000"
+  },
+  {
     "title": "Teams updated to 26260.1717.5229.7049.",
     "link": "https://ninite.com/teams/",
     "pubDate": "Sat, 17 Oct 2026 15:26:50 -0000"
@@ -303,20 +318,5 @@
     "title": "OneDrive updated to 26.178.0913.0007.",
     "link": "https://ninite.com/onedrive/",
     "pubDate": "Sat, 10 Oct 2026 18:31:16 -0000"
-  },
-  {
-    "title": "TeraCopy updated to 4.0.5.",
-    "link": "https://ninite.com/teracopy/",
-    "pubDate": "Sat, 10 Oct 2026 18:17:49 -0000"
-  },
-  {
-    "title": "Telegram updated to 7.3.1.",
-    "link": "https://ninite.com/telegram/",
-    "pubDate": "Sat, 10 Oct 2026 17:55:21 -0000"
-  },
-  {
-    "title": "Claude updated to 2.31226.1.",
-    "link": "https://ninite.com/claude/",
-    "pubDate": "Sat, 10 Oct 2026 17:54:55 -0000"
   }
 ]
