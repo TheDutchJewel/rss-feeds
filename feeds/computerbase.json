@@ -1,5 +1,10 @@
 [
   {
+    "title": "K-Lite Codec Pack Update 20.0.8",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/k-lite-codec-pack/",
+    "pubDate": "2026-10-17T17:20:00.000Z"
+  },
+  {
     "title": "KDE neon 20261016-0658",
     "link": "https://www.computerbase.de/downloads/betriebssysteme/kde-neon/",
     "pubDate": "2026-10-17T15:37:00.000Z"
@@ -243,10 +248,5 @@
     "title": "Ubuntu Kylin 26.10 „Stonking Stingray“",
     "link": "https://www.computerbase.de/downloads/betriebssysteme/ubuntu-kylin/",
     "pubDate": "2026-10-15T18:32:00.000Z"
-  },
-  {
-    "title": "Ubuntu Cinnamon 26.10 „Stonking Stingray“",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/ubuntu-cinnamon/",
-    "pubDate": "2026-10-15T18:31:00.000Z"
   }
 ]
