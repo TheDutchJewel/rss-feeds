@@ -1,5 +1,15 @@
 [
   {
+    "title": "MKVToolnix 103.0 “The Darkness”",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/mkvtoolnix/",
+    "pubDate": "2026-10-18T15:07:00.000Z"
+  },
+  {
+    "title": "Media Player Classic Home Cinema 2.8.4",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/media-player-classic-home-cinema/",
+    "pubDate": "2026-10-18T15:06:00.000Z"
+  },
+  {
     "title": "Sandboxie Plus 1.18.8",
     "link": "https://www.computerbase.de/downloads/sicherheit/sandboxie/",
     "pubDate": "2026-10-17T20:47:00.000Z"
@@ -238,15 +248,5 @@
     "title": "Ubuntu Studio 26.10 „Stonking Stingray“",
     "link": "https://www.computerbase.de/downloads/betriebssysteme/ubuntu-studio/",
     "pubDate": "2026-10-15T18:34:00.000Z"
-  },
-  {
-    "title": "Ubuntu MATE 26.10 „Stonking Stingray“",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/ubuntu-mate/",
-    "pubDate": "2026-10-15T18:33:00.000Z"
-  },
-  {
-    "title": "Ubuntu Kylin 26.10 „Stonking Stingray“",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/ubuntu-kylin/",
-    "pubDate": "2026-10-15T18:32:00.000Z"
   }
 ]
