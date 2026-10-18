@@ -1,5 +1,40 @@
 [
   {
+    "title": "Google Chrome Portable 158 Dev (web browser) Released",
+    "link": "https://portableapps.com/news/2026-10-17--google-chrome-portable-158-dev-released",
+    "pubDate": "Sat, 17 Oct 2026 22:36:30 +0000"
+  },
+  {
+    "title": "Google Chrome Portable 157 Beta (web browser) Released",
+    "link": "https://portableapps.com/news/2026-10-17--google-chrome-portable-157-beta-released",
+    "pubDate": "Sat, 17 Oct 2026 22:36:05 +0000"
+  },
+  {
+    "title": "Google Chrome Portable 155.0.8059.85 Stable (web browser) Released",
+    "link": "https://portableapps.com/news/2026-10-17--google-chrome-portable-155.0.8059.85-released",
+    "pubDate": "Sat, 17 Oct 2026 22:35:38 +0000"
+  },
+  {
+    "title": "Thunderbird ESR, Portable Edition 153.5.0 (email client) Released",
+    "link": "https://portableapps.com/news/2026-10-17--thunderbird-portable-esr-153.5.0-released",
+    "pubDate": "Sat, 17 Oct 2026 22:31:16 +0000"
+  },
+  {
+    "title": "Thunderbird, Portable Edition 159.0 Beta 1 (email client) Released",
+    "link": "https://portableapps.com/news/2026-10-17--thunderbird-portable-159.0-beta-1-released",
+    "pubDate": "Sat, 17 Oct 2026 22:28:30 +0000"
+  },
+  {
+    "title": "Thunderbird, Portable Edition 158.0 (email client) Released",
+    "link": "https://portableapps.com/news/2026-10-17--thunderbird-portable-158.0-released",
+    "pubDate": "Sat, 17 Oct 2026 22:25:55 +0000"
+  },
+  {
+    "title": "RawTherapee Portable 5.13 (advanced raw image processor) Released",
+    "link": "https://portableapps.com/news/2026-10-17--rawtherapee-portable-5.13-released",
+    "pubDate": "Sat, 17 Oct 2026 19:43:15 +0000"
+  },
+  {
     "title": "LibreWolf Portable 158.0-1 (web browser) Released",
     "link": "https://portableapps.com/news/2026-10-14--librewolf-portable-158.0-1-released",
     "pubDate": "Wed, 14 Oct 2026 18:22:32 +0000"
@@ -38,40 +73,5 @@
     "title": "Mozilla Firefox Developer Edition, Portable 159b1 (web browser) Released",
     "link": "https://portableapps.com/news/2026-10-13--firefox-portable-developer-159b1-released",
     "pubDate": "Tue, 13 Oct 2026 19:51:34 +0000"
-  },
-  {
-    "title": "Mozilla Firefox, Portable Edition 159.0 Beta 1 (web browser) Released",
-    "link": "https://portableapps.com/news/2026-10-13--firefox-portable-159.0-beta-1-released",
-    "pubDate": "Tue, 13 Oct 2026 19:47:42 +0000"
-  },
-  {
-    "title": "Mozilla Firefox, Portable Edition Stable 158.0 (web browser) Released",
-    "link": "https://portableapps.com/news/2026-10-13--firefox-portable-158.0-released",
-    "pubDate": "Tue, 13 Oct 2026 19:45:11 +0000"
-  },
-  {
-    "title": "Telegram Desktop Portable 7.3.1 (secure instant messaging) Released",
-    "link": "https://portableapps.com/news/2026-10-12--telegram-desktop-portable-7.3.1-released",
-    "pubDate": "Tue, 13 Oct 2026 03:59:26 +0000"
-  },
-  {
-    "title": "InnoUnpacker Portable 2.2.13 (InnoSetup inspector and extractor) Released",
-    "link": "https://portableapps.com/news/2026-10-12--innounpacker-portable-2.2.13-released",
-    "pubDate": "Tue, 13 Oct 2026 01:31:17 +0000"
-  },
-  {
-    "title": "Opera GX, Portable Edition 136.0.6008.111 (gaming browser) Released",
-    "link": "https://portableapps.com/news/2026-10-12--opera-gx-portable-136.0.6008.111-released",
-    "pubDate": "Tue, 13 Oct 2026 01:19:54 +0000"
-  },
-  {
-    "title": "Opera, Portable Edition 137.0.6036.39 (web browser) Released",
-    "link": "https://portableapps.com/news/2026-10-12--opera-portable-137.0.6036.39-released",
-    "pubDate": "Tue, 13 Oct 2026 01:16:12 +0000"
-  },
-  {
-    "title": "Iron Portable 154.0.8100.0 (web browser) Released",
-    "link": "https://portableapps.com/news/2026-10-12--iron-portable-154.0.8100.0-released",
-    "pubDate": "Tue, 13 Oct 2026 00:52:00 +0000"
   }
 ]
