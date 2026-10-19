@@ -1,5 +1,20 @@
 [
   {
+    "title": "OpenWrt 25.12.6",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/openwrt/",
+    "pubDate": "2026-10-19T04:50:00.000Z"
+  },
+  {
+    "title": "FotoSketcher Studio 4.70 RC",
+    "link": "https://www.computerbase.de/downloads/foto-und-grafik/fotosketcher/",
+    "pubDate": "2026-10-19T04:47:00.000Z"
+  },
+  {
+    "title": "Bandizip 8.0 Beta 44",
+    "link": "https://www.computerbase.de/downloads/office/packprogramme/bandizip/",
+    "pubDate": "2026-10-19T04:45:00.000Z"
+  },
+  {
     "title": "K-Lite Codec Pack 20.1.0",
     "link": "https://www.computerbase.de/downloads/audio-und-video/k-lite-codec-pack/",
     "pubDate": "2026-10-18T21:59:00.000Z"
@@ -233,20 +248,5 @@
     "title": "ACDSee Photo Studio 2027 v20.0.0.3742",
     "link": "https://www.computerbase.de/downloads/foto-und-grafik/acdsee/",
     "pubDate": "2026-10-15T18:48:00.000Z"
-  },
-  {
-    "title": "ACDSee Photo Studio 2027 v30.0.0.3643",
-    "link": "https://www.computerbase.de/downloads/foto-und-grafik/acdsee/",
-    "pubDate": "2026-10-15T18:47:00.000Z"
-  },
-  {
-    "title": "Xubuntu 26.10 „Stonking Stingray“",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/xubuntu/",
-    "pubDate": "2026-10-15T18:36:00.000Z"
-  },
-  {
-    "title": "Ubuntu Unity 26.10 „Stonking Stingray“",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/ubuntu-unity/",
-    "pubDate": "2026-10-15T18:35:00.000Z"
   }
 ]
