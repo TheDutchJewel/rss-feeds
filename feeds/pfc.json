@@ -1,5 +1,20 @@
 [
   {
+    "title": "[UPDATE] Mozilla Firefox, Portable Edition v158.0",
+    "link": "https://www.portablefreeware.com/?id=132&ts=1792430808",
+    "pubDate": "Mon, 19 Oct 2026 10:26:48 -0700"
+  },
+  {
+    "title": "[UPDATE] SmartSystemMenu v2.34.0",
+    "link": "https://www.portablefreeware.com/?id=2973&ts=1792429781",
+    "pubDate": "Mon, 19 Oct 2026 10:09:41 -0700"
+  },
+  {
+    "title": "[UPDATE] Rapid Environment Editor v10.0.5",
+    "link": "https://www.portablefreeware.com/?id=1665&ts=1792423343",
+    "pubDate": "Mon, 19 Oct 2026 08:22:23 -0700"
+  },
+  {
     "title": "[UPDATE] WinBin2Iso v6.79",
     "link": "https://www.portablefreeware.com/?id=2196&ts=1792401450",
     "pubDate": "Mon, 19 Oct 2026 02:17:30 -0700"
@@ -238,11 +253,6 @@
     "title": "[UPDATE] LiveTcpUdpWatch v1.59",
     "link": "https://www.portablefreeware.com/?id=2948&ts=1791346894",
     "pubDate": "Tue, 06 Oct 2026 21:21:34 -0700"
-  },
-  {
-    "title": "[UPDATE] Mozilla Firefox, Portable Edition v157.0.1",
-    "link": "https://www.portablefreeware.com/?id=132&ts=1791267305",
-    "pubDate": "Mon, 05 Oct 2026 23:15:05 -0700"
   },
   {
     "title": "[UPDATE] Mozilla Thunderbird, Portable Edition v157.0.1",
@@ -488,15 +498,5 @@
     "title": "[UPDATE] FileVoyager v26.9.6",
     "link": "https://www.portablefreeware.com/?id=2826&ts=1789110108",
     "pubDate": "Fri, 11 Sep 2026 00:01:48 -0700"
-  },
-  {
-    "title": "[UPDATE] RegCool v3.1.0.6",
-    "link": "https://www.portablefreeware.com/?id=3084&ts=1789051211",
-    "pubDate": "Thu, 10 Sep 2026 07:40:11 -0700"
-  },
-  {
-    "title": "[UPDATE] PortableApps.com Platform v30.5",
-    "link": "https://www.portablefreeware.com/?id=1056&ts=1789033558",
-    "pubDate": "Thu, 10 Sep 2026 02:45:58 -0700"
   }
 ]

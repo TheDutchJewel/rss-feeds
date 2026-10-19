@@ -1,5 +1,30 @@
 [
     {
+        "title": "Greenshot 1.3.328",
+        "link": "https://www.gratissoftwaresite.nl/downloads/greenshot-schermafbeelding-venster-bewerking",
+        "pubDate": "19 oktober 2026"
+    },
+    {
+        "title": "Malwarebytes 5.7.3",
+        "link": "https://www.gratissoftwaresite.nl/downloads/malwarebytes-anti-malware-anti-spyware-virussen",
+        "pubDate": "19 oktober 2026"
+    },
+    {
+        "title": "Glary Utilities 6.49.0.53",
+        "link": "https://www.gratissoftwaresite.nl/downloads/glary-utilities-pc-opruimen-cleaner",
+        "pubDate": "19 oktober 2026"
+    },
+    {
+        "title": "LossLessCut 3.70.1",
+        "link": "https://www.gratissoftwaresite.nl/downloads/losslesscut-videobewerking-knippen-film-fragmenten",
+        "pubDate": "19 oktober 2026"
+    },
+    {
+        "title": "RapidRaw 1.6.6",
+        "link": "https://www.gratissoftwaresite.nl/downloads/rapidraw-fotobewerking-beheer-workflow",
+        "pubDate": "19 oktober 2026"
+    },
+    {
         "title": "BleachBit 6.0.6",
         "link": "https://www.gratissoftwaresite.nl/downloads/bleachbit-cleaner-pc-schoonmaken-shredder-bestanden-vernietigen",
         "pubDate": "19 oktober 2026"
@@ -250,11 +275,6 @@
         "pubDate": "9 oktober 2026"
     },
     {
-        "title": "Greenshot 1.3.323",
-        "link": "https://www.gratissoftwaresite.nl/downloads/greenshot-schermafbeelding-venster-bewerking",
-        "pubDate": "9 oktober 2026"
-    },
-    {
         "title": "Microsoft PC Manager 3.23.0",
         "link": "https://www.gratissoftwaresite.nl/downloads/pc-manager-cleaner-opschonen-beheer",
         "pubDate": "9 oktober 2026"
@@ -283,11 +303,6 @@
         "title": "Ubuntu 26.04.1 LTS",
         "link": "https://www.gratissoftwaresite.nl/downloads/ubuntu-besturingssysteem-linux-windows-vervanger-os",
         "pubDate": "8 oktober 2026"
-    },
-    {
-        "title": "RapidRaw 1.6.5",
-        "link": "https://www.gratissoftwaresite.nl/downloads/rapidraw-fotobewerking-beheer-workflow",
-        "pubDate": "7 oktober 2026"
     },
     {
         "title": "Revo Uninstaller 2.7.2",
@@ -362,11 +377,6 @@
     {
         "title": "SRWare Iron 154.0.8100.0",
         "link": "https://www.gratissoftwaresite.nl/downloads/srware-iron-internet-web-browser-privacy",
-        "pubDate": "3 oktober 2026"
-    },
-    {
-        "title": "Malwarebytes 5.7.2",
-        "link": "https://www.gratissoftwaresite.nl/downloads/malwarebytes-anti-malware-anti-spyware-virussen",
         "pubDate": "3 oktober 2026"
     },
     {
@@ -482,16 +492,6 @@
     {
         "title": "iOS en iPadOS 27.0 & 26.7...",
         "link": "https://www.gratissoftwaresite.nl/downloads/ios-mobiel-besturingssysteem-os-iphone",
-        "pubDate": "27 september 2026"
-    },
-    {
-        "title": "FotoSketcher 4.60",
-        "link": "https://www.gratissoftwaresite.nl/downloads/fotosketcher-fotobewerking-effecten-filters",
-        "pubDate": "27 september 2026"
-    },
-    {
-        "title": "draw.io 31.5.3",
-        "link": "https://www.gratissoftwaresite.nl/downloads/draw.io-diagrammen-flowcharts-mindmaps-organigrammen",
         "pubDate": "27 september 2026"
     }
 ]

@@ -5,6 +5,36 @@
     <link>https://www.gratissoftwaresite.nl/downloads/nieuwe-updates</link>
     <description>Nieuwste software-updates van GratisSoftwareSite</description>
     <item>
+      <title>Greenshot 1.3.328</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/greenshot-schermafbeelding-venster-bewerking</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/greenshot-schermafbeelding-venster-bewerking</guid>
+      <pubDate>19 oktober 2026</pubDate>
+    </item>
+    <item>
+      <title>Malwarebytes 5.7.3</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/malwarebytes-anti-malware-anti-spyware-virussen</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/malwarebytes-anti-malware-anti-spyware-virussen</guid>
+      <pubDate>19 oktober 2026</pubDate>
+    </item>
+    <item>
+      <title>Glary Utilities 6.49.0.53</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/glary-utilities-pc-opruimen-cleaner</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/glary-utilities-pc-opruimen-cleaner</guid>
+      <pubDate>19 oktober 2026</pubDate>
+    </item>
+    <item>
+      <title>LossLessCut 3.70.1</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/losslesscut-videobewerking-knippen-film-fragmenten</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/losslesscut-videobewerking-knippen-film-fragmenten</guid>
+      <pubDate>19 oktober 2026</pubDate>
+    </item>
+    <item>
+      <title>RapidRaw 1.6.6</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/rapidraw-fotobewerking-beheer-workflow</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/rapidraw-fotobewerking-beheer-workflow</guid>
+      <pubDate>19 oktober 2026</pubDate>
+    </item>
+    <item>
       <title>BleachBit 6.0.6</title>
       <link>https://www.gratissoftwaresite.nl/downloads/bleachbit-cleaner-pc-schoonmaken-shredder-bestanden-vernietigen</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/bleachbit-cleaner-pc-schoonmaken-shredder-bestanden-vernietigen</guid>
@@ -305,12 +335,6 @@
       <pubDate>9 oktober 2026</pubDate>
     </item>
     <item>
-      <title>Greenshot 1.3.323</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/greenshot-schermafbeelding-venster-bewerking</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/greenshot-schermafbeelding-venster-bewerking</guid>
-      <pubDate>9 oktober 2026</pubDate>
-    </item>
-    <item>
       <title>Microsoft PC Manager 3.23.0</title>
       <link>https://www.gratissoftwaresite.nl/downloads/pc-manager-cleaner-opschonen-beheer</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/pc-manager-cleaner-opschonen-beheer</guid>
@@ -345,12 +369,6 @@
       <link>https://www.gratissoftwaresite.nl/downloads/ubuntu-besturingssysteem-linux-windows-vervanger-os</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/ubuntu-besturingssysteem-linux-windows-vervanger-os</guid>
       <pubDate>8 oktober 2026</pubDate>
-    </item>
-    <item>
-      <title>RapidRaw 1.6.5</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/rapidraw-fotobewerking-beheer-workflow</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/rapidraw-fotobewerking-beheer-workflow</guid>
-      <pubDate>7 oktober 2026</pubDate>
     </item>
     <item>
       <title>Revo Uninstaller 2.7.2</title>
@@ -440,12 +458,6 @@
       <title>SRWare Iron 154.0.8100.0</title>
       <link>https://www.gratissoftwaresite.nl/downloads/srware-iron-internet-web-browser-privacy</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/srware-iron-internet-web-browser-privacy</guid>
-      <pubDate>3 oktober 2026</pubDate>
-    </item>
-    <item>
-      <title>Malwarebytes 5.7.2</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/malwarebytes-anti-malware-anti-spyware-virussen</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/malwarebytes-anti-malware-anti-spyware-virussen</guid>
       <pubDate>3 oktober 2026</pubDate>
     </item>
     <item>
@@ -584,18 +596,6 @@
       <title/>
       <link>https://www.gratissoftwaresite.nl/downloads/ios-mobiel-besturingssysteem-os-iphone</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/ios-mobiel-besturingssysteem-os-iphone</guid>
-      <pubDate>27 september 2026</pubDate>
-    </item>
-    <item>
-      <title>FotoSketcher 4.60</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/fotosketcher-fotobewerking-effecten-filters</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/fotosketcher-fotobewerking-effecten-filters</guid>
-      <pubDate>27 september 2026</pubDate>
-    </item>
-    <item>
-      <title>draw.io 31.5.3</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/draw.io-diagrammen-flowcharts-mindmaps-organigrammen</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/draw.io-diagrammen-flowcharts-mindmaps-organigrammen</guid>
       <pubDate>27 september 2026</pubDate>
     </item>
   </channel>
