@@ -5,6 +5,12 @@
     <link>https://www.gratissoftwaresite.nl/downloads/nieuwe-updates</link>
     <description>Nieuwste software-updates van GratisSoftwareSite</description>
     <item>
+      <title>BleachBit 6.0.6</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/bleachbit-cleaner-pc-schoonmaken-shredder-bestanden-vernietigen</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/bleachbit-cleaner-pc-schoonmaken-shredder-bestanden-vernietigen</guid>
+      <pubDate>19 oktober 2026</pubDate>
+    </item>
+    <item>
       <title>Media Player Classic - HC 2.8.4</title>
       <link>https://www.gratissoftwaresite.nl/downloads/media-player-classic-home-cinema-mediaspeler</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/media-player-classic-home-cinema-mediaspeler</guid>
@@ -591,12 +597,6 @@
       <link>https://www.gratissoftwaresite.nl/downloads/draw.io-diagrammen-flowcharts-mindmaps-organigrammen</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/draw.io-diagrammen-flowcharts-mindmaps-organigrammen</guid>
       <pubDate>27 september 2026</pubDate>
-    </item>
-    <item>
-      <title>Vidiot 2.2.0</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/vidiot-videobewerking-film-fragmenten-conversie</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/vidiot-videobewerking-film-fragmenten-conversie</guid>
-      <pubDate>25 september 2026</pubDate>
     </item>
   </channel>
 </rss>
