@@ -1,5 +1,55 @@
 [
   {
+    "title": "Process Monitor Portable 4.12 (real-time file, registry and process monitor) Released",
+    "link": "https://portableapps.com/news/2026-10-19--process-monitor-portable-4.12-released",
+    "pubDate": "Mon, 19 Oct 2026 21:29:19 +0000"
+  },
+  {
+    "title": "Process Explorer Portable 17.20 (task manager and process analyzer) Released",
+    "link": "https://portableapps.com/news/2026-10-19--process-explorer-portable-17.20-released",
+    "pubDate": "Mon, 19 Oct 2026 21:26:37 +0000"
+  },
+  {
+    "title": "ZoomIt Portable 12.30 (screen zoom and draw for presentations) Released",
+    "link": "https://portableapps.com/news/2026-10-19--zoomit-portable-12.30-released",
+    "pubDate": "Mon, 19 Oct 2026 21:23:26 +0000"
+  },
+  {
+    "title": "MBox Viewer Portable 1.0.3.59 (mbox file viewer) Released",
+    "link": "https://portableapps.com/news/2026-10-19--mbox-viewer-portable-1.0.3.59-released",
+    "pubDate": "Mon, 19 Oct 2026 21:13:05 +0000"
+  },
+  {
+    "title": "MediaInfo Portable 26.10 (media information utility) Released",
+    "link": "https://portableapps.com/news/2026-10-19--mediainfo-portable-26.10-released",
+    "pubDate": "Mon, 19 Oct 2026 21:10:35 +0000"
+  },
+  {
+    "title": "Chromium Portable 155.0.8059.85 (web browser) Released",
+    "link": "https://portableapps.com/news/2026-10-19--chromium-portable-155.0.8059.85-released",
+    "pubDate": "Mon, 19 Oct 2026 21:09:12 +0000"
+  },
+  {
+    "title": "gVim Portable 9.2.1202 (advanced text editor) Released",
+    "link": "https://portableapps.com/news/2026-10-19--gvim-portable-9.2.1202-released",
+    "pubDate": "Mon, 19 Oct 2026 21:07:11 +0000"
+  },
+  {
+    "title": "QOwnNotes Portable 26.10.8 (markdown note taker) Released",
+    "link": "https://portableapps.com/news/2026-10-19--qownnotes-portable-26.10.8-released",
+    "pubDate": "Mon, 19 Oct 2026 21:06:10 +0000"
+  },
+  {
+    "title": "Trellix Stinger Portable 26.10.42.1 (common virus remover) Released",
+    "link": "https://portableapps.com/news/2026-10-19--trellix-stinger-portable-26.10.42.1-released",
+    "pubDate": "Mon, 19 Oct 2026 18:49:39 +0000"
+  },
+  {
+    "title": "mssPortable 1.461.107 (Microsoft Safety Scanner antivirus launcher) Released",
+    "link": "https://portableapps.com/news/2026-10-19--mssportable-1.461.107-released",
+    "pubDate": "Mon, 19 Oct 2026 18:39:46 +0000"
+  },
+  {
     "title": "Google Chrome Portable 158 Dev (web browser) Released",
     "link": "https://portableapps.com/news/2026-10-17--google-chrome-portable-158-dev-released",
     "pubDate": "Sat, 17 Oct 2026 22:36:30 +0000"
@@ -23,55 +73,5 @@
     "title": "Thunderbird, Portable Edition 159.0 Beta 1 (email client) Released",
     "link": "https://portableapps.com/news/2026-10-17--thunderbird-portable-159.0-beta-1-released",
     "pubDate": "Sat, 17 Oct 2026 22:28:30 +0000"
-  },
-  {
-    "title": "Thunderbird, Portable Edition 158.0 (email client) Released",
-    "link": "https://portableapps.com/news/2026-10-17--thunderbird-portable-158.0-released",
-    "pubDate": "Sat, 17 Oct 2026 22:25:55 +0000"
-  },
-  {
-    "title": "RawTherapee Portable 5.13 (advanced raw image processor) Released",
-    "link": "https://portableapps.com/news/2026-10-17--rawtherapee-portable-5.13-released",
-    "pubDate": "Sat, 17 Oct 2026 19:43:15 +0000"
-  },
-  {
-    "title": "LibreWolf Portable 158.0-1 (web browser) Released",
-    "link": "https://portableapps.com/news/2026-10-14--librewolf-portable-158.0-1-released",
-    "pubDate": "Wed, 14 Oct 2026 18:22:32 +0000"
-  },
-  {
-    "title": "Chromium Portable 155.0.8059.80 (web browser) Released",
-    "link": "https://portableapps.com/news/2026-10-14--chromium-portable-155.0.8059.80-released",
-    "pubDate": "Wed, 14 Oct 2026 18:20:56 +0000"
-  },
-  {
-    "title": "Opera, Portable Edition 137.0.6036.63 (web browser) Released",
-    "link": "https://portableapps.com/news/2026-10-14--opera-portable-137.0.6036.63-released",
-    "pubDate": "Wed, 14 Oct 2026 18:14:01 +0000"
-  },
-  {
-    "title": "Google Chrome Portable 155.0.8059.80 Stable (web browser) Released",
-    "link": "https://portableapps.com/news/2026-10-13--google-chrome-portable-155.0.8059.80-released",
-    "pubDate": "Wed, 14 Oct 2026 02:00:25 +0000"
-  },
-  {
-    "title": "Mozilla Firefox, Portable Edition Legacy 115.43.0 (web browser) Released",
-    "link": "https://portableapps.com/news/2026-10-13--firefox-portable-legacy-115.43.0-released",
-    "pubDate": "Tue, 13 Oct 2026 20:29:07 +0000"
-  },
-  {
-    "title": "Mozilla Firefox ESR, Portable Edition 153.5.0 (web browser) Released",
-    "link": "https://portableapps.com/news/2026-10-13--firefox-portable-esr-153.5.0-released",
-    "pubDate": "Tue, 13 Oct 2026 19:55:22 +0000"
-  },
-  {
-    "title": "Mozilla Firefox, Portable Edition Nightly 160 (web browser) Released",
-    "link": "https://portableapps.com/news/2026-10-13--firefox-portable-nightly-160-released",
-    "pubDate": "Tue, 13 Oct 2026 19:53:29 +0000"
-  },
-  {
-    "title": "Mozilla Firefox Developer Edition, Portable 159b1 (web browser) Released",
-    "link": "https://portableapps.com/news/2026-10-13--firefox-portable-developer-159b1-released",
-    "pubDate": "Tue, 13 Oct 2026 19:51:34 +0000"
   }
 ]

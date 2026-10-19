@@ -1,5 +1,20 @@
 [
   {
+    "title": "Discord 0.0.417 (macOS)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/discord/",
+    "pubDate": "2026-10-19T20:38:00.000Z"
+  },
+  {
+    "title": "Discord 1.0.163 (Linux)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/discord/",
+    "pubDate": "2026-10-19T20:38:00.000Z"
+  },
+  {
+    "title": "Playnite 10.63",
+    "link": "https://www.computerbase.de/downloads/games/playnite/",
+    "pubDate": "2026-10-19T20:37:00.000Z"
+  },
+  {
     "title": "mIRC 7.85.1470 Beta",
     "link": "https://www.computerbase.de/downloads/kommunikation/mirc/",
     "pubDate": "2026-10-19T18:39:00.000Z"
@@ -233,20 +248,5 @@
     "title": "FreeFileSync 14.13",
     "link": "https://www.computerbase.de/downloads/sicherheit/backup/freefilesync/",
     "pubDate": "2026-10-16T17:49:00.000Z"
-  },
-  {
-    "title": "Fotosizer 3.24.0.596",
-    "link": "https://www.computerbase.de/downloads/foto-und-grafik/fotosizer/",
-    "pubDate": "2026-10-16T17:48:00.000Z"
-  },
-  {
-    "title": "Epic Games Launcher 0.97.0 Preview",
-    "link": "https://www.computerbase.de/downloads/games/epic-games-launcher/",
-    "pubDate": "2026-10-16T17:44:00.000Z"
-  },
-  {
-    "title": "TeamDrive 5.3.0 Build 3927",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/teamdrive/",
-    "pubDate": "2026-10-16T15:09:00.000Z"
   }
 ]
