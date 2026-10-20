@@ -1,5 +1,30 @@
 [
     {
+        "title": "Opera 138.0.6044.24",
+        "link": "https://www.gratissoftwaresite.nl/downloads/opera-internet-web-browser",
+        "pubDate": "20 oktober 2026"
+    },
+    {
+        "title": "VirtualBox 7.2.22",
+        "link": "https://www.gratissoftwaresite.nl/downloads/virtualbox-virtualisatie-os-virtuele-machine",
+        "pubDate": "20 oktober 2026"
+    },
+    {
+        "title": "Java 8 update 511",
+        "link": "https://www.gratissoftwaresite.nl/downloads/java-jre-plugin",
+        "pubDate": "20 oktober 2026"
+    },
+    {
+        "title": "eM Client 11.0.1267.0",
+        "link": "https://www.gratissoftwaresite.nl/downloads/em-client-e-mail",
+        "pubDate": "20 oktober 2026"
+    },
+    {
+        "title": "qBittorrent 5.3.0",
+        "link": "https://www.gratissoftwaresite.nl/downloads/qbittorrent-bestanden-delen-downloaden-p2p",
+        "pubDate": "20 oktober 2026"
+    },
+    {
         "title": "Greenshot 1.3.328",
         "link": "https://www.gratissoftwaresite.nl/downloads/greenshot-schermafbeelding-venster-bewerking",
         "pubDate": "19 oktober 2026"
@@ -105,18 +130,8 @@
         "pubDate": "15 oktober 2026"
     },
     {
-        "title": "Opera 137.0.6036.63",
-        "link": "https://www.gratissoftwaresite.nl/downloads/opera-internet-web-browser",
-        "pubDate": "15 oktober 2026"
-    },
-    {
         "title": "WinSCP 6.7.0",
         "link": "https://www.gratissoftwaresite.nl/downloads/winscp-ftp-sftp-webdav-amazon-s3-website-beheer",
-        "pubDate": "15 oktober 2026"
-    },
-    {
-        "title": "eM Client 11.0.1201.0",
-        "link": "https://www.gratissoftwaresite.nl/downloads/em-client-e-mail",
         "pubDate": "15 oktober 2026"
     },
     {
@@ -455,11 +470,6 @@
         "pubDate": "29 september 2026"
     },
     {
-        "title": "qBittorrent 5.2.4",
-        "link": "https://www.gratissoftwaresite.nl/downloads/qbittorrent-bestanden-delen-downloaden-p2p",
-        "pubDate": "29 september 2026"
-    },
-    {
         "title": "Prey 1.13.41",
         "link": "https://www.gratissoftwaresite.nl/downloads/prey-pc-beveiliging-anti-diefstal-laptop-smartphone",
         "pubDate": "29 september 2026"
@@ -483,15 +493,5 @@
         "title": "Double Commander 1.2.9",
         "link": "https://www.gratissoftwaresite.nl/downloads/doublecommander-bestanden-beheer-verkenner-vensters-werktuigen",
         "pubDate": "28 september 2026"
-    },
-    {
-        "title": "Gnumeric 1.12.62",
-        "link": "https://www.gratissoftwaresite.nl/downloads/gnumeric-spreadsheet-office-excel-vervanger",
-        "pubDate": "27 september 2026"
-    },
-    {
-        "title": "iOS en iPadOS 27.0 & 26.7...",
-        "link": "https://www.gratissoftwaresite.nl/downloads/ios-mobiel-besturingssysteem-os-iphone",
-        "pubDate": "27 september 2026"
     }
 ]
