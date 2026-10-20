@@ -1,5 +1,15 @@
 [
   {
+    "title": "Thunderbird updated to 158.0.1.",
+    "link": "https://ninite.com/thunderbird/",
+    "pubDate": "Tue, 20 Oct 2026 22:30:05 -0000"
+  },
+  {
+    "title": "Chrome updated to 156.0.8078.48.",
+    "link": "https://ninite.com/chrome/",
+    "pubDate": "Tue, 20 Oct 2026 20:31:26 -0000"
+  },
+  {
     "title": "Opera Chromium updated to 138.0.6044.24.",
     "link": "https://ninite.com/operaChromium/",
     "pubDate": "Tue, 20 Oct 2026 18:22:57 -0000"
@@ -328,15 +338,5 @@
     "title": "Windows App updated to 2.0.1484.",
     "link": "https://ninite.com/windowsapp/",
     "pubDate": "Tue, 13 Oct 2026 18:52:32 -0000"
-  },
-  {
-    "title": "Dropbox updated to 274.4.4905.",
-    "link": "https://ninite.com/dropbox/",
-    "pubDate": "Tue, 13 Oct 2026 18:50:35 -0000"
-  },
-  {
-    "title": "Visual Studio Code updated to 1.141.1.",
-    "link": "https://ninite.com/vscode/",
-    "pubDate": "Tue, 13 Oct 2026 17:43:59 -0000"
   }
 ]
