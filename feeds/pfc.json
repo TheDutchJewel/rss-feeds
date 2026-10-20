@@ -1,5 +1,20 @@
 [
   {
+    "title": "[UPDATE] MicroSIP v3.22.20",
+    "link": "https://www.portablefreeware.com/?id=2138&ts=1792507589",
+    "pubDate": "Tue, 20 Oct 2026 07:46:29 -0700"
+  },
+  {
+    "title": "[UPDATE] Executor v2.4.4",
+    "link": "https://www.portablefreeware.com/?id=1308&ts=1792507513",
+    "pubDate": "Tue, 20 Oct 2026 07:45:13 -0700"
+  },
+  {
+    "title": "[UPDATE] Multi Commander v16.6.3230",
+    "link": "https://www.portablefreeware.com/?id=2304&ts=1792507461",
+    "pubDate": "Tue, 20 Oct 2026 07:44:21 -0700"
+  },
+  {
     "title": "[UPDATE] Kid3 v3.10.2",
     "link": "https://www.portablefreeware.com/?id=2859&ts=1792455516",
     "pubDate": "Mon, 19 Oct 2026 17:18:36 -0700"
@@ -100,7 +115,7 @@
     "pubDate": "Thu, 15 Oct 2026 21:20:00 -0700"
   },
   {
-    "title": "[UPDATE] Chromium Portable v155.0.8059.80",
+    "title": "[UPDATE] Chromium Portable v155.0.8059.85",
     "link": "https://www.portablefreeware.com/?id=2169&ts=1792070854",
     "pubDate": "Thu, 15 Oct 2026 06:27:34 -0700"
   },
@@ -130,7 +145,7 @@
     "pubDate": "Wed, 14 Oct 2026 08:23:27 -0700"
   },
   {
-    "title": "[UPDATE] DesktopOK v12.79",
+    "title": "[UPDATE] DesktopOK v12.81",
     "link": "https://www.portablefreeware.com/?id=1692&ts=1791990671",
     "pubDate": "Wed, 14 Oct 2026 08:11:11 -0700"
   },
@@ -193,11 +208,6 @@
     "title": "[UPDATE] TreeSheets 2.5.1",
     "link": "https://www.portablefreeware.com/?id=2741&ts=1791727739",
     "pubDate": "Sun, 11 Oct 2026 07:08:59 -0700"
-  },
-  {
-    "title": "[UPDATE] Executor v2.4.3",
-    "link": "https://www.portablefreeware.com/?id=1308&ts=1791727671",
-    "pubDate": "Sun, 11 Oct 2026 07:07:51 -0700"
   },
   {
     "title": "[UPDATE] CHK v6.21",
@@ -390,11 +400,6 @@
     "pubDate": "Wed, 23 Sep 2026 23:14:23 -0700"
   },
   {
-    "title": "[UPDATE] Multi Commander v16.5.3221",
-    "link": "https://www.portablefreeware.com/?id=2304&ts=1790181671",
-    "pubDate": "Wed, 23 Sep 2026 09:41:11 -0700"
-  },
-  {
     "title": "[UPDATE] ocenaudio v3.21.4",
     "link": "https://www.portablefreeware.com/?id=2799&ts=1790169880",
     "pubDate": "Wed, 23 Sep 2026 06:24:40 -0700"
@@ -493,10 +498,5 @@
     "title": "[NEW] Supermium Portable v144.0.7559.256 R5",
     "link": "https://www.portablefreeware.com/?id=3150&ts=1789185962",
     "pubDate": "Fri, 11 Sep 2026 21:06:02 -0700"
-  },
-  {
-    "title": "[UPDATE] GIMP Portable v3.2.6 Rev 3",
-    "link": "https://www.portablefreeware.com/?id=644&ts=1789110149",
-    "pubDate": "Fri, 11 Sep 2026 00:02:29 -0700"
   }
 ]

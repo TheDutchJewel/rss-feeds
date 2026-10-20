@@ -1,5 +1,20 @@
 [
   {
+    "title": "qBittorrent updated to 5.3.0.",
+    "link": "https://ninite.com/qbittorrent/",
+    "pubDate": "Tue, 20 Oct 2026 13:50:16 -0000"
+  },
+  {
+    "title": "Firefox updated to 158.0.1.",
+    "link": "https://ninite.com/firefox/",
+    "pubDate": "Tue, 20 Oct 2026 13:48:50 -0000"
+  },
+  {
+    "title": "Discord updated to 1.0.9264.",
+    "link": "https://ninite.com/discord/",
+    "pubDate": "Tue, 20 Oct 2026 13:33:09 -0000"
+  },
+  {
     "title": "Cursor updated to 3.26.13.",
     "link": "https://ninite.com/cursor/",
     "pubDate": "Tue, 20 Oct 2026 12:08:47 -0000"
@@ -343,10 +358,5 @@
     "title": "Firefox updated to 158.0.",
     "link": "https://ninite.com/firefox/",
     "pubDate": "Tue, 13 Oct 2026 13:14:05 -0000"
-  },
-  {
-    "title": "WinDirStat updated to 2.9.3.2253.",
-    "link": "https://ninite.com/windirstat/",
-    "pubDate": "Mon, 12 Oct 2026 13:38:09 -0000"
   }
 ]

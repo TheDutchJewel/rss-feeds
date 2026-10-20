@@ -1,5 +1,95 @@
 [
   {
+    "title": "qBittorrent 5.3.0",
+    "link": "https://www.computerbase.de/downloads/office/dateitransfer/qbittorrent/",
+    "pubDate": "2026-10-20T15:23:00.000Z"
+  },
+  {
+    "title": "Oracle VM VirtualBox 7.2.22",
+    "link": "https://www.computerbase.de/downloads/systemtools/oracle-vm-virtualbox/",
+    "pubDate": "2026-10-20T15:19:00.000Z"
+  },
+  {
+    "title": "Opera 138.0.6044.24",
+    "link": "https://www.computerbase.de/downloads/browser/opera/",
+    "pubDate": "2026-10-20T15:16:00.000Z"
+  },
+  {
+    "title": "AMD Adrenalin Radeon-Treiber 26.10.1 (WHQL)",
+    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/amd-adrenalin-treiber/",
+    "pubDate": "2026-10-20T15:13:00.000Z"
+  },
+  {
+    "title": "Screenpresso 2.3.10 (Win 11)",
+    "link": "https://www.computerbase.de/downloads/foto-und-grafik/screenpresso/",
+    "pubDate": "2026-10-20T15:08:00.000Z"
+  },
+  {
+    "title": "eM Client 11.0.1267.0",
+    "link": "https://www.computerbase.de/downloads/kommunikation/em-client/",
+    "pubDate": "2026-10-20T15:06:00.000Z"
+  },
+  {
+    "title": "Slack 4.52.182 (Win 11)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/slack/",
+    "pubDate": "2026-10-20T15:05:00.000Z"
+  },
+  {
+    "title": "AIMP 6.00 Build 3091 Beta 7",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/aimp/",
+    "pubDate": "2026-10-20T15:05:00.000Z"
+  },
+  {
+    "title": "Evernote 11.39.2",
+    "link": "https://www.computerbase.de/downloads/office/evernote/",
+    "pubDate": "2026-10-20T15:04:00.000Z"
+  },
+  {
+    "title": "Slack 4.52.182 (macOS)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/slack/",
+    "pubDate": "2026-10-20T15:04:00.000Z"
+  },
+  {
+    "title": "Slack 4.52.182 Beta (Linux)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/slack/",
+    "pubDate": "2026-10-20T15:03:00.000Z"
+  },
+  {
+    "title": "Intel Wireless Bluetooth-Treiber 24.80.0",
+    "link": "https://www.computerbase.de/downloads/treiber/netzwerk/intel-wireless-bluetooth-treiber/",
+    "pubDate": "2026-10-20T15:02:00.000Z"
+  },
+  {
+    "title": "Discord 1.0.9264",
+    "link": "https://www.computerbase.de/downloads/kommunikation/discord/",
+    "pubDate": "2026-10-20T15:00:00.000Z"
+  },
+  {
+    "title": "Discord 0.0.418 (macOS)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/discord/",
+    "pubDate": "2026-10-20T14:59:00.000Z"
+  },
+  {
+    "title": "Mozilla Firefox 158.0.1",
+    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
+    "pubDate": "2026-10-20T14:59:00.000Z"
+  },
+  {
+    "title": "Discord 1.0.164 (Linux)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/discord/",
+    "pubDate": "2026-10-20T14:58:00.000Z"
+  },
+  {
+    "title": "Mozilla Firefox 153.5.1 ESR",
+    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
+    "pubDate": "2026-10-20T14:58:00.000Z"
+  },
+  {
+    "title": "Mozilla Firefox 115.43.1 ESR",
+    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
+    "pubDate": "2026-10-20T14:57:00.000Z"
+  },
+  {
     "title": "Intel Wireless Wi-Fi-Treiber 24.80.0",
     "link": "https://www.computerbase.de/downloads/treiber/netzwerk/intel-wireless-wi-fi-treiber/",
     "pubDate": "2026-10-20T04:18:00.000Z"
@@ -13,21 +103,6 @@
     "title": "ShareX 22.0.0 Pre-Release",
     "link": "https://www.computerbase.de/downloads/foto-und-grafik/sharex/",
     "pubDate": "2026-10-20T04:15:00.000Z"
-  },
-  {
-    "title": "Discord 1.0.9263",
-    "link": "https://www.computerbase.de/downloads/kommunikation/discord/",
-    "pubDate": "2026-10-20T04:14:00.000Z"
-  },
-  {
-    "title": "Discord 0.0.417 (macOS)",
-    "link": "https://www.computerbase.de/downloads/kommunikation/discord/",
-    "pubDate": "2026-10-19T20:38:00.000Z"
-  },
-  {
-    "title": "Discord 1.0.163 (Linux)",
-    "link": "https://www.computerbase.de/downloads/kommunikation/discord/",
-    "pubDate": "2026-10-19T20:38:00.000Z"
   },
   {
     "title": "Playnite 10.63",
@@ -78,11 +153,6 @@
     "title": "DriverMax 18.0.310",
     "link": "https://www.computerbase.de/downloads/treiber/drivermax/",
     "pubDate": "2026-10-19T15:13:00.000Z"
-  },
-  {
-    "title": "Screenpresso 2.3.9 (Win 11)",
-    "link": "https://www.computerbase.de/downloads/foto-und-grafik/screenpresso/",
-    "pubDate": "2026-10-19T15:04:00.000Z"
   },
   {
     "title": "Avast Free Antivirus 26.11.11219 Beta",
@@ -178,75 +248,5 @@
     "title": "Sandboxie Classic 5.73.8",
     "link": "https://www.computerbase.de/downloads/sicherheit/sandboxie/",
     "pubDate": "2026-10-17T20:46:00.000Z"
-  },
-  {
-    "title": "Intel Netzwerkadapter-Treiber 31.3",
-    "link": "https://www.computerbase.de/downloads/treiber/netzwerk/intel-netzwerkadapter-treiber/",
-    "pubDate": "2026-10-17T15:35:00.000Z"
-  },
-  {
-    "title": "BetterTouchTool 6.943 (macOS)",
-    "link": "https://www.computerbase.de/downloads/systemtools/bettertouchtool/",
-    "pubDate": "2026-10-17T15:32:00.000Z"
-  },
-  {
-    "title": "Dropbox 276.3.5225 Beta",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/dropbox/",
-    "pubDate": "2026-10-17T09:14:00.000Z"
-  },
-  {
-    "title": "OpenRGB 1.1",
-    "link": "https://www.computerbase.de/downloads/systemtools/openrgb/",
-    "pubDate": "2026-10-17T09:12:00.000Z"
-  },
-  {
-    "title": "OBS Studio 33.0.0 RC 2",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/obs-studio/",
-    "pubDate": "2026-10-17T09:03:00.000Z"
-  },
-  {
-    "title": "HyperSnap 10.4.4",
-    "link": "https://www.computerbase.de/downloads/foto-und-grafik/hypersnap/",
-    "pubDate": "2026-10-17T09:02:00.000Z"
-  },
-  {
-    "title": "Malwarebytes 5.28.4.4244 (macOS)",
-    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/malwarebytes/",
-    "pubDate": "2026-10-17T09:01:00.000Z"
-  },
-  {
-    "title": "LibreCAD 2.2.1.6",
-    "link": "https://www.computerbase.de/downloads/foto-und-grafik/librecad/",
-    "pubDate": "2026-10-17T09:00:00.000Z"
-  },
-  {
-    "title": "Tunnelblick 10.0.1 (macOS)",
-    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/tunnelblick/",
-    "pubDate": "2026-10-17T08:59:00.000Z"
-  },
-  {
-    "title": "Tunnelblick 10.1 Beta 2 (macOS)",
-    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/tunnelblick/",
-    "pubDate": "2026-10-17T08:59:00.000Z"
-  },
-  {
-    "title": "PeaZip 11.4.0",
-    "link": "https://www.computerbase.de/downloads/office/packprogramme/peazip/",
-    "pubDate": "2026-10-17T08:56:00.000Z"
-  },
-  {
-    "title": "Vivaldi 8.2 Build 4133.89",
-    "link": "https://www.computerbase.de/downloads/browser/vivaldi/",
-    "pubDate": "2026-10-17T08:53:00.000Z"
-  },
-  {
-    "title": "Windows 11 Media Creation Tool 26H2 (Build 26300.9711)",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/windows-11-media-creation-tool/",
-    "pubDate": "2026-10-16T20:05:00.000Z"
-  },
-  {
-    "title": "Microsoft Edge 155.0.4283.62",
-    "link": "https://www.computerbase.de/downloads/browser/microsoft-edge/",
-    "pubDate": "2026-10-16T19:33:00.000Z"
   }
 ]
