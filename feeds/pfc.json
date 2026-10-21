@@ -1,5 +1,25 @@
 [
   {
+    "title": "[UPDATE] ocenaudio v3.22.1",
+    "link": "https://www.portablefreeware.com/?id=2799&ts=1792602187",
+    "pubDate": "Wed, 21 Oct 2026 10:03:07 -0700"
+  },
+  {
+    "title": "[UPDATE] Telegram Desktop v7.3.2",
+    "link": "https://www.portablefreeware.com/?id=2964&ts=1792602113",
+    "pubDate": "Wed, 21 Oct 2026 10:01:53 -0700"
+  },
+  {
+    "title": "[UPDATE] PDF-XChange Editor v11.1.1.0",
+    "link": "https://www.portablefreeware.com/?id=2832&ts=1792601967",
+    "pubDate": "Wed, 21 Oct 2026 09:59:27 -0700"
+  },
+  {
+    "title": "[UPDATE] Tor Browser v15.0.26",
+    "link": "https://www.portablefreeware.com/?id=2392&ts=1792601662",
+    "pubDate": "Wed, 21 Oct 2026 09:54:22 -0700"
+  },
+  {
     "title": "[UPDATE] MicroSIP v3.22.20",
     "link": "https://www.portablefreeware.com/?id=2138&ts=1792507589",
     "pubDate": "Tue, 20 Oct 2026 07:46:29 -0700"
@@ -173,11 +193,6 @@
     "title": "[UPDATE] Rainmeter v4.5.28",
     "link": "https://www.portablefreeware.com/?id=586&ts=1791903126",
     "pubDate": "Tue, 13 Oct 2026 07:52:06 -0700"
-  },
-  {
-    "title": "[UPDATE] Tor Browser v15.0.25",
-    "link": "https://www.portablefreeware.com/?id=2392&ts=1791903017",
-    "pubDate": "Tue, 13 Oct 2026 07:50:17 -0700"
   },
   {
     "title": "[UPDATE] InnoUnpacker v2.2.13",
@@ -400,11 +415,6 @@
     "pubDate": "Wed, 23 Sep 2026 23:14:23 -0700"
   },
   {
-    "title": "[UPDATE] ocenaudio v3.21.4",
-    "link": "https://www.portablefreeware.com/?id=2799&ts=1790169880",
-    "pubDate": "Wed, 23 Sep 2026 06:24:40 -0700"
-  },
-  {
     "title": "[UPDATE] FileAccessErrorView v1.34",
     "link": "https://www.portablefreeware.com/?id=2949&ts=1790138375",
     "pubDate": "Tue, 22 Sep 2026 21:39:35 -0700"
@@ -488,15 +498,5 @@
     "title": "[UPDATE] TakeStock v2.0 Release 78",
     "link": "https://www.portablefreeware.com/?id=1909&ts=1789365961",
     "pubDate": "Sun, 13 Sep 2026 23:06:01 -0700"
-  },
-  {
-    "title": "[UPDATE] MobaXterm Home Edition v26.5",
-    "link": "https://www.portablefreeware.com/?id=1952&ts=1789225810",
-    "pubDate": "Sat, 12 Sep 2026 08:10:10 -0700"
-  },
-  {
-    "title": "[NEW] Supermium Portable v144.0.7559.256 R5",
-    "link": "https://www.portablefreeware.com/?id=3150&ts=1789185962",
-    "pubDate": "Fri, 11 Sep 2026 21:06:02 -0700"
   }
 ]

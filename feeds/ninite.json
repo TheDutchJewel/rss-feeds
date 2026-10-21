@@ -1,5 +1,35 @@
 [
   {
+    "title": "Cursor updated to 3.26.16.",
+    "link": "https://ninite.com/cursor/",
+    "pubDate": "Wed, 21 Oct 2026 15:15:59 -0000"
+  },
+  {
+    "title": "Python x64 3 updated to 3.15.1.",
+    "link": "https://ninite.com/pythonx3/",
+    "pubDate": "Wed, 21 Oct 2026 14:15:13 -0000"
+  },
+  {
+    "title": "Python arm64 3 updated to 3.15.1.",
+    "link": "https://ninite.com/pythona3/",
+    "pubDate": "Wed, 21 Oct 2026 14:15:02 -0000"
+  },
+  {
+    "title": "Python 3 updated to 3.15.1.",
+    "link": "https://ninite.com/python3/",
+    "pubDate": "Wed, 21 Oct 2026 14:14:55 -0000"
+  },
+  {
+    "title": "Docker Desktop updated to 4.96.1.",
+    "link": "https://ninite.com/dockerdesktop/",
+    "pubDate": "Wed, 21 Oct 2026 14:14:48 -0000"
+  },
+  {
+    "title": "7-Zip updated to 26.05.",
+    "link": "https://ninite.com/7zip/",
+    "pubDate": "Wed, 21 Oct 2026 14:14:38 -0000"
+  },
+  {
     "title": "Claude updated to 3.1623.0.",
     "link": "https://ninite.com/claude/",
     "pubDate": "Wed, 21 Oct 2026 12:08:14 -0000"
@@ -288,40 +318,5 @@
     "title": "Cursor updated to 3.24.18.",
     "link": "https://ninite.com/cursor/",
     "pubDate": "Tue, 13 Oct 2026 21:03:34 -0000"
-  },
-  {
-    "title": "Claude updated to 2.37337.1.",
-    "link": "https://ninite.com/claude/",
-    "pubDate": "Tue, 13 Oct 2026 21:00:16 -0000"
-  },
-  {
-    "title": "ASP.NET Core Runtime arm64 8 updated to 8.0.32.26505.",
-    "link": "https://ninite.com/aspneta8/",
-    "pubDate": "Tue, 13 Oct 2026 20:51:50 -0000"
-  },
-  {
-    "title": "ASP.NET Core Runtime arm64 9 updated to 9.0.21.26505.",
-    "link": "https://ninite.com/aspneta9/",
-    "pubDate": "Tue, 13 Oct 2026 20:51:37 -0000"
-  },
-  {
-    "title": ".NET Desktop Runtime arm64 10 updated to 10.0.13.50000.",
-    "link": "https://ninite.com/.neta10/",
-    "pubDate": "Tue, 13 Oct 2026 20:51:29 -0000"
-  },
-  {
-    "title": ".NET Desktop Runtime arm64 9 updated to 9.0.21.36605.",
-    "link": "https://ninite.com/.neta9/",
-    "pubDate": "Tue, 13 Oct 2026 20:50:47 -0000"
-  },
-  {
-    "title": ".NET Desktop Runtime arm64 8 updated to 8.0.32.36605.",
-    "link": "https://ninite.com/.neta8/",
-    "pubDate": "Tue, 13 Oct 2026 20:50:27 -0000"
-  },
-  {
-    "title": "ASP.NET Core Runtime arm64 10 updated to 10.0.13.36604.",
-    "link": "https://ninite.com/aspneta10/",
-    "pubDate": "Tue, 13 Oct 2026 20:50:12 -0000"
   }
 ]
