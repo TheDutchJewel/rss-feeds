@@ -1,5 +1,45 @@
 [
   {
+    "title": "AMD Chipsatztreiber 8.09.28.1124",
+    "link": "https://www.computerbase.de/downloads/treiber/mainboards/amd-chipsatztreiber/",
+    "pubDate": "2026-10-22T04:40:00.000Z"
+  },
+  {
+    "title": "Discord 1.0.165 (Linux)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/discord/",
+    "pubDate": "2026-10-22T04:37:00.000Z"
+  },
+  {
+    "title": "Rocket.Chat Desktop 4.18.4",
+    "link": "https://www.computerbase.de/downloads/kommunikation/rocket.chat/",
+    "pubDate": "2026-10-22T04:36:00.000Z"
+  },
+  {
+    "title": "Mozilla Thunderbird 159.0 Beta 5",
+    "link": "https://www.computerbase.de/downloads/kommunikation/mozilla-thunderbird/",
+    "pubDate": "2026-10-22T04:35:00.000Z"
+  },
+  {
+    "title": "Display Driver Uninstaller (DDU) 18.1.6.2",
+    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/display-driver-uninstaller-ddu/",
+    "pubDate": "2026-10-22T04:34:00.000Z"
+  },
+  {
+    "title": "KeePassXC 2.8.0",
+    "link": "https://www.computerbase.de/downloads/sicherheit/passwortmanager/keepassxc/",
+    "pubDate": "2026-10-22T04:28:00.000Z"
+  },
+  {
+    "title": "Telegram Desktop 7.3.3",
+    "link": "https://www.computerbase.de/downloads/kommunikation/telegram-desktop/",
+    "pubDate": "2026-10-22T04:25:00.000Z"
+  },
+  {
+    "title": "Steam 2026-10-21",
+    "link": "https://www.computerbase.de/downloads/games/steam/",
+    "pubDate": "2026-10-22T04:24:00.000Z"
+  },
+  {
     "title": "Epic Games Launcher 0.100.0 Preview",
     "link": "https://www.computerbase.de/downloads/games/epic-games-launcher/",
     "pubDate": "2026-10-21T18:06:00.000Z"
@@ -27,11 +67,6 @@
   {
     "title": "Spotify 1.3.6.1921",
     "link": "https://www.computerbase.de/downloads/audio-und-video/spotify/",
-    "pubDate": "2026-10-21T16:02:00.000Z"
-  },
-  {
-    "title": "Mozilla Thunderbird 159.0 Beta 4",
-    "link": "https://www.computerbase.de/downloads/kommunikation/mozilla-thunderbird/",
     "pubDate": "2026-10-21T16:02:00.000Z"
   },
   {
@@ -73,6 +108,11 @@
     "title": "Python 3.14.9",
     "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/python/",
     "pubDate": "2026-10-21T15:13:00.000Z"
+  },
+  {
+    "title": "Python 3.13.17",
+    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/python/",
+    "pubDate": "2026-10-21T15:12:00.000Z"
   },
   {
     "title": "Tor Browser 15.0.26",
@@ -205,48 +245,8 @@
     "pubDate": "2026-10-21T04:20:00.000Z"
   },
   {
-    "title": "Telegram Desktop 7.3.2",
-    "link": "https://www.computerbase.de/downloads/kommunikation/telegram-desktop/",
-    "pubDate": "2026-10-21T04:17:00.000Z"
-  },
-  {
     "title": "Mozilla Thunderbird 153.5.1esr",
     "link": "https://www.computerbase.de/downloads/kommunikation/mozilla-thunderbird/",
     "pubDate": "2026-10-21T04:16:00.000Z"
-  },
-  {
-    "title": "Visual Studio 2026 v18.12.12316.00 Insider",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/visual-studio-2026/",
-    "pubDate": "2026-10-20T19:46:00.000Z"
-  },
-  {
-    "title": "Visual Studio 2026 v18.11.1",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/visual-studio-2026/",
-    "pubDate": "2026-10-20T19:45:00.000Z"
-  },
-  {
-    "title": "Mozilla Thunderbird 158.0.1",
-    "link": "https://www.computerbase.de/downloads/kommunikation/mozilla-thunderbird/",
-    "pubDate": "2026-10-20T19:41:00.000Z"
-  },
-  {
-    "title": "Ocenaudio 3.22.1",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/ocenaudio/",
-    "pubDate": "2026-10-20T19:41:00.000Z"
-  },
-  {
-    "title": "MiniTool ShadowMaker Free 5.0",
-    "link": "https://www.computerbase.de/downloads/sicherheit/backup/minitool-shadowmaker/",
-    "pubDate": "2026-10-20T17:30:00.000Z"
-  },
-  {
-    "title": "Microsoft OneDrive 26.183.0920.0005",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/microsoft-onedrive/",
-    "pubDate": "2026-10-20T17:18:00.000Z"
-  },
-  {
-    "title": "Java SE Runtime Environment 8.0 Update 511",
-    "link": "https://www.computerbase.de/downloads/systemtools/java-se-runtime-environment/",
-    "pubDate": "2026-10-20T17:16:00.000Z"
   }
 ]
