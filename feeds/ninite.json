@@ -1,5 +1,25 @@
 [
   {
+    "title": "Discord updated to 1.0.9265.",
+    "link": "https://ninite.com/discord/",
+    "pubDate": "Thu, 22 Oct 2026 21:21:48 -0000"
+  },
+  {
+    "title": "Git updated to 2.56.0.3.",
+    "link": "https://ninite.com/git/",
+    "pubDate": "Thu, 22 Oct 2026 21:19:37 -0000"
+  },
+  {
+    "title": "Docker Desktop updated to 4.96.3.",
+    "link": "https://ninite.com/dockerdesktop/",
+    "pubDate": "Thu, 22 Oct 2026 21:18:37 -0000"
+  },
+  {
+    "title": "Claude updated to 3.6556.1.",
+    "link": "https://ninite.com/claude/",
+    "pubDate": "Thu, 22 Oct 2026 21:18:18 -0000"
+  },
+  {
     "title": "ChatGPT updated to 26.1016.8120.",
     "link": "https://ninite.com/chatgpt/",
     "pubDate": "Thu, 22 Oct 2026 14:53:06 -0000"
@@ -278,20 +298,5 @@
     "title": "OpenOffice updated to 4.1.17.",
     "link": "https://ninite.com/openoffice/",
     "pubDate": "Thu, 15 Oct 2026 19:20:26 -0000"
-  },
-  {
-    "title": "Bitwarden updated to 2026.10.0.",
-    "link": "https://ninite.com/bitwarden/",
-    "pubDate": "Thu, 15 Oct 2026 19:18:58 -0000"
-  },
-  {
-    "title": "Visual Studio Code updated to 1.142.0.",
-    "link": "https://ninite.com/vscode/",
-    "pubDate": "Thu, 15 Oct 2026 05:22:12 -0000"
-  },
-  {
-    "title": "Cursor updated to 3.25.6.",
-    "link": "https://ninite.com/cursor/",
-    "pubDate": "Thu, 15 Oct 2026 01:33:42 -0000"
   }
 ]
