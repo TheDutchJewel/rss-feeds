@@ -1,5 +1,20 @@
 [
   {
+    "title": "ChatGPT updated to 26.1016.8120.",
+    "link": "https://ninite.com/chatgpt/",
+    "pubDate": "Thu, 22 Oct 2026 14:53:06 -0000"
+  },
+  {
+    "title": "Claude updated to 3.1623.4.",
+    "link": "https://ninite.com/claude/",
+    "pubDate": "Thu, 22 Oct 2026 14:00:05 -0000"
+  },
+  {
+    "title": "Blender updated to 5.2.3.",
+    "link": "https://ninite.com/blender/",
+    "pubDate": "Thu, 22 Oct 2026 13:53:25 -0000"
+  },
+  {
     "title": "Docker Desktop updated to 4.96.2.",
     "link": "https://ninite.com/dockerdesktop/",
     "pubDate": "Thu, 22 Oct 2026 12:48:29 -0000"
@@ -278,20 +293,5 @@
     "title": "Cursor updated to 3.25.6.",
     "link": "https://ninite.com/cursor/",
     "pubDate": "Thu, 15 Oct 2026 01:33:42 -0000"
-  },
-  {
-    "title": "Brave updated to 1.97.57.",
-    "link": "https://ninite.com/brave/",
-    "pubDate": "Wed, 14 Oct 2026 18:46:14 -0000"
-  },
-  {
-    "title": "Docker Desktop updated to 4.95.0.",
-    "link": "https://ninite.com/dockerdesktop/",
-    "pubDate": "Wed, 14 Oct 2026 16:55:16 -0000"
-  },
-  {
-    "title": "WhatsApp updated to 2.2640.100.",
-    "link": "https://ninite.com/whatsapp/",
-    "pubDate": "Wed, 14 Oct 2026 16:04:47 -0000"
   }
 ]

@@ -1,13 +1,108 @@
 [
   {
+    "title": "NanaZip 7.0.1873.0",
+    "link": "https://www.computerbase.de/downloads/office/packprogramme/nanazip/",
+    "pubDate": "2026-10-22T17:55:00.000Z"
+  },
+  {
+    "title": "Discord 0.0.419 (macOS)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/discord/",
+    "pubDate": "2026-10-22T17:39:00.000Z"
+  },
+  {
+    "title": "Snagit 2026.4.3 (macOS)",
+    "link": "https://www.computerbase.de/downloads/foto-und-grafik/snagit/",
+    "pubDate": "2026-10-22T17:33:00.000Z"
+  },
+  {
+    "title": "EA-App 13.813.1.6327",
+    "link": "https://www.computerbase.de/downloads/games/ea-app/",
+    "pubDate": "2026-10-22T17:31:00.000Z"
+  },
+  {
+    "title": "OpenVPN 2.7.8 (I002)",
+    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/openvpn/",
+    "pubDate": "2026-10-22T17:30:00.000Z"
+  },
+  {
+    "title": "eDocPrintPro 5.9.2",
+    "link": "https://www.computerbase.de/downloads/office/pdf/edocprintpro/",
+    "pubDate": "2026-10-22T17:30:00.000Z"
+  },
+  {
+    "title": "Discord 1.0.166 (Linux)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/discord/",
+    "pubDate": "2026-10-22T17:29:00.000Z"
+  },
+  {
+    "title": "Nvidia Linux Display Driver 595.112.07 (Linux)",
+    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/nvidia-linux-display-driver/",
+    "pubDate": "2026-10-22T15:30:00.000Z"
+  },
+  {
+    "title": "Mailspring 1.26.2",
+    "link": "https://www.computerbase.de/downloads/kommunikation/mailspring/",
+    "pubDate": "2026-10-22T15:21:00.000Z"
+  },
+  {
+    "title": "Epic Games Launcher 0.101.0 Preview",
+    "link": "https://www.computerbase.de/downloads/games/epic-games-launcher/",
+    "pubDate": "2026-10-22T15:11:00.000Z"
+  },
+  {
+    "title": "AIDA64 v8.40.8518 Beta",
+    "link": "https://www.computerbase.de/downloads/systemtools/aida64/",
+    "pubDate": "2026-10-22T15:08:00.000Z"
+  },
+  {
+    "title": "Avast Free Antivirus 26.11.11224 Beta",
+    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/avast-free-antivirus/",
+    "pubDate": "2026-10-22T15:06:00.000Z"
+  },
+  {
+    "title": "Camtasia 2026.2.3",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/camtasia-studio/",
+    "pubDate": "2026-10-22T15:04:00.000Z"
+  },
+  {
+    "title": "Blender 5.2.3 LTS",
+    "link": "https://www.computerbase.de/downloads/foto-und-grafik/blender/",
+    "pubDate": "2026-10-22T15:03:00.000Z"
+  },
+  {
+    "title": "Blender 4.5.15 LTS",
+    "link": "https://www.computerbase.de/downloads/foto-und-grafik/blender/",
+    "pubDate": "2026-10-22T15:02:00.000Z"
+  },
+  {
+    "title": "LibreWolf 158.0.1-2",
+    "link": "https://www.computerbase.de/downloads/browser/librewolf/",
+    "pubDate": "2026-10-22T15:01:00.000Z"
+  },
+  {
+    "title": "SyncBackFree 12.1.34.0",
+    "link": "https://www.computerbase.de/downloads/sicherheit/backup/syncbackfree/",
+    "pubDate": "2026-10-22T15:00:00.000Z"
+  },
+  {
+    "title": "Vivaldi 8.2 Build 4133.91",
+    "link": "https://www.computerbase.de/downloads/browser/vivaldi/",
+    "pubDate": "2026-10-22T14:59:00.000Z"
+  },
+  {
+    "title": "Wargaming Game Center 26.06.00.3882",
+    "link": "https://www.computerbase.de/downloads/games/wargaming-game-center/",
+    "pubDate": "2026-10-22T14:57:00.000Z"
+  },
+  {
+    "title": "Turtle Beach Swarm II 1.0.0.62",
+    "link": "https://www.computerbase.de/downloads/treiber/eingabegeraete/turtle-beach-swarm-ii/",
+    "pubDate": "2026-10-22T14:56:00.000Z"
+  },
+  {
     "title": "AMD Chipsatztreiber 8.09.28.1124",
     "link": "https://www.computerbase.de/downloads/treiber/mainboards/amd-chipsatztreiber/",
     "pubDate": "2026-10-22T04:40:00.000Z"
-  },
-  {
-    "title": "Discord 1.0.165 (Linux)",
-    "link": "https://www.computerbase.de/downloads/kommunikation/discord/",
-    "pubDate": "2026-10-22T04:37:00.000Z"
   },
   {
     "title": "Rocket.Chat Desktop 4.18.4",
@@ -38,11 +133,6 @@
     "title": "Steam 2026-10-21",
     "link": "https://www.computerbase.de/downloads/games/steam/",
     "pubDate": "2026-10-22T04:24:00.000Z"
-  },
-  {
-    "title": "Epic Games Launcher 0.100.0 Preview",
-    "link": "https://www.computerbase.de/downloads/games/epic-games-launcher/",
-    "pubDate": "2026-10-21T18:06:00.000Z"
   },
   {
     "title": "Mozilla Firefox 159.0 Beta 5",
@@ -158,95 +248,5 @@
     "title": "WhatsApp 2.26.42.19 (macOS)",
     "link": "https://www.computerbase.de/downloads/kommunikation/whatsapp/",
     "pubDate": "2026-10-21T15:01:00.000Z"
-  },
-  {
-    "title": "HWiNFO 8.55 Build 6100 Beta",
-    "link": "https://www.computerbase.de/downloads/systemtools/hwinfo/",
-    "pubDate": "2026-10-21T15:00:00.000Z"
-  },
-  {
-    "title": "7-Zip 26.05",
-    "link": "https://www.computerbase.de/downloads/office/packprogramme/7-zip/",
-    "pubDate": "2026-10-21T14:56:00.000Z"
-  },
-  {
-    "title": "PowerToys 0.102.2933.0",
-    "link": "https://www.computerbase.de/downloads/systemtools/powertoys/",
-    "pubDate": "2026-10-21T14:55:00.000Z"
-  },
-  {
-    "title": "Cryptomator 1.19.4",
-    "link": "https://www.computerbase.de/downloads/sicherheit/verschluesselung/cryptomator/",
-    "pubDate": "2026-10-21T14:54:00.000Z"
-  },
-  {
-    "title": "EA-App 13.813.0.6326",
-    "link": "https://www.computerbase.de/downloads/games/ea-app/",
-    "pubDate": "2026-10-21T06:30:00.000Z"
-  },
-  {
-    "title": "Syncthing 2.1.7",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/syncthing/",
-    "pubDate": "2026-10-21T06:29:00.000Z"
-  },
-  {
-    "title": "PDF-XChange Editor 11.1.1.0",
-    "link": "https://www.computerbase.de/downloads/office/pdf/pdf-xchange-editor/",
-    "pubDate": "2026-10-21T06:11:00.000Z"
-  },
-  {
-    "title": "PDF-XChange Lite Free 11.1.1.0",
-    "link": "https://www.computerbase.de/downloads/office/pdf/pdf-xchange-lite/",
-    "pubDate": "2026-10-21T06:11:00.000Z"
-  },
-  {
-    "title": "LibreWolf 158.0.1-1",
-    "link": "https://www.computerbase.de/downloads/browser/librewolf/",
-    "pubDate": "2026-10-21T06:10:00.000Z"
-  },
-  {
-    "title": "Dropbox 276.4.5266",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/dropbox/",
-    "pubDate": "2026-10-21T04:33:00.000Z"
-  },
-  {
-    "title": "Dropbox 277.3.4925 Beta",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/dropbox/",
-    "pubDate": "2026-10-21T04:33:00.000Z"
-  },
-  {
-    "title": "Mailspring 1.26.1",
-    "link": "https://www.computerbase.de/downloads/kommunikation/mailspring/",
-    "pubDate": "2026-10-21T04:24:00.000Z"
-  },
-  {
-    "title": "OBS Studio 33.0.0 RC 3",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/obs-studio/",
-    "pubDate": "2026-10-21T04:24:00.000Z"
-  },
-  {
-    "title": "SteelSeries GG 122.0.0",
-    "link": "https://www.computerbase.de/downloads/treiber/eingabegeraete/steelseries-gg/",
-    "pubDate": "2026-10-21T04:23:00.000Z"
-  },
-  {
-    "title": "Google Chrome 156.0.8078.47/.48",
-    "link": "https://www.computerbase.de/downloads/browser/google-chrome/",
-    "pubDate": "2026-10-21T04:22:00.000Z"
-  },
-  {
-    "title": "Blizzard Battle.net 2.53.6.17952",
-    "link": "https://www.computerbase.de/downloads/games/blizzard-battle.net/",
-    "pubDate": "2026-10-21T04:20:00.000Z"
-  },
-  {
-    "title": "Signal 8.32.0",
-    "link": "https://www.computerbase.de/downloads/kommunikation/signal/",
-    "pubDate": "2026-10-21T04:20:00.000Z"
-  },
-  {
-    "title": "Mozilla Thunderbird 153.5.1esr",
-    "link": "https://www.computerbase.de/downloads/kommunikation/mozilla-thunderbird/",
-    "pubDate": "2026-10-21T04:16:00.000Z"
   }
 ]
