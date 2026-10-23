@@ -1,5 +1,60 @@
 [
     {
+        "title": "Euro-Office 9.3.6",
+        "link": "https://www.gratissoftwaresite.nl/downloads/euro-office-kantoorpakket",
+        "pubDate": "23 oktober 2026"
+    },
+    {
+        "title": "Zen Browser 1.23.4b",
+        "link": "https://www.gratissoftwaresite.nl/downloads/zen-browser-web-internet",
+        "pubDate": "23 oktober 2026"
+    },
+    {
+        "title": "Franz 6.10.1",
+        "link": "https://www.gratissoftwaresite.nl/downloads/franz-chat-instant-messenger-whatsapp-facebook-skype-hangouts-telegram",
+        "pubDate": "23 oktober 2026"
+    },
+    {
+        "title": "Brave 1.97.60",
+        "link": "https://www.gratissoftwaresite.nl/downloads/brave-web-browser-internet-privacy-beveiliging-schilden-trackers-ads",
+        "pubDate": "23 oktober 2026"
+    },
+    {
+        "title": "Microsoft Edge 156.0.4314.42",
+        "link": "https://www.gratissoftwaresite.nl/downloads/edge-internet-browser-ie-opvolger",
+        "pubDate": "23 oktober 2026"
+    },
+    {
+        "title": "Obsidian 1.15.0",
+        "link": "https://www.gratissoftwaresite.nl/downloads/obsidian-notities-aantekeningen-maken",
+        "pubDate": "23 oktober 2026"
+    },
+    {
+        "title": "VirtualDJ Home 2026 build 9729",
+        "link": "https://www.gratissoftwaresite.nl/downloads/virtualdj-muziek-mp3-mixen-geluidsbewerking-audio-dj-vj",
+        "pubDate": "23 oktober 2026"
+    },
+    {
+        "title": "Blender 5.2.3 LTS & 4....",
+        "link": "https://www.gratissoftwaresite.nl/downloads/blender-3d-animatie-films",
+        "pubDate": "23 oktober 2026"
+    },
+    {
+        "title": "Bitwarden 2026.10.1",
+        "link": "https://www.gratissoftwaresite.nl/downloads/bitwarden-wachtwoordbeheerder-online-kluis-versleuteld-privacy",
+        "pubDate": "23 oktober 2026"
+    },
+    {
+        "title": "Vivaldi 8.2.4133.94",
+        "link": "https://www.gratissoftwaresite.nl/downloads/vivaldi-internet-web-browser",
+        "pubDate": "23 oktober 2026"
+    },
+    {
+        "title": "Bitdefender Antivirus Free 27.0.64.366",
+        "link": "https://www.gratissoftwaresite.nl/downloads/bitdefender-antivirus-free-edition-virusscanner",
+        "pubDate": "23 oktober 2026"
+    },
+    {
         "title": "Clementine 1.4.2-55",
         "link": "https://www.gratissoftwaresite.nl/downloads/clementine-audio-muziekspeler-online",
         "pubDate": "22 oktober 2026"
@@ -125,21 +180,6 @@
         "pubDate": "18 oktober 2026"
     },
     {
-        "title": "Zen Browser 1.23.3b",
-        "link": "https://www.gratissoftwaresite.nl/downloads/zen-browser-web-internet",
-        "pubDate": "18 oktober 2026"
-    },
-    {
-        "title": "Brave 1.97.59",
-        "link": "https://www.gratissoftwaresite.nl/downloads/brave-web-browser-internet-privacy-beveiliging-schilden-trackers-ads",
-        "pubDate": "17 oktober 2026"
-    },
-    {
-        "title": "Vivaldi 8.2.4133.89",
-        "link": "https://www.gratissoftwaresite.nl/downloads/vivaldi-internet-web-browser",
-        "pubDate": "17 oktober 2026"
-    },
-    {
         "title": "LibreCAD 2.2.1.6",
         "link": "https://www.gratissoftwaresite.nl/downloads/librecad-computer-aided-design-grafische-vormgeving-ontwerpen-cad",
         "pubDate": "17 oktober 2026"
@@ -163,11 +203,6 @@
         "title": "FreeFileSync 14.13",
         "link": "https://www.gratissoftwaresite.nl/downloads/freefilesync-backup-synchronisatie",
         "pubDate": "17 oktober 2026"
-    },
-    {
-        "title": "Bitwarden 2026.10.0",
-        "link": "https://www.gratissoftwaresite.nl/downloads/bitwarden-wachtwoordbeheerder-online-kluis-versleuteld-privacy",
-        "pubDate": "16 oktober 2026"
     },
     {
         "title": "Apache OpenOffice 4.1.17",
@@ -220,11 +255,6 @@
         "pubDate": "14 oktober 2026"
     },
     {
-        "title": "Euro-Office 9.3.5",
-        "link": "https://www.gratissoftwaresite.nl/downloads/euro-office-kantoorpakket",
-        "pubDate": "14 oktober 2026"
-    },
-    {
         "title": "XnView MP 1.12.2 & Cl...",
         "link": "https://www.gratissoftwaresite.nl/downloads/xnview-fotobewerking-beeld",
         "pubDate": "14 oktober 2026"
@@ -252,11 +282,6 @@
     {
         "title": "MediaPortal 2.5.0 & 1.39",
         "link": "https://www.gratissoftwaresite.nl/downloads/mediaportal-mediacenter-audio-video-tv",
-        "pubDate": "13 oktober 2026"
-    },
-    {
-        "title": "Franz 6.9.2",
-        "link": "https://www.gratissoftwaresite.nl/downloads/franz-chat-instant-messenger-whatsapp-facebook-skype-hangouts-telegram",
         "pubDate": "13 oktober 2026"
     },
     {
@@ -330,11 +355,6 @@
         "pubDate": "9 oktober 2026"
     },
     {
-        "title": "Microsoft Edge 154.0.4258.62",
-        "link": "https://www.gratissoftwaresite.nl/downloads/edge-internet-browser-ie-opvolger",
-        "pubDate": "8 oktober 2026"
-    },
-    {
         "title": "Password Safe 3.72.3",
         "link": "https://www.gratissoftwaresite.nl/downloads/password-safe-wachtwoord-beheer",
         "pubDate": "8 oktober 2026"
@@ -372,11 +392,6 @@
     {
         "title": "PDF24 Creator Tools 11.31.0",
         "link": "https://www.gratissoftwaresite.nl/downloads/pdf24-creator-tools-pdf-werktuigen-bewerken",
-        "pubDate": "5 oktober 2026"
-    },
-    {
-        "title": "Obsidian 1.14.2",
-        "link": "https://www.gratissoftwaresite.nl/downloads/obsidian-notities-aantekeningen-maken",
         "pubDate": "5 oktober 2026"
     },
     {
@@ -483,15 +498,5 @@
         "title": "Prey 1.13.41",
         "link": "https://www.gratissoftwaresite.nl/downloads/prey-pc-beveiliging-anti-diefstal-laptop-smartphone",
         "pubDate": "29 september 2026"
-    },
-    {
-        "title": "Joplin 3.7.21",
-        "link": "https://www.gratissoftwaresite.nl/downloads/joplin-notitie-blok-aantekeningen-takenlijst-sync",
-        "pubDate": "28 september 2026"
-    },
-    {
-        "title": "Shotcut 26.9.27",
-        "link": "https://www.gratissoftwaresite.nl/downloads/shotcut-videobewerking-editor-tijdlijn-key-frames",
-        "pubDate": "28 september 2026"
     }
 ]

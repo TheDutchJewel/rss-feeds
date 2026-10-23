@@ -5,6 +5,72 @@
     <link>https://www.gratissoftwaresite.nl/downloads/nieuwe-updates</link>
     <description>Nieuwste software-updates van GratisSoftwareSite</description>
     <item>
+      <title>Euro-Office 9.3.6</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/euro-office-kantoorpakket</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/euro-office-kantoorpakket</guid>
+      <pubDate>23 oktober 2026</pubDate>
+    </item>
+    <item>
+      <title>Zen Browser 1.23.4b</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/zen-browser-web-internet</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/zen-browser-web-internet</guid>
+      <pubDate>23 oktober 2026</pubDate>
+    </item>
+    <item>
+      <title>Franz 6.10.1</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/franz-chat-instant-messenger-whatsapp-facebook-skype-hangouts-telegram</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/franz-chat-instant-messenger-whatsapp-facebook-skype-hangouts-telegram</guid>
+      <pubDate>23 oktober 2026</pubDate>
+    </item>
+    <item>
+      <title>Brave 1.97.60</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/brave-web-browser-internet-privacy-beveiliging-schilden-trackers-ads</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/brave-web-browser-internet-privacy-beveiliging-schilden-trackers-ads</guid>
+      <pubDate>23 oktober 2026</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Edge 156.0.4314.42</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/edge-internet-browser-ie-opvolger</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/edge-internet-browser-ie-opvolger</guid>
+      <pubDate>23 oktober 2026</pubDate>
+    </item>
+    <item>
+      <title>Obsidian 1.15.0</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/obsidian-notities-aantekeningen-maken</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/obsidian-notities-aantekeningen-maken</guid>
+      <pubDate>23 oktober 2026</pubDate>
+    </item>
+    <item>
+      <title>VirtualDJ Home 2026 build 9729</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/virtualdj-muziek-mp3-mixen-geluidsbewerking-audio-dj-vj</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/virtualdj-muziek-mp3-mixen-geluidsbewerking-audio-dj-vj</guid>
+      <pubDate>23 oktober 2026</pubDate>
+    </item>
+    <item>
+      <title/>
+      <link>https://www.gratissoftwaresite.nl/downloads/blender-3d-animatie-films</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/blender-3d-animatie-films</guid>
+      <pubDate>23 oktober 2026</pubDate>
+    </item>
+    <item>
+      <title>Bitwarden 2026.10.1</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/bitwarden-wachtwoordbeheerder-online-kluis-versleuteld-privacy</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/bitwarden-wachtwoordbeheerder-online-kluis-versleuteld-privacy</guid>
+      <pubDate>23 oktober 2026</pubDate>
+    </item>
+    <item>
+      <title>Vivaldi 8.2.4133.94</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/vivaldi-internet-web-browser</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/vivaldi-internet-web-browser</guid>
+      <pubDate>23 oktober 2026</pubDate>
+    </item>
+    <item>
+      <title>Bitdefender Antivirus Free 27.0.64.366</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/bitdefender-antivirus-free-edition-virusscanner</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/bitdefender-antivirus-free-edition-virusscanner</guid>
+      <pubDate>23 oktober 2026</pubDate>
+    </item>
+    <item>
       <title>Clementine 1.4.2-55</title>
       <link>https://www.gratissoftwaresite.nl/downloads/clementine-audio-muziekspeler-online</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/clementine-audio-muziekspeler-online</guid>
@@ -155,24 +221,6 @@
       <pubDate>18 oktober 2026</pubDate>
     </item>
     <item>
-      <title>Zen Browser 1.23.3b</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/zen-browser-web-internet</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/zen-browser-web-internet</guid>
-      <pubDate>18 oktober 2026</pubDate>
-    </item>
-    <item>
-      <title>Brave 1.97.59</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/brave-web-browser-internet-privacy-beveiliging-schilden-trackers-ads</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/brave-web-browser-internet-privacy-beveiliging-schilden-trackers-ads</guid>
-      <pubDate>17 oktober 2026</pubDate>
-    </item>
-    <item>
-      <title>Vivaldi 8.2.4133.89</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/vivaldi-internet-web-browser</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/vivaldi-internet-web-browser</guid>
-      <pubDate>17 oktober 2026</pubDate>
-    </item>
-    <item>
       <title>LibreCAD 2.2.1.6</title>
       <link>https://www.gratissoftwaresite.nl/downloads/librecad-computer-aided-design-grafische-vormgeving-ontwerpen-cad</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/librecad-computer-aided-design-grafische-vormgeving-ontwerpen-cad</guid>
@@ -201,12 +249,6 @@
       <link>https://www.gratissoftwaresite.nl/downloads/freefilesync-backup-synchronisatie</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/freefilesync-backup-synchronisatie</guid>
       <pubDate>17 oktober 2026</pubDate>
-    </item>
-    <item>
-      <title>Bitwarden 2026.10.0</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/bitwarden-wachtwoordbeheerder-online-kluis-versleuteld-privacy</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/bitwarden-wachtwoordbeheerder-online-kluis-versleuteld-privacy</guid>
-      <pubDate>16 oktober 2026</pubDate>
     </item>
     <item>
       <title>Apache OpenOffice 4.1.17</title>
@@ -269,12 +311,6 @@
       <pubDate>14 oktober 2026</pubDate>
     </item>
     <item>
-      <title>Euro-Office 9.3.5</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/euro-office-kantoorpakket</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/euro-office-kantoorpakket</guid>
-      <pubDate>14 oktober 2026</pubDate>
-    </item>
-    <item>
       <title/>
       <link>https://www.gratissoftwaresite.nl/downloads/xnview-fotobewerking-beeld</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/xnview-fotobewerking-beeld</guid>
@@ -308,12 +344,6 @@
       <title/>
       <link>https://www.gratissoftwaresite.nl/downloads/mediaportal-mediacenter-audio-video-tv</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/mediaportal-mediacenter-audio-video-tv</guid>
-      <pubDate>13 oktober 2026</pubDate>
-    </item>
-    <item>
-      <title>Franz 6.9.2</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/franz-chat-instant-messenger-whatsapp-facebook-skype-hangouts-telegram</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/franz-chat-instant-messenger-whatsapp-facebook-skype-hangouts-telegram</guid>
       <pubDate>13 oktober 2026</pubDate>
     </item>
     <item>
@@ -401,12 +431,6 @@
       <pubDate>9 oktober 2026</pubDate>
     </item>
     <item>
-      <title>Microsoft Edge 154.0.4258.62</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/edge-internet-browser-ie-opvolger</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/edge-internet-browser-ie-opvolger</guid>
-      <pubDate>8 oktober 2026</pubDate>
-    </item>
-    <item>
       <title>Password Safe 3.72.3</title>
       <link>https://www.gratissoftwaresite.nl/downloads/password-safe-wachtwoord-beheer</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/password-safe-wachtwoord-beheer</guid>
@@ -452,12 +476,6 @@
       <title>PDF24 Creator Tools 11.31.0</title>
       <link>https://www.gratissoftwaresite.nl/downloads/pdf24-creator-tools-pdf-werktuigen-bewerken</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/pdf24-creator-tools-pdf-werktuigen-bewerken</guid>
-      <pubDate>5 oktober 2026</pubDate>
-    </item>
-    <item>
-      <title>Obsidian 1.14.2</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/obsidian-notities-aantekeningen-maken</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/obsidian-notities-aantekeningen-maken</guid>
       <pubDate>5 oktober 2026</pubDate>
     </item>
     <item>
@@ -585,18 +603,6 @@
       <link>https://www.gratissoftwaresite.nl/downloads/prey-pc-beveiliging-anti-diefstal-laptop-smartphone</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/prey-pc-beveiliging-anti-diefstal-laptop-smartphone</guid>
       <pubDate>29 september 2026</pubDate>
-    </item>
-    <item>
-      <title>Joplin 3.7.21</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/joplin-notitie-blok-aantekeningen-takenlijst-sync</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/joplin-notitie-blok-aantekeningen-takenlijst-sync</guid>
-      <pubDate>28 september 2026</pubDate>
-    </item>
-    <item>
-      <title>Shotcut 26.9.27</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/shotcut-videobewerking-editor-tijdlijn-key-frames</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/shotcut-videobewerking-editor-tijdlijn-key-frames</guid>
-      <pubDate>28 september 2026</pubDate>
     </item>
   </channel>
 </rss>
