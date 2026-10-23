@@ -1,13 +1,58 @@
 [
   {
+    "title": "XAMPP 8.5.12",
+    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/xampp/",
+    "pubDate": "2026-10-23T17:40:00.000Z"
+  },
+  {
+    "title": "XAMPP 8.4.27",
+    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/xampp/",
+    "pubDate": "2026-10-23T17:39:00.000Z"
+  },
+  {
+    "title": "XAMPP 8.3.36",
+    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/xampp/",
+    "pubDate": "2026-10-23T17:38:00.000Z"
+  },
+  {
+    "title": "Microsoft Teams 26276.505.5234.9924 (macOS)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/microsoft-teams/",
+    "pubDate": "2026-10-23T17:14:00.000Z"
+  },
+  {
+    "title": "Glorious Core 2.1.23",
+    "link": "https://www.computerbase.de/downloads/treiber/eingabegeraete/glorious-core/",
+    "pubDate": "2026-10-23T17:12:00.000Z"
+  },
+  {
+    "title": "Epic Games Launcher 0.102.0 Preview",
+    "link": "https://www.computerbase.de/downloads/games/epic-games-launcher/",
+    "pubDate": "2026-10-23T17:11:00.000Z"
+  },
+  {
+    "title": "mp3Tag 3.47 Beta 4",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/mp3tag/",
+    "pubDate": "2026-10-23T17:11:00.000Z"
+  },
+  {
+    "title": "Free Download Manager 6.35.2 Build 7025",
+    "link": "https://www.computerbase.de/downloads/office/dateitransfer/free-download-manager/",
+    "pubDate": "2026-10-23T14:51:00.000Z"
+  },
+  {
+    "title": "Bandizip 8.0 Beta 48",
+    "link": "https://www.computerbase.de/downloads/office/packprogramme/bandizip/",
+    "pubDate": "2026-10-23T14:50:00.000Z"
+  },
+  {
+    "title": "Vivaldi 8.2 Build 4133.94",
+    "link": "https://www.computerbase.de/downloads/browser/vivaldi/",
+    "pubDate": "2026-10-23T14:49:00.000Z"
+  },
+  {
     "title": "Intel Netzwerkadapter-Treiber 31.3 (Win 11)",
     "link": "https://www.computerbase.de/downloads/treiber/netzwerk/intel-netzwerkadapter-treiber/",
     "pubDate": "2026-10-23T04:40:00.000Z"
-  },
-  {
-    "title": "Bandizip 8.0 Beta 46",
-    "link": "https://www.computerbase.de/downloads/office/packprogramme/bandizip/",
-    "pubDate": "2026-10-23T04:38:00.000Z"
   },
   {
     "title": "Microsoft Edge 156.0.4314.42",
@@ -115,11 +160,6 @@
     "pubDate": "2026-10-22T15:21:00.000Z"
   },
   {
-    "title": "Epic Games Launcher 0.101.0 Preview",
-    "link": "https://www.computerbase.de/downloads/games/epic-games-launcher/",
-    "pubDate": "2026-10-22T15:11:00.000Z"
-  },
-  {
     "title": "AIDA64 v8.40.8518 Beta",
     "link": "https://www.computerbase.de/downloads/systemtools/aida64/",
     "pubDate": "2026-10-22T15:08:00.000Z"
@@ -153,11 +193,6 @@
     "title": "SyncBackFree 12.1.34.0",
     "link": "https://www.computerbase.de/downloads/sicherheit/backup/syncbackfree/",
     "pubDate": "2026-10-22T15:00:00.000Z"
-  },
-  {
-    "title": "Vivaldi 8.2 Build 4133.91",
-    "link": "https://www.computerbase.de/downloads/browser/vivaldi/",
-    "pubDate": "2026-10-22T14:59:00.000Z"
   },
   {
     "title": "Wargaming Game Center 26.06.00.3882",
@@ -213,40 +248,5 @@
     "title": "Copernic Desktop Search 8.3.7.18991",
     "link": "https://www.computerbase.de/downloads/office/dateimanager/copernic-desktop-search/",
     "pubDate": "2026-10-21T17:20:00.000Z"
-  },
-  {
-    "title": "Nvidia Linux Display Driver 580.196.07 (Linux)",
-    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/nvidia-linux-display-driver/",
-    "pubDate": "2026-10-21T16:18:00.000Z"
-  },
-  {
-    "title": "Nvidia GeForce-Treiber 621.01",
-    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/nvidia-geforce-treiber/",
-    "pubDate": "2026-10-21T16:09:00.000Z"
-  },
-  {
-    "title": "Spotify 1.3.6.1921",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/spotify/",
-    "pubDate": "2026-10-21T16:02:00.000Z"
-  },
-  {
-    "title": "Asus GPU Tweak III v2.2.1.1",
-    "link": "https://www.computerbase.de/downloads/systemtools/grafikkarten/asus-gpu-tweak/",
-    "pubDate": "2026-10-21T15:29:00.000Z"
-  },
-  {
-    "title": "CCleaner 7.13.1573",
-    "link": "https://www.computerbase.de/downloads/systemtools/ccleaner/",
-    "pubDate": "2026-10-21T15:19:00.000Z"
-  },
-  {
-    "title": "PHP 8.5.12",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/php/",
-    "pubDate": "2026-10-21T15:19:00.000Z"
-  },
-  {
-    "title": "PHP 8.4.27",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/php/",
-    "pubDate": "2026-10-21T15:18:00.000Z"
   }
 ]
