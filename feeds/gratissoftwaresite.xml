@@ -5,6 +5,12 @@
     <link>https://www.gratissoftwaresite.nl/downloads/nieuwe-updates</link>
     <description>Nieuwste software-updates van GratisSoftwareSite</description>
     <item>
+      <title>balena Etcher 2.1.9</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/etcher-opstartbare-usb-sd-maken-os-installeren</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/etcher-opstartbare-usb-sd-maken-os-installeren</guid>
+      <pubDate>24 oktober 2026</pubDate>
+    </item>
+    <item>
       <title>Super Productivity 19.3.0</title>
       <link>https://www.gratissoftwaresite.nl/downloads/super-productivity-taken-plannen-workflow-projectbeheer</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/super-productivity-taken-plannen-workflow-projectbeheer</guid>
@@ -597,12 +603,6 @@
       <link>https://www.gratissoftwaresite.nl/downloads/oo-shutup10-privacy-extra-beveiliging-phone-home</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/oo-shutup10-privacy-extra-beveiliging-phone-home</guid>
       <pubDate>30 september 2026</pubDate>
-    </item>
-    <item>
-      <title>Stellarium 26.3</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/stellarium-satellietbeelden-bekijken-sterrenkaart-planeten</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/stellarium-satellietbeelden-bekijken-sterrenkaart-planeten</guid>
-      <pubDate>29 september 2026</pubDate>
     </item>
   </channel>
 </rss>

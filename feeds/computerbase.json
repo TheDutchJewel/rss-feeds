@@ -1,5 +1,40 @@
 [
   {
+    "title": "ShareMouse for Windows 7.0.31",
+    "link": "https://www.computerbase.de/downloads/treiber/eingabegeraete/sharemouse/",
+    "pubDate": "2026-10-24T12:18:00.000Z"
+  },
+  {
+    "title": "ShareMouse for Mac 7.0.31 (macOS)",
+    "link": "https://www.computerbase.de/downloads/treiber/eingabegeraete/sharemouse/",
+    "pubDate": "2026-10-24T12:17:00.000Z"
+  },
+  {
+    "title": "Rocket.Chat Desktop 4.18.5",
+    "link": "https://www.computerbase.de/downloads/kommunikation/rocket.chat/",
+    "pubDate": "2026-10-24T09:27:00.000Z"
+  },
+  {
+    "title": "OBS Studio 33.0.0",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/obs-studio/",
+    "pubDate": "2026-10-24T09:24:00.000Z"
+  },
+  {
+    "title": "YUMI Py 1.1.10",
+    "link": "https://www.computerbase.de/downloads/systemtools/festplatten/yumi/",
+    "pubDate": "2026-10-24T09:21:00.000Z"
+  },
+  {
+    "title": "Todoist 9.32.0",
+    "link": "https://www.computerbase.de/downloads/office/todoist/",
+    "pubDate": "2026-10-24T09:19:00.000Z"
+  },
+  {
+    "title": "GitHub Desktop 3.6.9",
+    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/github-desktop/",
+    "pubDate": "2026-10-24T08:38:00.000Z"
+  },
+  {
     "title": "Sandboxie Plus 1.19.0 Beta",
     "link": "https://www.computerbase.de/downloads/sicherheit/sandboxie/",
     "pubDate": "2026-10-23T19:01:00.000Z"
@@ -45,7 +80,7 @@
     "pubDate": "2026-10-23T17:11:00.000Z"
   },
   {
-    "title": "mp3Tag 3.47 Beta 4",
+    "title": "mp3Tag 3.37 Beta 4",
     "link": "https://www.computerbase.de/downloads/audio-und-video/mp3tag/",
     "pubDate": "2026-10-23T17:11:00.000Z"
   },
@@ -108,11 +143,6 @@
     "title": "Bitwarden 2026.10.1",
     "link": "https://www.computerbase.de/downloads/sicherheit/passwortmanager/bitwarden/",
     "pubDate": "2026-10-23T04:27:00.000Z"
-  },
-  {
-    "title": "GitHub Desktop 3.6.8",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/github-desktop/",
-    "pubDate": "2026-10-23T04:26:00.000Z"
   },
   {
     "title": "Internet Download Manager 6.43 Build 16",
@@ -218,35 +248,5 @@
     "title": "Turtle Beach Swarm II 1.0.0.62",
     "link": "https://www.computerbase.de/downloads/treiber/eingabegeraete/turtle-beach-swarm-ii/",
     "pubDate": "2026-10-22T14:56:00.000Z"
-  },
-  {
-    "title": "AMD Chipsatztreiber 8.09.28.1124",
-    "link": "https://www.computerbase.de/downloads/treiber/mainboards/amd-chipsatztreiber/",
-    "pubDate": "2026-10-22T04:40:00.000Z"
-  },
-  {
-    "title": "Rocket.Chat Desktop 4.18.4",
-    "link": "https://www.computerbase.de/downloads/kommunikation/rocket.chat/",
-    "pubDate": "2026-10-22T04:36:00.000Z"
-  },
-  {
-    "title": "Mozilla Thunderbird 159.0 Beta 5",
-    "link": "https://www.computerbase.de/downloads/kommunikation/mozilla-thunderbird/",
-    "pubDate": "2026-10-22T04:35:00.000Z"
-  },
-  {
-    "title": "Display Driver Uninstaller (DDU) 18.1.6.2",
-    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/display-driver-uninstaller-ddu/",
-    "pubDate": "2026-10-22T04:34:00.000Z"
-  },
-  {
-    "title": "KeePassXC 2.8.0",
-    "link": "https://www.computerbase.de/downloads/sicherheit/passwortmanager/keepassxc/",
-    "pubDate": "2026-10-22T04:28:00.000Z"
-  },
-  {
-    "title": "Telegram Desktop 7.3.3",
-    "link": "https://www.computerbase.de/downloads/kommunikation/telegram-desktop/",
-    "pubDate": "2026-10-22T04:25:00.000Z"
   }
 ]
