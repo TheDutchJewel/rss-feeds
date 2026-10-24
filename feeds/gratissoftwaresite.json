@@ -1,5 +1,20 @@
 [
     {
+        "title": "Super Productivity 19.3.0",
+        "link": "https://www.gratissoftwaresite.nl/downloads/super-productivity-taken-plannen-workflow-projectbeheer",
+        "pubDate": "24 oktober 2026"
+    },
+    {
+        "title": "OBS Studio 33.0",
+        "link": "https://www.gratissoftwaresite.nl/downloads/obs-studio-schermopnamen-opnemen-streamen-video-webcam",
+        "pubDate": "24 oktober 2026"
+    },
+    {
+        "title": "Transmission 4.1.4",
+        "link": "https://www.gratissoftwaresite.nl/downloads/transmission-bestanden-delen-bittorrent-p2p-downloaden",
+        "pubDate": "24 oktober 2026"
+    },
+    {
         "title": "Nextcloud Office 9.3.6",
         "link": "https://www.gratissoftwaresite.nl/downloads/nextcloud-office-kantoorpakket",
         "pubDate": "23 oktober 2026"
@@ -310,11 +325,6 @@
         "pubDate": "12 oktober 2026"
     },
     {
-        "title": "Super Productivity 19.2.0",
-        "link": "https://www.gratissoftwaresite.nl/downloads/super-productivity-taken-plannen-workflow-projectbeheer",
-        "pubDate": "12 oktober 2026"
-    },
-    {
         "title": "Photoflare 1.7.5",
         "link": "https://www.gratissoftwaresite.nl/downloads/photoflare-fotobewerking-beheer",
         "pubDate": "12 oktober 2026"
@@ -487,16 +497,6 @@
     {
         "title": "Stellarium 26.3",
         "link": "https://www.gratissoftwaresite.nl/downloads/stellarium-satellietbeelden-bekijken-sterrenkaart-planeten",
-        "pubDate": "29 september 2026"
-    },
-    {
-        "title": "FreeCAD 1.1.4",
-        "link": "https://www.gratissoftwaresite.nl/downloads/freecad-grafische-vormgeving-3d-modelling-computer-aided-design-ontwerp-tekenen",
-        "pubDate": "29 september 2026"
-    },
-    {
-        "title": "Prey 1.13.41",
-        "link": "https://www.gratissoftwaresite.nl/downloads/prey-pc-beveiliging-anti-diefstal-laptop-smartphone",
         "pubDate": "29 september 2026"
     }
 ]
