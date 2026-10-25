@@ -1,5 +1,10 @@
 [
   {
+    "title": "Box Drive 2.55.145",
+    "link": "https://www.computerbase.de/downloads/office/dateimanager/box-drive/",
+    "pubDate": "2026-10-25T12:39:00.000Z"
+  },
+  {
     "title": "VeraCrypt 1.26.30 (Linux, macOS)",
     "link": "https://www.computerbase.de/downloads/sicherheit/verschluesselung/veracrypt/",
     "pubDate": "2026-10-25T08:23:00.000Z"
@@ -243,10 +248,5 @@
     "title": "eDocPrintPro 5.9.2",
     "link": "https://www.computerbase.de/downloads/office/pdf/edocprintpro/",
     "pubDate": "2026-10-22T17:30:00.000Z"
-  },
-  {
-    "title": "Discord 1.0.166 (Linux)",
-    "link": "https://www.computerbase.de/downloads/kommunikation/discord/",
-    "pubDate": "2026-10-22T17:29:00.000Z"
   }
 ]

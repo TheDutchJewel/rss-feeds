@@ -1,5 +1,20 @@
 [
   {
+    "title": "[UPDATE] HeidiSQL v12.22",
+    "link": "https://www.portablefreeware.com/?id=1809&ts=1792941151",
+    "pubDate": "Sun, 25 Oct 2026 15:12:31 +0000"
+  },
+  {
+    "title": "[UPDATE] Q-Dir v12.82",
+    "link": "https://www.portablefreeware.com/?id=1431&ts=1792939416",
+    "pubDate": "Sun, 25 Oct 2026 14:43:36 +0000"
+  },
+  {
+    "title": "[UPDATE] TreeSheets 2.21.2",
+    "link": "https://www.portablefreeware.com/?id=2741&ts=1792939316",
+    "pubDate": "Sun, 25 Oct 2026 14:41:56 +0000"
+  },
+  {
     "title": "[UPDATE] calibre v9.17",
     "link": "https://www.portablefreeware.com/?id=2119&ts=1792905203",
     "pubDate": "Sun, 25 Oct 2026 05:13:23 +0000"
@@ -225,11 +240,6 @@
     "pubDate": "Wed, 14 Oct 2026 15:11:11 +0000"
   },
   {
-    "title": "[UPDATE] Q-Dir v12.79",
-    "link": "https://www.portablefreeware.com/?id=1431&ts=1791946246",
-    "pubDate": "Wed, 14 Oct 2026 02:50:46 +0000"
-  },
-  {
     "title": "[UPDATE] NAPS2 v8.5.1",
     "link": "https://www.portablefreeware.com/?id=3020&ts=1791946215",
     "pubDate": "Wed, 14 Oct 2026 02:50:15 +0000"
@@ -268,11 +278,6 @@
     "title": "[UPDATE] CrystalDiskInfo v9.9.3",
     "link": "https://www.portablefreeware.com/?id=1441&ts=1791728032",
     "pubDate": "Sun, 11 Oct 2026 14:13:52 +0000"
-  },
-  {
-    "title": "[UPDATE] TreeSheets 2.5.1",
-    "link": "https://www.portablefreeware.com/?id=2741&ts=1791727739",
-    "pubDate": "Sun, 11 Oct 2026 14:08:59 +0000"
   },
   {
     "title": "[UPDATE] CHK v6.21",
@@ -493,10 +498,5 @@
     "title": "[UPDATE] Betterbird 153.3.0esr-bb9",
     "link": "https://www.portablefreeware.com/?id=3111&ts=1789712376",
     "pubDate": "Fri, 18 Sep 2026 06:19:36 +0000"
-  },
-  {
-    "title": "[UPDATE] Windows System Control Center v10.0.4.3",
-    "link": "https://www.portablefreeware.com/?id=1666&ts=1789664325",
-    "pubDate": "Thu, 17 Sep 2026 16:58:45 +0000"
   }
 ]

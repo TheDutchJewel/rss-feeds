@@ -5,6 +5,18 @@
     <link>https://www.gratissoftwaresite.nl/downloads/nieuwe-updates</link>
     <description>Nieuwste software-updates van GratisSoftwareSite</description>
     <item>
+      <title>Lightworks 2026.0</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/lightworks-videobewerking-conversie</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/lightworks-videobewerking-conversie</guid>
+      <pubDate>25 oktober 2026</pubDate>
+    </item>
+    <item>
+      <title>DuckDuckGo Private Browser 0.176.5</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/duckduckgo-private-web-browser-privacy</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/duckduckgo-private-web-browser-privacy</guid>
+      <pubDate>25 oktober 2026</pubDate>
+    </item>
+    <item>
       <title>draw.io 32.6.1</title>
       <link>https://www.gratissoftwaresite.nl/downloads/draw.io-diagrammen-flowcharts-mindmaps-organigrammen</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/draw.io-diagrammen-flowcharts-mindmaps-organigrammen</guid>
@@ -591,18 +603,6 @@
       <link>https://www.gratissoftwaresite.nl/downloads/audacity-geluidsbewerking-mp3-wav-editor</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/audacity-geluidsbewerking-mp3-wav-editor</guid>
       <pubDate>1 oktober 2026</pubDate>
-    </item>
-    <item>
-      <title>antiX 26.1</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/besturingssysteem-os-antix</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/besturingssysteem-os-antix</guid>
-      <pubDate>30 september 2026</pubDate>
-    </item>
-    <item>
-      <title>Wise Disk Cleaner 11.4.0</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/wise-disk-cleaner-pc-opruimen-schoonmaken</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/wise-disk-cleaner-pc-opruimen-schoonmaken</guid>
-      <pubDate>30 september 2026</pubDate>
     </item>
   </channel>
 </rss>
