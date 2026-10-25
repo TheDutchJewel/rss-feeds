@@ -1,5 +1,10 @@
 [
     {
+        "title": "draw.io 32.6.1",
+        "link": "https://www.gratissoftwaresite.nl/downloads/draw.io-diagrammen-flowcharts-mindmaps-organigrammen",
+        "pubDate": "25 oktober 2026"
+    },
+    {
         "title": "balena Etcher 2.1.9",
         "link": "https://www.gratissoftwaresite.nl/downloads/etcher-opstartbare-usb-sd-maken-os-installeren",
         "pubDate": "24 oktober 2026"
@@ -492,11 +497,6 @@
     {
         "title": "Wise Disk Cleaner 11.4.0",
         "link": "https://www.gratissoftwaresite.nl/downloads/wise-disk-cleaner-pc-opruimen-schoonmaken",
-        "pubDate": "30 september 2026"
-    },
-    {
-        "title": "O&O ShutUp10++ 3.6.1135",
-        "link": "https://www.gratissoftwaresite.nl/downloads/oo-shutup10-privacy-extra-beveiliging-phone-home",
         "pubDate": "30 september 2026"
     }
 ]

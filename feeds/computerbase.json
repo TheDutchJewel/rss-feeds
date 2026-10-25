@@ -1,5 +1,25 @@
 [
   {
+    "title": "VeraCrypt 1.26.30 (Linux, macOS)",
+    "link": "https://www.computerbase.de/downloads/sicherheit/verschluesselung/veracrypt/",
+    "pubDate": "2026-10-25T08:23:00.000Z"
+  },
+  {
+    "title": "AutoHotkey 2.0.31",
+    "link": "https://www.computerbase.de/downloads/systemtools/autohotkey/",
+    "pubDate": "2026-10-25T08:21:00.000Z"
+  },
+  {
+    "title": "Universal USB Installer 2.0.4.0",
+    "link": "https://www.computerbase.de/downloads/systemtools/festplatten/universal-usb-installer/",
+    "pubDate": "2026-10-25T08:21:00.000Z"
+  },
+  {
+    "title": "foobar2000 v2.26.2 preview 2026-10-25",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/foobar2000/",
+    "pubDate": "2026-10-25T08:19:00.000Z"
+  },
+  {
     "title": "Paint.NET 5.2.0 Beta Build 9793.3533",
     "link": "https://www.computerbase.de/downloads/foto-und-grafik/paint.net/",
     "pubDate": "2026-10-24T18:13:00.000Z"
@@ -228,25 +248,5 @@
     "title": "Discord 1.0.166 (Linux)",
     "link": "https://www.computerbase.de/downloads/kommunikation/discord/",
     "pubDate": "2026-10-22T17:29:00.000Z"
-  },
-  {
-    "title": "Nvidia Linux Display Driver 595.112.07 (Linux)",
-    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/nvidia-linux-display-driver/",
-    "pubDate": "2026-10-22T15:30:00.000Z"
-  },
-  {
-    "title": "Mailspring 1.26.2",
-    "link": "https://www.computerbase.de/downloads/kommunikation/mailspring/",
-    "pubDate": "2026-10-22T15:21:00.000Z"
-  },
-  {
-    "title": "AIDA64 v8.40.8518 Beta",
-    "link": "https://www.computerbase.de/downloads/systemtools/aida64/",
-    "pubDate": "2026-10-22T15:08:00.000Z"
-  },
-  {
-    "title": "Avast Free Antivirus 26.11.11224 Beta",
-    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/avast-free-antivirus/",
-    "pubDate": "2026-10-22T15:06:00.000Z"
   }
 ]
