@@ -1,5 +1,20 @@
 [
   {
+    "title": "Windows App updated to 2.0.1485.",
+    "link": "https://ninite.com/windowsapp/",
+    "pubDate": "Sun, 25 Oct 2026 17:17:02 -0000"
+  },
+  {
+    "title": "ChatGPT updated to 26.1021.3705.",
+    "link": "https://ninite.com/chatgpt/",
+    "pubDate": "Sun, 25 Oct 2026 17:15:57 -0000"
+  },
+  {
+    "title": "GitHub Desktop updated to 3.6.9.",
+    "link": "https://ninite.com/githubdesktop/",
+    "pubDate": "Sun, 25 Oct 2026 17:15:33 -0000"
+  },
+  {
     "title": "Teams updated to 26276.513.5241.9675.",
     "link": "https://ninite.com/teams/",
     "pubDate": "Sat, 24 Oct 2026 00:06:55 -0000"
@@ -238,15 +253,5 @@
     "title": "Chrome updated to 156.0.8078.48.",
     "link": "https://ninite.com/chrome/",
     "pubDate": "Tue, 20 Oct 2026 20:31:26 -0000"
-  },
-  {
-    "title": "Opera Chromium updated to 138.0.6044.24.",
-    "link": "https://ninite.com/operaChromium/",
-    "pubDate": "Tue, 20 Oct 2026 18:22:57 -0000"
-  },
-  {
-    "title": "1Password updated to 8.12.42.",
-    "link": "https://ninite.com/1password/",
-    "pubDate": "Tue, 20 Oct 2026 18:22:04 -0000"
   }
 ]
