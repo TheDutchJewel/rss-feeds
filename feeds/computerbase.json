@@ -1,5 +1,30 @@
 [
   {
+    "title": "Visual Studio 2026 v18.12.12324.72 Insider",
+    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/visual-studio-2026/",
+    "pubDate": "2026-10-25T21:48:00.000Z"
+  },
+  {
+    "title": "Visual Studio 2022 v17.14.43",
+    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/visual-studio-2022/",
+    "pubDate": "2026-10-25T21:47:00.000Z"
+  },
+  {
+    "title": "Visual Studio 2026 v18.11.2",
+    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/visual-studio-2026/",
+    "pubDate": "2026-10-25T21:47:00.000Z"
+  },
+  {
+    "title": "Visual Studio 2019 v16.11.61",
+    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/visual-studio-2019/",
+    "pubDate": "2026-10-25T21:46:00.000Z"
+  },
+  {
+    "title": "KDE neon 20261025-1825",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/kde-neon/",
+    "pubDate": "2026-10-25T21:45:00.000Z"
+  },
+  {
     "title": "Microsoft .NET Windows Desktop Runtime 11.0.0 RC3",
     "link": "https://www.computerbase.de/downloads/systemtools/microsoft-.net/",
     "pubDate": "2026-10-25T18:46:00.000Z"
@@ -223,30 +248,5 @@
     "title": "Git for Windows 2.56.0(3)",
     "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/git-windows/",
     "pubDate": "2026-10-23T04:30:00.000Z"
-  },
-  {
-    "title": "Obsidian 1.14.5",
-    "link": "https://www.computerbase.de/downloads/office/obsidian/",
-    "pubDate": "2026-10-23T04:28:00.000Z"
-  },
-  {
-    "title": "Bitwarden 2026.10.1",
-    "link": "https://www.computerbase.de/downloads/sicherheit/passwortmanager/bitwarden/",
-    "pubDate": "2026-10-23T04:27:00.000Z"
-  },
-  {
-    "title": "Internet Download Manager 6.43 Build 16",
-    "link": "https://www.computerbase.de/downloads/office/dateitransfer/internet-download-manager/",
-    "pubDate": "2026-10-23T04:26:00.000Z"
-  },
-  {
-    "title": "Visual Studio Code (VS Code) 1.143.1",
-    "link": "https://www.computerbase.de/downloads/office/editoren/visual-studio-code/",
-    "pubDate": "2026-10-23T04:25:00.000Z"
-  },
-  {
-    "title": "calibre 9.17.0",
-    "link": "https://www.computerbase.de/downloads/office/calibre-ebook-management/",
-    "pubDate": "2026-10-23T04:24:00.000Z"
   }
 ]
