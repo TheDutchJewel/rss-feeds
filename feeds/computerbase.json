@@ -5,6 +5,11 @@
     "pubDate": "2026-10-26T18:40:00.000Z"
   },
   {
+    "title": "TightVNC 4.0.0",
+    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/tightvnc/",
+    "pubDate": "2026-10-26T18:40:00.000Z"
+  },
+  {
     "title": "Tunnelblick 10.1 Beta 3 (macOS)",
     "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/tunnelblick/",
     "pubDate": "2026-10-26T18:39:00.000Z"
@@ -242,11 +247,6 @@
   {
     "title": "AutoHotkey 2.0.31",
     "link": "https://www.computerbase.de/downloads/systemtools/autohotkey/",
-    "pubDate": "2026-10-25T08:21:00.000Z"
-  },
-  {
-    "title": "Universal USB Installer 2.0.4.0",
-    "link": "https://www.computerbase.de/downloads/systemtools/festplatten/universal-usb-installer/",
     "pubDate": "2026-10-25T08:21:00.000Z"
   }
 ]

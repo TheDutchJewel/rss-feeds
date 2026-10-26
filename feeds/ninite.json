@@ -1,5 +1,15 @@
 [
   {
+    "title": "GitHub Desktop updated to 3.6.10.",
+    "link": "https://ninite.com/githubdesktop/",
+    "pubDate": "Mon, 26 Oct 2026 20:48:22 -0000"
+  },
+  {
+    "title": "Edge updated to 156.0.4314.50.",
+    "link": "https://ninite.com/edge/",
+    "pubDate": "Mon, 26 Oct 2026 20:41:59 -0000"
+  },
+  {
     "title": "WhatsApp updated to 2.2641.101.",
     "link": "https://ninite.com/whatsapp/",
     "pubDate": "Mon, 26 Oct 2026 18:04:08 -0000"
@@ -278,30 +288,5 @@
     "title": "Claude updated to 3.6556.1.",
     "link": "https://ninite.com/claude/",
     "pubDate": "Thu, 22 Oct 2026 21:18:18 -0000"
-  },
-  {
-    "title": "ChatGPT updated to 26.1016.8120.",
-    "link": "https://ninite.com/chatgpt/",
-    "pubDate": "Thu, 22 Oct 2026 14:53:06 -0000"
-  },
-  {
-    "title": "Claude updated to 3.1623.4.",
-    "link": "https://ninite.com/claude/",
-    "pubDate": "Thu, 22 Oct 2026 14:00:05 -0000"
-  },
-  {
-    "title": "Blender updated to 5.2.3.",
-    "link": "https://ninite.com/blender/",
-    "pubDate": "Thu, 22 Oct 2026 13:53:25 -0000"
-  },
-  {
-    "title": "Docker Desktop updated to 4.96.2.",
-    "link": "https://ninite.com/dockerdesktop/",
-    "pubDate": "Thu, 22 Oct 2026 12:48:29 -0000"
-  },
-  {
-    "title": "Vivaldi updated to 8.2.4133.91.",
-    "link": "https://ninite.com/vivaldi/",
-    "pubDate": "Thu, 22 Oct 2026 09:35:24 -0000"
   }
 ]
