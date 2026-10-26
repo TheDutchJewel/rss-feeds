@@ -1,5 +1,25 @@
 [
   {
+    "title": "LibreOffice 26.8.2 RC2",
+    "link": "https://www.computerbase.de/downloads/office/libreoffice/",
+    "pubDate": "2026-10-26T05:53:00.000Z"
+  },
+  {
+    "title": "Bandizip 8.0 Beta 49",
+    "link": "https://www.computerbase.de/downloads/office/packprogramme/bandizip/",
+    "pubDate": "2026-10-26T05:50:00.000Z"
+  },
+  {
+    "title": "Python 3.15.2",
+    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/python/",
+    "pubDate": "2026-10-26T05:49:00.000Z"
+  },
+  {
+    "title": "Python 3.14.10",
+    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/python/",
+    "pubDate": "2026-10-26T05:48:00.000Z"
+  },
+  {
     "title": "Visual Studio 2026 v18.12.12324.72 Insider",
     "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/visual-studio-2026/",
     "pubDate": "2026-10-25T21:48:00.000Z"
@@ -205,11 +225,6 @@
     "pubDate": "2026-10-23T14:51:00.000Z"
   },
   {
-    "title": "Bandizip 8.0 Beta 48",
-    "link": "https://www.computerbase.de/downloads/office/packprogramme/bandizip/",
-    "pubDate": "2026-10-23T14:50:00.000Z"
-  },
-  {
     "title": "Vivaldi 8.2 Build 4133.94",
     "link": "https://www.computerbase.de/downloads/browser/vivaldi/",
     "pubDate": "2026-10-23T14:49:00.000Z"
@@ -233,20 +248,5 @@
     "title": "balenaEtcher 2.1.9",
     "link": "https://www.computerbase.de/downloads/systemtools/festplatten/balenaetcher/",
     "pubDate": "2026-10-23T04:33:00.000Z"
-  },
-  {
-    "title": "AIMP 6.00 Build 3092 Beta 7",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/aimp/",
-    "pubDate": "2026-10-23T04:32:00.000Z"
-  },
-  {
-    "title": "Discord 1.0.9265",
-    "link": "https://www.computerbase.de/downloads/kommunikation/discord/",
-    "pubDate": "2026-10-23T04:31:00.000Z"
-  },
-  {
-    "title": "Git for Windows 2.56.0(3)",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/git-windows/",
-    "pubDate": "2026-10-23T04:30:00.000Z"
   }
 ]
