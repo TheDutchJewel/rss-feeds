@@ -1,5 +1,15 @@
 [
     {
+        "title": "RapidRaw 1.6.7",
+        "link": "https://www.gratissoftwaresite.nl/downloads/rapidraw-fotobewerking-beheer-workflow",
+        "pubDate": "26 oktober 2026"
+    },
+    {
+        "title": "VeraCrypt 1.26.30",
+        "link": "https://www.gratissoftwaresite.nl/downloads/veracrypt-encryptie-versleuteling-virtuele-kluis",
+        "pubDate": "26 oktober 2026"
+    },
+    {
         "title": "Super Productivity 19.3.1",
         "link": "https://www.gratissoftwaresite.nl/downloads/super-productivity-taken-plannen-workflow-projectbeheer",
         "pubDate": "26 oktober 2026"
@@ -212,11 +222,6 @@
     {
         "title": "LossLessCut 3.70.1",
         "link": "https://www.gratissoftwaresite.nl/downloads/losslesscut-videobewerking-knippen-film-fragmenten",
-        "pubDate": "19 oktober 2026"
-    },
-    {
-        "title": "RapidRaw 1.6.6",
-        "link": "https://www.gratissoftwaresite.nl/downloads/rapidraw-fotobewerking-beheer-workflow",
         "pubDate": "19 oktober 2026"
     },
     {
@@ -492,11 +497,6 @@
     {
         "title": "OpenShot Video Editor 4.0.1",
         "link": "https://www.gratissoftwaresite.nl/downloads/openshot-video-editor-videobewerking-video-dvd-uploaden",
-        "pubDate": "1 oktober 2026"
-    },
-    {
-        "title": "Audacity 4.0.1",
-        "link": "https://www.gratissoftwaresite.nl/downloads/audacity-geluidsbewerking-mp3-wav-editor",
         "pubDate": "1 oktober 2026"
     }
 ]

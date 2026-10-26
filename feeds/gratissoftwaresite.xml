@@ -5,6 +5,18 @@
     <link>https://www.gratissoftwaresite.nl/downloads/nieuwe-updates</link>
     <description>Nieuwste software-updates van GratisSoftwareSite</description>
     <item>
+      <title>RapidRaw 1.6.7</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/rapidraw-fotobewerking-beheer-workflow</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/rapidraw-fotobewerking-beheer-workflow</guid>
+      <pubDate>26 oktober 2026</pubDate>
+    </item>
+    <item>
+      <title>VeraCrypt 1.26.30</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/veracrypt-encryptie-versleuteling-virtuele-kluis</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/veracrypt-encryptie-versleuteling-virtuele-kluis</guid>
+      <pubDate>26 oktober 2026</pubDate>
+    </item>
+    <item>
       <title>Super Productivity 19.3.1</title>
       <link>https://www.gratissoftwaresite.nl/downloads/super-productivity-taken-plannen-workflow-projectbeheer</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/super-productivity-taken-plannen-workflow-projectbeheer</guid>
@@ -260,12 +272,6 @@
       <title>LossLessCut 3.70.1</title>
       <link>https://www.gratissoftwaresite.nl/downloads/losslesscut-videobewerking-knippen-film-fragmenten</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/losslesscut-videobewerking-knippen-film-fragmenten</guid>
-      <pubDate>19 oktober 2026</pubDate>
-    </item>
-    <item>
-      <title>RapidRaw 1.6.6</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/rapidraw-fotobewerking-beheer-workflow</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/rapidraw-fotobewerking-beheer-workflow</guid>
       <pubDate>19 oktober 2026</pubDate>
     </item>
     <item>
@@ -596,12 +602,6 @@
       <title>OpenShot Video Editor 4.0.1</title>
       <link>https://www.gratissoftwaresite.nl/downloads/openshot-video-editor-videobewerking-video-dvd-uploaden</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/openshot-video-editor-videobewerking-video-dvd-uploaden</guid>
-      <pubDate>1 oktober 2026</pubDate>
-    </item>
-    <item>
-      <title>Audacity 4.0.1</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/audacity-geluidsbewerking-mp3-wav-editor</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/audacity-geluidsbewerking-mp3-wav-editor</guid>
       <pubDate>1 oktober 2026</pubDate>
     </item>
   </channel>
