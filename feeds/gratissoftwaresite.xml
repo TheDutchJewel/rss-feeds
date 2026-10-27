@@ -5,6 +5,18 @@
     <link>https://www.gratissoftwaresite.nl/downloads/nieuwe-updates</link>
     <description>Nieuwste software-updates van GratisSoftwareSite</description>
     <item>
+      <title>Firefox 159.0</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/firefox-internet-web-browser</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/firefox-internet-web-browser</guid>
+      <pubDate>27 oktober 2026</pubDate>
+    </item>
+    <item>
+      <title>PicPick 7.6.2</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/picpick-fotobewerking-screenshot</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/picpick-fotobewerking-screenshot</guid>
+      <pubDate>27 oktober 2026</pubDate>
+    </item>
+    <item>
       <title>RapidRaw 1.6.7</title>
       <link>https://www.gratissoftwaresite.nl/downloads/rapidraw-fotobewerking-beheer-workflow</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/rapidraw-fotobewerking-beheer-workflow</guid>
@@ -212,12 +224,6 @@
       <title>Thunderbird 158.0.1 Release...</title>
       <link>https://www.gratissoftwaresite.nl/downloads/thunderbird-mailprogramma-pop3-imap</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/thunderbird-mailprogramma-pop3-imap</guid>
-      <pubDate>21 oktober 2026</pubDate>
-    </item>
-    <item>
-      <title>Firefox 158.0.1</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/firefox-internet-web-browser</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/firefox-internet-web-browser</guid>
       <pubDate>21 oktober 2026</pubDate>
     </item>
     <item>
@@ -596,12 +602,6 @@
       <title>HWiNFO 8.54</title>
       <link>https://www.gratissoftwaresite.nl/downloads/hwinfo-werktuigen-systeeminformatie</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/hwinfo-werktuigen-systeeminformatie</guid>
-      <pubDate>1 oktober 2026</pubDate>
-    </item>
-    <item>
-      <title>OpenShot Video Editor 4.0.1</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/openshot-video-editor-videobewerking-video-dvd-uploaden</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/openshot-video-editor-videobewerking-video-dvd-uploaden</guid>
       <pubDate>1 oktober 2026</pubDate>
     </item>
   </channel>

@@ -1,5 +1,15 @@
 [
     {
+        "title": "Firefox 159.0",
+        "link": "https://www.gratissoftwaresite.nl/downloads/firefox-internet-web-browser",
+        "pubDate": "27 oktober 2026"
+    },
+    {
+        "title": "PicPick 7.6.2",
+        "link": "https://www.gratissoftwaresite.nl/downloads/picpick-fotobewerking-screenshot",
+        "pubDate": "27 oktober 2026"
+    },
+    {
         "title": "RapidRaw 1.6.7",
         "link": "https://www.gratissoftwaresite.nl/downloads/rapidraw-fotobewerking-beheer-workflow",
         "pubDate": "26 oktober 2026"
@@ -172,11 +182,6 @@
     {
         "title": "Thunderbird 158.0.1 Release...",
         "link": "https://www.gratissoftwaresite.nl/downloads/thunderbird-mailprogramma-pop3-imap",
-        "pubDate": "21 oktober 2026"
-    },
-    {
-        "title": "Firefox 158.0.1",
-        "link": "https://www.gratissoftwaresite.nl/downloads/firefox-internet-web-browser",
         "pubDate": "21 oktober 2026"
     },
     {
@@ -492,11 +497,6 @@
     {
         "title": "HWiNFO 8.54",
         "link": "https://www.gratissoftwaresite.nl/downloads/hwinfo-werktuigen-systeeminformatie",
-        "pubDate": "1 oktober 2026"
-    },
-    {
-        "title": "OpenShot Video Editor 4.0.1",
-        "link": "https://www.gratissoftwaresite.nl/downloads/openshot-video-editor-videobewerking-video-dvd-uploaden",
         "pubDate": "1 oktober 2026"
     }
 ]

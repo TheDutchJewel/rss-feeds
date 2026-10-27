@@ -1,5 +1,55 @@
 [
   {
+    "title": "Thunderbird updated to 159.0.",
+    "link": "https://ninite.com/thunderbird/",
+    "pubDate": "Tue, 27 Oct 2026 18:20:58 -0000"
+  },
+  {
+    "title": "JDK (Amazon Corretto) x64 25 updated to 25.0.5.0.10.",
+    "link": "https://ninite.com/correttojdkx25/",
+    "pubDate": "Tue, 27 Oct 2026 18:20:45 -0000"
+  },
+  {
+    "title": "JDK (Amazon Corretto) x64 21 updated to 21.0.13.0.11.",
+    "link": "https://ninite.com/correttojdkx21/",
+    "pubDate": "Tue, 27 Oct 2026 18:20:24 -0000"
+  },
+  {
+    "title": "JDK (Amazon Corretto) x64 17 updated to 17.0.21.0.11.",
+    "link": "https://ninite.com/correttojdkx17/",
+    "pubDate": "Tue, 27 Oct 2026 18:19:59 -0000"
+  },
+  {
+    "title": "JDK (Amazon Corretto) x64 11 updated to 11.0.33.0.10.",
+    "link": "https://ninite.com/correttojdkx11/",
+    "pubDate": "Tue, 27 Oct 2026 18:19:37 -0000"
+  },
+  {
+    "title": "Opera Chromium updated to 139.0.6053.15.",
+    "link": "https://ninite.com/operaChromium/",
+    "pubDate": "Tue, 27 Oct 2026 18:10:25 -0000"
+  },
+  {
+    "title": "Slack updated to 4.53.269.",
+    "link": "https://ninite.com/slack/",
+    "pubDate": "Tue, 27 Oct 2026 17:31:10 -0000"
+  },
+  {
+    "title": "Evernote updated to 11.40.2.",
+    "link": "https://ninite.com/evernote/",
+    "pubDate": "Tue, 27 Oct 2026 16:58:28 -0000"
+  },
+  {
+    "title": "TeamViewer 15 updated to 15.83.3.",
+    "link": "https://ninite.com/teamviewer15/",
+    "pubDate": "Tue, 27 Oct 2026 14:03:07 -0000"
+  },
+  {
+    "title": "Firefox updated to 159.0.",
+    "link": "https://ninite.com/firefox/",
+    "pubDate": "Tue, 27 Oct 2026 13:27:44 -0000"
+  },
+  {
     "title": "PowerToys updated to 0.102.3001.0.",
     "link": "https://ninite.com/powertoys/",
     "pubDate": "Tue, 27 Oct 2026 12:09:00 -0000"
@@ -213,80 +263,5 @@
     "title": "Teams updated to 26276.513.5241.9675.",
     "link": "https://ninite.com/teams/",
     "pubDate": "Sat, 24 Oct 2026 00:06:55 -0000"
-  },
-  {
-    "title": "Grammarly updated to 1.2.306.1984.",
-    "link": "https://ninite.com/grammarly/",
-    "pubDate": "Fri, 23 Oct 2026 17:45:06 -0000"
-  },
-  {
-    "title": "Telegram updated to 7.3.3.",
-    "link": "https://ninite.com/telegram/",
-    "pubDate": "Fri, 23 Oct 2026 15:59:55 -0000"
-  },
-  {
-    "title": "Brave updated to 1.98.60.",
-    "link": "https://ninite.com/brave/",
-    "pubDate": "Fri, 23 Oct 2026 15:59:33 -0000"
-  },
-  {
-    "title": "Edge updated to 156.0.4314.42.",
-    "link": "https://ninite.com/edge/",
-    "pubDate": "Fri, 23 Oct 2026 15:41:00 -0000"
-  },
-  {
-    "title": "Cursor updated to 3.27.12.",
-    "link": "https://ninite.com/cursor/",
-    "pubDate": "Fri, 23 Oct 2026 15:39:56 -0000"
-  },
-  {
-    "title": "Bitwarden updated to 2026.10.1.",
-    "link": "https://ninite.com/bitwarden/",
-    "pubDate": "Fri, 23 Oct 2026 13:48:00 -0000"
-  },
-  {
-    "title": "GitHub Desktop updated to 3.6.8.",
-    "link": "https://ninite.com/githubdesktop/",
-    "pubDate": "Fri, 23 Oct 2026 13:47:39 -0000"
-  },
-  {
-    "title": "Claude updated to 3.6556.2.",
-    "link": "https://ninite.com/claude/",
-    "pubDate": "Fri, 23 Oct 2026 13:47:17 -0000"
-  },
-  {
-    "title": "JRE (Amazon Corretto) x64 8 updated to 8u512-b08.",
-    "link": "https://ninite.com/correttojrex8/",
-    "pubDate": "Fri, 23 Oct 2026 13:46:51 -0000"
-  },
-  {
-    "title": "JRE (Amazon Corretto) 8 updated to 8u512-b08.",
-    "link": "https://ninite.com/correttojre8/",
-    "pubDate": "Fri, 23 Oct 2026 13:46:17 -0000"
-  },
-  {
-    "title": "JDK (Amazon Corretto) 8 updated to 8u512-b08.",
-    "link": "https://ninite.com/correttojdk8/",
-    "pubDate": "Fri, 23 Oct 2026 13:46:08 -0000"
-  },
-  {
-    "title": "JDK (Amazon Corretto) x64 17 updated to 17.0.21.",
-    "link": "https://ninite.com/correttojdkx17/",
-    "pubDate": "Fri, 23 Oct 2026 13:45:58 -0000"
-  },
-  {
-    "title": "JDK (Amazon Corretto) x64 21 updated to 21.0.13.",
-    "link": "https://ninite.com/correttojdkx21/",
-    "pubDate": "Fri, 23 Oct 2026 13:45:42 -0000"
-  },
-  {
-    "title": "JDK (Amazon Corretto) x64 11 updated to 11.0.33.",
-    "link": "https://ninite.com/correttojdkx11/",
-    "pubDate": "Fri, 23 Oct 2026 13:31:57 -0000"
-  },
-  {
-    "title": "JDK (Amazon Corretto) x64 25 updated to 25.0.5.",
-    "link": "https://ninite.com/correttojdkx25/",
-    "pubDate": "Fri, 23 Oct 2026 13:31:31 -0000"
   }
 ]
