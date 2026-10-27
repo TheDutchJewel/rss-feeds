@@ -1,5 +1,45 @@
 [
     {
+        "title": "Opera 139.0.6053.15",
+        "link": "https://www.gratissoftwaresite.nl/downloads/opera-internet-web-browser",
+        "pubDate": "27 oktober 2026"
+    },
+    {
+        "title": "HopToDesk 1.46.74",
+        "link": "https://www.gratissoftwaresite.nl/downloads/hoptodesk-pc-hulp-op-afstand-remote-desktop",
+        "pubDate": "27 oktober 2026"
+    },
+    {
+        "title": "AnyDesk 9.8.3",
+        "link": "https://www.gratissoftwaresite.nl/downloads/anydesk-remote-desktop-pc-hulp-op-afstand",
+        "pubDate": "27 oktober 2026"
+    },
+    {
+        "title": "Microsoft PowerToys 0.102.3001.0",
+        "link": "https://www.gratissoftwaresite.nl/downloads/microsoft-powertoys-gereedschap-tools-windows",
+        "pubDate": "27 oktober 2026"
+    },
+    {
+        "title": "Waterfox 6.7.7",
+        "link": "https://www.gratissoftwaresite.nl/downloads/waterfox-web-browser",
+        "pubDate": "27 oktober 2026"
+    },
+    {
+        "title": "Pale Moon 35.0.3",
+        "link": "https://www.gratissoftwaresite.nl/downloads/pale-moon-web-browser-internet",
+        "pubDate": "27 oktober 2026"
+    },
+    {
+        "title": "TeamViewer 15.83.3",
+        "link": "https://www.gratissoftwaresite.nl/downloads/teamviewer-werktuigen-hulp-op-afstand-remote-desktop",
+        "pubDate": "27 oktober 2026"
+    },
+    {
+        "title": "Franz 6.10.2",
+        "link": "https://www.gratissoftwaresite.nl/downloads/franz-chat-instant-messenger-whatsapp-facebook-skype-hangouts-telegram",
+        "pubDate": "27 oktober 2026"
+    },
+    {
         "title": "Firefox 159.0",
         "link": "https://www.gratissoftwaresite.nl/downloads/firefox-internet-web-browser",
         "pubDate": "27 oktober 2026"
@@ -80,11 +120,6 @@
         "pubDate": "23 oktober 2026"
     },
     {
-        "title": "Franz 6.10.1",
-        "link": "https://www.gratissoftwaresite.nl/downloads/franz-chat-instant-messenger-whatsapp-facebook-skype-hangouts-telegram",
-        "pubDate": "23 oktober 2026"
-    },
-    {
         "title": "Brave 1.98.60",
         "link": "https://www.gratissoftwaresite.nl/downloads/brave-web-browser-internet-privacy-beveiliging-schilden-trackers-ads",
         "pubDate": "23 oktober 2026"
@@ -135,11 +170,6 @@
         "pubDate": "22 oktober 2026"
     },
     {
-        "title": "Microsoft PowerToys 0.102.2933.0",
-        "link": "https://www.gratissoftwaresite.nl/downloads/microsoft-powertoys-gereedschap-tools-windows",
-        "pubDate": "22 oktober 2026"
-    },
-    {
         "title": "Mullvad Browser 15.0.26",
         "link": "https://www.gratissoftwaresite.nl/downloads/mullvad-browser-privacy",
         "pubDate": "22 oktober 2026"
@@ -183,11 +213,6 @@
         "title": "Thunderbird 158.0.1 Release...",
         "link": "https://www.gratissoftwaresite.nl/downloads/thunderbird-mailprogramma-pop3-imap",
         "pubDate": "21 oktober 2026"
-    },
-    {
-        "title": "Opera 138.0.6044.24",
-        "link": "https://www.gratissoftwaresite.nl/downloads/opera-internet-web-browser",
-        "pubDate": "20 oktober 2026"
     },
     {
         "title": "VirtualBox 7.2.22",
@@ -275,11 +300,6 @@
         "pubDate": "16 oktober 2026"
     },
     {
-        "title": "AnyDesk 9.8.2",
-        "link": "https://www.gratissoftwaresite.nl/downloads/anydesk-remote-desktop-pc-hulp-op-afstand",
-        "pubDate": "15 oktober 2026"
-    },
-    {
         "title": "WinSCP 6.7.0",
         "link": "https://www.gratissoftwaresite.nl/downloads/winscp-ftp-sftp-webdav-amazon-s3-website-beheer",
         "pubDate": "15 oktober 2026"
@@ -318,11 +338,6 @@
         "title": "Kdenlive 26.08.2",
         "link": "https://www.gratissoftwaresite.nl/downloads/kdenlive-videobewerking-dvd-effecten-clips",
         "pubDate": "14 oktober 2026"
-    },
-    {
-        "title": "Waterfox 6.7.6",
-        "link": "https://www.gratissoftwaresite.nl/downloads/waterfox-web-browser",
-        "pubDate": "13 oktober 2026"
     },
     {
         "title": "AVG Anti-Virus Free 26.10",
@@ -395,11 +410,6 @@
         "pubDate": "9 oktober 2026"
     },
     {
-        "title": "HopToDesk 1.46.64",
-        "link": "https://www.gratissoftwaresite.nl/downloads/hoptodesk-pc-hulp-op-afstand-remote-desktop",
-        "pubDate": "9 oktober 2026"
-    },
-    {
         "title": "Password Safe 3.72.3",
         "link": "https://www.gratissoftwaresite.nl/downloads/password-safe-wachtwoord-beheer",
         "pubDate": "8 oktober 2026"
@@ -422,11 +432,6 @@
     {
         "title": "NirLauncher Utilities 1.30.26",
         "link": "https://www.gratissoftwaresite.nl/downloads/nirlauncher-nirsoft-utilities-werktuigen-tools-pc-onderhoud-beheer",
-        "pubDate": "6 oktober 2026"
-    },
-    {
-        "title": "Pale Moon 35.0.2",
-        "link": "https://www.gratissoftwaresite.nl/downloads/pale-moon-web-browser-internet",
         "pubDate": "6 oktober 2026"
     },
     {
@@ -487,11 +492,6 @@
     {
         "title": "Everything 1.4.1",
         "link": "https://www.gratissoftwaresite.nl/downloads/everything-zoeken",
-        "pubDate": "2 oktober 2026"
-    },
-    {
-        "title": "TeamViewer 15.82.6",
-        "link": "https://www.gratissoftwaresite.nl/downloads/teamviewer-werktuigen-hulp-op-afstand-remote-desktop",
         "pubDate": "2 oktober 2026"
     },
     {

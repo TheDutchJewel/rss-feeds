@@ -1,5 +1,20 @@
 [
   {
+    "title": "Chrome updated to 156.0.8078.74.",
+    "link": "https://ninite.com/chrome/",
+    "pubDate": "Tue, 27 Oct 2026 21:02:31 -0000"
+  },
+  {
+    "title": "Dropbox updated to 276.4.5325.",
+    "link": "https://ninite.com/dropbox/",
+    "pubDate": "Tue, 27 Oct 2026 20:07:45 -0000"
+  },
+  {
+    "title": "ChatGPT updated to 26.1023.6123.",
+    "link": "https://ninite.com/chatgpt/",
+    "pubDate": "Tue, 27 Oct 2026 19:23:02 -0000"
+  },
+  {
     "title": "Thunderbird updated to 159.0.",
     "link": "https://ninite.com/thunderbird/",
     "pubDate": "Tue, 27 Oct 2026 18:20:58 -0000"
@@ -258,10 +273,5 @@
     "title": "GitHub Desktop updated to 3.6.9.",
     "link": "https://ninite.com/githubdesktop/",
     "pubDate": "Sun, 25 Oct 2026 17:15:33 -0000"
-  },
-  {
-    "title": "Teams updated to 26276.513.5241.9675.",
-    "link": "https://ninite.com/teams/",
-    "pubDate": "Sat, 24 Oct 2026 00:06:55 -0000"
   }
 ]

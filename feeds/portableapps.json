@@ -1,5 +1,30 @@
 [
   {
+    "title": "Mozilla Firefox, Portable Edition Stable 159.0 (web browser) Released",
+    "link": "https://portableapps.com/news/2026-10-27--firefox-portable-159.0-released",
+    "pubDate": "Tue, 27 Oct 2026 19:53:33 +0000"
+  },
+  {
+    "title": "Telegram Desktop Portable 7.3.3 (secure instant messaging) Released",
+    "link": "https://portableapps.com/news/2026-10-27--telegram-desktop-portable-7.3.3-released",
+    "pubDate": "Tue, 27 Oct 2026 19:40:29 +0000"
+  },
+  {
+    "title": "Chromium Portable 156.0.8078.48 (web browser) Released",
+    "link": "https://portableapps.com/news/2026-10-27--chromium-portable-156.0.8078.48-released",
+    "pubDate": "Tue, 27 Oct 2026 17:52:18 +0000"
+  },
+  {
+    "title": "RawTherapee Portable 5.13 Rev 2 (advanced raw image processor) Released",
+    "link": "https://portableapps.com/news/2026-10-27--rawtherapee-portable-5.13-rev-2-released",
+    "pubDate": "Tue, 27 Oct 2026 17:49:24 +0000"
+  },
+  {
+    "title": "Password Safe Portable 3.73.0 (secure password manager) Released",
+    "link": "https://portableapps.com/news/2026-10-27--password-safe-portable-3.73.0-released",
+    "pubDate": "Tue, 27 Oct 2026 17:32:49 +0000"
+  },
+  {
     "title": "Google Chrome Portable 156.0.8078.48 Stable (web browser) Released",
     "link": "https://portableapps.com/news/2026-10-25--google-chrome-portable-156.0.8078.48-released",
     "pubDate": "Sun, 25 Oct 2026 20:06:56 +0000"
@@ -48,30 +73,5 @@
     "title": "QOwnNotes Portable 26.10.8 (markdown note taker) Released",
     "link": "https://portableapps.com/news/2026-10-19--qownnotes-portable-26.10.8-released",
     "pubDate": "Mon, 19 Oct 2026 21:06:10 +0000"
-  },
-  {
-    "title": "Trellix Stinger Portable 26.10.42.1 (common virus remover) Released",
-    "link": "https://portableapps.com/news/2026-10-19--trellix-stinger-portable-26.10.42.1-released",
-    "pubDate": "Mon, 19 Oct 2026 18:49:39 +0000"
-  },
-  {
-    "title": "mssPortable 1.461.107 (Microsoft Safety Scanner antivirus launcher) Released",
-    "link": "https://portableapps.com/news/2026-10-19--mssportable-1.461.107-released",
-    "pubDate": "Mon, 19 Oct 2026 18:39:46 +0000"
-  },
-  {
-    "title": "Google Chrome Portable 158 Dev (web browser) Released",
-    "link": "https://portableapps.com/news/2026-10-17--google-chrome-portable-158-dev-released",
-    "pubDate": "Sat, 17 Oct 2026 22:36:30 +0000"
-  },
-  {
-    "title": "Google Chrome Portable 157 Beta (web browser) Released",
-    "link": "https://portableapps.com/news/2026-10-17--google-chrome-portable-157-beta-released",
-    "pubDate": "Sat, 17 Oct 2026 22:36:05 +0000"
-  },
-  {
-    "title": "Google Chrome Portable 155.0.8059.85 Stable (web browser) Released",
-    "link": "https://portableapps.com/news/2026-10-17--google-chrome-portable-155.0.8059.85-released",
-    "pubDate": "Sat, 17 Oct 2026 22:35:38 +0000"
   }
 ]
