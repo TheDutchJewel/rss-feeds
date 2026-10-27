@@ -1,5 +1,15 @@
 [
   {
+    "title": "RealVNC Connect Server 2.4.1",
+    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/vnc-connect/",
+    "pubDate": "2026-10-27T09:09:00.000Z"
+  },
+  {
+    "title": "RealVNC Connect Viewer 8.5.3",
+    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/vnc-connect/",
+    "pubDate": "2026-10-27T09:09:00.000Z"
+  },
+  {
     "title": "PicPick 7.6.2",
     "link": "https://www.computerbase.de/downloads/foto-und-grafik/picpick/",
     "pubDate": "2026-10-27T06:02:00.000Z"
@@ -238,15 +248,5 @@
     "title": "Python 3.15.2",
     "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/python/",
     "pubDate": "2026-10-26T05:49:00.000Z"
-  },
-  {
-    "title": "Python 3.14.10",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/python/",
-    "pubDate": "2026-10-26T05:48:00.000Z"
-  },
-  {
-    "title": "Visual Studio 2026 v18.12.12324.72 Insider",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/visual-studio-2026/",
-    "pubDate": "2026-10-25T21:48:00.000Z"
   }
 ]

@@ -1,5 +1,40 @@
 [
   {
+    "title": "PowerToys updated to 0.102.3001.0.",
+    "link": "https://ninite.com/powertoys/",
+    "pubDate": "Tue, 27 Oct 2026 12:09:00 -0000"
+  },
+  {
+    "title": "Java (AdoptOpenJDK) x64 25 updated to 25.0.5.",
+    "link": "https://ninite.com/adoptjavax25/",
+    "pubDate": "Tue, 27 Oct 2026 09:25:00 -0000"
+  },
+  {
+    "title": "JDK (AdoptOpenJDK) x64 25 updated to 25.0.5.",
+    "link": "https://ninite.com/adoptjdkx25/",
+    "pubDate": "Tue, 27 Oct 2026 09:24:14 -0000"
+  },
+  {
+    "title": "JRE (Amazon Corretto) 8 updated to 8u512-b09.",
+    "link": "https://ninite.com/correttojre8/",
+    "pubDate": "Tue, 27 Oct 2026 09:20:19 -0000"
+  },
+  {
+    "title": "JRE (Amazon Corretto) x64 8 updated to 8u512-b09.",
+    "link": "https://ninite.com/correttojrex8/",
+    "pubDate": "Tue, 27 Oct 2026 09:19:47 -0000"
+  },
+  {
+    "title": "JDK (Amazon Corretto) x64 8 updated to 8u512-b09.",
+    "link": "https://ninite.com/correttojdkx8/",
+    "pubDate": "Tue, 27 Oct 2026 09:19:32 -0000"
+  },
+  {
+    "title": "JDK (Amazon Corretto) 8 updated to 8u512-b09.",
+    "link": "https://ninite.com/correttojdk8/",
+    "pubDate": "Tue, 27 Oct 2026 09:19:21 -0000"
+  },
+  {
     "title": "Cursor updated to 3.27.22.",
     "link": "https://ninite.com/cursor/",
     "pubDate": "Tue, 27 Oct 2026 03:40:13 -0000"
@@ -253,40 +288,5 @@
     "title": "JDK (Amazon Corretto) x64 25 updated to 25.0.5.",
     "link": "https://ninite.com/correttojdkx25/",
     "pubDate": "Fri, 23 Oct 2026 13:31:31 -0000"
-  },
-  {
-    "title": "JDK (Amazon Corretto) x64 8 updated to 8u512-b08.",
-    "link": "https://ninite.com/correttojdkx8/",
-    "pubDate": "Fri, 23 Oct 2026 13:31:13 -0000"
-  },
-  {
-    "title": "Visual Studio Code updated to 1.143.1.",
-    "link": "https://ninite.com/vscode/",
-    "pubDate": "Fri, 23 Oct 2026 13:27:03 -0000"
-  },
-  {
-    "title": "Vivaldi updated to 8.2.4133.94.",
-    "link": "https://ninite.com/vivaldi/",
-    "pubDate": "Fri, 23 Oct 2026 13:24:40 -0000"
-  },
-  {
-    "title": "ChatGPT updated to 26.1016.8622.",
-    "link": "https://ninite.com/chatgpt/",
-    "pubDate": "Thu, 22 Oct 2026 22:15:18 -0000"
-  },
-  {
-    "title": "Discord updated to 1.0.9265.",
-    "link": "https://ninite.com/discord/",
-    "pubDate": "Thu, 22 Oct 2026 21:21:48 -0000"
-  },
-  {
-    "title": "Git updated to 2.56.0.3.",
-    "link": "https://ninite.com/git/",
-    "pubDate": "Thu, 22 Oct 2026 21:19:37 -0000"
-  },
-  {
-    "title": "Docker Desktop updated to 4.96.3.",
-    "link": "https://ninite.com/dockerdesktop/",
-    "pubDate": "Thu, 22 Oct 2026 21:18:37 -0000"
   }
 ]
