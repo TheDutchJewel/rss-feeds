@@ -1,5 +1,70 @@
 [
   {
+    "title": "PicPick 7.6.2",
+    "link": "https://www.computerbase.de/downloads/foto-und-grafik/picpick/",
+    "pubDate": "2026-10-27T06:02:00.000Z"
+  },
+  {
+    "title": "Windows 11 Kumulatives Update 24H2/25H2/26H2 (Build 26300.9725) KB5134133 OOB (Win 11)",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/windows-11-kumulatives-update/",
+    "pubDate": "2026-10-27T05:53:00.000Z"
+  },
+  {
+    "title": "Windows 11 Kumulatives Update 26H1 (Build 28000.3237) KB5134134 OOB (Win 11)",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/windows-11-kumulatives-update/",
+    "pubDate": "2026-10-27T05:52:00.000Z"
+  },
+  {
+    "title": "Windows 11 Kumulatives Update 23H2 (Build 22631.7654) KB5134130 OOB (Win 11)",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/windows-11-kumulatives-update/",
+    "pubDate": "2026-10-27T05:51:00.000Z"
+  },
+  {
+    "title": "Windows 10 Kumulatives Update 21H2/22H2 (Build 19045.7811) KB5134125 OOB (Win 10)",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/windows-10-kumulatives-update/",
+    "pubDate": "2026-10-27T05:47:00.000Z"
+  },
+  {
+    "title": "Microsoft Edge 156.0.4314.50",
+    "link": "https://www.computerbase.de/downloads/browser/microsoft-edge/",
+    "pubDate": "2026-10-27T05:40:00.000Z"
+  },
+  {
+    "title": "HyperSnap 10.5.0",
+    "link": "https://www.computerbase.de/downloads/foto-und-grafik/hypersnap/",
+    "pubDate": "2026-10-27T05:37:00.000Z"
+  },
+  {
+    "title": "Slack 4.53.269 (Win 11)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/slack/",
+    "pubDate": "2026-10-27T05:36:00.000Z"
+  },
+  {
+    "title": "Slack 4.53.269 (macOS)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/slack/",
+    "pubDate": "2026-10-27T05:35:00.000Z"
+  },
+  {
+    "title": "Slack 4.53.269 Beta (Linux)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/slack/",
+    "pubDate": "2026-10-27T05:35:00.000Z"
+  },
+  {
+    "title": "Todoist 9.33.1",
+    "link": "https://www.computerbase.de/downloads/office/todoist/",
+    "pubDate": "2026-10-27T05:32:00.000Z"
+  },
+  {
+    "title": "Pandoc 3.13",
+    "link": "https://www.computerbase.de/downloads/office/pandoc/",
+    "pubDate": "2026-10-27T05:30:00.000Z"
+  },
+  {
+    "title": "Mozilla Firefox 160.0 Beta 1",
+    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
+    "pubDate": "2026-10-27T05:29:00.000Z"
+  },
+  {
     "title": "Tunnelblick 10.0.2 (macOS)",
     "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/tunnelblick/",
     "pubDate": "2026-10-26T18:40:00.000Z"
@@ -183,70 +248,5 @@
     "title": "Visual Studio 2026 v18.12.12324.72 Insider",
     "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/visual-studio-2026/",
     "pubDate": "2026-10-25T21:48:00.000Z"
-  },
-  {
-    "title": "Visual Studio 2022 v17.14.43",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/visual-studio-2022/",
-    "pubDate": "2026-10-25T21:47:00.000Z"
-  },
-  {
-    "title": "Visual Studio 2026 v18.11.2",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/visual-studio-2026/",
-    "pubDate": "2026-10-25T21:47:00.000Z"
-  },
-  {
-    "title": "Visual Studio 2019 v16.11.61",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/visual-studio-2019/",
-    "pubDate": "2026-10-25T21:46:00.000Z"
-  },
-  {
-    "title": "KDE neon 20261025-1825",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/kde-neon/",
-    "pubDate": "2026-10-25T21:45:00.000Z"
-  },
-  {
-    "title": "Microsoft .NET Windows Desktop Runtime 11.0.0 RC3",
-    "link": "https://www.computerbase.de/downloads/systemtools/microsoft-.net/",
-    "pubDate": "2026-10-25T18:46:00.000Z"
-  },
-  {
-    "title": "Microsoft .NET Windows Desktop Runtime 10.0.14",
-    "link": "https://www.computerbase.de/downloads/systemtools/microsoft-.net/",
-    "pubDate": "2026-10-25T18:45:00.000Z"
-  },
-  {
-    "title": "Microsoft .NET Windows Desktop Runtime 9.0.22",
-    "link": "https://www.computerbase.de/downloads/systemtools/microsoft-.net/",
-    "pubDate": "2026-10-25T18:44:00.000Z"
-  },
-  {
-    "title": "Microsoft .NET Windows Desktop Runtime 8.0.33",
-    "link": "https://www.computerbase.de/downloads/systemtools/microsoft-.net/",
-    "pubDate": "2026-10-25T18:43:00.000Z"
-  },
-  {
-    "title": "UltraVNC 1.8.3.1",
-    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/ultravnc/",
-    "pubDate": "2026-10-25T15:48:00.000Z"
-  },
-  {
-    "title": "BitComet 2.23",
-    "link": "https://www.computerbase.de/downloads/office/dateitransfer/bitcomet/",
-    "pubDate": "2026-10-25T15:47:00.000Z"
-  },
-  {
-    "title": "VeraCrypt 1.26.30",
-    "link": "https://www.computerbase.de/downloads/sicherheit/verschluesselung/veracrypt/",
-    "pubDate": "2026-10-25T15:44:00.000Z"
-  },
-  {
-    "title": "Box Drive 2.55.145",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/box-drive/",
-    "pubDate": "2026-10-25T12:39:00.000Z"
-  },
-  {
-    "title": "AutoHotkey 2.0.31",
-    "link": "https://www.computerbase.de/downloads/systemtools/autohotkey/",
-    "pubDate": "2026-10-25T08:21:00.000Z"
   }
 ]
