@@ -1,5 +1,90 @@
 [
   {
+    "title": "Windows 11 Kumulatives Update 25H2/26H2 (Build 26300.9818) KB5127936 Preview (Win 11)",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/windows-11-kumulatives-update/",
+    "pubDate": "2026-10-28T18:41:00.000Z"
+  },
+  {
+    "title": "Windows 11 Kumulatives Update 26H1 (Build 28000.3365) KB5127653 Preview (Win 11)",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/windows-11-kumulatives-update/",
+    "pubDate": "2026-10-28T18:39:00.000Z"
+  },
+  {
+    "title": "Todoist 9.34.0",
+    "link": "https://www.computerbase.de/downloads/office/todoist/",
+    "pubDate": "2026-10-28T18:37:00.000Z"
+  },
+  {
+    "title": "Intel Extreme Tuning Utility (XTU) 10.0.1.235",
+    "link": "https://www.computerbase.de/downloads/systemtools/intel-extreme-tuning-utility-xtu/",
+    "pubDate": "2026-10-28T18:03:00.000Z"
+  },
+  {
+    "title": "Intel Extreme Tuning Utility (XTU) 7.14.2.135",
+    "link": "https://www.computerbase.de/downloads/systemtools/intel-extreme-tuning-utility-xtu/",
+    "pubDate": "2026-10-28T18:02:00.000Z"
+  },
+  {
+    "title": "Epic Games Launcher 0.105.0 Preview",
+    "link": "https://www.computerbase.de/downloads/games/epic-games-launcher/",
+    "pubDate": "2026-10-28T18:00:00.000Z"
+  },
+  {
+    "title": "Google Drive for desktop 133.0.2",
+    "link": "https://www.computerbase.de/downloads/office/dateimanager/google-drive/",
+    "pubDate": "2026-10-28T18:00:00.000Z"
+  },
+  {
+    "title": "Google Drive for desktop 133.0.2 ARM64-Beta (Win 11)",
+    "link": "https://www.computerbase.de/downloads/office/dateimanager/google-drive/",
+    "pubDate": "2026-10-28T17:59:00.000Z"
+  },
+  {
+    "title": "Viber für Desktop 29.3.0.0",
+    "link": "https://www.computerbase.de/downloads/kommunikation/viber-fuer-desktop/",
+    "pubDate": "2026-10-28T17:59:00.000Z"
+  },
+  {
+    "title": "Visual Studio Code (VS Code) 1.144.0",
+    "link": "https://www.computerbase.de/downloads/office/editoren/visual-studio-code/",
+    "pubDate": "2026-10-28T17:58:00.000Z"
+  },
+  {
+    "title": "Google Chrome 158.0.8127.2 Beta",
+    "link": "https://www.computerbase.de/downloads/browser/google-chrome/",
+    "pubDate": "2026-10-28T17:57:00.000Z"
+  },
+  {
+    "title": "Mozilla Thunderbird 160.0 Beta 2",
+    "link": "https://www.computerbase.de/downloads/kommunikation/mozilla-thunderbird/",
+    "pubDate": "2026-10-28T16:02:00.000Z"
+  },
+  {
+    "title": "Mozilla Firefox 160.0 Beta 2",
+    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
+    "pubDate": "2026-10-28T16:02:00.000Z"
+  },
+  {
+    "title": "Camtasia 2026.2.4",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/camtasia-studio/",
+    "pubDate": "2026-10-28T16:01:00.000Z"
+  },
+  {
+    "title": "VSCodium 1.143.17232",
+    "link": "https://www.computerbase.de/downloads/office/editoren/vscodium/",
+    "pubDate": "2026-10-28T15:57:00.000Z"
+  },
+  {
+    "title": "doPDF 11.9.532",
+    "link": "https://www.computerbase.de/downloads/office/pdf/dopdf/",
+    "pubDate": "2026-10-28T15:56:00.000Z"
+  },
+  {
+    "title": "Cryptomator 1.19.5",
+    "link": "https://www.computerbase.de/downloads/sicherheit/verschluesselung/cryptomator/",
+    "pubDate": "2026-10-28T15:55:00.000Z"
+  },
+  {
     "title": "LosslessCut 3.70.2",
     "link": "https://www.computerbase.de/downloads/audio-und-video/losslesscut/",
     "pubDate": "2026-10-28T08:42:00.000Z"
@@ -48,11 +133,6 @@
     "title": "Nvidia RTX Enterprise Treiber 597.30",
     "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/nvidia-quadro-treiber/",
     "pubDate": "2026-10-27T19:40:00.000Z"
-  },
-  {
-    "title": "Epic Games Launcher 0.104.0 Preview",
-    "link": "https://www.computerbase.de/downloads/games/epic-games-launcher/",
-    "pubDate": "2026-10-27T19:31:00.000Z"
   },
   {
     "title": "Rocket.Chat Desktop 4.19.0",
@@ -168,85 +248,5 @@
     "title": "eM Client 11.0.1389.0",
     "link": "https://www.computerbase.de/downloads/kommunikation/em-client/",
     "pubDate": "2026-10-27T16:13:00.000Z"
-  },
-  {
-    "title": "RAR 7.30 Beta 2 (Linux, macOS)",
-    "link": "https://www.computerbase.de/downloads/office/packprogramme/rar/",
-    "pubDate": "2026-10-27T16:12:00.000Z"
-  },
-  {
-    "title": "WinRAR 7.30 Beta 2",
-    "link": "https://www.computerbase.de/downloads/office/packprogramme/winrar/",
-    "pubDate": "2026-10-27T16:10:00.000Z"
-  },
-  {
-    "title": "EPIM Mail 26.5.4",
-    "link": "https://www.computerbase.de/downloads/office/essentialpim-free/",
-    "pubDate": "2026-10-27T16:08:00.000Z"
-  },
-  {
-    "title": "Adobe AIR SDK 51.5.1.1",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/adobe-air-sdk/",
-    "pubDate": "2026-10-27T16:06:00.000Z"
-  },
-  {
-    "title": "PowerToys 0.102.3001.0",
-    "link": "https://www.computerbase.de/downloads/systemtools/powertoys/",
-    "pubDate": "2026-10-27T16:04:00.000Z"
-  },
-  {
-    "title": "Opera 139.0.6053.15",
-    "link": "https://www.computerbase.de/downloads/browser/opera/",
-    "pubDate": "2026-10-27T16:03:00.000Z"
-  },
-  {
-    "title": "WhatsApp 2.26.43.20 (macOS)",
-    "link": "https://www.computerbase.de/downloads/kommunikation/whatsapp/",
-    "pubDate": "2026-10-27T16:02:00.000Z"
-  },
-  {
-    "title": "Betterbird 153.6.0esr-bb12",
-    "link": "https://www.computerbase.de/downloads/kommunikation/betterbird/",
-    "pubDate": "2026-10-27T16:00:00.000Z"
-  },
-  {
-    "title": "WinMerge 2.16.60",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/winmerge/",
-    "pubDate": "2026-10-27T15:59:00.000Z"
-  },
-  {
-    "title": "Mozilla Firefox 159.0",
-    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
-    "pubDate": "2026-10-27T15:57:00.000Z"
-  },
-  {
-    "title": "Mozilla Firefox 153.6.0 ESR",
-    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
-    "pubDate": "2026-10-27T15:56:00.000Z"
-  },
-  {
-    "title": "Mozilla Firefox 115.44.0 ESR",
-    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
-    "pubDate": "2026-10-27T15:55:00.000Z"
-  },
-  {
-    "title": "RealVNC Connect Server 2.4.1",
-    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/vnc-connect/",
-    "pubDate": "2026-10-27T09:09:00.000Z"
-  },
-  {
-    "title": "RealVNC Connect Viewer 8.5.3",
-    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/vnc-connect/",
-    "pubDate": "2026-10-27T09:09:00.000Z"
-  },
-  {
-    "title": "PicPick 7.6.2",
-    "link": "https://www.computerbase.de/downloads/foto-und-grafik/picpick/",
-    "pubDate": "2026-10-27T06:02:00.000Z"
-  },
-  {
-    "title": "Windows 11 Kumulatives Update 24H2/25H2/26H2 (Build 26300.9725) KB5134133 OOB (Win 11)",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/windows-11-kumulatives-update/",
-    "pubDate": "2026-10-27T05:53:00.000Z"
   }
 ]
