@@ -1,5 +1,30 @@
 [
   {
+    "title": "iTunes updated to 12.13.12.3.",
+    "link": "https://ninite.com/itunes/",
+    "pubDate": "Wed, 28 Oct 2026 21:50:55 -0000"
+  },
+  {
+    "title": "Claude updated to 4.29.0.",
+    "link": "https://ninite.com/claude/",
+    "pubDate": "Wed, 28 Oct 2026 21:49:56 -0000"
+  },
+  {
+    "title": "ChatGPT updated to 26.1023.6621.",
+    "link": "https://ninite.com/chatgpt/",
+    "pubDate": "Wed, 28 Oct 2026 20:33:30 -0000"
+  },
+  {
+    "title": "Evernote updated to 11.40.3.",
+    "link": "https://ninite.com/evernote/",
+    "pubDate": "Wed, 28 Oct 2026 20:08:15 -0000"
+  },
+  {
+    "title": "WinMerge updated to 2.16.60.",
+    "link": "https://ninite.com/winmerge/",
+    "pubDate": "Wed, 28 Oct 2026 19:48:40 -0000"
+  },
+  {
     "title": "Node.js 24 updated to 24.22.2.",
     "link": "https://ninite.com/node.js24/",
     "pubDate": "Wed, 28 Oct 2026 19:02:51 -0000"
@@ -283,25 +308,5 @@
     "title": "ASP.NET Core Runtime x64 10 updated to 10.0.14.36622.",
     "link": "https://ninite.com/aspnetx10/",
     "pubDate": "Sun, 25 Oct 2026 18:55:41 -0000"
-  },
-  {
-    "title": "ASP.NET Core Runtime x64 9 updated to 9.0.22.26523.",
-    "link": "https://ninite.com/aspnetx9/",
-    "pubDate": "Sun, 25 Oct 2026 18:54:36 -0000"
-  },
-  {
-    "title": ".NET Desktop Runtime arm64 9 updated to 9.0.22.36622.",
-    "link": "https://ninite.com/.neta9/",
-    "pubDate": "Sun, 25 Oct 2026 18:53:27 -0000"
-  },
-  {
-    "title": "ASP.NET Core Runtime 9 updated to 9.0.22.26523.",
-    "link": "https://ninite.com/aspnet9/",
-    "pubDate": "Sun, 25 Oct 2026 18:52:21 -0000"
-  },
-  {
-    "title": "Windows App updated to 2.0.1485.",
-    "link": "https://ninite.com/windowsapp/",
-    "pubDate": "Sun, 25 Oct 2026 17:17:02 -0000"
   }
 ]
