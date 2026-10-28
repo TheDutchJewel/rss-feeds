@@ -5,6 +5,48 @@
     <link>https://www.gratissoftwaresite.nl/downloads/nieuwe-updates</link>
     <description>Nieuwste software-updates van GratisSoftwareSite</description>
     <item>
+      <title>LossLessCut 3.70.2</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/losslesscut-videobewerking-knippen-film-fragmenten</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/losslesscut-videobewerking-knippen-film-fragmenten</guid>
+      <pubDate>28 oktober 2026</pubDate>
+    </item>
+    <item>
+      <title>Scribus 1.6.7</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/Scribus-dtp-desktop-publishing</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/Scribus-dtp-desktop-publishing</guid>
+      <pubDate>28 oktober 2026</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Edge 156.0.4314.50</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/edge-internet-browser-ie-opvolger</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/edge-internet-browser-ie-opvolger</guid>
+      <pubDate>28 oktober 2026</pubDate>
+    </item>
+    <item>
+      <title>Google Chrome 156.0.8078.73/74</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/google-chrome-internet-web-browser</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/google-chrome-internet-web-browser</guid>
+      <pubDate>28 oktober 2026</pubDate>
+    </item>
+    <item>
+      <title>Dropbox 277.4.4974</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/dropbox-online-opslag-sync</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/dropbox-online-opslag-sync</guid>
+      <pubDate>28 oktober 2026</pubDate>
+    </item>
+    <item>
+      <title>LibreWolf 159.0-1</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/librewolf-web-browser-privacy</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/librewolf-web-browser-privacy</guid>
+      <pubDate>28 oktober 2026</pubDate>
+    </item>
+    <item>
+      <title>Thunderbird 159.0 Release...</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/thunderbird-mailprogramma-pop3-imap</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/thunderbird-mailprogramma-pop3-imap</guid>
+      <pubDate>28 oktober 2026</pubDate>
+    </item>
+    <item>
       <title>Opera 139.0.6053.15</title>
       <link>https://www.gratissoftwaresite.nl/downloads/opera-internet-web-browser</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/opera-internet-web-browser</guid>
@@ -155,12 +197,6 @@
       <pubDate>23 oktober 2026</pubDate>
     </item>
     <item>
-      <title>Microsoft Edge 156.0.4314.42</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/edge-internet-browser-ie-opvolger</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/edge-internet-browser-ie-opvolger</guid>
-      <pubDate>23 oktober 2026</pubDate>
-    </item>
-    <item>
       <title>Obsidian 1.15.0</title>
       <link>https://www.gratissoftwaresite.nl/downloads/obsidian-notities-aantekeningen-maken</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/obsidian-notities-aantekeningen-maken</guid>
@@ -221,12 +257,6 @@
       <pubDate>22 oktober 2026</pubDate>
     </item>
     <item>
-      <title>LibreWolf 158.0.1-1</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/librewolf-web-browser-privacy</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/librewolf-web-browser-privacy</guid>
-      <pubDate>22 oktober 2026</pubDate>
-    </item>
-    <item>
       <title>Windows Firewall Control 6.37.0.0</title>
       <link>https://www.gratissoftwaresite.nl/downloads/windows-firewall-control-malwarebytes-internet-toegang-applicaties</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/windows-firewall-control-malwarebytes-internet-toegang-applicaties</guid>
@@ -249,18 +279,6 @@
       <link>https://www.gratissoftwaresite.nl/downloads/drawpile-tekenen-collaboration-open-raster-netwerk-samenwerken</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/drawpile-tekenen-collaboration-open-raster-netwerk-samenwerken</guid>
       <pubDate>22 oktober 2026</pubDate>
-    </item>
-    <item>
-      <title>Google Chrome 156.0.8078.47/48</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/google-chrome-internet-web-browser</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/google-chrome-internet-web-browser</guid>
-      <pubDate>21 oktober 2026</pubDate>
-    </item>
-    <item>
-      <title>Thunderbird 158.0.1 Release...</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/thunderbird-mailprogramma-pop3-imap</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/thunderbird-mailprogramma-pop3-imap</guid>
-      <pubDate>21 oktober 2026</pubDate>
     </item>
     <item>
       <title>VirtualBox 7.2.22</title>
@@ -302,12 +320,6 @@
       <title>Glary Utilities 6.49.0.53</title>
       <link>https://www.gratissoftwaresite.nl/downloads/glary-utilities-pc-opruimen-cleaner</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/glary-utilities-pc-opruimen-cleaner</guid>
-      <pubDate>19 oktober 2026</pubDate>
-    </item>
-    <item>
-      <title>LossLessCut 3.70.1</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/losslesscut-videobewerking-knippen-film-fragmenten</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/losslesscut-videobewerking-knippen-film-fragmenten</guid>
       <pubDate>19 oktober 2026</pubDate>
     </item>
     <item>
@@ -563,12 +575,6 @@
       <pubDate>4 oktober 2026</pubDate>
     </item>
     <item>
-      <title>Dropbox 273.4.4708</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/dropbox-online-opslag-sync</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/dropbox-online-opslag-sync</guid>
-      <pubDate>4 oktober 2026</pubDate>
-    </item>
-    <item>
       <title>SRWare Iron 154.0.8100.0</title>
       <link>https://www.gratissoftwaresite.nl/downloads/srware-iron-internet-web-browser-privacy</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/srware-iron-internet-web-browser-privacy</guid>
@@ -597,12 +603,6 @@
       <link>https://www.gratissoftwaresite.nl/downloads/everything-zoeken</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/everything-zoeken</guid>
       <pubDate>2 oktober 2026</pubDate>
-    </item>
-    <item>
-      <title>HWiNFO 8.54</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/hwinfo-werktuigen-systeeminformatie</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/hwinfo-werktuigen-systeeminformatie</guid>
-      <pubDate>1 oktober 2026</pubDate>
     </item>
   </channel>
 </rss>
