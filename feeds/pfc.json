@@ -1,5 +1,15 @@
 [
   {
+    "title": "[UPDATE] NAPS2 v8.6.0",
+    "link": "https://www.portablefreeware.com/?id=3020&ts=1793162545",
+    "pubDate": "Wed, 28 Oct 2026 04:42:25 +0000"
+  },
+  {
+    "title": "[UPDATE] VeraCrypt v1.26.30",
+    "link": "https://www.portablefreeware.com/?id=2703&ts=1793162518",
+    "pubDate": "Wed, 28 Oct 2026 04:41:58 +0000"
+  },
+  {
     "title": "[UPDATE] Mozilla Firefox, Portable Edition v159.0",
     "link": "https://www.portablefreeware.com/?id=132&ts=1793132489",
     "pubDate": "Tue, 27 Oct 2026 20:21:29 +0000"
@@ -280,11 +290,6 @@
     "pubDate": "Wed, 14 Oct 2026 15:11:11 +0000"
   },
   {
-    "title": "[UPDATE] NAPS2 v8.5.1",
-    "link": "https://www.portablefreeware.com/?id=3020&ts=1791946215",
-    "pubDate": "Wed, 14 Oct 2026 02:50:15 +0000"
-  },
-  {
     "title": "[UPDATE] Core Temp v1.21",
     "link": "https://www.portablefreeware.com/?id=2347&ts=1791946169",
     "pubDate": "Wed, 14 Oct 2026 02:49:29 +0000"
@@ -493,10 +498,5 @@
     "title": "[UPDATE] UltraSearch Free v4.9.4",
     "link": "https://www.portablefreeware.com/?id=2020&ts=1790230463",
     "pubDate": "Thu, 24 Sep 2026 06:14:23 +0000"
-  },
-  {
-    "title": "[UPDATE] FileAccessErrorView v1.34",
-    "link": "https://www.portablefreeware.com/?id=2949&ts=1790138375",
-    "pubDate": "Wed, 23 Sep 2026 04:39:35 +0000"
   }
 ]
