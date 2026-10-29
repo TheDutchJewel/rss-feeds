@@ -5,6 +5,12 @@
     <link>https://www.gratissoftwaresite.nl/downloads/nieuwe-updates</link>
     <description>Nieuwste software-updates van GratisSoftwareSite</description>
     <item>
+      <title>7-Zip Next 1.5.0</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/7-zip-next-compressie</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/7-zip-next-compressie</guid>
+      <pubDate>29 oktober 2026</pubDate>
+    </item>
+    <item>
       <title>DaVinci Resolve 21.1.2</title>
       <link>https://www.gratissoftwaresite.nl/downloads/davinci-resolve-videobewerking-editor-kleur-correctie</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/davinci-resolve-videobewerking-editor-kleur-correctie</guid>
@@ -359,6 +365,12 @@
       <pubDate>17 oktober 2026</pubDate>
     </item>
     <item>
+      <title>Lubuntu 26.04.1 LTS</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/lubuntu-linux-besturingssysteem-os</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/lubuntu-linux-besturingssysteem-os</guid>
+      <pubDate>17 oktober 2026</pubDate>
+    </item>
+    <item>
       <title>Chasys Photo 5.43.01</title>
       <link>https://www.gratissoftwaresite.nl/downloads/chasys-draw-image-editing-suite-tekenen-fotobewerking-batch-conversie-raw</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/chasys-draw-image-editing-suite-tekenen-fotobewerking-batch-conversie-raw</guid>
@@ -485,12 +497,6 @@
       <pubDate>11 oktober 2026</pubDate>
     </item>
     <item>
-      <title>7-Zip Next 1.4.1</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/7-zip-next-compressie</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/7-zip-next-compressie</guid>
-      <pubDate>10 oktober 2026</pubDate>
-    </item>
-    <item>
       <title>foobar2000 2.26.1</title>
       <link>https://www.gratissoftwaresite.nl/downloads/foobar2000-muziekspeler-mp3</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/foobar2000-muziekspeler-mp3</guid>
@@ -596,12 +602,6 @@
       <title>PDFsam 6.0.6</title>
       <link>https://www.gratissoftwaresite.nl/downloads/pdf-sam-split-merge-pdf-maken-tool</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/pdf-sam-split-merge-pdf-maken-tool</guid>
-      <pubDate>2 oktober 2026</pubDate>
-    </item>
-    <item>
-      <title>RustDesk 1.5</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/rustdesk-pc-hulp-op-afstand-remote-desktop</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/rustdesk-pc-hulp-op-afstand-remote-desktop</guid>
       <pubDate>2 oktober 2026</pubDate>
     </item>
   </channel>

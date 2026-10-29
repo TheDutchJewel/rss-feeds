@@ -1,5 +1,10 @@
 [
     {
+        "title": "7-Zip Next 1.5.0",
+        "link": "https://www.gratissoftwaresite.nl/downloads/7-zip-next-compressie",
+        "pubDate": "29 oktober 2026"
+    },
+    {
         "title": "DaVinci Resolve 21.1.2",
         "link": "https://www.gratissoftwaresite.nl/downloads/davinci-resolve-videobewerking-editor-kleur-correctie",
         "pubDate": "29 oktober 2026"
@@ -295,6 +300,11 @@
         "pubDate": "17 oktober 2026"
     },
     {
+        "title": "Lubuntu 26.04.1 LTS",
+        "link": "https://www.gratissoftwaresite.nl/downloads/lubuntu-linux-besturingssysteem-os",
+        "pubDate": "17 oktober 2026"
+    },
+    {
         "title": "Chasys Photo 5.43.01",
         "link": "https://www.gratissoftwaresite.nl/downloads/chasys-draw-image-editing-suite-tekenen-fotobewerking-batch-conversie-raw",
         "pubDate": "17 oktober 2026"
@@ -400,11 +410,6 @@
         "pubDate": "11 oktober 2026"
     },
     {
-        "title": "7-Zip Next 1.4.1",
-        "link": "https://www.gratissoftwaresite.nl/downloads/7-zip-next-compressie",
-        "pubDate": "10 oktober 2026"
-    },
-    {
         "title": "foobar2000 2.26.1",
         "link": "https://www.gratissoftwaresite.nl/downloads/foobar2000-muziekspeler-mp3",
         "pubDate": "10 oktober 2026"
@@ -492,11 +497,6 @@
     {
         "title": "PDFsam 6.0.6",
         "link": "https://www.gratissoftwaresite.nl/downloads/pdf-sam-split-merge-pdf-maken-tool",
-        "pubDate": "2 oktober 2026"
-    },
-    {
-        "title": "RustDesk 1.5",
-        "link": "https://www.gratissoftwaresite.nl/downloads/rustdesk-pc-hulp-op-afstand-remote-desktop",
         "pubDate": "2 oktober 2026"
     }
 ]
