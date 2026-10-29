@@ -1,5 +1,50 @@
 [
   {
+    "title": "Trellix Stinger 26.10.44.1",
+    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/mcafee-labs-stinger/",
+    "pubDate": "2026-10-29T05:49:00.000Z"
+  },
+  {
+    "title": "FydeOS 23.1 Chromatic Cadence",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/fydeos/",
+    "pubDate": "2026-10-29T05:32:00.000Z"
+  },
+  {
+    "title": "MediaMonkey 2024.2.2.3223",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/mediamonkey/",
+    "pubDate": "2026-10-29T05:24:00.000Z"
+  },
+  {
+    "title": "Dropbox 278.3.3892 Beta",
+    "link": "https://www.computerbase.de/downloads/office/dateimanager/dropbox/",
+    "pubDate": "2026-10-29T05:22:00.000Z"
+  },
+  {
+    "title": "LibreOffice 26.2.7 RC3",
+    "link": "https://www.computerbase.de/downloads/office/libreoffice/",
+    "pubDate": "2026-10-29T05:21:00.000Z"
+  },
+  {
+    "title": "TightVNC 4.0.2",
+    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/tightvnc/",
+    "pubDate": "2026-10-29T05:16:00.000Z"
+  },
+  {
+    "title": "Todoist 9.35.0",
+    "link": "https://www.computerbase.de/downloads/office/todoist/",
+    "pubDate": "2026-10-29T05:16:00.000Z"
+  },
+  {
+    "title": "Signal 8.33.0",
+    "link": "https://www.computerbase.de/downloads/kommunikation/signal/",
+    "pubDate": "2026-10-29T05:15:00.000Z"
+  },
+  {
+    "title": "Joplin 3.7.22",
+    "link": "https://www.computerbase.de/downloads/office/joplin/",
+    "pubDate": "2026-10-29T05:14:00.000Z"
+  },
+  {
     "title": "Windows 11 Kumulatives Update 25H2/26H2 (Build 26300.9818) KB5127936 Preview (Win 11)",
     "link": "https://www.computerbase.de/downloads/betriebssysteme/windows-11-kumulatives-update/",
     "pubDate": "2026-10-28T18:41:00.000Z"
@@ -8,11 +53,6 @@
     "title": "Windows 11 Kumulatives Update 26H1 (Build 28000.3365) KB5127653 Preview (Win 11)",
     "link": "https://www.computerbase.de/downloads/betriebssysteme/windows-11-kumulatives-update/",
     "pubDate": "2026-10-28T18:39:00.000Z"
-  },
-  {
-    "title": "Todoist 9.34.0",
-    "link": "https://www.computerbase.de/downloads/office/todoist/",
-    "pubDate": "2026-10-28T18:37:00.000Z"
   },
   {
     "title": "Intel Extreme Tuning Utility (XTU) 10.0.1.235",
@@ -55,13 +95,13 @@
     "pubDate": "2026-10-28T17:57:00.000Z"
   },
   {
-    "title": "Mozilla Thunderbird 160.0 Beta 2",
-    "link": "https://www.computerbase.de/downloads/kommunikation/mozilla-thunderbird/",
+    "title": "Mozilla Firefox 160.0 Beta 2",
+    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
     "pubDate": "2026-10-28T16:02:00.000Z"
   },
   {
-    "title": "Mozilla Firefox 160.0 Beta 2",
-    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
+    "title": "Mozilla Thunderbird 160.0 Beta 2",
+    "link": "https://www.computerbase.de/downloads/kommunikation/mozilla-thunderbird/",
     "pubDate": "2026-10-28T16:02:00.000Z"
   },
   {
@@ -208,45 +248,5 @@
     "title": "Element 1.12.33",
     "link": "https://www.computerbase.de/downloads/kommunikation/element/",
     "pubDate": "2026-10-27T18:06:00.000Z"
-  },
-  {
-    "title": "RegCool 3.1.0.8",
-    "link": "https://www.computerbase.de/downloads/systemtools/regcool/",
-    "pubDate": "2026-10-27T18:05:00.000Z"
-  },
-  {
-    "title": "Mozilla Thunderbird 159.0",
-    "link": "https://www.computerbase.de/downloads/kommunikation/mozilla-thunderbird/",
-    "pubDate": "2026-10-27T18:04:00.000Z"
-  },
-  {
-    "title": "Mozilla Thunderbird 153.6.0esr",
-    "link": "https://www.computerbase.de/downloads/kommunikation/mozilla-thunderbird/",
-    "pubDate": "2026-10-27T18:03:00.000Z"
-  },
-  {
-    "title": "Intel Netzwerkadapter-Treiber 31.3 (Win 10)",
-    "link": "https://www.computerbase.de/downloads/treiber/netzwerk/intel-netzwerkadapter-treiber/",
-    "pubDate": "2026-10-27T18:02:00.000Z"
-  },
-  {
-    "title": "TeamViewer 15.83.3",
-    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/teamviewer/",
-    "pubDate": "2026-10-27T16:16:00.000Z"
-  },
-  {
-    "title": "TeamViewer QuickSupport 15.83.3",
-    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/teamviewer/",
-    "pubDate": "2026-10-27T16:15:00.000Z"
-  },
-  {
-    "title": "TeamViewer Host 15.83.3",
-    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/teamviewer/",
-    "pubDate": "2026-10-27T16:14:00.000Z"
-  },
-  {
-    "title": "eM Client 11.0.1389.0",
-    "link": "https://www.computerbase.de/downloads/kommunikation/em-client/",
-    "pubDate": "2026-10-27T16:13:00.000Z"
   }
 ]

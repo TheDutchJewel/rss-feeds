@@ -5,6 +5,24 @@
     <link>https://www.gratissoftwaresite.nl/downloads/nieuwe-updates</link>
     <description>Nieuwste software-updates van GratisSoftwareSite</description>
     <item>
+      <title>DaVinci Resolve 21.1.2</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/davinci-resolve-videobewerking-editor-kleur-correctie</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/davinci-resolve-videobewerking-editor-kleur-correctie</guid>
+      <pubDate>29 oktober 2026</pubDate>
+    </item>
+    <item>
+      <title>Prey 1.13.42</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/prey-pc-beveiliging-anti-diefstal-laptop-smartphone</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/prey-pc-beveiliging-anti-diefstal-laptop-smartphone</guid>
+      <pubDate>29 oktober 2026</pubDate>
+    </item>
+    <item>
+      <title>Windows Firewall Control 6.38.0.0</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/windows-firewall-control-malwarebytes-internet-toegang-applicaties</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/windows-firewall-control-malwarebytes-internet-toegang-applicaties</guid>
+      <pubDate>29 oktober 2026</pubDate>
+    </item>
+    <item>
       <title>LossLessCut 3.70.2</title>
       <link>https://www.gratissoftwaresite.nl/downloads/losslesscut-videobewerking-knippen-film-fragmenten</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/losslesscut-videobewerking-knippen-film-fragmenten</guid>
@@ -83,12 +101,6 @@
       <pubDate>27 oktober 2026</pubDate>
     </item>
     <item>
-      <title>TeamViewer 15.83.3</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/teamviewer-werktuigen-hulp-op-afstand-remote-desktop</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/teamviewer-werktuigen-hulp-op-afstand-remote-desktop</guid>
-      <pubDate>27 oktober 2026</pubDate>
-    </item>
-    <item>
       <title>Franz 6.10.2</title>
       <link>https://www.gratissoftwaresite.nl/downloads/franz-chat-instant-messenger-whatsapp-facebook-skype-hangouts-telegram</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/franz-chat-instant-messenger-whatsapp-facebook-skype-hangouts-telegram</guid>
@@ -104,6 +116,12 @@
       <title>PicPick 7.6.2</title>
       <link>https://www.gratissoftwaresite.nl/downloads/picpick-fotobewerking-screenshot</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/picpick-fotobewerking-screenshot</guid>
+      <pubDate>27 oktober 2026</pubDate>
+    </item>
+    <item>
+      <title>TeamViewer 15.83.3</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/teamviewer-werktuigen-hulp-op-afstand-remote-desktop</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/teamviewer-werktuigen-hulp-op-afstand-remote-desktop</guid>
       <pubDate>27 oktober 2026</pubDate>
     </item>
     <item>
@@ -254,12 +272,6 @@
       <title>Tor Browser 15.0.26</title>
       <link>https://www.gratissoftwaresite.nl/downloads/tor-browser-internet-web-anoniem-surfen-ip-verbergen</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/tor-browser-internet-web-anoniem-surfen-ip-verbergen</guid>
-      <pubDate>22 oktober 2026</pubDate>
-    </item>
-    <item>
-      <title>Windows Firewall Control 6.37.0.0</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/windows-firewall-control-malwarebytes-internet-toegang-applicaties</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/windows-firewall-control-malwarebytes-internet-toegang-applicaties</guid>
       <pubDate>22 oktober 2026</pubDate>
     </item>
     <item>
@@ -581,12 +593,6 @@
       <pubDate>3 oktober 2026</pubDate>
     </item>
     <item>
-      <title>DaVinci Resolve 21.1.1</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/davinci-resolve-videobewerking-editor-kleur-correctie</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/davinci-resolve-videobewerking-editor-kleur-correctie</guid>
-      <pubDate>3 oktober 2026</pubDate>
-    </item>
-    <item>
       <title>PDFsam 6.0.6</title>
       <link>https://www.gratissoftwaresite.nl/downloads/pdf-sam-split-merge-pdf-maken-tool</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/pdf-sam-split-merge-pdf-maken-tool</guid>
@@ -596,12 +602,6 @@
       <title>RustDesk 1.5</title>
       <link>https://www.gratissoftwaresite.nl/downloads/rustdesk-pc-hulp-op-afstand-remote-desktop</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/rustdesk-pc-hulp-op-afstand-remote-desktop</guid>
-      <pubDate>2 oktober 2026</pubDate>
-    </item>
-    <item>
-      <title>Everything 1.4.1</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/everything-zoeken</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/everything-zoeken</guid>
       <pubDate>2 oktober 2026</pubDate>
     </item>
   </channel>

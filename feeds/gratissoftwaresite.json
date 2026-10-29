@@ -1,5 +1,20 @@
 [
     {
+        "title": "DaVinci Resolve 21.1.2",
+        "link": "https://www.gratissoftwaresite.nl/downloads/davinci-resolve-videobewerking-editor-kleur-correctie",
+        "pubDate": "29 oktober 2026"
+    },
+    {
+        "title": "Prey 1.13.42",
+        "link": "https://www.gratissoftwaresite.nl/downloads/prey-pc-beveiliging-anti-diefstal-laptop-smartphone",
+        "pubDate": "29 oktober 2026"
+    },
+    {
+        "title": "Windows Firewall Control 6.38.0.0",
+        "link": "https://www.gratissoftwaresite.nl/downloads/windows-firewall-control-malwarebytes-internet-toegang-applicaties",
+        "pubDate": "29 oktober 2026"
+    },
+    {
         "title": "LossLessCut 3.70.2",
         "link": "https://www.gratissoftwaresite.nl/downloads/losslesscut-videobewerking-knippen-film-fragmenten",
         "pubDate": "28 oktober 2026"
@@ -65,11 +80,6 @@
         "pubDate": "27 oktober 2026"
     },
     {
-        "title": "TeamViewer 15.83.3",
-        "link": "https://www.gratissoftwaresite.nl/downloads/teamviewer-werktuigen-hulp-op-afstand-remote-desktop",
-        "pubDate": "27 oktober 2026"
-    },
-    {
         "title": "Franz 6.10.2",
         "link": "https://www.gratissoftwaresite.nl/downloads/franz-chat-instant-messenger-whatsapp-facebook-skype-hangouts-telegram",
         "pubDate": "27 oktober 2026"
@@ -82,6 +92,11 @@
     {
         "title": "PicPick 7.6.2",
         "link": "https://www.gratissoftwaresite.nl/downloads/picpick-fotobewerking-screenshot",
+        "pubDate": "27 oktober 2026"
+    },
+    {
+        "title": "TeamViewer 15.83.3",
+        "link": "https://www.gratissoftwaresite.nl/downloads/teamviewer-werktuigen-hulp-op-afstand-remote-desktop",
         "pubDate": "27 oktober 2026"
     },
     {
@@ -207,11 +222,6 @@
     {
         "title": "Tor Browser 15.0.26",
         "link": "https://www.gratissoftwaresite.nl/downloads/tor-browser-internet-web-anoniem-surfen-ip-verbergen",
-        "pubDate": "22 oktober 2026"
-    },
-    {
-        "title": "Windows Firewall Control 6.37.0.0",
-        "link": "https://www.gratissoftwaresite.nl/downloads/windows-firewall-control-malwarebytes-internet-toegang-applicaties",
         "pubDate": "22 oktober 2026"
     },
     {
@@ -480,11 +490,6 @@
         "pubDate": "3 oktober 2026"
     },
     {
-        "title": "DaVinci Resolve 21.1.1",
-        "link": "https://www.gratissoftwaresite.nl/downloads/davinci-resolve-videobewerking-editor-kleur-correctie",
-        "pubDate": "3 oktober 2026"
-    },
-    {
         "title": "PDFsam 6.0.6",
         "link": "https://www.gratissoftwaresite.nl/downloads/pdf-sam-split-merge-pdf-maken-tool",
         "pubDate": "2 oktober 2026"
@@ -492,11 +497,6 @@
     {
         "title": "RustDesk 1.5",
         "link": "https://www.gratissoftwaresite.nl/downloads/rustdesk-pc-hulp-op-afstand-remote-desktop",
-        "pubDate": "2 oktober 2026"
-    },
-    {
-        "title": "Everything 1.4.1",
-        "link": "https://www.gratissoftwaresite.nl/downloads/everything-zoeken",
         "pubDate": "2 oktober 2026"
     }
 ]
