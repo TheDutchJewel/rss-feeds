@@ -1,5 +1,70 @@
 [
   {
+    "title": "Visual Studio 2022 v17.14.44",
+    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/visual-studio-2022/",
+    "pubDate": "2026-10-29T20:30:00.000Z"
+  },
+  {
+    "title": "Visual Studio 2026 v18.11.3",
+    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/visual-studio-2026/",
+    "pubDate": "2026-10-29T20:30:00.000Z"
+  },
+  {
+    "title": "Visual Studio 2026 v18.12.12328.396 Insider",
+    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/visual-studio-2026/",
+    "pubDate": "2026-10-29T20:30:00.000Z"
+  },
+  {
+    "title": "UltraEdit 33.1.0.27",
+    "link": "https://www.computerbase.de/downloads/office/editoren/ultraedit/",
+    "pubDate": "2026-10-29T19:48:00.000Z"
+  },
+  {
+    "title": "UltraEdit 2025.0.0.180 (macOS)",
+    "link": "https://www.computerbase.de/downloads/office/editoren/ultraedit/",
+    "pubDate": "2026-10-29T19:47:00.000Z"
+  },
+  {
+    "title": "iTunes 12.13.12.3",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/itunes/",
+    "pubDate": "2026-10-29T19:45:00.000Z"
+  },
+  {
+    "title": "Microsoft OneDrive 26.189.0928.0009",
+    "link": "https://www.computerbase.de/downloads/office/dateimanager/microsoft-onedrive/",
+    "pubDate": "2026-10-29T19:45:00.000Z"
+  },
+  {
+    "title": "MusicBee 3.7.9796",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/musicbee/",
+    "pubDate": "2026-10-29T19:43:00.000Z"
+  },
+  {
+    "title": "Epic Games Launcher 0.106.0 Preview",
+    "link": "https://www.computerbase.de/downloads/games/epic-games-launcher/",
+    "pubDate": "2026-10-29T17:37:00.000Z"
+  },
+  {
+    "title": "Discord 1.0.9266",
+    "link": "https://www.computerbase.de/downloads/kommunikation/discord/",
+    "pubDate": "2026-10-29T16:14:00.000Z"
+  },
+  {
+    "title": "Tor Browser 16.0",
+    "link": "https://www.computerbase.de/downloads/browser/tor-browser/",
+    "pubDate": "2026-10-29T16:06:00.000Z"
+  },
+  {
+    "title": "Evernote 11.40.3",
+    "link": "https://www.computerbase.de/downloads/office/evernote/",
+    "pubDate": "2026-10-29T16:05:00.000Z"
+  },
+  {
+    "title": "Nextcloud Client 35.0.1",
+    "link": "https://www.computerbase.de/downloads/office/dateimanager/nextcloud/",
+    "pubDate": "2026-10-29T16:04:00.000Z"
+  },
+  {
     "title": "Duplicati 2.4.1.0",
     "link": "https://www.computerbase.de/downloads/sicherheit/backup/duplicati/",
     "pubDate": "2026-10-29T16:01:00.000Z"
@@ -110,11 +175,6 @@
     "pubDate": "2026-10-28T18:02:00.000Z"
   },
   {
-    "title": "Epic Games Launcher 0.105.0 Preview",
-    "link": "https://www.computerbase.de/downloads/games/epic-games-launcher/",
-    "pubDate": "2026-10-28T18:00:00.000Z"
-  },
-  {
     "title": "Google Drive for desktop 133.0.2",
     "link": "https://www.computerbase.de/downloads/office/dateimanager/google-drive/",
     "pubDate": "2026-10-28T18:00:00.000Z"
@@ -188,65 +248,5 @@
     "title": "Scribus 1.6.7",
     "link": "https://www.computerbase.de/downloads/foto-und-grafik/scribus/",
     "pubDate": "2026-10-28T08:39:00.000Z"
-  },
-  {
-    "title": "Bandizip 8.0 Beta 50",
-    "link": "https://www.computerbase.de/downloads/office/packprogramme/bandizip/",
-    "pubDate": "2026-10-28T08:39:00.000Z"
-  },
-  {
-    "title": "Google Chrome 156.0.8078.73/.74",
-    "link": "https://www.computerbase.de/downloads/browser/google-chrome/",
-    "pubDate": "2026-10-28T05:20:00.000Z"
-  },
-  {
-    "title": "LibreWolf 159.0-1",
-    "link": "https://www.computerbase.de/downloads/browser/librewolf/",
-    "pubDate": "2026-10-28T05:17:00.000Z"
-  },
-  {
-    "title": "Wing FTP Server 8.2.7",
-    "link": "https://www.computerbase.de/downloads/office/dateitransfer/wing-ftp-server/",
-    "pubDate": "2026-10-28T05:15:00.000Z"
-  },
-  {
-    "title": "CS Browser 13.6.5",
-    "link": "https://www.computerbase.de/downloads/office/dateitransfer/s3-browser/",
-    "pubDate": "2026-10-27T21:41:00.000Z"
-  },
-  {
-    "title": "Nvidia RTX Enterprise Treiber 597.30",
-    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/nvidia-quadro-treiber/",
-    "pubDate": "2026-10-27T19:40:00.000Z"
-  },
-  {
-    "title": "Rocket.Chat Desktop 4.19.0",
-    "link": "https://www.computerbase.de/downloads/kommunikation/rocket.chat/",
-    "pubDate": "2026-10-27T19:31:00.000Z"
-  },
-  {
-    "title": "SmartFTP 10.0 Build 3334",
-    "link": "https://www.computerbase.de/downloads/office/dateitransfer/smartftp/",
-    "pubDate": "2026-10-27T19:30:00.000Z"
-  },
-  {
-    "title": "Beyond Compare 5.2.7",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/beyond-compare/",
-    "pubDate": "2026-10-27T19:30:00.000Z"
-  },
-  {
-    "title": "Nvidia GeForce-Treiber 621.12 Hotfix",
-    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/nvidia-geforce-treiber/",
-    "pubDate": "2026-10-27T18:40:00.000Z"
-  },
-  {
-    "title": "DaVinci Resolve 21.1.2",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/davinci-resolve/",
-    "pubDate": "2026-10-27T18:24:00.000Z"
-  },
-  {
-    "title": "ESET Internet Security 2024 v20.0.7.0",
-    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/eset-internet-security/",
-    "pubDate": "2026-10-27T18:17:00.000Z"
   }
 ]

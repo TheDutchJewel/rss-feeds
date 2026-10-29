@@ -5,6 +5,42 @@
     <link>https://www.gratissoftwaresite.nl/downloads/nieuwe-updates</link>
     <description>Nieuwste software-updates van GratisSoftwareSite</description>
     <item>
+      <title>Brave 1.98.62</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/brave-web-browser-internet-privacy-beveiliging-schilden-trackers-ads</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/brave-web-browser-internet-privacy-beveiliging-schilden-trackers-ads</guid>
+      <pubDate>29 oktober 2026</pubDate>
+    </item>
+    <item>
+      <title>Tor Browser 16.0.0</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/tor-browser-internet-web-anoniem-surfen-ip-verbergen</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/tor-browser-internet-web-anoniem-surfen-ip-verbergen</guid>
+      <pubDate>29 oktober 2026</pubDate>
+    </item>
+    <item>
+      <title>Mullvad Browser 16.0.0</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/mullvad-browser-privacy</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/mullvad-browser-privacy</guid>
+      <pubDate>29 oktober 2026</pubDate>
+    </item>
+    <item>
+      <title>foobar2000 2.26.2</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/foobar2000-muziekspeler-mp3</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/foobar2000-muziekspeler-mp3</guid>
+      <pubDate>29 oktober 2026</pubDate>
+    </item>
+    <item>
+      <title>Vivaldi 8.2.4133.96</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/vivaldi-internet-web-browser</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/vivaldi-internet-web-browser</guid>
+      <pubDate>29 oktober 2026</pubDate>
+    </item>
+    <item>
+      <title>LibreOffice 26.8.2</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/libreoffice-kantoorpakket-writer-calc-impress-draw-math</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/libreoffice-kantoorpakket-writer-calc-impress-draw-math</guid>
+      <pubDate>29 oktober 2026</pubDate>
+    </item>
+    <item>
       <title>7-Zip Next 1.5.0</title>
       <link>https://www.gratissoftwaresite.nl/downloads/7-zip-next-compressie</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/7-zip-next-compressie</guid>
@@ -215,12 +251,6 @@
       <pubDate>23 oktober 2026</pubDate>
     </item>
     <item>
-      <title>Brave 1.98.60</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/brave-web-browser-internet-privacy-beveiliging-schilden-trackers-ads</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/brave-web-browser-internet-privacy-beveiliging-schilden-trackers-ads</guid>
-      <pubDate>23 oktober 2026</pubDate>
-    </item>
-    <item>
       <title>Obsidian 1.15.0</title>
       <link>https://www.gratissoftwaresite.nl/downloads/obsidian-notities-aantekeningen-maken</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/obsidian-notities-aantekeningen-maken</guid>
@@ -245,12 +275,6 @@
       <pubDate>23 oktober 2026</pubDate>
     </item>
     <item>
-      <title>Vivaldi 8.2.4133.94</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/vivaldi-internet-web-browser</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/vivaldi-internet-web-browser</guid>
-      <pubDate>23 oktober 2026</pubDate>
-    </item>
-    <item>
       <title>Bitdefender Antivirus Free 27.0.64.366</title>
       <link>https://www.gratissoftwaresite.nl/downloads/bitdefender-antivirus-free-edition-virusscanner</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/bitdefender-antivirus-free-edition-virusscanner</guid>
@@ -266,18 +290,6 @@
       <title>CCleaner 7.13.1573</title>
       <link>https://www.gratissoftwaresite.nl/downloads/ccleaner-pc-opruimen-schoonmaken</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/ccleaner-pc-opruimen-schoonmaken</guid>
-      <pubDate>22 oktober 2026</pubDate>
-    </item>
-    <item>
-      <title>Mullvad Browser 15.0.26</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/mullvad-browser-privacy</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/mullvad-browser-privacy</guid>
-      <pubDate>22 oktober 2026</pubDate>
-    </item>
-    <item>
-      <title>Tor Browser 15.0.26</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/tor-browser-internet-web-anoniem-surfen-ip-verbergen</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/tor-browser-internet-web-anoniem-surfen-ip-verbergen</guid>
       <pubDate>22 oktober 2026</pubDate>
     </item>
     <item>
@@ -497,12 +509,6 @@
       <pubDate>11 oktober 2026</pubDate>
     </item>
     <item>
-      <title>foobar2000 2.26.1</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/foobar2000-muziekspeler-mp3</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/foobar2000-muziekspeler-mp3</guid>
-      <pubDate>10 oktober 2026</pubDate>
-    </item>
-    <item>
       <title>Raspberry Pi Desktop 6.3</title>
       <link>https://www.gratissoftwaresite.nl/downloads/raspberry-pi-desktop-besturingssysteem-os</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/raspberry-pi-desktop-besturingssysteem-os</guid>
@@ -530,12 +536,6 @@
       <title>Password Safe 3.72.3</title>
       <link>https://www.gratissoftwaresite.nl/downloads/password-safe-wachtwoord-beheer</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/password-safe-wachtwoord-beheer</guid>
-      <pubDate>8 oktober 2026</pubDate>
-    </item>
-    <item>
-      <title>LibreOffice 26.8.1</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/libreoffice-kantoorpakket-writer-calc-impress-draw-math</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/libreoffice-kantoorpakket-writer-calc-impress-draw-math</guid>
       <pubDate>8 oktober 2026</pubDate>
     </item>
     <item>
