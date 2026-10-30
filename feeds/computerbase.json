@@ -1,5 +1,55 @@
 [
   {
+    "title": "Microsoft Edge 156.0.4314.58",
+    "link": "https://www.computerbase.de/downloads/browser/microsoft-edge/",
+    "pubDate": "2026-10-30T21:35:00.000Z"
+  },
+  {
+    "title": "Wine 11.21 Beta (Linux)",
+    "link": "https://www.computerbase.de/downloads/systemtools/wine/",
+    "pubDate": "2026-10-30T21:33:00.000Z"
+  },
+  {
+    "title": "croc 11.6.0",
+    "link": "https://www.computerbase.de/downloads/office/dateitransfer/croc/",
+    "pubDate": "2026-10-30T20:12:00.000Z"
+  },
+  {
+    "title": "Discord 1.0.168 (Linux)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/discord/",
+    "pubDate": "2026-10-30T20:08:00.000Z"
+  },
+  {
+    "title": "Microsoft Teams 26276.513.5241.9675",
+    "link": "https://www.computerbase.de/downloads/kommunikation/microsoft-teams/",
+    "pubDate": "2026-10-30T20:05:00.000Z"
+  },
+  {
+    "title": "Dropbox 278.3.3901 Beta",
+    "link": "https://www.computerbase.de/downloads/office/dateimanager/dropbox/",
+    "pubDate": "2026-10-30T20:03:00.000Z"
+  },
+  {
+    "title": "AIDA64 v8.40.8523 Beta",
+    "link": "https://www.computerbase.de/downloads/systemtools/aida64/",
+    "pubDate": "2026-10-30T19:53:00.000Z"
+  },
+  {
+    "title": "Epic Games Launcher 0.108.0 Preview",
+    "link": "https://www.computerbase.de/downloads/games/epic-games-launcher/",
+    "pubDate": "2026-10-30T19:52:00.000Z"
+  },
+  {
+    "title": "WhatsApp 2.26.43.27 (macOS)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/whatsapp/",
+    "pubDate": "2026-10-30T19:51:00.000Z"
+  },
+  {
+    "title": "Todoist 9.36.1",
+    "link": "https://www.computerbase.de/downloads/office/todoist/",
+    "pubDate": "2026-10-30T19:50:00.000Z"
+  },
+  {
     "title": "Linux Kernel 7.3.1 (Linux)",
     "link": "https://www.computerbase.de/downloads/betriebssysteme/linux-kernel/",
     "pubDate": "2026-10-30T16:19:00.000Z"
@@ -73,11 +123,6 @@
     "title": "Slack 4.53.276 Beta (Linux)",
     "link": "https://www.computerbase.de/downloads/kommunikation/slack/",
     "pubDate": "2026-10-30T05:37:00.000Z"
-  },
-  {
-    "title": "Microsoft Edge 156.0.4314.56",
-    "link": "https://www.computerbase.de/downloads/browser/microsoft-edge/",
-    "pubDate": "2026-10-30T05:36:00.000Z"
   },
   {
     "title": "Google Chrome 156.0.8078.79/.80",
@@ -155,11 +200,6 @@
     "pubDate": "2026-10-29T19:43:00.000Z"
   },
   {
-    "title": "Epic Games Launcher 0.106.0 Preview",
-    "link": "https://www.computerbase.de/downloads/games/epic-games-launcher/",
-    "pubDate": "2026-10-29T17:37:00.000Z"
-  },
-  {
     "title": "Discord 1.0.9266",
     "link": "https://www.computerbase.de/downloads/kommunikation/discord/",
     "pubDate": "2026-10-29T16:14:00.000Z"
@@ -208,45 +248,5 @@
     "title": "Bitwarden 2026.10.2",
     "link": "https://www.computerbase.de/downloads/sicherheit/passwortmanager/bitwarden/",
     "pubDate": "2026-10-29T15:54:00.000Z"
-  },
-  {
-    "title": "Total Commander 11.58.1",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/total-commander/",
-    "pubDate": "2026-10-29T15:52:00.000Z"
-  },
-  {
-    "title": "mIRC 7.86",
-    "link": "https://www.computerbase.de/downloads/kommunikation/mirc/",
-    "pubDate": "2026-10-29T15:51:00.000Z"
-  },
-  {
-    "title": "foobar2000 v2.26.2",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/foobar2000/",
-    "pubDate": "2026-10-29T15:50:00.000Z"
-  },
-  {
-    "title": "Trellix Stinger 26.10.44.1",
-    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/mcafee-labs-stinger/",
-    "pubDate": "2026-10-29T05:49:00.000Z"
-  },
-  {
-    "title": "FydeOS 23.1 Chromatic Cadence",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/fydeos/",
-    "pubDate": "2026-10-29T05:32:00.000Z"
-  },
-  {
-    "title": "MediaMonkey 2024.2.2.3223",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/mediamonkey/",
-    "pubDate": "2026-10-29T05:24:00.000Z"
-  },
-  {
-    "title": "Dropbox 278.3.3892 Beta",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/dropbox/",
-    "pubDate": "2026-10-29T05:22:00.000Z"
-  },
-  {
-    "title": "LibreOffice 26.2.7 RC3",
-    "link": "https://www.computerbase.de/downloads/office/libreoffice/",
-    "pubDate": "2026-10-29T05:21:00.000Z"
   }
 ]
