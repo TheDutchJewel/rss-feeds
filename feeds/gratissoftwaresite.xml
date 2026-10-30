@@ -5,6 +5,18 @@
     <link>https://www.gratissoftwaresite.nl/downloads/nieuwe-updates</link>
     <description>Nieuwste software-updates van GratisSoftwareSite</description>
     <item>
+      <title>PDFsam 6.0.9</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/pdf-sam-split-merge-pdf-maken-tool</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/pdf-sam-split-merge-pdf-maken-tool</guid>
+      <pubDate>30 oktober 2026</pubDate>
+    </item>
+    <item>
+      <title>TeamViewer 15.83.5</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/teamviewer-werktuigen-hulp-op-afstand-remote-desktop</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/teamviewer-werktuigen-hulp-op-afstand-remote-desktop</guid>
+      <pubDate>30 oktober 2026</pubDate>
+    </item>
+    <item>
       <title>Microsoft Edge 156.0.4314.56</title>
       <link>https://www.gratissoftwaresite.nl/downloads/edge-internet-browser-ie-opvolger</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/edge-internet-browser-ie-opvolger</guid>
@@ -194,12 +206,6 @@
       <title>PicPick 7.6.2</title>
       <link>https://www.gratissoftwaresite.nl/downloads/picpick-fotobewerking-screenshot</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/picpick-fotobewerking-screenshot</guid>
-      <pubDate>27 oktober 2026</pubDate>
-    </item>
-    <item>
-      <title>TeamViewer 15.83.3</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/teamviewer-werktuigen-hulp-op-afstand-remote-desktop</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/teamviewer-werktuigen-hulp-op-afstand-remote-desktop</guid>
       <pubDate>27 oktober 2026</pubDate>
     </item>
     <item>
@@ -597,12 +603,6 @@
       <link>https://www.gratissoftwaresite.nl/downloads/tunnelbear-vpn-beveiligd-internetten-ip-anoniem</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/tunnelbear-vpn-beveiligd-internetten-ip-anoniem</guid>
       <pubDate>5 oktober 2026</pubDate>
-    </item>
-    <item>
-      <title>PrivaZer 4.0.127</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/privazer-pc-opruimen-cleaner</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/privazer-pc-opruimen-cleaner</guid>
-      <pubDate>4 oktober 2026</pubDate>
     </item>
   </channel>
 </rss>

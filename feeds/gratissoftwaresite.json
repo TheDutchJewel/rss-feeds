@@ -1,5 +1,15 @@
 [
     {
+        "title": "PDFsam 6.0.9",
+        "link": "https://www.gratissoftwaresite.nl/downloads/pdf-sam-split-merge-pdf-maken-tool",
+        "pubDate": "30 oktober 2026"
+    },
+    {
+        "title": "TeamViewer 15.83.5",
+        "link": "https://www.gratissoftwaresite.nl/downloads/teamviewer-werktuigen-hulp-op-afstand-remote-desktop",
+        "pubDate": "30 oktober 2026"
+    },
+    {
         "title": "Microsoft Edge 156.0.4314.56",
         "link": "https://www.gratissoftwaresite.nl/downloads/edge-internet-browser-ie-opvolger",
         "pubDate": "30 oktober 2026"
@@ -157,11 +167,6 @@
     {
         "title": "PicPick 7.6.2",
         "link": "https://www.gratissoftwaresite.nl/downloads/picpick-fotobewerking-screenshot",
-        "pubDate": "27 oktober 2026"
-    },
-    {
-        "title": "TeamViewer 15.83.3",
-        "link": "https://www.gratissoftwaresite.nl/downloads/teamviewer-werktuigen-hulp-op-afstand-remote-desktop",
         "pubDate": "27 oktober 2026"
     },
     {
@@ -493,10 +498,5 @@
         "title": "TunnelBear 4.20.0",
         "link": "https://www.gratissoftwaresite.nl/downloads/tunnelbear-vpn-beveiligd-internetten-ip-anoniem",
         "pubDate": "5 oktober 2026"
-    },
-    {
-        "title": "PrivaZer 4.0.127",
-        "link": "https://www.gratissoftwaresite.nl/downloads/privazer-pc-opruimen-cleaner",
-        "pubDate": "4 oktober 2026"
     }
 ]

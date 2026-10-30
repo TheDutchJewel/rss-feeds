@@ -1,5 +1,65 @@
 [
   {
+    "title": "Linux Kernel 7.3.1 (Linux)",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/linux-kernel/",
+    "pubDate": "2026-10-30T16:19:00.000Z"
+  },
+  {
+    "title": "Linux Kernel 7.2.14 (Linux)",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/linux-kernel/",
+    "pubDate": "2026-10-30T16:18:00.000Z"
+  },
+  {
+    "title": "Linux Kernel 6.18.60 (Linux)",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/linux-kernel/",
+    "pubDate": "2026-10-30T16:17:00.000Z"
+  },
+  {
+    "title": "AIMP 6.00 Build 3094 Beta 7",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/aimp/",
+    "pubDate": "2026-10-30T16:16:00.000Z"
+  },
+  {
+    "title": "Cryptomator 1.19.6",
+    "link": "https://www.computerbase.de/downloads/sicherheit/verschluesselung/cryptomator/",
+    "pubDate": "2026-10-30T16:15:00.000Z"
+  },
+  {
+    "title": "Multi Commander 16.6 Build 3233",
+    "link": "https://www.computerbase.de/downloads/office/dateimanager/multi-commander/",
+    "pubDate": "2026-10-30T16:14:00.000Z"
+  },
+  {
+    "title": "Brave 1.98.62",
+    "link": "https://www.computerbase.de/downloads/browser/brave/",
+    "pubDate": "2026-10-30T16:13:00.000Z"
+  },
+  {
+    "title": "Rufus 4.16 Beta",
+    "link": "https://www.computerbase.de/downloads/systemtools/festplatten/rufus/",
+    "pubDate": "2026-10-30T16:11:00.000Z"
+  },
+  {
+    "title": "Freeplane 1.13.4",
+    "link": "https://www.computerbase.de/downloads/office/freeplane/",
+    "pubDate": "2026-10-30T16:09:00.000Z"
+  },
+  {
+    "title": "mp3Tag 3.37 Beta 5",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/mp3tag/",
+    "pubDate": "2026-10-30T16:09:00.000Z"
+  },
+  {
+    "title": "Mozilla Firefox 160.0 Beta 3",
+    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
+    "pubDate": "2026-10-30T16:08:00.000Z"
+  },
+  {
+    "title": "AMD Adrenalin Radeon-Treiber 26.10.2 (WHQL Optional)",
+    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/amd-adrenalin-treiber/",
+    "pubDate": "2026-10-30T16:05:00.000Z"
+  },
+  {
     "title": "Slack 4.53.276 (Win 11)",
     "link": "https://www.computerbase.de/downloads/kommunikation/slack/",
     "pubDate": "2026-10-30T05:39:00.000Z"
@@ -188,65 +248,5 @@
     "title": "LibreOffice 26.2.7 RC3",
     "link": "https://www.computerbase.de/downloads/office/libreoffice/",
     "pubDate": "2026-10-29T05:21:00.000Z"
-  },
-  {
-    "title": "TightVNC 4.0.2",
-    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/tightvnc/",
-    "pubDate": "2026-10-29T05:16:00.000Z"
-  },
-  {
-    "title": "Todoist 9.35.0",
-    "link": "https://www.computerbase.de/downloads/office/todoist/",
-    "pubDate": "2026-10-29T05:16:00.000Z"
-  },
-  {
-    "title": "Signal 8.33.0",
-    "link": "https://www.computerbase.de/downloads/kommunikation/signal/",
-    "pubDate": "2026-10-29T05:15:00.000Z"
-  },
-  {
-    "title": "Joplin 3.7.22",
-    "link": "https://www.computerbase.de/downloads/office/joplin/",
-    "pubDate": "2026-10-29T05:14:00.000Z"
-  },
-  {
-    "title": "Windows 11 Kumulatives Update 25H2/26H2 (Build 26300.9818) KB5127936 Preview (Win 11)",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/windows-11-kumulatives-update/",
-    "pubDate": "2026-10-28T18:41:00.000Z"
-  },
-  {
-    "title": "Windows 11 Kumulatives Update 26H1 (Build 28000.3365) KB5127653 Preview (Win 11)",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/windows-11-kumulatives-update/",
-    "pubDate": "2026-10-28T18:39:00.000Z"
-  },
-  {
-    "title": "Intel Extreme Tuning Utility (XTU) 10.0.1.235",
-    "link": "https://www.computerbase.de/downloads/systemtools/intel-extreme-tuning-utility-xtu/",
-    "pubDate": "2026-10-28T18:03:00.000Z"
-  },
-  {
-    "title": "Intel Extreme Tuning Utility (XTU) 7.14.2.135",
-    "link": "https://www.computerbase.de/downloads/systemtools/intel-extreme-tuning-utility-xtu/",
-    "pubDate": "2026-10-28T18:02:00.000Z"
-  },
-  {
-    "title": "Google Drive for desktop 133.0.2",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/google-drive/",
-    "pubDate": "2026-10-28T18:00:00.000Z"
-  },
-  {
-    "title": "Google Drive for desktop 133.0.2 ARM64-Beta (Win 11)",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/google-drive/",
-    "pubDate": "2026-10-28T17:59:00.000Z"
-  },
-  {
-    "title": "Viber für Desktop 29.3.0.0",
-    "link": "https://www.computerbase.de/downloads/kommunikation/viber-fuer-desktop/",
-    "pubDate": "2026-10-28T17:59:00.000Z"
-  },
-  {
-    "title": "Visual Studio Code (VS Code) 1.144.0",
-    "link": "https://www.computerbase.de/downloads/office/editoren/visual-studio-code/",
-    "pubDate": "2026-10-28T17:58:00.000Z"
   }
 ]

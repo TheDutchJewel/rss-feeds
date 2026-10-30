@@ -1,5 +1,30 @@
 [
   {
+    "title": "[UPDATE] OBS Studio v33.0.1",
+    "link": "https://www.portablefreeware.com/?id=2962&ts=1793384931",
+    "pubDate": "Fri, 30 Oct 2026 18:28:51 +0000"
+  },
+  {
+    "title": "[UPDATE] Slimjet v51.0.2.0",
+    "link": "https://www.portablefreeware.com/?id=2633&ts=1793384800",
+    "pubDate": "Fri, 30 Oct 2026 18:26:40 +0000"
+  },
+  {
+    "title": "[UPDATE] Multi Commander v16.6.3233",
+    "link": "https://www.portablefreeware.com/?id=2304&ts=1793384649",
+    "pubDate": "Fri, 30 Oct 2026 18:24:09 +0000"
+  },
+  {
+    "title": "[UPDATE] Freeplane v1.13.4",
+    "link": "https://www.portablefreeware.com/?id=3125&ts=1793384600",
+    "pubDate": "Fri, 30 Oct 2026 18:23:20 +0000"
+  },
+  {
+    "title": "[UPDATE] NewFileTime v8.33",
+    "link": "https://www.portablefreeware.com/?id=1695&ts=1793384547",
+    "pubDate": "Fri, 30 Oct 2026 18:22:27 +0000"
+  },
+  {
     "title": "[UPDATE] Blank And Secure v8.56",
     "link": "https://www.portablefreeware.com/?id=1691&ts=1793332487",
     "pubDate": "Fri, 30 Oct 2026 03:54:47 +0000"
@@ -185,11 +210,6 @@
     "pubDate": "Tue, 20 Oct 2026 14:45:13 +0000"
   },
   {
-    "title": "[UPDATE] Multi Commander v16.6.3230",
-    "link": "https://www.portablefreeware.com/?id=2304&ts=1792507461",
-    "pubDate": "Tue, 20 Oct 2026 14:44:21 +0000"
-  },
-  {
     "title": "[UPDATE] Kid3 v3.10.2",
     "link": "https://www.portablefreeware.com/?id=2859&ts=1792455516",
     "pubDate": "Tue, 20 Oct 2026 00:18:36 +0000"
@@ -208,11 +228,6 @@
     "title": "[UPDATE] WinBin2Iso v6.79",
     "link": "https://www.portablefreeware.com/?id=2196&ts=1792401450",
     "pubDate": "Mon, 19 Oct 2026 09:17:30 +0000"
-  },
-  {
-    "title": "[UPDATE] NewFileTime v8.31",
-    "link": "https://www.portablefreeware.com/?id=1695&ts=1792383018",
-    "pubDate": "Mon, 19 Oct 2026 04:10:18 +0000"
   },
   {
     "title": "[UPDATE] QuickTextPaste v9.61",
@@ -483,20 +498,5 @@
     "title": "[UPDATE] PeaZip v11.3.0",
     "link": "https://www.portablefreeware.com/?id=1048&ts=1790432743",
     "pubDate": "Sat, 26 Sep 2026 14:25:43 +0000"
-  },
-  {
-    "title": "[UPDATE] zmPortable (Launcher for Zoom) v7.2,1",
-    "link": "https://www.portablefreeware.com/?id=3092&ts=1790308535",
-    "pubDate": "Fri, 25 Sep 2026 03:55:35 +0000"
-  },
-  {
-    "title": "[UPDATE] Notepad++ v8.9.8.1",
-    "link": "https://www.portablefreeware.com/?id=539&ts=1790266797",
-    "pubDate": "Thu, 24 Sep 2026 16:19:57 +0000"
-  },
-  {
-    "title": "[UPDATE] MDB Viewer Plus v2.81",
-    "link": "https://www.portablefreeware.com/?id=727&ts=1790258358",
-    "pubDate": "Thu, 24 Sep 2026 13:59:18 +0000"
   }
 ]
