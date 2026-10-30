@@ -1,5 +1,60 @@
 [
   {
+    "title": "Slack 4.53.276 (Win 11)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/slack/",
+    "pubDate": "2026-10-30T05:39:00.000Z"
+  },
+  {
+    "title": "Slack 4.53.276 (macOS)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/slack/",
+    "pubDate": "2026-10-30T05:38:00.000Z"
+  },
+  {
+    "title": "Slack 4.53.276 Beta (Linux)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/slack/",
+    "pubDate": "2026-10-30T05:37:00.000Z"
+  },
+  {
+    "title": "Microsoft Edge 156.0.4314.56",
+    "link": "https://www.computerbase.de/downloads/browser/microsoft-edge/",
+    "pubDate": "2026-10-30T05:36:00.000Z"
+  },
+  {
+    "title": "Google Chrome 156.0.8078.79/.80",
+    "link": "https://www.computerbase.de/downloads/browser/google-chrome/",
+    "pubDate": "2026-10-30T05:32:00.000Z"
+  },
+  {
+    "title": "Visual Studio 2017 v15.9.84",
+    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/visual-studio-2017/",
+    "pubDate": "2026-10-30T05:31:00.000Z"
+  },
+  {
+    "title": "UniGetUI 2026.3.3",
+    "link": "https://www.computerbase.de/downloads/systemtools/unigetui/",
+    "pubDate": "2026-10-30T05:30:00.000Z"
+  },
+  {
+    "title": "Visual Studio 2019 v16.11.62",
+    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/visual-studio-2019/",
+    "pubDate": "2026-10-30T05:30:00.000Z"
+  },
+  {
+    "title": "Adobe AIR Runtime 51.4.1.2",
+    "link": "https://www.computerbase.de/downloads/systemtools/adobe-air-runtime/",
+    "pubDate": "2026-10-30T05:29:00.000Z"
+  },
+  {
+    "title": "OnionShare 2.7.1",
+    "link": "https://www.computerbase.de/downloads/office/dateitransfer/onionshare/",
+    "pubDate": "2026-10-30T05:25:00.000Z"
+  },
+  {
+    "title": "OBS Studio 33.0.1",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/obs-studio/",
+    "pubDate": "2026-10-30T05:09:00.000Z"
+  },
+  {
     "title": "Visual Studio 2022 v17.14.44",
     "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/visual-studio-2022/",
     "pubDate": "2026-10-29T20:30:00.000Z"
@@ -193,60 +248,5 @@
     "title": "Visual Studio Code (VS Code) 1.144.0",
     "link": "https://www.computerbase.de/downloads/office/editoren/visual-studio-code/",
     "pubDate": "2026-10-28T17:58:00.000Z"
-  },
-  {
-    "title": "Google Chrome 158.0.8127.2 Beta",
-    "link": "https://www.computerbase.de/downloads/browser/google-chrome/",
-    "pubDate": "2026-10-28T17:57:00.000Z"
-  },
-  {
-    "title": "Mozilla Firefox 160.0 Beta 2",
-    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
-    "pubDate": "2026-10-28T16:02:00.000Z"
-  },
-  {
-    "title": "Mozilla Thunderbird 160.0 Beta 2",
-    "link": "https://www.computerbase.de/downloads/kommunikation/mozilla-thunderbird/",
-    "pubDate": "2026-10-28T16:02:00.000Z"
-  },
-  {
-    "title": "Camtasia 2026.2.4",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/camtasia-studio/",
-    "pubDate": "2026-10-28T16:01:00.000Z"
-  },
-  {
-    "title": "VSCodium 1.143.17232",
-    "link": "https://www.computerbase.de/downloads/office/editoren/vscodium/",
-    "pubDate": "2026-10-28T15:57:00.000Z"
-  },
-  {
-    "title": "doPDF 11.9.532",
-    "link": "https://www.computerbase.de/downloads/office/pdf/dopdf/",
-    "pubDate": "2026-10-28T15:56:00.000Z"
-  },
-  {
-    "title": "Cryptomator 1.19.5",
-    "link": "https://www.computerbase.de/downloads/sicherheit/verschluesselung/cryptomator/",
-    "pubDate": "2026-10-28T15:55:00.000Z"
-  },
-  {
-    "title": "LosslessCut 3.70.2",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/losslesscut/",
-    "pubDate": "2026-10-28T08:42:00.000Z"
-  },
-  {
-    "title": "MiniTool MovieMaker Free 9.0",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/minitool-moviemaker/",
-    "pubDate": "2026-10-28T08:42:00.000Z"
-  },
-  {
-    "title": "Scribus 1.7.4 Dev",
-    "link": "https://www.computerbase.de/downloads/foto-und-grafik/scribus/",
-    "pubDate": "2026-10-28T08:40:00.000Z"
-  },
-  {
-    "title": "Scribus 1.6.7",
-    "link": "https://www.computerbase.de/downloads/foto-und-grafik/scribus/",
-    "pubDate": "2026-10-28T08:39:00.000Z"
   }
 ]
