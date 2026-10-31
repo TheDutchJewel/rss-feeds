@@ -1,5 +1,15 @@
 [
     {
+        "title": "VeraCrypt 1.26.29 & 1.26...",
+        "link": "https://www.gratissoftwaresite.nl/downloads/veracrypt-encryptie-versleuteling-virtuele-kluis",
+        "pubDate": "31 oktober 2026"
+    },
+    {
+        "title": "Proton VPN 5.1.9",
+        "link": "https://www.gratissoftwaresite.nl/downloads/proton-vpn-beveiligde-anonieme-verbinding-privacy-geen-ip",
+        "pubDate": "31 oktober 2026"
+    },
+    {
         "title": "PDFsam 6.0.9",
         "link": "https://www.gratissoftwaresite.nl/downloads/pdf-sam-split-merge-pdf-maken-tool",
         "pubDate": "30 oktober 2026"
@@ -172,11 +182,6 @@
     {
         "title": "RapidRaw 1.6.7",
         "link": "https://www.gratissoftwaresite.nl/downloads/rapidraw-fotobewerking-beheer-workflow",
-        "pubDate": "26 oktober 2026"
-    },
-    {
-        "title": "VeraCrypt 1.26.30",
-        "link": "https://www.gratissoftwaresite.nl/downloads/veracrypt-encryptie-versleuteling-virtuele-kluis",
         "pubDate": "26 oktober 2026"
     },
     {
@@ -492,11 +497,6 @@
     {
         "title": "Darktable 5.6.2",
         "link": "https://www.gratissoftwaresite.nl/downloads/darktable-fotobewerking-raw-workflow",
-        "pubDate": "5 oktober 2026"
-    },
-    {
-        "title": "TunnelBear 4.20.0",
-        "link": "https://www.gratissoftwaresite.nl/downloads/tunnelbear-vpn-beveiligd-internetten-ip-anoniem",
         "pubDate": "5 oktober 2026"
     }
 ]

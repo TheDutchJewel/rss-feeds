@@ -1,5 +1,20 @@
 [
   {
+    "title": "[UPDATE] Imagine v2.8.0",
+    "link": "https://www.portablefreeware.com/?id=1819&ts=1793423585",
+    "pubDate": "Sat, 31 Oct 2026 05:13:05 +0000"
+  },
+  {
+    "title": "[UPDATE] TraceRouteOK v3.57",
+    "link": "https://www.portablefreeware.com/?id=2612&ts=1793423563",
+    "pubDate": "Sat, 31 Oct 2026 05:12:43 +0000"
+  },
+  {
+    "title": "[UPDATE] ProcessTCPSummary v1.26",
+    "link": "https://www.portablefreeware.com/?id=2944&ts=1793423538",
+    "pubDate": "Sat, 31 Oct 2026 05:12:18 +0000"
+  },
+  {
     "title": "[UPDATE] OBS Studio v33.0.1",
     "link": "https://www.portablefreeware.com/?id=2962&ts=1793384931",
     "pubDate": "Fri, 30 Oct 2026 18:28:51 +0000"
@@ -300,11 +315,6 @@
     "pubDate": "Thu, 15 Oct 2026 04:22:03 +0000"
   },
   {
-    "title": "[UPDATE] Imagine v2.7.2",
-    "link": "https://www.portablefreeware.com/?id=1819&ts=1792038070",
-    "pubDate": "Thu, 15 Oct 2026 04:21:10 +0000"
-  },
-  {
     "title": "[UPDATE] phiola v2.11.1",
     "link": "https://www.portablefreeware.com/?id=3124&ts=1792038040",
     "pubDate": "Thu, 15 Oct 2026 04:20:40 +0000"
@@ -488,15 +498,5 @@
     "title": "[UPDATE] Pale Moon Portable v35.0.1",
     "link": "https://www.portablefreeware.com/?id=1978&ts=1790481743",
     "pubDate": "Sun, 27 Sep 2026 04:02:23 +0000"
-  },
-  {
-    "title": "[UPDATE] PhraseExpress v18.0.81",
-    "link": "https://www.portablefreeware.com/?id=2208&ts=1790433033",
-    "pubDate": "Sat, 26 Sep 2026 14:30:33 +0000"
-  },
-  {
-    "title": "[UPDATE] PeaZip v11.3.0",
-    "link": "https://www.portablefreeware.com/?id=1048&ts=1790432743",
-    "pubDate": "Sat, 26 Sep 2026 14:25:43 +0000"
   }
 ]

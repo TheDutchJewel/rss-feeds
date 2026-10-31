@@ -1,5 +1,15 @@
 [
   {
+    "title": "Zoom 7.2.5",
+    "link": "https://www.computerbase.de/downloads/kommunikation/zoom/",
+    "pubDate": "2026-10-31T07:23:00.000Z"
+  },
+  {
+    "title": "Shotcut 26.10.30 Beta",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/shotcut/",
+    "pubDate": "2026-10-31T07:18:00.000Z"
+  },
+  {
     "title": "Microsoft Edge 156.0.4314.58",
     "link": "https://www.computerbase.de/downloads/browser/microsoft-edge/",
     "pubDate": "2026-10-30T21:35:00.000Z"
@@ -238,15 +248,5 @@
     "title": "Opera GX 138.0.6044.65 Early Access",
     "link": "https://www.computerbase.de/downloads/browser/opera-gx/",
     "pubDate": "2026-10-29T15:55:00.000Z"
-  },
-  {
-    "title": "Opera 139.0.6053.22",
-    "link": "https://www.computerbase.de/downloads/browser/opera/",
-    "pubDate": "2026-10-29T15:55:00.000Z"
-  },
-  {
-    "title": "Bitwarden 2026.10.2",
-    "link": "https://www.computerbase.de/downloads/sicherheit/passwortmanager/bitwarden/",
-    "pubDate": "2026-10-29T15:54:00.000Z"
   }
 ]
