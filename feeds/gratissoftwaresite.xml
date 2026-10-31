@@ -5,6 +5,12 @@
     <link>https://www.gratissoftwaresite.nl/downloads/nieuwe-updates</link>
     <description>Nieuwste software-updates van GratisSoftwareSite</description>
     <item>
+      <title>MusicBee 3.7.9697</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/musicbee-muziekspeler-audio-jukebox</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/musicbee-muziekspeler-audio-jukebox</guid>
+      <pubDate>31 oktober 2026</pubDate>
+    </item>
+    <item>
       <title/>
       <link>https://www.gratissoftwaresite.nl/downloads/veracrypt-encryptie-versleuteling-virtuele-kluis</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/veracrypt-encryptie-versleuteling-virtuele-kluis</guid>
@@ -596,12 +602,6 @@
       <title>CoMaps 2026.09.23</title>
       <link>https://www.gratissoftwaresite.nl/downloads/comaps-navigatie-kaarten-offline-reizen-route</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/comaps-navigatie-kaarten-offline-reizen-route</guid>
-      <pubDate>5 oktober 2026</pubDate>
-    </item>
-    <item>
-      <title>Darktable 5.6.2</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/darktable-fotobewerking-raw-workflow</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/darktable-fotobewerking-raw-workflow</guid>
       <pubDate>5 oktober 2026</pubDate>
     </item>
   </channel>
