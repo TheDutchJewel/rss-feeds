@@ -1,5 +1,10 @@
 [
   {
+    "title": "Zoom updated to 7.2.5.51704.",
+    "link": "https://ninite.com/zoom/",
+    "pubDate": "Sat, 31 Oct 2026 15:20:25 -0000"
+  },
+  {
     "title": "OneDrive updated to 26.195.1006.0007.",
     "link": "https://ninite.com/onedrive/",
     "pubDate": "Fri, 30 Oct 2026 22:24:25 -0000"
@@ -273,10 +278,5 @@
     "title": "GitHub Desktop updated to 3.6.10.",
     "link": "https://ninite.com/githubdesktop/",
     "pubDate": "Mon, 26 Oct 2026 20:48:22 -0000"
-  },
-  {
-    "title": "Edge updated to 156.0.4314.50.",
-    "link": "https://ninite.com/edge/",
-    "pubDate": "Mon, 26 Oct 2026 20:41:59 -0000"
   }
 ]

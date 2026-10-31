@@ -1,5 +1,15 @@
 [
   {
+    "title": "ExplorerPatcher 26100.9711.71.1",
+    "link": "https://www.computerbase.de/downloads/systemtools/explorerpatcher/",
+    "pubDate": "2026-10-31T16:48:00.000Z"
+  },
+  {
+    "title": "TROM-Jaro 2026.10.31",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/trom-jaro/",
+    "pubDate": "2026-10-31T14:16:00.000Z"
+  },
+  {
     "title": "Zoom 7.2.5",
     "link": "https://www.computerbase.de/downloads/kommunikation/zoom/",
     "pubDate": "2026-10-31T07:23:00.000Z"
@@ -238,15 +248,5 @@
     "title": "LibreOffice 26.8.2",
     "link": "https://www.computerbase.de/downloads/office/libreoffice/",
     "pubDate": "2026-10-29T15:58:00.000Z"
-  },
-  {
-    "title": "Vivaldi 8.2 Build 4133.96",
-    "link": "https://www.computerbase.de/downloads/browser/vivaldi/",
-    "pubDate": "2026-10-29T15:57:00.000Z"
-  },
-  {
-    "title": "Opera GX 138.0.6044.65 Early Access",
-    "link": "https://www.computerbase.de/downloads/browser/opera-gx/",
-    "pubDate": "2026-10-29T15:55:00.000Z"
   }
 ]
