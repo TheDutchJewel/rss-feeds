@@ -1,5 +1,20 @@
 [
     {
+        "title": "Evernote 11.40.3",
+        "link": "https://www.gratissoftwaresite.nl/downloads/evernote-online-notitieboek",
+        "pubDate": "1 november 2026"
+    },
+    {
+        "title": "FotoSketcher 4.70",
+        "link": "https://www.gratissoftwaresite.nl/downloads/fotosketcher-fotobewerking-effecten-filters",
+        "pubDate": "1 november 2026"
+    },
+    {
+        "title": "OpenShot Video Editor 4.1.0",
+        "link": "https://www.gratissoftwaresite.nl/downloads/openshot-video-editor-videobewerking-video-dvd-uploaden",
+        "pubDate": "1 november 2026"
+    },
+    {
         "title": "Gaia Sky 3.9.2",
         "link": "https://www.gratissoftwaresite.nl/downloads/gaia-sky-satellietbeelden-sterrenkaart-planeten",
         "pubDate": "31 oktober 2026"
@@ -483,20 +498,5 @@
         "title": "Revo Uninstaller 2.7.2",
         "link": "https://www.gratissoftwaresite.nl/downloads/revo-uninstaller-freeware-werktuigen-de-installatie-software-verwijderen",
         "pubDate": "7 oktober 2026"
-    },
-    {
-        "title": "NirLauncher Utilities 1.30.26",
-        "link": "https://www.gratissoftwaresite.nl/downloads/nirlauncher-nirsoft-utilities-werktuigen-tools-pc-onderhoud-beheer",
-        "pubDate": "6 oktober 2026"
-    },
-    {
-        "title": "Adobe Reader 26.002.21931",
-        "link": "https://www.gratissoftwaresite.nl/downloads/reader-pdf-bekijken",
-        "pubDate": "6 oktober 2026"
-    },
-    {
-        "title": "PDF24 Creator Tools 11.31.0",
-        "link": "https://www.gratissoftwaresite.nl/downloads/pdf24-creator-tools-pdf-werktuigen-bewerken",
-        "pubDate": "5 oktober 2026"
     }
 ]

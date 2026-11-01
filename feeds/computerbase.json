@@ -1,5 +1,15 @@
 [
   {
+    "title": "FotoSketcher Studio 4.70",
+    "link": "https://www.computerbase.de/downloads/foto-und-grafik/fotosketcher/",
+    "pubDate": "2026-11-01T09:22:00.000Z"
+  },
+  {
+    "title": "Arch Linux 2026.11.01",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/arch-linux/",
+    "pubDate": "2026-11-01T09:21:00.000Z"
+  },
+  {
     "title": "OpenShot 4.1.0",
     "link": "https://www.computerbase.de/downloads/audio-und-video/openshot/",
     "pubDate": "2026-10-31T22:28:00.000Z"
@@ -238,15 +248,5 @@
     "title": "Evernote 11.40.3",
     "link": "https://www.computerbase.de/downloads/office/evernote/",
     "pubDate": "2026-10-29T16:05:00.000Z"
-  },
-  {
-    "title": "Nextcloud Client 35.0.1",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/nextcloud/",
-    "pubDate": "2026-10-29T16:04:00.000Z"
-  },
-  {
-    "title": "Duplicati 2.4.1.0",
-    "link": "https://www.computerbase.de/downloads/sicherheit/backup/duplicati/",
-    "pubDate": "2026-10-29T16:01:00.000Z"
   }
 ]
