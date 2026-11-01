@@ -1,13 +1,18 @@
 [
   {
+    "title": "croc 11.6.2",
+    "link": "https://www.computerbase.de/downloads/office/dateitransfer/croc/",
+    "pubDate": "2026-11-01T22:09:00.000Z"
+  },
+  {
+    "title": "Monolingual 2.0.3 (macOS)",
+    "link": "https://www.computerbase.de/downloads/systemtools/monolingual/",
+    "pubDate": "2026-11-01T22:09:00.000Z"
+  },
+  {
     "title": "KeePass 1.44",
     "link": "https://www.computerbase.de/downloads/sicherheit/passwortmanager/keepass/",
     "pubDate": "2026-11-01T15:42:00.000Z"
-  },
-  {
-    "title": "croc 11.6.1",
-    "link": "https://www.computerbase.de/downloads/office/dateitransfer/croc/",
-    "pubDate": "2026-11-01T15:39:00.000Z"
   },
   {
     "title": "FotoSketcher Studio 4.70",
@@ -243,10 +248,5 @@
     "title": "Discord 1.0.9266",
     "link": "https://www.computerbase.de/downloads/kommunikation/discord/",
     "pubDate": "2026-10-29T16:14:00.000Z"
-  },
-  {
-    "title": "Tor Browser 16.0",
-    "link": "https://www.computerbase.de/downloads/browser/tor-browser/",
-    "pubDate": "2026-10-29T16:06:00.000Z"
   }
 ]
