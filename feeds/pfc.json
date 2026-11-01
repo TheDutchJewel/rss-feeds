@@ -1,6 +1,16 @@
 [
   {
-    "title": "[UPDATE] PolyHostInterface v3.4.0",
+    "title": "[UPDATE] TreeSheets 2.22.7",
+    "link": "https://www.portablefreeware.com/?id=2741&ts=1793548926",
+    "pubDate": "Sun, 01 Nov 2026 16:02:06 +0000"
+  },
+  {
+    "title": "[UPDATE] Supermium Portable v150.0.7871.255 R2",
+    "link": "https://www.portablefreeware.com/?id=3150&ts=1793545039",
+    "pubDate": "Sun, 01 Nov 2026 14:57:19 +0000"
+  },
+  {
+    "title": "[UPDATE] PolyHostInterface v3.4.3",
     "link": "https://www.portablefreeware.com/?id=3149&ts=1793534865",
     "pubDate": "Sun, 01 Nov 2026 12:07:45 +0000"
   },
@@ -115,7 +125,7 @@
     "pubDate": "Mon, 26 Oct 2026 01:01:08 +0000"
   },
   {
-    "title": "[UPDATE] Chromium Portable v155.0.8059.85",
+    "title": "[UPDATE] Chromium Portable v156.0.8078.80",
     "link": "https://www.portablefreeware.com/?id=2169&ts=1792976154",
     "pubDate": "Mon, 26 Oct 2026 00:55:54 +0000"
   },
@@ -148,11 +158,6 @@
     "title": "[UPDATE] Q-Dir v12.82",
     "link": "https://www.portablefreeware.com/?id=1431&ts=1792939416",
     "pubDate": "Sun, 25 Oct 2026 14:43:36 +0000"
-  },
-  {
-    "title": "[UPDATE] TreeSheets 2.21.2",
-    "link": "https://www.portablefreeware.com/?id=2741&ts=1792939316",
-    "pubDate": "Sun, 25 Oct 2026 14:41:56 +0000"
   },
   {
     "title": "[UPDATE] calibre v9.17",
@@ -493,10 +498,5 @@
     "title": "[UPDATE] WinDirStat v2.9.0",
     "link": "https://www.portablefreeware.com/?id=287&ts=1790580515",
     "pubDate": "Mon, 28 Sep 2026 07:28:35 +0000"
-  },
-  {
-    "title": "[UPDATE] ResophNotes v1.8.1",
-    "link": "https://www.portablefreeware.com/?id=1951&ts=1790571963",
-    "pubDate": "Mon, 28 Sep 2026 05:06:03 +0000"
   }
 ]

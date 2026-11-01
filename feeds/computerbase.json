@@ -1,5 +1,15 @@
 [
   {
+    "title": "KeePass 1.44",
+    "link": "https://www.computerbase.de/downloads/sicherheit/passwortmanager/keepass/",
+    "pubDate": "2026-11-01T15:42:00.000Z"
+  },
+  {
+    "title": "croc 11.6.1",
+    "link": "https://www.computerbase.de/downloads/office/dateitransfer/croc/",
+    "pubDate": "2026-11-01T15:39:00.000Z"
+  },
+  {
     "title": "FotoSketcher Studio 4.70",
     "link": "https://www.computerbase.de/downloads/foto-und-grafik/fotosketcher/",
     "pubDate": "2026-11-01T09:22:00.000Z"
@@ -43,11 +53,6 @@
     "title": "Wine 11.21 Beta (Linux)",
     "link": "https://www.computerbase.de/downloads/systemtools/wine/",
     "pubDate": "2026-10-30T21:33:00.000Z"
-  },
-  {
-    "title": "croc 11.6.0",
-    "link": "https://www.computerbase.de/downloads/office/dateitransfer/croc/",
-    "pubDate": "2026-10-30T20:12:00.000Z"
   },
   {
     "title": "Discord 1.0.168 (Linux)",
@@ -243,10 +248,5 @@
     "title": "Tor Browser 16.0",
     "link": "https://www.computerbase.de/downloads/browser/tor-browser/",
     "pubDate": "2026-10-29T16:06:00.000Z"
-  },
-  {
-    "title": "Evernote 11.40.3",
-    "link": "https://www.computerbase.de/downloads/office/evernote/",
-    "pubDate": "2026-10-29T16:05:00.000Z"
   }
 ]
