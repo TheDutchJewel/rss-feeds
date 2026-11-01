@@ -1,5 +1,40 @@
 [
   {
+    "title": "Supermium Portable 150.0.7871.255 R2.01 (web browser with legacy support) Released",
+    "link": "https://portableapps.com/news/2026-10-31--supermium-portable-150.0.7871.255_R2.01-released",
+    "pubDate": "Sat, 31 Oct 2026 21:54:40 +0000"
+  },
+  {
+    "title": "Chromium Portable 156.0.8078.80 (web browser) Released",
+    "link": "https://portableapps.com/news/2026-10-31--chromium-portable-156.0.8078.80-released",
+    "pubDate": "Sat, 31 Oct 2026 21:52:34 +0000"
+  },
+  {
+    "title": "Mozilla Firefox ESR, Portable Edition 153.6.0 (web browser) Released",
+    "link": "https://portableapps.com/news/2026-10-31--firefox-portable-esr-153.6.0-released",
+    "pubDate": "Sat, 31 Oct 2026 21:51:25 +0000"
+  },
+  {
+    "title": "Mozilla Firefox, Portable Edition Nightly 161 (web browser) Released",
+    "link": "https://portableapps.com/news/2026-10-31--firefox-portable-nightly-161-released",
+    "pubDate": "Sat, 31 Oct 2026 21:49:31 +0000"
+  },
+  {
+    "title": "Mozilla Firefox Developer Edition, Portable 160b2 (web browser) Released",
+    "link": "https://portableapps.com/news/2026-10-31--firefox-portable-developer-160b2-released",
+    "pubDate": "Sat, 31 Oct 2026 21:47:33 +0000"
+  },
+  {
+    "title": "Mozilla Firefox, Portable Edition 160.0 Beta 2 (web browser) Released",
+    "link": "https://portableapps.com/news/2026-10-31--firefox-portable-160.0-beta-2-released",
+    "pubDate": "Sat, 31 Oct 2026 21:44:18 +0000"
+  },
+  {
+    "title": "Mozilla Firefox, Portable Edition Stable 159.0 Rev 2 (web browser) Released",
+    "link": "https://portableapps.com/news/2026-10-31--firefox-portable-159.0-rev-2-released",
+    "pubDate": "Sat, 31 Oct 2026 21:37:45 +0000"
+  },
+  {
     "title": "Google Chrome Portable 159 Dev (web browser) Released",
     "link": "https://portableapps.com/news/2026-10-31--google-chrome-portable-159-dev-released",
     "pubDate": "Sat, 31 Oct 2026 19:45:27 +0000"
@@ -38,40 +73,5 @@
     "title": "Telegram Desktop Portable 7.3.3 (secure instant messaging) Released",
     "link": "https://portableapps.com/news/2026-10-27--telegram-desktop-portable-7.3.3-released",
     "pubDate": "Tue, 27 Oct 2026 19:40:29 +0000"
-  },
-  {
-    "title": "Chromium Portable 156.0.8078.48 (web browser) Released",
-    "link": "https://portableapps.com/news/2026-10-27--chromium-portable-156.0.8078.48-released",
-    "pubDate": "Tue, 27 Oct 2026 17:52:18 +0000"
-  },
-  {
-    "title": "RawTherapee Portable 5.13 Rev 2 (advanced raw image processor) Released",
-    "link": "https://portableapps.com/news/2026-10-27--rawtherapee-portable-5.13-rev-2-released",
-    "pubDate": "Tue, 27 Oct 2026 17:49:24 +0000"
-  },
-  {
-    "title": "Password Safe Portable 3.73.0 (secure password manager) Released",
-    "link": "https://portableapps.com/news/2026-10-27--password-safe-portable-3.73.0-released",
-    "pubDate": "Tue, 27 Oct 2026 17:32:49 +0000"
-  },
-  {
-    "title": "Google Chrome Portable 156.0.8078.48 Stable (web browser) Released",
-    "link": "https://portableapps.com/news/2026-10-25--google-chrome-portable-156.0.8078.48-released",
-    "pubDate": "Sun, 25 Oct 2026 20:06:56 +0000"
-  },
-  {
-    "title": "Opera GX, Portable Edition 137.0.6036.65 (gaming browser) Released",
-    "link": "https://portableapps.com/news/2026-10-19--opera-gx-portable-137.0.6036.65-released",
-    "pubDate": "Mon, 19 Oct 2026 22:02:09 +0000"
-  },
-  {
-    "title": "Process Monitor Portable 4.12 (real-time file, registry and process monitor) Released",
-    "link": "https://portableapps.com/news/2026-10-19--process-monitor-portable-4.12-released",
-    "pubDate": "Mon, 19 Oct 2026 21:29:19 +0000"
-  },
-  {
-    "title": "Process Explorer Portable 17.20 (task manager and process analyzer) Released",
-    "link": "https://portableapps.com/news/2026-10-19--process-explorer-portable-17.20-released",
-    "pubDate": "Mon, 19 Oct 2026 21:26:37 +0000"
   }
 ]

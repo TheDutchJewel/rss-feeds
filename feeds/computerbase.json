@@ -1,5 +1,10 @@
 [
   {
+    "title": "OpenShot 4.1.0",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/openshot/",
+    "pubDate": "2026-10-31T22:28:00.000Z"
+  },
+  {
     "title": "ExplorerPatcher 26100.9711.71.1",
     "link": "https://www.computerbase.de/downloads/systemtools/explorerpatcher/",
     "pubDate": "2026-10-31T16:48:00.000Z"
@@ -243,10 +248,5 @@
     "title": "Duplicati 2.4.1.0",
     "link": "https://www.computerbase.de/downloads/sicherheit/backup/duplicati/",
     "pubDate": "2026-10-29T16:01:00.000Z"
-  },
-  {
-    "title": "LibreOffice 26.8.2",
-    "link": "https://www.computerbase.de/downloads/office/libreoffice/",
-    "pubDate": "2026-10-29T15:58:00.000Z"
   }
 ]
