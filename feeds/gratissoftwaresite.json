@@ -1,5 +1,45 @@
 [
     {
+        "title": "KNMI 5.4.2/5.4.0",
+        "link": "https://www.gratissoftwaresite.nl/downloads/knmi-weer-app-regen-buien-voorspellingen-waarschuwingen",
+        "pubDate": "2 november 2026"
+    },
+    {
+        "title": "iTunes 12.13.12.3",
+        "link": "https://www.gratissoftwaresite.nl/downloads/itunes-mediaspeler-synchroniseer-iphone-ipad",
+        "pubDate": "2 november 2026"
+    },
+    {
+        "title": "OpenShot Video Editor 4.1.1",
+        "link": "https://www.gratissoftwaresite.nl/downloads/openshot-video-editor-videobewerking-video-dvd-uploaden",
+        "pubDate": "2 november 2026"
+    },
+    {
+        "title": "Zoom 7.2.5",
+        "link": "https://www.gratissoftwaresite.nl/downloads/zoom-videobellen-groepen-teleconferentie-online-les",
+        "pubDate": "2 november 2026"
+    },
+    {
+        "title": "KeePass Password Safe 2.61.1 & 1.44",
+        "link": "https://www.gratissoftwaresite.nl/downloads/keepass-password-safe-wachtwoordbeheer-kluis-inloggegevens",
+        "pubDate": "2 november 2026"
+    },
+    {
+        "title": "f.lux 4.148",
+        "link": "https://www.gratissoftwaresite.nl/downloads/f.lux-gezondheid-slapen-blauwe-licht",
+        "pubDate": "2 november 2026"
+    },
+    {
+        "title": "Double Commander 1.2.10",
+        "link": "https://www.gratissoftwaresite.nl/downloads/doublecommander-bestanden-beheer-verkenner-vensters-werktuigen",
+        "pubDate": "2 november 2026"
+    },
+    {
+        "title": "Aldfaer 12.1",
+        "link": "https://www.gratissoftwaresite.nl/downloads/aldfaer-stamboomonderzoek-genealogie-hobby",
+        "pubDate": "2 november 2026"
+    },
+    {
         "title": "Evernote 11.40.3",
         "link": "https://www.gratissoftwaresite.nl/downloads/evernote-online-notitieboek",
         "pubDate": "1 november 2026"
@@ -7,11 +47,6 @@
     {
         "title": "FotoSketcher 4.70",
         "link": "https://www.gratissoftwaresite.nl/downloads/fotosketcher-fotobewerking-effecten-filters",
-        "pubDate": "1 november 2026"
-    },
-    {
-        "title": "OpenShot Video Editor 4.1.0",
-        "link": "https://www.gratissoftwaresite.nl/downloads/openshot-video-editor-videobewerking-video-dvd-uploaden",
         "pubDate": "1 november 2026"
     },
     {
@@ -463,40 +498,5 @@
         "title": "Softmaker FreeOffice 2024 revisie 1238",
         "link": "https://www.gratissoftwaresite.nl/downloads/softmaker-freeoffice-textmaker-planmaker-presentations-kantoor-office",
         "pubDate": "11 oktober 2026"
-    },
-    {
-        "title": "Raspberry Pi Desktop 6.3",
-        "link": "https://www.gratissoftwaresite.nl/downloads/raspberry-pi-desktop-besturingssysteem-os",
-        "pubDate": "9 oktober 2026"
-    },
-    {
-        "title": "AOMEI Backupper Standard 8.5",
-        "link": "https://www.gratissoftwaresite.nl/downloads/aomei-backupper-standard-backup-image-clone-restore",
-        "pubDate": "9 oktober 2026"
-    },
-    {
-        "title": "Ventoy 1.1.18",
-        "link": "https://www.gratissoftwaresite.nl/downloads/ventoy-opstartbare-usb-maken-os-rescue-disk-installeren",
-        "pubDate": "9 oktober 2026"
-    },
-    {
-        "title": "Microsoft PC Manager 3.23.0",
-        "link": "https://www.gratissoftwaresite.nl/downloads/pc-manager-cleaner-opschonen-beheer",
-        "pubDate": "9 oktober 2026"
-    },
-    {
-        "title": "Password Safe 3.72.3",
-        "link": "https://www.gratissoftwaresite.nl/downloads/password-safe-wachtwoord-beheer",
-        "pubDate": "8 oktober 2026"
-    },
-    {
-        "title": "Ubuntu 26.04.1 LTS",
-        "link": "https://www.gratissoftwaresite.nl/downloads/ubuntu-besturingssysteem-linux-windows-vervanger-os",
-        "pubDate": "8 oktober 2026"
-    },
-    {
-        "title": "Revo Uninstaller 2.7.2",
-        "link": "https://www.gratissoftwaresite.nl/downloads/revo-uninstaller-freeware-werktuigen-de-installatie-software-verwijderen",
-        "pubDate": "7 oktober 2026"
     }
 ]

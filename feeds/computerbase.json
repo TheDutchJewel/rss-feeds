@@ -1,12 +1,22 @@
 [
   {
-    "title": "croc 11.6.2",
-    "link": "https://www.computerbase.de/downloads/office/dateitransfer/croc/",
-    "pubDate": "2026-11-01T22:09:00.000Z"
+    "title": "Monolingual 2.0.4 (macOS)",
+    "link": "https://www.computerbase.de/downloads/systemtools/monolingual/",
+    "pubDate": "2026-11-02T06:33:00.000Z"
   },
   {
-    "title": "Monolingual 2.0.3 (macOS)",
-    "link": "https://www.computerbase.de/downloads/systemtools/monolingual/",
+    "title": "OpenShot 4.1.1",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/openshot/",
+    "pubDate": "2026-11-02T05:49:00.000Z"
+  },
+  {
+    "title": "RustDesk 1.5.1",
+    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/rustdesk/",
+    "pubDate": "2026-11-02T05:47:00.000Z"
+  },
+  {
+    "title": "croc 11.6.2",
+    "link": "https://www.computerbase.de/downloads/office/dateitransfer/croc/",
     "pubDate": "2026-11-01T22:09:00.000Z"
   },
   {
@@ -23,11 +33,6 @@
     "title": "Arch Linux 2026.11.01",
     "link": "https://www.computerbase.de/downloads/betriebssysteme/arch-linux/",
     "pubDate": "2026-11-01T09:21:00.000Z"
-  },
-  {
-    "title": "OpenShot 4.1.0",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/openshot/",
-    "pubDate": "2026-10-31T22:28:00.000Z"
   },
   {
     "title": "ExplorerPatcher 26100.9711.71.1",
@@ -243,10 +248,5 @@
     "title": "MusicBee 3.7.9796",
     "link": "https://www.computerbase.de/downloads/audio-und-video/musicbee/",
     "pubDate": "2026-10-29T19:43:00.000Z"
-  },
-  {
-    "title": "Discord 1.0.9266",
-    "link": "https://www.computerbase.de/downloads/kommunikation/discord/",
-    "pubDate": "2026-10-29T16:14:00.000Z"
   }
 ]
