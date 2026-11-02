@@ -1,5 +1,15 @@
 [
     {
+        "title": "Audacity 4.0.2",
+        "link": "https://www.gratissoftwaresite.nl/downloads/audacity-geluidsbewerking-mp3-wav-editor",
+        "pubDate": "2 november 2026"
+    },
+    {
+        "title": "Joplin 3.7.22",
+        "link": "https://www.gratissoftwaresite.nl/downloads/joplin-notitie-blok-aantekeningen-takenlijst-sync",
+        "pubDate": "2 november 2026"
+    },
+    {
         "title": "KNMI 5.4.2/5.4.0",
         "link": "https://www.gratissoftwaresite.nl/downloads/knmi-weer-app-regen-buien-voorspellingen-waarschuwingen",
         "pubDate": "2 november 2026"
@@ -488,15 +498,5 @@
         "title": "WinScript 2.27.1",
         "link": "https://www.gratissoftwaresite.nl/downloads/winscript-tweaks-werktuigen-optimalisatie",
         "pubDate": "12 oktober 2026"
-    },
-    {
-        "title": "Photoflare 1.7.5",
-        "link": "https://www.gratissoftwaresite.nl/downloads/photoflare-fotobewerking-beheer",
-        "pubDate": "12 oktober 2026"
-    },
-    {
-        "title": "Softmaker FreeOffice 2024 revisie 1238",
-        "link": "https://www.gratissoftwaresite.nl/downloads/softmaker-freeoffice-textmaker-planmaker-presentations-kantoor-office",
-        "pubDate": "11 oktober 2026"
     }
 ]

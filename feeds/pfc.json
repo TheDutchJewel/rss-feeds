@@ -1,5 +1,35 @@
 [
   {
+    "title": "[UPDATE] VLC v3.0.24",
+    "link": "https://www.portablefreeware.com/?id=599&ts=1793641901",
+    "pubDate": "Mon, 02 Nov 2026 17:51:41 +0000"
+  },
+  {
+    "title": "[UPDATE] ProcessTCPSummary v1.26",
+    "link": "https://www.portablefreeware.com/?id=2944&ts=1793610300",
+    "pubDate": "Mon, 02 Nov 2026 09:05:00 +0000"
+  },
+  {
+    "title": "[UPDATE] TraceRouteOK v3.57",
+    "link": "https://www.portablefreeware.com/?id=2612&ts=1793610240",
+    "pubDate": "Mon, 02 Nov 2026 09:04:00 +0000"
+  },
+  {
+    "title": "[UPDATE] Imagine v2.8.0",
+    "link": "https://www.portablefreeware.com/?id=1819&ts=1793610180",
+    "pubDate": "Mon, 02 Nov 2026 09:03:00 +0000"
+  },
+  {
+    "title": "[UPDATE] Don't Sleep v10.44",
+    "link": "https://www.portablefreeware.com/?id=1738&ts=1793610177",
+    "pubDate": "Mon, 02 Nov 2026 09:02:57 +0000"
+  },
+  {
+    "title": "[UPDATE] DesktopOK v12.82",
+    "link": "https://www.portablefreeware.com/?id=1692&ts=1793609254",
+    "pubDate": "Mon, 02 Nov 2026 08:47:34 +0000"
+  },
+  {
     "title": "[UPDATE] TreeSheets 2.22.7",
     "link": "https://www.portablefreeware.com/?id=2741&ts=1793548926",
     "pubDate": "Sun, 01 Nov 2026 16:02:06 +0000"
@@ -23,21 +53,6 @@
     "title": "[UPDATE] DesktopSnowOK v7.22",
     "link": "https://www.portablefreeware.com/?id=2205&ts=1793505937",
     "pubDate": "Sun, 01 Nov 2026 04:05:37 +0000"
-  },
-  {
-    "title": "[UPDATE] Imagine v2.7.2",
-    "link": "https://www.portablefreeware.com/?id=1819&ts=1793423585",
-    "pubDate": "Sat, 31 Oct 2026 05:13:05 +0000"
-  },
-  {
-    "title": "[UPDATE] TraceRouteOK v3.55",
-    "link": "https://www.portablefreeware.com/?id=2612&ts=1793423563",
-    "pubDate": "Sat, 31 Oct 2026 05:12:43 +0000"
-  },
-  {
-    "title": "[UPDATE] ProcessTCPSummary v1.25",
-    "link": "https://www.portablefreeware.com/?id=2944&ts=1793423538",
-    "pubDate": "Sat, 31 Oct 2026 05:12:18 +0000"
   },
   {
     "title": "[UPDATE] OBS Studio v33.0.1",
@@ -110,7 +125,7 @@
     "pubDate": "Tue, 27 Oct 2026 02:47:15 +0000"
   },
   {
-    "title": "[UPDATE] RegCool v3.1.0.7",
+    "title": "[UPDATE] RegCool v3.1.0.8",
     "link": "https://www.portablefreeware.com/?id=3084&ts=1793034633",
     "pubDate": "Mon, 26 Oct 2026 17:10:33 +0000"
   },
@@ -340,11 +355,6 @@
     "pubDate": "Thu, 15 Oct 2026 04:20:40 +0000"
   },
   {
-    "title": "[UPDATE] DesktopOK v12.81",
-    "link": "https://www.portablefreeware.com/?id=1692&ts=1791990671",
-    "pubDate": "Wed, 14 Oct 2026 15:11:11 +0000"
-  },
-  {
     "title": "[UPDATE] Core Temp v1.21",
     "link": "https://www.portablefreeware.com/?id=2347&ts=1791946169",
     "pubDate": "Wed, 14 Oct 2026 02:49:29 +0000"
@@ -488,15 +498,5 @@
     "title": "[UPDATE] Shotcut v26.9.27",
     "link": "https://www.portablefreeware.com/?id=3049&ts=1790750471",
     "pubDate": "Wed, 30 Sep 2026 06:41:11 +0000"
-  },
-  {
-    "title": "[UPDATE] Desktop Icon Backup Manager v1.7.6",
-    "link": "https://www.portablefreeware.com/?id=3138&ts=1790728992",
-    "pubDate": "Wed, 30 Sep 2026 00:43:12 +0000"
-  },
-  {
-    "title": "[UPDATE] WinDirStat v2.9.0",
-    "link": "https://www.portablefreeware.com/?id=287&ts=1790580515",
-    "pubDate": "Mon, 28 Sep 2026 07:28:35 +0000"
   }
 ]

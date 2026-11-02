@@ -1,5 +1,10 @@
 [
   {
+    "title": "RustDesk updated to 1.5.1.",
+    "link": "https://ninite.com/rustdesk/",
+    "pubDate": "Mon, 02 Nov 2026 18:11:21 -0000"
+  },
+  {
     "title": "Zoom updated to 7.2.5.51704.",
     "link": "https://ninite.com/zoom/",
     "pubDate": "Sat, 31 Oct 2026 15:20:25 -0000"
@@ -243,10 +248,5 @@
     "title": "Java (AdoptOpenJDK) x64 25 updated to 25.0.5.",
     "link": "https://ninite.com/adoptjavax25/",
     "pubDate": "Tue, 27 Oct 2026 09:25:00 -0000"
-  },
-  {
-    "title": "JDK (AdoptOpenJDK) x64 25 updated to 25.0.5.",
-    "link": "https://ninite.com/adoptjdkx25/",
-    "pubDate": "Tue, 27 Oct 2026 09:24:14 -0000"
   }
 ]
