@@ -5,6 +5,24 @@
     <link>https://www.gratissoftwaresite.nl/downloads/nieuwe-updates</link>
     <description>Nieuwste software-updates van GratisSoftwareSite</description>
     <item>
+      <title>RustDesk 1.5.1</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/rustdesk-pc-hulp-op-afstand-remote-desktop</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/rustdesk-pc-hulp-op-afstand-remote-desktop</guid>
+      <pubDate>3 november 2026</pubDate>
+    </item>
+    <item>
+      <title>KillerPDF 1.9.2</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/killerpdf-bewerken-pdf</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/killerpdf-bewerken-pdf</guid>
+      <pubDate>3 november 2026</pubDate>
+    </item>
+    <item>
+      <title>HopToDesk 1.46.80</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/hoptodesk-pc-hulp-op-afstand-remote-desktop</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/hoptodesk-pc-hulp-op-afstand-remote-desktop</guid>
+      <pubDate>3 november 2026</pubDate>
+    </item>
+    <item>
       <title>Audacity 4.0.2</title>
       <link>https://www.gratissoftwaresite.nl/downloads/audacity-geluidsbewerking-mp3-wav-editor</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/audacity-geluidsbewerking-mp3-wav-editor</guid>
@@ -80,12 +98,6 @@
       <title>Gaia Sky 3.9.2</title>
       <link>https://www.gratissoftwaresite.nl/downloads/gaia-sky-satellietbeelden-sterrenkaart-planeten</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/gaia-sky-satellietbeelden-sterrenkaart-planeten</guid>
-      <pubDate>31 oktober 2026</pubDate>
-    </item>
-    <item>
-      <title>KillerPDF 1.9.1</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/killerpdf-bewerken-pdf</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/killerpdf-bewerken-pdf</guid>
       <pubDate>31 oktober 2026</pubDate>
     </item>
     <item>
@@ -255,12 +267,6 @@
       <link>https://www.gratissoftwaresite.nl/downloads/thunderbird-mailprogramma-pop3-imap</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/thunderbird-mailprogramma-pop3-imap</guid>
       <pubDate>28 oktober 2026</pubDate>
-    </item>
-    <item>
-      <title>HopToDesk 1.46.74</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/hoptodesk-pc-hulp-op-afstand-remote-desktop</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/hoptodesk-pc-hulp-op-afstand-remote-desktop</guid>
-      <pubDate>27 oktober 2026</pubDate>
     </item>
     <item>
       <title>AnyDesk 9.8.3</title>
@@ -596,12 +602,6 @@
       <title>WinDirStat 2.9.3</title>
       <link>https://www.gratissoftwaresite.nl/downloads/windirstat-werktuig-tools-schijfruimte</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/windirstat-werktuig-tools-schijfruimte</guid>
-      <pubDate>12 oktober 2026</pubDate>
-    </item>
-    <item>
-      <title>WinScript 2.27.1</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/winscript-tweaks-werktuigen-optimalisatie</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/winscript-tweaks-werktuigen-optimalisatie</guid>
       <pubDate>12 oktober 2026</pubDate>
     </item>
   </channel>

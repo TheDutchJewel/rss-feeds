@@ -1,5 +1,20 @@
 [
     {
+        "title": "RustDesk 1.5.1",
+        "link": "https://www.gratissoftwaresite.nl/downloads/rustdesk-pc-hulp-op-afstand-remote-desktop",
+        "pubDate": "3 november 2026"
+    },
+    {
+        "title": "KillerPDF 1.9.2",
+        "link": "https://www.gratissoftwaresite.nl/downloads/killerpdf-bewerken-pdf",
+        "pubDate": "3 november 2026"
+    },
+    {
+        "title": "HopToDesk 1.46.80",
+        "link": "https://www.gratissoftwaresite.nl/downloads/hoptodesk-pc-hulp-op-afstand-remote-desktop",
+        "pubDate": "3 november 2026"
+    },
+    {
         "title": "Audacity 4.0.2",
         "link": "https://www.gratissoftwaresite.nl/downloads/audacity-geluidsbewerking-mp3-wav-editor",
         "pubDate": "2 november 2026"
@@ -62,11 +77,6 @@
     {
         "title": "Gaia Sky 3.9.2",
         "link": "https://www.gratissoftwaresite.nl/downloads/gaia-sky-satellietbeelden-sterrenkaart-planeten",
-        "pubDate": "31 oktober 2026"
-    },
-    {
-        "title": "KillerPDF 1.9.1",
-        "link": "https://www.gratissoftwaresite.nl/downloads/killerpdf-bewerken-pdf",
         "pubDate": "31 oktober 2026"
     },
     {
@@ -208,11 +218,6 @@
         "title": "Thunderbird 159.0 Release...",
         "link": "https://www.gratissoftwaresite.nl/downloads/thunderbird-mailprogramma-pop3-imap",
         "pubDate": "28 oktober 2026"
-    },
-    {
-        "title": "HopToDesk 1.46.74",
-        "link": "https://www.gratissoftwaresite.nl/downloads/hoptodesk-pc-hulp-op-afstand-remote-desktop",
-        "pubDate": "27 oktober 2026"
     },
     {
         "title": "AnyDesk 9.8.3",
@@ -492,11 +497,6 @@
     {
         "title": "WinDirStat 2.9.3",
         "link": "https://www.gratissoftwaresite.nl/downloads/windirstat-werktuig-tools-schijfruimte",
-        "pubDate": "12 oktober 2026"
-    },
-    {
-        "title": "WinScript 2.27.1",
-        "link": "https://www.gratissoftwaresite.nl/downloads/winscript-tweaks-werktuigen-optimalisatie",
         "pubDate": "12 oktober 2026"
     }
 ]
