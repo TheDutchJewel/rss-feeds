@@ -1,5 +1,30 @@
 [
     {
+        "title": "Fedora 45",
+        "link": "https://www.gratissoftwaresite.nl/downloads/fedora-linux-besturingssysteem-os",
+        "pubDate": "3 november 2026"
+    },
+    {
+        "title": "Xubuntu 26.04.1 LTS &...",
+        "link": "https://www.gratissoftwaresite.nl/downloads/xubuntu-linux-besturingssysteem",
+        "pubDate": "3 november 2026"
+    },
+    {
+        "title": "Obsidian 1.15.0",
+        "link": "https://www.gratissoftwaresite.nl/downloads/obsidian-notities-aantekeningen-maken",
+        "pubDate": "3 november 2026"
+    },
+    {
+        "title": "Bitwarden 2026.10.3",
+        "link": "https://www.gratissoftwaresite.nl/downloads/bitwarden-wachtwoordbeheerder-online-kluis-versleuteld-privacy",
+        "pubDate": "3 november 2026"
+    },
+    {
+        "title": "PDF24 Creator Tools 11.32.0",
+        "link": "https://www.gratissoftwaresite.nl/downloads/pdf24-creator-tools-pdf-werktuigen-bewerken",
+        "pubDate": "3 november 2026"
+    },
+    {
         "title": "RustDesk 1.5.1",
         "link": "https://www.gratissoftwaresite.nl/downloads/rustdesk-pc-hulp-op-afstand-remote-desktop",
         "pubDate": "3 november 2026"
@@ -117,11 +142,6 @@
     {
         "title": "iOS en iPadOS 27.2 & 26.7.2...",
         "link": "https://www.gratissoftwaresite.nl/downloads/ios-mobiel-besturingssysteem-os-iphone",
-        "pubDate": "30 oktober 2026"
-    },
-    {
-        "title": "Bitwarden 2026.10.2",
-        "link": "https://www.gratissoftwaresite.nl/downloads/bitwarden-wachtwoordbeheerder-online-kluis-versleuteld-privacy",
         "pubDate": "30 oktober 2026"
     },
     {
@@ -315,11 +335,6 @@
         "pubDate": "23 oktober 2026"
     },
     {
-        "title": "Obsidian 1.15.0",
-        "link": "https://www.gratissoftwaresite.nl/downloads/obsidian-notities-aantekeningen-maken",
-        "pubDate": "23 oktober 2026"
-    },
-    {
         "title": "VirtualDJ Home 2026 build 9729",
         "link": "https://www.gratissoftwaresite.nl/downloads/virtualdj-muziek-mp3-mixen-geluidsbewerking-audio-dj-vj",
         "pubDate": "23 oktober 2026"
@@ -483,20 +498,5 @@
         "title": "Avast Free Antivirus 26.10",
         "link": "https://www.gratissoftwaresite.nl/downloads/avast-free-anti-virus-virusscanner",
         "pubDate": "13 oktober 2026"
-    },
-    {
-        "title": "MediaPortal 2.5.0 & 1.39",
-        "link": "https://www.gratissoftwaresite.nl/downloads/mediaportal-mediacenter-audio-video-tv",
-        "pubDate": "13 oktober 2026"
-    },
-    {
-        "title": "HDCleaner 2.096",
-        "link": "https://www.gratissoftwaresite.nl/downloads/hdcleaner-pc-schoonmaken-optimaliseren-tools-werktuigen",
-        "pubDate": "12 oktober 2026"
-    },
-    {
-        "title": "WinDirStat 2.9.3",
-        "link": "https://www.gratissoftwaresite.nl/downloads/windirstat-werktuig-tools-schijfruimte",
-        "pubDate": "12 oktober 2026"
     }
 ]

@@ -5,6 +5,36 @@
     <link>https://www.gratissoftwaresite.nl/downloads/nieuwe-updates</link>
     <description>Nieuwste software-updates van GratisSoftwareSite</description>
     <item>
+      <title>Fedora 45</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/fedora-linux-besturingssysteem-os</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/fedora-linux-besturingssysteem-os</guid>
+      <pubDate>3 november 2026</pubDate>
+    </item>
+    <item>
+      <title/>
+      <link>https://www.gratissoftwaresite.nl/downloads/xubuntu-linux-besturingssysteem</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/xubuntu-linux-besturingssysteem</guid>
+      <pubDate>3 november 2026</pubDate>
+    </item>
+    <item>
+      <title>Obsidian 1.15.0</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/obsidian-notities-aantekeningen-maken</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/obsidian-notities-aantekeningen-maken</guid>
+      <pubDate>3 november 2026</pubDate>
+    </item>
+    <item>
+      <title>Bitwarden 2026.10.3</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/bitwarden-wachtwoordbeheerder-online-kluis-versleuteld-privacy</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/bitwarden-wachtwoordbeheerder-online-kluis-versleuteld-privacy</guid>
+      <pubDate>3 november 2026</pubDate>
+    </item>
+    <item>
+      <title>PDF24 Creator Tools 11.32.0</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/pdf24-creator-tools-pdf-werktuigen-bewerken</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/pdf24-creator-tools-pdf-werktuigen-bewerken</guid>
+      <pubDate>3 november 2026</pubDate>
+    </item>
+    <item>
       <title>RustDesk 1.5.1</title>
       <link>https://www.gratissoftwaresite.nl/downloads/rustdesk-pc-hulp-op-afstand-remote-desktop</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/rustdesk-pc-hulp-op-afstand-remote-desktop</guid>
@@ -146,12 +176,6 @@
       <title/>
       <link>https://www.gratissoftwaresite.nl/downloads/ios-mobiel-besturingssysteem-os-iphone</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/ios-mobiel-besturingssysteem-os-iphone</guid>
-      <pubDate>30 oktober 2026</pubDate>
-    </item>
-    <item>
-      <title>Bitwarden 2026.10.2</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/bitwarden-wachtwoordbeheerder-online-kluis-versleuteld-privacy</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/bitwarden-wachtwoordbeheerder-online-kluis-versleuteld-privacy</guid>
       <pubDate>30 oktober 2026</pubDate>
     </item>
     <item>
@@ -383,12 +407,6 @@
       <pubDate>23 oktober 2026</pubDate>
     </item>
     <item>
-      <title>Obsidian 1.15.0</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/obsidian-notities-aantekeningen-maken</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/obsidian-notities-aantekeningen-maken</guid>
-      <pubDate>23 oktober 2026</pubDate>
-    </item>
-    <item>
       <title>VirtualDJ Home 2026 build 9729</title>
       <link>https://www.gratissoftwaresite.nl/downloads/virtualdj-muziek-mp3-mixen-geluidsbewerking-audio-dj-vj</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/virtualdj-muziek-mp3-mixen-geluidsbewerking-audio-dj-vj</guid>
@@ -585,24 +603,6 @@
       <link>https://www.gratissoftwaresite.nl/downloads/avast-free-anti-virus-virusscanner</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/avast-free-anti-virus-virusscanner</guid>
       <pubDate>13 oktober 2026</pubDate>
-    </item>
-    <item>
-      <title/>
-      <link>https://www.gratissoftwaresite.nl/downloads/mediaportal-mediacenter-audio-video-tv</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/mediaportal-mediacenter-audio-video-tv</guid>
-      <pubDate>13 oktober 2026</pubDate>
-    </item>
-    <item>
-      <title>HDCleaner 2.096</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/hdcleaner-pc-schoonmaken-optimaliseren-tools-werktuigen</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/hdcleaner-pc-schoonmaken-optimaliseren-tools-werktuigen</guid>
-      <pubDate>12 oktober 2026</pubDate>
-    </item>
-    <item>
-      <title>WinDirStat 2.9.3</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/windirstat-werktuig-tools-schijfruimte</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/windirstat-werktuig-tools-schijfruimte</guid>
-      <pubDate>12 oktober 2026</pubDate>
     </item>
   </channel>
 </rss>
