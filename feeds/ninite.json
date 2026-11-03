@@ -1,5 +1,20 @@
 [
   {
+    "title": "Visual Studio Code updated to 1.144.1.",
+    "link": "https://ninite.com/vscode/",
+    "pubDate": "Mon, 02 Nov 2026 21:43:50 -0000"
+  },
+  {
+    "title": "Bitwarden updated to 2026.10.3.",
+    "link": "https://ninite.com/bitwarden/",
+    "pubDate": "Mon, 02 Nov 2026 19:56:30 -0000"
+  },
+  {
+    "title": "PDF24 Creator updated to 11.32.0.",
+    "link": "https://ninite.com/pdf24creator/",
+    "pubDate": "Mon, 02 Nov 2026 19:49:15 -0000"
+  },
+  {
     "title": "RustDesk updated to 1.5.1.",
     "link": "https://ninite.com/rustdesk/",
     "pubDate": "Mon, 02 Nov 2026 18:11:21 -0000"
@@ -233,20 +248,5 @@
     "title": "TeamViewer 15 updated to 15.83.3.",
     "link": "https://ninite.com/teamviewer15/",
     "pubDate": "Tue, 27 Oct 2026 14:03:07 -0000"
-  },
-  {
-    "title": "Firefox updated to 159.0.",
-    "link": "https://ninite.com/firefox/",
-    "pubDate": "Tue, 27 Oct 2026 13:27:44 -0000"
-  },
-  {
-    "title": "PowerToys updated to 0.102.3001.0.",
-    "link": "https://ninite.com/powertoys/",
-    "pubDate": "Tue, 27 Oct 2026 12:09:00 -0000"
-  },
-  {
-    "title": "Java (AdoptOpenJDK) x64 25 updated to 25.0.5.",
-    "link": "https://ninite.com/adoptjavax25/",
-    "pubDate": "Tue, 27 Oct 2026 09:25:00 -0000"
   }
 ]

@@ -1,5 +1,55 @@
 [
   {
+    "title": "K-Lite Codec Pack Update 20.1.5",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/k-lite-codec-pack/",
+    "pubDate": "2026-11-02T21:44:00.000Z"
+  },
+  {
+    "title": "mp3Tag 3.37 Beta 6",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/mp3tag/",
+    "pubDate": "2026-11-02T21:43:00.000Z"
+  },
+  {
+    "title": "ownCloud Server 11.1.0 (Linux)",
+    "link": "https://www.computerbase.de/downloads/office/dateimanager/owncloud/",
+    "pubDate": "2026-11-02T21:43:00.000Z"
+  },
+  {
+    "title": "foobar2000 v2.26.3 preview 2026-11-02",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/foobar2000/",
+    "pubDate": "2026-11-02T19:21:00.000Z"
+  },
+  {
+    "title": "Brave 1.98.63",
+    "link": "https://www.computerbase.de/downloads/browser/brave/",
+    "pubDate": "2026-11-02T19:19:00.000Z"
+  },
+  {
+    "title": "VeraCrypt 1.26.31 Pre-Release",
+    "link": "https://www.computerbase.de/downloads/sicherheit/verschluesselung/veracrypt/",
+    "pubDate": "2026-11-02T18:55:00.000Z"
+  },
+  {
+    "title": "Enpass 6.12.8",
+    "link": "https://www.computerbase.de/downloads/sicherheit/passwortmanager/enpass/",
+    "pubDate": "2026-11-02T18:47:00.000Z"
+  },
+  {
+    "title": "FurMark 2.11.0.4",
+    "link": "https://www.computerbase.de/downloads/benchmarks/furmark/",
+    "pubDate": "2026-11-02T18:44:00.000Z"
+  },
+  {
+    "title": "AMD Ryzen Master 3.1.2.5621",
+    "link": "https://www.computerbase.de/downloads/systemtools/amd-ryzen-master/",
+    "pubDate": "2026-11-02T18:40:00.000Z"
+  },
+  {
+    "title": "Affinity 3.3.3",
+    "link": "https://www.computerbase.de/downloads/foto-und-grafik/affinity/",
+    "pubDate": "2026-11-02T18:37:00.000Z"
+  },
+  {
     "title": "Threema für Desktop 2.0 Beta 67",
     "link": "https://www.computerbase.de/downloads/kommunikation/threema-desktop/",
     "pubDate": "2026-11-02T18:36:00.000Z"
@@ -198,55 +248,5 @@
     "title": "Todoist 9.36.1",
     "link": "https://www.computerbase.de/downloads/office/todoist/",
     "pubDate": "2026-10-30T19:50:00.000Z"
-  },
-  {
-    "title": "Linux Kernel 7.3.1 (Linux)",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/linux-kernel/",
-    "pubDate": "2026-10-30T16:19:00.000Z"
-  },
-  {
-    "title": "Linux Kernel 7.2.14 (Linux)",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/linux-kernel/",
-    "pubDate": "2026-10-30T16:18:00.000Z"
-  },
-  {
-    "title": "Linux Kernel 6.18.60 (Linux)",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/linux-kernel/",
-    "pubDate": "2026-10-30T16:17:00.000Z"
-  },
-  {
-    "title": "AIMP 6.00 Build 3094 Beta 7",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/aimp/",
-    "pubDate": "2026-10-30T16:16:00.000Z"
-  },
-  {
-    "title": "Cryptomator 1.19.6",
-    "link": "https://www.computerbase.de/downloads/sicherheit/verschluesselung/cryptomator/",
-    "pubDate": "2026-10-30T16:15:00.000Z"
-  },
-  {
-    "title": "Multi Commander 16.6 Build 3233",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/multi-commander/",
-    "pubDate": "2026-10-30T16:14:00.000Z"
-  },
-  {
-    "title": "Brave 1.98.62",
-    "link": "https://www.computerbase.de/downloads/browser/brave/",
-    "pubDate": "2026-10-30T16:13:00.000Z"
-  },
-  {
-    "title": "Rufus 4.16 Beta",
-    "link": "https://www.computerbase.de/downloads/systemtools/festplatten/rufus/",
-    "pubDate": "2026-10-30T16:11:00.000Z"
-  },
-  {
-    "title": "Freeplane 1.13.4",
-    "link": "https://www.computerbase.de/downloads/office/freeplane/",
-    "pubDate": "2026-10-30T16:09:00.000Z"
-  },
-  {
-    "title": "mp3Tag 3.37 Beta 5",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/mp3tag/",
-    "pubDate": "2026-10-30T16:09:00.000Z"
   }
 ]
