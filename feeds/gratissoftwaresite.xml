@@ -5,13 +5,19 @@
     <link>https://www.gratissoftwaresite.nl/downloads/nieuwe-updates</link>
     <description>Nieuwste software-updates van GratisSoftwareSite</description>
     <item>
+      <title>Firefox 159.0.1</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/firefox-internet-web-browser</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/firefox-internet-web-browser</guid>
+      <pubDate>3 november 2026</pubDate>
+    </item>
+    <item>
       <title>Fedora 45</title>
       <link>https://www.gratissoftwaresite.nl/downloads/fedora-linux-besturingssysteem-os</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/fedora-linux-besturingssysteem-os</guid>
       <pubDate>3 november 2026</pubDate>
     </item>
     <item>
-      <title/>
+      <title>Xubuntu 26.04.1 LTS ...</title>
       <link>https://www.gratissoftwaresite.nl/downloads/xubuntu-linux-besturingssysteem</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/xubuntu-linux-besturingssysteem</guid>
       <pubDate>3 november 2026</pubDate>
@@ -89,7 +95,7 @@
       <pubDate>2 november 2026</pubDate>
     </item>
     <item>
-      <title/>
+      <title>KeePass Password Safe 2.61.1  1.44</title>
       <link>https://www.gratissoftwaresite.nl/downloads/keepass-password-safe-wachtwoordbeheer-kluis-inloggegevens</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/keepass-password-safe-wachtwoordbeheer-kluis-inloggegevens</guid>
       <pubDate>2 november 2026</pubDate>
@@ -137,7 +143,7 @@
       <pubDate>31 oktober 2026</pubDate>
     </item>
     <item>
-      <title/>
+      <title>VeraCrypt 1.26.29  1.26...</title>
       <link>https://www.gratissoftwaresite.nl/downloads/veracrypt-encryptie-versleuteling-virtuele-kluis</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/veracrypt-encryptie-versleuteling-virtuele-kluis</guid>
       <pubDate>31 oktober 2026</pubDate>
@@ -167,13 +173,13 @@
       <pubDate>30 oktober 2026</pubDate>
     </item>
     <item>
-      <title/>
+      <title>macOS 27.2  26.7.2...</title>
       <link>https://www.gratissoftwaresite.nl/downloads/macos-besturingssysteem</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/macos-besturingssysteem</guid>
       <pubDate>30 oktober 2026</pubDate>
     </item>
     <item>
-      <title/>
+      <title>iOS en iPadOS 27.2  26.7.2...</title>
       <link>https://www.gratissoftwaresite.nl/downloads/ios-mobiel-besturingssysteem-os-iphone</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/ios-mobiel-besturingssysteem-os-iphone</guid>
       <pubDate>30 oktober 2026</pubDate>
@@ -323,12 +329,6 @@
       <pubDate>27 oktober 2026</pubDate>
     </item>
     <item>
-      <title>Firefox 159.0</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/firefox-internet-web-browser</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/firefox-internet-web-browser</guid>
-      <pubDate>27 oktober 2026</pubDate>
-    </item>
-    <item>
       <title>PicPick 7.6.2</title>
       <link>https://www.gratissoftwaresite.nl/downloads/picpick-fotobewerking-screenshot</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/picpick-fotobewerking-screenshot</guid>
@@ -413,7 +413,7 @@
       <pubDate>23 oktober 2026</pubDate>
     </item>
     <item>
-      <title/>
+      <title>Blender 5.2.3 LTS  4....</title>
       <link>https://www.gratissoftwaresite.nl/downloads/blender-3d-animatie-films</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/blender-3d-animatie-films</guid>
       <pubDate>23 oktober 2026</pubDate>
@@ -581,7 +581,7 @@
       <pubDate>14 oktober 2026</pubDate>
     </item>
     <item>
-      <title/>
+      <title>XnView MP 1.12.2  Cl...</title>
       <link>https://www.gratissoftwaresite.nl/downloads/xnview-fotobewerking-beeld</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/xnview-fotobewerking-beeld</guid>
       <pubDate>14 oktober 2026</pubDate>
