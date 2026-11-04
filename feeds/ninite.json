@@ -1,5 +1,65 @@
 [
   {
+    "title": "Grammarly updated to 1.2.310.2001.",
+    "link": "https://ninite.com/grammarly/",
+    "pubDate": "Wed, 04 Nov 2026 19:25:09 -0000"
+  },
+  {
+    "title": "Java (AdoptOpenJDK) x64 17 updated to 17.0.21.",
+    "link": "https://ninite.com/adoptjavax17/",
+    "pubDate": "Wed, 04 Nov 2026 19:24:01 -0000"
+  },
+  {
+    "title": "JDK (AdoptOpenJDK) x64 17 updated to 17.0.21.",
+    "link": "https://ninite.com/adoptjdkx17/",
+    "pubDate": "Wed, 04 Nov 2026 19:23:31 -0000"
+  },
+  {
+    "title": "KeePass 2 updated to 2.62.",
+    "link": "https://ninite.com/keepass2/",
+    "pubDate": "Wed, 04 Nov 2026 19:23:20 -0000"
+  },
+  {
+    "title": "Discord updated to 1.0.9267.",
+    "link": "https://ninite.com/discord/",
+    "pubDate": "Wed, 04 Nov 2026 18:20:27 -0000"
+  },
+  {
+    "title": "1Password updated to 8.12.44.",
+    "link": "https://ninite.com/1password/",
+    "pubDate": "Wed, 04 Nov 2026 18:12:00 -0000"
+  },
+  {
+    "title": "Claude updated to 4.16336.0.",
+    "link": "https://ninite.com/claude/",
+    "pubDate": "Wed, 04 Nov 2026 17:55:57 -0000"
+  },
+  {
+    "title": "Telegram updated to 7.3.5.",
+    "link": "https://ninite.com/telegram/",
+    "pubDate": "Wed, 04 Nov 2026 17:53:50 -0000"
+  },
+  {
+    "title": "Bambu Studio updated to 2.9.1.70.",
+    "link": "https://ninite.com/bambustudio/",
+    "pubDate": "Wed, 04 Nov 2026 17:53:10 -0000"
+  },
+  {
+    "title": "Opera Chromium updated to 139.0.6053.38.",
+    "link": "https://ninite.com/operaChromium/",
+    "pubDate": "Wed, 04 Nov 2026 17:52:42 -0000"
+  },
+  {
+    "title": "Audacity updated to 4.0.2.",
+    "link": "https://ninite.com/audacity/",
+    "pubDate": "Wed, 04 Nov 2026 17:51:13 -0000"
+  },
+  {
+    "title": "GIMP updated to 3.2.8.",
+    "link": "https://ninite.com/gimp/",
+    "pubDate": "Wed, 04 Nov 2026 17:51:00 -0000"
+  },
+  {
     "title": "WhatsApp updated to 2.2642.101.",
     "link": "https://ninite.com/whatsapp/",
     "pubDate": "Wed, 04 Nov 2026 13:39:28 -0000"
@@ -213,55 +273,5 @@
     "title": "Tailscale updated to 1.104.4.",
     "link": "https://ninite.com/tailscale/",
     "pubDate": "Wed, 28 Oct 2026 18:25:20 -0000"
-  },
-  {
-    "title": "Grammarly updated to 1.2.308.1991.",
-    "link": "https://ninite.com/grammarly/",
-    "pubDate": "Wed, 28 Oct 2026 18:25:11 -0000"
-  },
-  {
-    "title": "Google Drive for Desktop updated to 133.0.2.0.",
-    "link": "https://ninite.com/googledrivefordesktop/",
-    "pubDate": "Wed, 28 Oct 2026 18:24:58 -0000"
-  },
-  {
-    "title": "Node.js 26 updated to 26.13.0.",
-    "link": "https://ninite.com/node.js26/",
-    "pubDate": "Wed, 28 Oct 2026 17:23:59 -0000"
-  },
-  {
-    "title": "Brave updated to 1.98.62.",
-    "link": "https://ninite.com/brave/",
-    "pubDate": "Wed, 28 Oct 2026 17:02:25 -0000"
-  },
-  {
-    "title": "Visual Studio Code updated to 1.144.0.",
-    "link": "https://ninite.com/vscode/",
-    "pubDate": "Wed, 28 Oct 2026 16:31:17 -0000"
-  },
-  {
-    "title": "KeePassXC updated to 2.8.0.",
-    "link": "https://ninite.com/keepassxc/",
-    "pubDate": "Wed, 28 Oct 2026 12:07:23 -0000"
-  },
-  {
-    "title": "Chrome updated to 156.0.8078.74.",
-    "link": "https://ninite.com/chrome/",
-    "pubDate": "Tue, 27 Oct 2026 21:02:31 -0000"
-  },
-  {
-    "title": "Dropbox updated to 276.4.5325.",
-    "link": "https://ninite.com/dropbox/",
-    "pubDate": "Tue, 27 Oct 2026 20:07:45 -0000"
-  },
-  {
-    "title": "ChatGPT updated to 26.1023.6123.",
-    "link": "https://ninite.com/chatgpt/",
-    "pubDate": "Tue, 27 Oct 2026 19:23:02 -0000"
-  },
-  {
-    "title": "Thunderbird updated to 159.0.",
-    "link": "https://ninite.com/thunderbird/",
-    "pubDate": "Tue, 27 Oct 2026 18:20:58 -0000"
   }
 ]

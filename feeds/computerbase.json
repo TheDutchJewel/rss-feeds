@@ -1,5 +1,95 @@
 [
   {
+    "title": "1Password 8.12.46-26 Beta",
+    "link": "https://www.computerbase.de/downloads/sicherheit/passwortmanager/1password/",
+    "pubDate": "2026-11-04T18:47:00.000Z"
+  },
+  {
+    "title": "KeePass 2.62",
+    "link": "https://www.computerbase.de/downloads/sicherheit/passwortmanager/keepass/",
+    "pubDate": "2026-11-04T18:32:00.000Z"
+  },
+  {
+    "title": "EA-App 13.822.0.6335",
+    "link": "https://www.computerbase.de/downloads/games/ea-app/",
+    "pubDate": "2026-11-04T18:29:00.000Z"
+  },
+  {
+    "title": "RealVNC Connect Viewer 8.6.0",
+    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/vnc-connect/",
+    "pubDate": "2026-11-04T18:28:00.000Z"
+  },
+  {
+    "title": "Viber für Desktop 29.4.0.0",
+    "link": "https://www.computerbase.de/downloads/kommunikation/viber-fuer-desktop/",
+    "pubDate": "2026-11-04T18:26:00.000Z"
+  },
+  {
+    "title": "Gigabyte Control Center 26.11.04.01",
+    "link": "https://www.computerbase.de/downloads/systemtools/gigabyte-control-center/",
+    "pubDate": "2026-11-04T18:25:00.000Z"
+  },
+  {
+    "title": "HFS – HTTP File Server 3.4.0",
+    "link": "https://www.computerbase.de/downloads/office/dateitransfer/hfs-http-file-server/",
+    "pubDate": "2026-11-04T18:25:00.000Z"
+  },
+  {
+    "title": "Epic Games Launcher 0.111.0 Preview",
+    "link": "https://www.computerbase.de/downloads/games/epic-games-launcher/",
+    "pubDate": "2026-11-04T18:24:00.000Z"
+  },
+  {
+    "title": "Discord 1.0.9267",
+    "link": "https://www.computerbase.de/downloads/kommunikation/discord/",
+    "pubDate": "2026-11-04T18:24:00.000Z"
+  },
+  {
+    "title": "Mozilla Thunderbird 160.0 Beta 4",
+    "link": "https://www.computerbase.de/downloads/kommunikation/mozilla-thunderbird/",
+    "pubDate": "2026-11-04T18:23:00.000Z"
+  },
+  {
+    "title": "Mozilla Firefox 160.0 Beta 5",
+    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
+    "pubDate": "2026-11-04T18:23:00.000Z"
+  },
+  {
+    "title": "Google Chrome 158.0.8127.18  Beta",
+    "link": "https://www.computerbase.de/downloads/browser/google-chrome/",
+    "pubDate": "2026-11-04T16:25:00.000Z"
+  },
+  {
+    "title": "Nvidia Linux Display Driver 620.70.06 (Linux)",
+    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/nvidia-linux-display-driver/",
+    "pubDate": "2026-11-04T16:18:00.000Z"
+  },
+  {
+    "title": "Nvidia GeForce-Treiber 621.14",
+    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/nvidia-geforce-treiber/",
+    "pubDate": "2026-11-04T16:09:00.000Z"
+  },
+  {
+    "title": "Nvidia Studio-Treiber 621.14",
+    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/nvidia-studio-treiber/",
+    "pubDate": "2026-11-04T16:09:00.000Z"
+  },
+  {
+    "title": "Adobe Acrobat Reader DC (26.003.22075)",
+    "link": "https://www.computerbase.de/downloads/office/pdf/adobe-acrobat-reader/",
+    "pubDate": "2026-11-04T16:01:00.000Z"
+  },
+  {
+    "title": "DriverMax 18.0.326",
+    "link": "https://www.computerbase.de/downloads/treiber/drivermax/",
+    "pubDate": "2026-11-04T16:00:00.000Z"
+  },
+  {
+    "title": "Opera 139.0.6053.38",
+    "link": "https://www.computerbase.de/downloads/browser/opera/",
+    "pubDate": "2026-11-04T15:59:00.000Z"
+  },
+  {
     "title": "ProtonVPN 5.1.9",
     "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/protonvpn/",
     "pubDate": "2026-11-04T15:58:00.000Z"
@@ -158,95 +248,5 @@
     "title": "WhatsApp 2.26.44.15 (macOS)",
     "link": "https://www.computerbase.de/downloads/kommunikation/whatsapp/",
     "pubDate": "2026-11-03T18:48:00.000Z"
-  },
-  {
-    "title": "Nvidia App 11.0.9.585",
-    "link": "https://www.computerbase.de/downloads/systemtools/grafikkarten/nvidia-app/",
-    "pubDate": "2026-11-03T18:47:00.000Z"
-  },
-  {
-    "title": "Evernote 11.41.7",
-    "link": "https://www.computerbase.de/downloads/office/evernote/",
-    "pubDate": "2026-11-03T18:46:00.000Z"
-  },
-  {
-    "title": "K-Lite Codec Pack Update 20.1.6",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/k-lite-codec-pack/",
-    "pubDate": "2026-11-03T18:46:00.000Z"
-  },
-  {
-    "title": "Fedora 45",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/fedora/",
-    "pubDate": "2026-11-03T18:43:00.000Z"
-  },
-  {
-    "title": "Trellix Stinger 26.11.45.2",
-    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/mcafee-labs-stinger/",
-    "pubDate": "2026-11-03T18:40:00.000Z"
-  },
-  {
-    "title": "Epic Games Launcher 0.110.0 Preview",
-    "link": "https://www.computerbase.de/downloads/games/epic-games-launcher/",
-    "pubDate": "2026-11-03T18:39:00.000Z"
-  },
-  {
-    "title": "1Password 8.12.44",
-    "link": "https://www.computerbase.de/downloads/sicherheit/passwortmanager/1password/",
-    "pubDate": "2026-11-03T18:39:00.000Z"
-  },
-  {
-    "title": "Mozilla Firefox 159.0.1",
-    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
-    "pubDate": "2026-11-03T18:38:00.000Z"
-  },
-  {
-    "title": "Solidigm Synergy Toolkit 3.2 (Storage Tool – Legacy)",
-    "link": "https://www.computerbase.de/downloads/systemtools/festplatten/solidigm-storage-tool/",
-    "pubDate": "2026-11-03T05:33:00.000Z"
-  },
-  {
-    "title": "Todoist 9.36.2",
-    "link": "https://www.computerbase.de/downloads/office/todoist/",
-    "pubDate": "2026-11-03T05:23:00.000Z"
-  },
-  {
-    "title": "OnyX 5.1.2 (macOS)",
-    "link": "https://www.computerbase.de/downloads/systemtools/onyx/",
-    "pubDate": "2026-11-03T05:22:00.000Z"
-  },
-  {
-    "title": "ChromeOS Flex 1.0.3",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/chromeos-flex/",
-    "pubDate": "2026-11-03T05:21:00.000Z"
-  },
-  {
-    "title": "mp3Tag 3.37 Beta 6",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/mp3tag/",
-    "pubDate": "2026-11-02T21:43:00.000Z"
-  },
-  {
-    "title": "ownCloud Server 11.1.0 (Linux)",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/owncloud/",
-    "pubDate": "2026-11-02T21:43:00.000Z"
-  },
-  {
-    "title": "Brave 1.98.63",
-    "link": "https://www.computerbase.de/downloads/browser/brave/",
-    "pubDate": "2026-11-02T19:19:00.000Z"
-  },
-  {
-    "title": "VeraCrypt 1.26.31 Pre-Release",
-    "link": "https://www.computerbase.de/downloads/sicherheit/verschluesselung/veracrypt/",
-    "pubDate": "2026-11-02T18:55:00.000Z"
-  },
-  {
-    "title": "Enpass 6.12.8",
-    "link": "https://www.computerbase.de/downloads/sicherheit/passwortmanager/enpass/",
-    "pubDate": "2026-11-02T18:47:00.000Z"
-  },
-  {
-    "title": "FurMark 2.11.0.4",
-    "link": "https://www.computerbase.de/downloads/benchmarks/furmark/",
-    "pubDate": "2026-11-02T18:44:00.000Z"
   }
 ]
