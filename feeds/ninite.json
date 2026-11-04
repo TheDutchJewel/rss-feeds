@@ -1,5 +1,15 @@
 [
   {
+    "title": "Slack updated to 4.53.280.",
+    "link": "https://ninite.com/slack/",
+    "pubDate": "Tue, 03 Nov 2026 23:15:15 -0000"
+  },
+  {
+    "title": "Chrome updated to 157.0.8103.39.",
+    "link": "https://ninite.com/chrome/",
+    "pubDate": "Tue, 03 Nov 2026 21:48:50 -0000"
+  },
+  {
     "title": "Firefox updated to 159.0.1.",
     "link": "https://ninite.com/firefox/",
     "pubDate": "Tue, 03 Nov 2026 14:43:27 -0000"
@@ -253,10 +263,5 @@
     "title": "JDK (Amazon Corretto) x64 17 updated to 17.0.21.0.11.",
     "link": "https://ninite.com/correttojdkx17/",
     "pubDate": "Tue, 27 Oct 2026 18:19:59 -0000"
-  },
-  {
-    "title": "JDK (Amazon Corretto) x64 11 updated to 11.0.33.0.10.",
-    "link": "https://ninite.com/correttojdkx11/",
-    "pubDate": "Tue, 27 Oct 2026 18:19:37 -0000"
   }
 ]
