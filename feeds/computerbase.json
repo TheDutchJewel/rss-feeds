@@ -1,5 +1,35 @@
 [
   {
+    "title": "ProtonVPN 5.1.9",
+    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/protonvpn/",
+    "pubDate": "2026-11-04T15:58:00.000Z"
+  },
+  {
+    "title": "Ocenaudio 3.22.2",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/ocenaudio/",
+    "pubDate": "2026-11-04T15:57:00.000Z"
+  },
+  {
+    "title": "CPU-Z 3.02",
+    "link": "https://www.computerbase.de/downloads/systemtools/cpu-z/",
+    "pubDate": "2026-11-04T15:56:00.000Z"
+  },
+  {
+    "title": "Telegram Desktop 7.3.5",
+    "link": "https://www.computerbase.de/downloads/kommunikation/telegram-desktop/",
+    "pubDate": "2026-11-04T15:54:00.000Z"
+  },
+  {
+    "title": "HWiNFO 8.55 Build 6115 Beta",
+    "link": "https://www.computerbase.de/downloads/systemtools/hwinfo/",
+    "pubDate": "2026-11-04T15:53:00.000Z"
+  },
+  {
+    "title": "Visual Studio Code (VS Code) 1.145.0",
+    "link": "https://www.computerbase.de/downloads/office/editoren/visual-studio-code/",
+    "pubDate": "2026-11-04T15:51:00.000Z"
+  },
+  {
     "title": "Dropbox 278.4.3944",
     "link": "https://www.computerbase.de/downloads/office/dateimanager/dropbox/",
     "pubDate": "2026-11-04T05:29:00.000Z"
@@ -63,11 +93,6 @@
     "title": "Rockstar Games Launcher 1.0.110.3139",
     "link": "https://www.computerbase.de/downloads/games/rockstar-games-launcher/",
     "pubDate": "2026-11-03T19:08:00.000Z"
-  },
-  {
-    "title": "Visual Studio Code (VS Code) 1.144.1",
-    "link": "https://www.computerbase.de/downloads/office/editoren/visual-studio-code/",
-    "pubDate": "2026-11-03T19:05:00.000Z"
   },
   {
     "title": "Camtasia 2026.2.5",
@@ -223,30 +248,5 @@
     "title": "FurMark 2.11.0.4",
     "link": "https://www.computerbase.de/downloads/benchmarks/furmark/",
     "pubDate": "2026-11-02T18:44:00.000Z"
-  },
-  {
-    "title": "AMD Ryzen Master 3.1.2.5621",
-    "link": "https://www.computerbase.de/downloads/systemtools/amd-ryzen-master/",
-    "pubDate": "2026-11-02T18:40:00.000Z"
-  },
-  {
-    "title": "Affinity 3.3.3",
-    "link": "https://www.computerbase.de/downloads/foto-und-grafik/affinity/",
-    "pubDate": "2026-11-02T18:37:00.000Z"
-  },
-  {
-    "title": "Threema für Desktop 2.0 Beta 67",
-    "link": "https://www.computerbase.de/downloads/kommunikation/threema-desktop/",
-    "pubDate": "2026-11-02T18:36:00.000Z"
-  },
-  {
-    "title": "Discord 0.0.421 (macOS)",
-    "link": "https://www.computerbase.de/downloads/kommunikation/discord/",
-    "pubDate": "2026-11-02T18:35:00.000Z"
-  },
-  {
-    "title": "PDF24 Creator 11.32.0",
-    "link": "https://www.computerbase.de/downloads/office/pdf/pdf24-creator/",
-    "pubDate": "2026-11-02T18:33:00.000Z"
   }
 ]

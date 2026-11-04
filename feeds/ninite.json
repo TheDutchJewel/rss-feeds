@@ -1,5 +1,15 @@
 [
   {
+    "title": "WhatsApp updated to 2.2642.101.",
+    "link": "https://ninite.com/whatsapp/",
+    "pubDate": "Wed, 04 Nov 2026 13:39:28 -0000"
+  },
+  {
+    "title": "Visual Studio Code updated to 1.145.0.",
+    "link": "https://ninite.com/vscode/",
+    "pubDate": "Wed, 04 Nov 2026 08:12:17 -0000"
+  },
+  {
     "title": "ChatGPT updated to 26.1029.7803.",
     "link": "https://ninite.com/chatgpt/",
     "pubDate": "Wed, 04 Nov 2026 03:38:45 -0000"
@@ -253,15 +263,5 @@
     "title": "Thunderbird updated to 159.0.",
     "link": "https://ninite.com/thunderbird/",
     "pubDate": "Tue, 27 Oct 2026 18:20:58 -0000"
-  },
-  {
-    "title": "JDK (Amazon Corretto) x64 25 updated to 25.0.5.0.10.",
-    "link": "https://ninite.com/correttojdkx25/",
-    "pubDate": "Tue, 27 Oct 2026 18:20:45 -0000"
-  },
-  {
-    "title": "JDK (Amazon Corretto) x64 21 updated to 21.0.13.0.11.",
-    "link": "https://ninite.com/correttojdkx21/",
-    "pubDate": "Tue, 27 Oct 2026 18:20:24 -0000"
   }
 ]
