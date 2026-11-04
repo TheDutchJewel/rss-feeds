@@ -5,6 +5,12 @@
     <link>https://www.gratissoftwaresite.nl/downloads/nieuwe-updates</link>
     <description>Nieuwste software-updates van GratisSoftwareSite</description>
     <item>
+      <title>GIMP 3.2.8</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/gimp-fotobewerking-image-editor-tekenen</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/gimp-fotobewerking-image-editor-tekenen</guid>
+      <pubDate>4 november 2026</pubDate>
+    </item>
+    <item>
       <title>Firefox 159.0.1</title>
       <link>https://www.gratissoftwaresite.nl/downloads/firefox-internet-web-browser</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/firefox-internet-web-browser</guid>
@@ -596,12 +602,6 @@
       <title>AVG Anti-Virus Free 26.10</title>
       <link>https://www.gratissoftwaresite.nl/downloads/avg-anti-virus-free-virusscanner</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/avg-anti-virus-free-virusscanner</guid>
-      <pubDate>13 oktober 2026</pubDate>
-    </item>
-    <item>
-      <title>Avast Free Antivirus 26.10</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/avast-free-anti-virus-virusscanner</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/avast-free-anti-virus-virusscanner</guid>
       <pubDate>13 oktober 2026</pubDate>
     </item>
   </channel>

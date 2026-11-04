@@ -1,5 +1,10 @@
 [
   {
+    "title": "ChatGPT updated to 26.1029.7803.",
+    "link": "https://ninite.com/chatgpt/",
+    "pubDate": "Wed, 04 Nov 2026 03:38:45 -0000"
+  },
+  {
     "title": "Slack updated to 4.53.280.",
     "link": "https://ninite.com/slack/",
     "pubDate": "Tue, 03 Nov 2026 23:15:15 -0000"
@@ -258,10 +263,5 @@
     "title": "JDK (Amazon Corretto) x64 21 updated to 21.0.13.0.11.",
     "link": "https://ninite.com/correttojdkx21/",
     "pubDate": "Tue, 27 Oct 2026 18:20:24 -0000"
-  },
-  {
-    "title": "JDK (Amazon Corretto) x64 17 updated to 17.0.21.0.11.",
-    "link": "https://ninite.com/correttojdkx17/",
-    "pubDate": "Tue, 27 Oct 2026 18:19:59 -0000"
   }
 ]

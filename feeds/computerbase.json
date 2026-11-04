@@ -1,5 +1,50 @@
 [
   {
+    "title": "Dropbox 278.4.3944",
+    "link": "https://www.computerbase.de/downloads/office/dateimanager/dropbox/",
+    "pubDate": "2026-11-04T05:29:00.000Z"
+  },
+  {
+    "title": "Slack 4.53.280 (Win 11)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/slack/",
+    "pubDate": "2026-11-04T05:26:00.000Z"
+  },
+  {
+    "title": "Slack 4.53.280 (macOS)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/slack/",
+    "pubDate": "2026-11-04T05:25:00.000Z"
+  },
+  {
+    "title": "Slack 4.53.280 Beta (Linux)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/slack/",
+    "pubDate": "2026-11-04T05:25:00.000Z"
+  },
+  {
+    "title": "GIMP 3.2.8",
+    "link": "https://www.computerbase.de/downloads/foto-und-grafik/gimp/",
+    "pubDate": "2026-11-04T05:22:00.000Z"
+  },
+  {
+    "title": "LibreWolf 159.0.1-1",
+    "link": "https://www.computerbase.de/downloads/browser/librewolf/",
+    "pubDate": "2026-11-04T05:21:00.000Z"
+  },
+  {
+    "title": "Blizzard Battle.net 2.53.8.17986",
+    "link": "https://www.computerbase.de/downloads/games/blizzard-battle.net/",
+    "pubDate": "2026-11-04T05:21:00.000Z"
+  },
+  {
+    "title": "Fido 1.72",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/fido/",
+    "pubDate": "2026-11-04T05:20:00.000Z"
+  },
+  {
+    "title": "Google Chrome 157.0.8103.38/.39",
+    "link": "https://www.computerbase.de/downloads/browser/google-chrome/",
+    "pubDate": "2026-11-04T05:17:00.000Z"
+  },
+  {
     "title": "FileZilla 3.72.0 RC 1",
     "link": "https://www.computerbase.de/downloads/office/dateitransfer/filezilla/",
     "pubDate": "2026-11-03T19:35:00.000Z"
@@ -203,50 +248,5 @@
     "title": "PDF24 Creator 11.32.0",
     "link": "https://www.computerbase.de/downloads/office/pdf/pdf24-creator/",
     "pubDate": "2026-11-02T18:33:00.000Z"
-  },
-  {
-    "title": "Mozilla Firefox 160.0 Beta 4",
-    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
-    "pubDate": "2026-11-02T18:33:00.000Z"
-  },
-  {
-    "title": "Bitwarden 2026.10.3",
-    "link": "https://www.computerbase.de/downloads/sicherheit/passwortmanager/bitwarden/",
-    "pubDate": "2026-11-02T18:32:00.000Z"
-  },
-  {
-    "title": "Audacity 4.0.2",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/audacity/",
-    "pubDate": "2026-11-02T16:26:00.000Z"
-  },
-  {
-    "title": "Palit ThunderMaster 4.18",
-    "link": "https://www.computerbase.de/downloads/systemtools/grafikkarten/palit-thundermaster/",
-    "pubDate": "2026-11-02T16:22:00.000Z"
-  },
-  {
-    "title": "ProtonVPN 4.19.0 (Linux)",
-    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/protonvpn/",
-    "pubDate": "2026-11-02T16:18:00.000Z"
-  },
-  {
-    "title": "Mozilla Thunderbird 160.0 Beta 3",
-    "link": "https://www.computerbase.de/downloads/kommunikation/mozilla-thunderbird/",
-    "pubDate": "2026-11-02T16:17:00.000Z"
-  },
-  {
-    "title": "Fan Control V285",
-    "link": "https://www.computerbase.de/downloads/systemtools/fan-control/",
-    "pubDate": "2026-11-02T16:16:00.000Z"
-  },
-  {
-    "title": "Obsidian 1.15.0",
-    "link": "https://www.computerbase.de/downloads/office/obsidian/",
-    "pubDate": "2026-11-02T16:13:00.000Z"
-  },
-  {
-    "title": "openSUSE Tumbleweed 2026-11",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/opensuse/",
-    "pubDate": "2026-11-02T16:12:00.000Z"
   }
 ]

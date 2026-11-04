@@ -1,5 +1,10 @@
 [
     {
+        "title": "GIMP 3.2.8",
+        "link": "https://www.gratissoftwaresite.nl/downloads/gimp-fotobewerking-image-editor-tekenen",
+        "pubDate": "4 november 2026"
+    },
+    {
         "title": "Firefox 159.0.1",
         "link": "https://www.gratissoftwaresite.nl/downloads/firefox-internet-web-browser",
         "pubDate": "3 november 2026"
@@ -492,11 +497,6 @@
     {
         "title": "AVG Anti-Virus Free 26.10",
         "link": "https://www.gratissoftwaresite.nl/downloads/avg-anti-virus-free-virusscanner",
-        "pubDate": "13 oktober 2026"
-    },
-    {
-        "title": "Avast Free Antivirus 26.10",
-        "link": "https://www.gratissoftwaresite.nl/downloads/avast-free-anti-virus-virusscanner",
         "pubDate": "13 oktober 2026"
     }
 ]
