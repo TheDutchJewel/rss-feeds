@@ -1,5 +1,85 @@
 [
   {
+    "title": "Sandisk Dashboard 5.2.2.4",
+    "link": "https://www.computerbase.de/downloads/systemtools/festplatten/sandisk-dashboard/",
+    "pubDate": "2026-11-05T20:13:00.000Z"
+  },
+  {
+    "title": "DaVinci Resolve 21.2",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/davinci-resolve/",
+    "pubDate": "2026-11-05T20:12:00.000Z"
+  },
+  {
+    "title": "Microsoft Edge 156.0.4314.70",
+    "link": "https://www.computerbase.de/downloads/browser/microsoft-edge/",
+    "pubDate": "2026-11-05T20:08:00.000Z"
+  },
+  {
+    "title": "Telegram Desktop 7.4.0",
+    "link": "https://www.computerbase.de/downloads/kommunikation/telegram-desktop/",
+    "pubDate": "2026-11-05T20:07:00.000Z"
+  },
+  {
+    "title": "Corel PaintShop Pro 2023 v25 Update 3",
+    "link": "https://www.computerbase.de/downloads/foto-und-grafik/corel-paintshop-pro/",
+    "pubDate": "2026-11-05T19:22:00.000Z"
+  },
+  {
+    "title": "Viber für Desktop 29.4.0.7 (Linux)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/viber-fuer-desktop/",
+    "pubDate": "2026-11-05T19:18:00.000Z"
+  },
+  {
+    "title": "Rockstar Games Launcher 1.0.110.3150",
+    "link": "https://www.computerbase.de/downloads/games/rockstar-games-launcher/",
+    "pubDate": "2026-11-05T19:16:00.000Z"
+  },
+  {
+    "title": "TeamSpeak 6.0.0-beta5.1",
+    "link": "https://www.computerbase.de/downloads/kommunikation/teamspeak/",
+    "pubDate": "2026-11-05T19:15:00.000Z"
+  },
+  {
+    "title": "Evernote 11.41.9",
+    "link": "https://www.computerbase.de/downloads/office/evernote/",
+    "pubDate": "2026-11-05T19:14:00.000Z"
+  },
+  {
+    "title": "RoboForm 10.0.3",
+    "link": "https://www.computerbase.de/downloads/sicherheit/passwortmanager/roboform/",
+    "pubDate": "2026-11-05T19:13:00.000Z"
+  },
+  {
+    "title": "Cyberduck 9.6.0.46406",
+    "link": "https://www.computerbase.de/downloads/office/dateitransfer/cyberduck/",
+    "pubDate": "2026-11-05T19:13:00.000Z"
+  },
+  {
+    "title": "Ubisoft Connect 175.1.0.13416",
+    "link": "https://www.computerbase.de/downloads/games/ubisoft-connect/",
+    "pubDate": "2026-11-05T19:11:00.000Z"
+  },
+  {
+    "title": "Bitwarden 2026.10.4",
+    "link": "https://www.computerbase.de/downloads/sicherheit/passwortmanager/bitwarden/",
+    "pubDate": "2026-11-05T19:10:00.000Z"
+  },
+  {
+    "title": "Epic Games Launcher 0.112.0 Preview",
+    "link": "https://www.computerbase.de/downloads/games/epic-games-launcher/",
+    "pubDate": "2026-11-05T19:07:00.000Z"
+  },
+  {
+    "title": "Gigabyte Control Center 26.11.05.01",
+    "link": "https://www.computerbase.de/downloads/systemtools/gigabyte-control-center/",
+    "pubDate": "2026-11-05T19:07:00.000Z"
+  },
+  {
+    "title": "Brave 1.99.55",
+    "link": "https://www.computerbase.de/downloads/browser/brave/",
+    "pubDate": "2026-11-05T19:06:00.000Z"
+  },
+  {
     "title": "Wipe 2613.00",
     "link": "https://www.computerbase.de/downloads/systemtools/wipe/",
     "pubDate": "2026-11-05T16:07:00.000Z"
@@ -100,19 +180,9 @@
     "pubDate": "2026-11-04T18:26:00.000Z"
   },
   {
-    "title": "Gigabyte Control Center 26.11.04.01",
-    "link": "https://www.computerbase.de/downloads/systemtools/gigabyte-control-center/",
-    "pubDate": "2026-11-04T18:25:00.000Z"
-  },
-  {
     "title": "HFS – HTTP File Server 3.4.0",
     "link": "https://www.computerbase.de/downloads/office/dateitransfer/hfs-http-file-server/",
     "pubDate": "2026-11-04T18:25:00.000Z"
-  },
-  {
-    "title": "Epic Games Launcher 0.111.0 Preview",
-    "link": "https://www.computerbase.de/downloads/games/epic-games-launcher/",
-    "pubDate": "2026-11-04T18:24:00.000Z"
   },
   {
     "title": "Discord 1.0.9267",
@@ -175,78 +245,8 @@
     "pubDate": "2026-11-04T15:56:00.000Z"
   },
   {
-    "title": "Telegram Desktop 7.3.5",
-    "link": "https://www.computerbase.de/downloads/kommunikation/telegram-desktop/",
-    "pubDate": "2026-11-04T15:54:00.000Z"
-  },
-  {
     "title": "HWiNFO 8.55 Build 6115 Beta",
     "link": "https://www.computerbase.de/downloads/systemtools/hwinfo/",
     "pubDate": "2026-11-04T15:53:00.000Z"
-  },
-  {
-    "title": "Visual Studio Code (VS Code) 1.145.0",
-    "link": "https://www.computerbase.de/downloads/office/editoren/visual-studio-code/",
-    "pubDate": "2026-11-04T15:51:00.000Z"
-  },
-  {
-    "title": "Dropbox 278.4.3944",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/dropbox/",
-    "pubDate": "2026-11-04T05:29:00.000Z"
-  },
-  {
-    "title": "Slack 4.53.280 (Win 11)",
-    "link": "https://www.computerbase.de/downloads/kommunikation/slack/",
-    "pubDate": "2026-11-04T05:26:00.000Z"
-  },
-  {
-    "title": "Slack 4.53.280 (macOS)",
-    "link": "https://www.computerbase.de/downloads/kommunikation/slack/",
-    "pubDate": "2026-11-04T05:25:00.000Z"
-  },
-  {
-    "title": "Slack 4.53.280 Beta (Linux)",
-    "link": "https://www.computerbase.de/downloads/kommunikation/slack/",
-    "pubDate": "2026-11-04T05:25:00.000Z"
-  },
-  {
-    "title": "GIMP 3.2.8",
-    "link": "https://www.computerbase.de/downloads/foto-und-grafik/gimp/",
-    "pubDate": "2026-11-04T05:22:00.000Z"
-  },
-  {
-    "title": "LibreWolf 159.0.1-1",
-    "link": "https://www.computerbase.de/downloads/browser/librewolf/",
-    "pubDate": "2026-11-04T05:21:00.000Z"
-  },
-  {
-    "title": "Blizzard Battle.net 2.53.8.17986",
-    "link": "https://www.computerbase.de/downloads/games/blizzard-battle.net/",
-    "pubDate": "2026-11-04T05:21:00.000Z"
-  },
-  {
-    "title": "Fido 1.72",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/fido/",
-    "pubDate": "2026-11-04T05:20:00.000Z"
-  },
-  {
-    "title": "Google Chrome 157.0.8103.38/.39",
-    "link": "https://www.computerbase.de/downloads/browser/google-chrome/",
-    "pubDate": "2026-11-04T05:17:00.000Z"
-  },
-  {
-    "title": "FileZilla 3.72.0 RC 1",
-    "link": "https://www.computerbase.de/downloads/office/dateitransfer/filezilla/",
-    "pubDate": "2026-11-03T19:35:00.000Z"
-  },
-  {
-    "title": "openSUSE Leap 16.1",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/opensuse/",
-    "pubDate": "2026-11-03T19:25:00.000Z"
-  },
-  {
-    "title": "RoboForm 10.0.0",
-    "link": "https://www.computerbase.de/downloads/sicherheit/passwortmanager/roboform/",
-    "pubDate": "2026-11-03T19:19:00.000Z"
   }
 ]

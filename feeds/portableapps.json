@@ -1,5 +1,20 @@
 [
   {
+    "title": "PortableApps.com AppCompactor 3.21 (shrink portable apps) Released",
+    "link": "https://portableapps.com/news/2026-11-05--portableapps.com-appcompactor-3.21-released",
+    "pubDate": "Thu, 05 Nov 2026 22:08:33 +0000"
+  },
+  {
+    "title": "7-Zip Portable 26.05 (file archiver) Released ",
+    "link": "https://portableapps.com/news/2026-11-05--7-zip-portable-26.05-released",
+    "pubDate": "Thu, 05 Nov 2026 22:07:10 +0000"
+  },
+  {
+    "title": "PortableApps.com Installer 3.9.23 (portable app packaging) Released",
+    "link": "https://portableapps.com/news/2026-11-05--portableapps.com-installer-3.9.23-released",
+    "pubDate": "Thu, 05 Nov 2026 22:05:42 +0000"
+  },
+  {
     "title": "qBittorrent Portable 5.3.0 (lightweight bittorrent client) Released",
     "link": "https://portableapps.com/news/2026-11-04--qbittorrent--portable-5.3.0-released",
     "pubDate": "Thu, 05 Nov 2026 04:18:56 +0000"
@@ -58,20 +73,5 @@
     "title": "Mozilla Firefox, Portable Edition Legacy 115.44.0 (web browser) Released",
     "link": "https://portableapps.com/news/2026-10-29--firefox-portable-legacy-115.44.0-released",
     "pubDate": "Fri, 30 Oct 2026 00:43:11 +0000"
-  },
-  {
-    "title": "Google Chrome Portable 158 Beta (web browser) Released",
-    "link": "https://portableapps.com/news/2026-10-29--google-chrome-portable-158-beta-released",
-    "pubDate": "Thu, 29 Oct 2026 23:26:54 +0000"
-  },
-  {
-    "title": "Joplin Portable 3.7.22 (note-taking and todo) Released",
-    "link": "https://portableapps.com/news/2026-10-29--joplin-portable-3.7.22-released",
-    "pubDate": "Thu, 29 Oct 2026 23:21:11 +0000"
-  },
-  {
-    "title": "Google Chrome Portable 156.0.8078.74 Stable (web browser) Released",
-    "link": "https://portableapps.com/news/2026-10-28--google-chrome-portable-156.0.8078.74-released",
-    "pubDate": "Wed, 28 Oct 2026 16:28:01 +0000"
   }
 ]
