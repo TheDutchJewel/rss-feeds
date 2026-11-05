@@ -5,6 +5,42 @@
     <link>https://www.gratissoftwaresite.nl/downloads/nieuwe-updates</link>
     <description>Nieuwste software-updates van GratisSoftwareSite</description>
     <item>
+      <title>Proton VPN 5.1.9</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/proton-vpn-beveiligde-anonieme-verbinding-privacy-geen-ip</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/proton-vpn-beveiligde-anonieme-verbinding-privacy-geen-ip</guid>
+      <pubDate>5 november 2026</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Edge 156.0.4314.58</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/edge-internet-browser-ie-opvolger</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/edge-internet-browser-ie-opvolger</guid>
+      <pubDate>5 november 2026</pubDate>
+    </item>
+    <item>
+      <title>Opera 139.0.6053.38</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/opera-internet-web-browser</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/opera-internet-web-browser</guid>
+      <pubDate>5 november 2026</pubDate>
+    </item>
+    <item>
+      <title>Vivaldi 8.3.4191.26</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/vivaldi-internet-web-browser</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/vivaldi-internet-web-browser</guid>
+      <pubDate>5 november 2026</pubDate>
+    </item>
+    <item>
+      <title>Brave 1.98.63</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/brave-web-browser-internet-privacy-beveiliging-schilden-trackers-ads</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/brave-web-browser-internet-privacy-beveiliging-schilden-trackers-ads</guid>
+      <pubDate>5 november 2026</pubDate>
+    </item>
+    <item>
+      <title>PDFsam 6.0.10</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/pdf-sam-split-merge-pdf-maken-tool</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/pdf-sam-split-merge-pdf-maken-tool</guid>
+      <pubDate>5 november 2026</pubDate>
+    </item>
+    <item>
       <title>LibreWolf 159.0.1-1</title>
       <link>https://www.gratissoftwaresite.nl/downloads/librewolf-web-browser-privacy</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/librewolf-web-browser-privacy</guid>
@@ -197,27 +233,9 @@
       <pubDate>31 oktober 2026</pubDate>
     </item>
     <item>
-      <title>Proton VPN 5.1.9</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/proton-vpn-beveiligde-anonieme-verbinding-privacy-geen-ip</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/proton-vpn-beveiligde-anonieme-verbinding-privacy-geen-ip</guid>
-      <pubDate>31 oktober 2026</pubDate>
-    </item>
-    <item>
-      <title>PDFsam 6.0.9</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/pdf-sam-split-merge-pdf-maken-tool</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/pdf-sam-split-merge-pdf-maken-tool</guid>
-      <pubDate>30 oktober 2026</pubDate>
-    </item>
-    <item>
       <title>TeamViewer 15.83.5</title>
       <link>https://www.gratissoftwaresite.nl/downloads/teamviewer-werktuigen-hulp-op-afstand-remote-desktop</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/teamviewer-werktuigen-hulp-op-afstand-remote-desktop</guid>
-      <pubDate>30 oktober 2026</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Edge 156.0.4314.56</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/edge-internet-browser-ie-opvolger</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/edge-internet-browser-ie-opvolger</guid>
       <pubDate>30 oktober 2026</pubDate>
     </item>
     <item>
@@ -233,12 +251,6 @@
       <pubDate>30 oktober 2026</pubDate>
     </item>
     <item>
-      <title>Opera 139.0.6053.22</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/opera-internet-web-browser</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/opera-internet-web-browser</guid>
-      <pubDate>30 oktober 2026</pubDate>
-    </item>
-    <item>
       <title>OBS Studio 33.0.1</title>
       <link>https://www.gratissoftwaresite.nl/downloads/obs-studio-schermopnamen-opnemen-streamen-video-webcam</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/obs-studio-schermopnamen-opnemen-streamen-video-webcam</guid>
@@ -249,12 +261,6 @@
       <link>https://www.gratissoftwaresite.nl/downloads/unigetui-software-update-controle-verwijderen</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/unigetui-software-update-controle-verwijderen</guid>
       <pubDate>30 oktober 2026</pubDate>
-    </item>
-    <item>
-      <title>Brave 1.98.62</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/brave-web-browser-internet-privacy-beveiliging-schilden-trackers-ads</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/brave-web-browser-internet-privacy-beveiliging-schilden-trackers-ads</guid>
-      <pubDate>29 oktober 2026</pubDate>
     </item>
     <item>
       <title>Tor Browser 16.0.0</title>
@@ -272,12 +278,6 @@
       <title>foobar2000 2.26.2</title>
       <link>https://www.gratissoftwaresite.nl/downloads/foobar2000-muziekspeler-mp3</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/foobar2000-muziekspeler-mp3</guid>
-      <pubDate>29 oktober 2026</pubDate>
-    </item>
-    <item>
-      <title>Vivaldi 8.2.4133.96</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/vivaldi-internet-web-browser</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/vivaldi-internet-web-browser</guid>
       <pubDate>29 oktober 2026</pubDate>
     </item>
     <item>
@@ -597,12 +597,6 @@
       <link>https://www.gratissoftwaresite.nl/downloads/kdenlive-videobewerking-dvd-effecten-clips</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/kdenlive-videobewerking-dvd-effecten-clips</guid>
       <pubDate>14 oktober 2026</pubDate>
-    </item>
-    <item>
-      <title>AVG Anti-Virus Free 26.10</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/avg-anti-virus-free-virusscanner</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/avg-anti-virus-free-virusscanner</guid>
-      <pubDate>13 oktober 2026</pubDate>
     </item>
   </channel>
 </rss>

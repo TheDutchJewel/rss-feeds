@@ -1,5 +1,50 @@
 [
   {
+    "title": "Wipe 2613.00",
+    "link": "https://www.computerbase.de/downloads/systemtools/wipe/",
+    "pubDate": "2026-11-05T16:07:00.000Z"
+  },
+  {
+    "title": "Rocket.Chat Desktop 4.19.1",
+    "link": "https://www.computerbase.de/downloads/kommunikation/rocket.chat/",
+    "pubDate": "2026-11-05T16:05:00.000Z"
+  },
+  {
+    "title": "Screenpresso 2.4.1 (Win 11)",
+    "link": "https://www.computerbase.de/downloads/foto-und-grafik/screenpresso/",
+    "pubDate": "2026-11-05T16:03:00.000Z"
+  },
+  {
+    "title": "VeraCrypt 1.26.31",
+    "link": "https://www.computerbase.de/downloads/sicherheit/verschluesselung/veracrypt/",
+    "pubDate": "2026-11-05T15:59:00.000Z"
+  },
+  {
+    "title": "Nextcloud Client 35.0.3",
+    "link": "https://www.computerbase.de/downloads/office/dateimanager/nextcloud/",
+    "pubDate": "2026-11-05T15:57:00.000Z"
+  },
+  {
+    "title": "Opera GX 139.0.6053.42 Early Access",
+    "link": "https://www.computerbase.de/downloads/browser/opera-gx/",
+    "pubDate": "2026-11-05T15:56:00.000Z"
+  },
+  {
+    "title": "OpenVPN 2.7.9",
+    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/openvpn/",
+    "pubDate": "2026-11-05T15:54:00.000Z"
+  },
+  {
+    "title": "Signal 8.34.0",
+    "link": "https://www.computerbase.de/downloads/kommunikation/signal/",
+    "pubDate": "2026-11-05T15:52:00.000Z"
+  },
+  {
+    "title": "Vivaldi 8.3 Build 4191.26",
+    "link": "https://www.computerbase.de/downloads/browser/vivaldi/",
+    "pubDate": "2026-11-05T15:51:00.000Z"
+  },
+  {
     "title": "Intel Arc & Xe Grafiktreiber 32.0.101.9175",
     "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/intel-grafiktreiber/",
     "pubDate": "2026-11-05T06:15:00.000Z"
@@ -203,50 +248,5 @@
     "title": "RoboForm 10.0.0",
     "link": "https://www.computerbase.de/downloads/sicherheit/passwortmanager/roboform/",
     "pubDate": "2026-11-03T19:19:00.000Z"
-  },
-  {
-    "title": "Rockstar Games Launcher 1.0.110.3139",
-    "link": "https://www.computerbase.de/downloads/games/rockstar-games-launcher/",
-    "pubDate": "2026-11-03T19:08:00.000Z"
-  },
-  {
-    "title": "Camtasia 2026.2.5",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/camtasia-studio/",
-    "pubDate": "2026-11-03T19:03:00.000Z"
-  },
-  {
-    "title": "Camtasia 2026.2.5 (macOS)",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/camtasia-studio/",
-    "pubDate": "2026-11-03T19:02:00.000Z"
-  },
-  {
-    "title": "CrystalDiskInfo 9.9.4",
-    "link": "https://www.computerbase.de/downloads/systemtools/festplatten/crystaldiskinfo/",
-    "pubDate": "2026-11-03T19:01:00.000Z"
-  },
-  {
-    "title": "TeamViewer 15.83.5",
-    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/teamviewer/",
-    "pubDate": "2026-11-03T19:00:00.000Z"
-  },
-  {
-    "title": "TeamViewer QuickSupport 15.83.5",
-    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/teamviewer/",
-    "pubDate": "2026-11-03T18:59:00.000Z"
-  },
-  {
-    "title": "TeamViewer Host 15.83.5",
-    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/teamviewer/",
-    "pubDate": "2026-11-03T18:58:00.000Z"
-  },
-  {
-    "title": "AMDVbFlash 5.0.905",
-    "link": "https://www.computerbase.de/downloads/systemtools/grafikkarten/amdvbflash/",
-    "pubDate": "2026-11-03T18:57:00.000Z"
-  },
-  {
-    "title": "LibreOffice 26.2.7",
-    "link": "https://www.computerbase.de/downloads/office/libreoffice/",
-    "pubDate": "2026-11-03T18:53:00.000Z"
   }
 ]

@@ -1,5 +1,35 @@
 [
     {
+        "title": "Proton VPN 5.1.9",
+        "link": "https://www.gratissoftwaresite.nl/downloads/proton-vpn-beveiligde-anonieme-verbinding-privacy-geen-ip",
+        "pubDate": "5 november 2026"
+    },
+    {
+        "title": "Microsoft Edge 156.0.4314.58",
+        "link": "https://www.gratissoftwaresite.nl/downloads/edge-internet-browser-ie-opvolger",
+        "pubDate": "5 november 2026"
+    },
+    {
+        "title": "Opera 139.0.6053.38",
+        "link": "https://www.gratissoftwaresite.nl/downloads/opera-internet-web-browser",
+        "pubDate": "5 november 2026"
+    },
+    {
+        "title": "Vivaldi 8.3.4191.26",
+        "link": "https://www.gratissoftwaresite.nl/downloads/vivaldi-internet-web-browser",
+        "pubDate": "5 november 2026"
+    },
+    {
+        "title": "Brave 1.98.63",
+        "link": "https://www.gratissoftwaresite.nl/downloads/brave-web-browser-internet-privacy-beveiliging-schilden-trackers-ads",
+        "pubDate": "5 november 2026"
+    },
+    {
+        "title": "PDFsam 6.0.10",
+        "link": "https://www.gratissoftwaresite.nl/downloads/pdf-sam-split-merge-pdf-maken-tool",
+        "pubDate": "5 november 2026"
+    },
+    {
         "title": "LibreWolf 159.0.1-1",
         "link": "https://www.gratissoftwaresite.nl/downloads/librewolf-web-browser-privacy",
         "pubDate": "5 november 2026"
@@ -160,23 +190,8 @@
         "pubDate": "31 oktober 2026"
     },
     {
-        "title": "Proton VPN 5.1.9",
-        "link": "https://www.gratissoftwaresite.nl/downloads/proton-vpn-beveiligde-anonieme-verbinding-privacy-geen-ip",
-        "pubDate": "31 oktober 2026"
-    },
-    {
-        "title": "PDFsam 6.0.9",
-        "link": "https://www.gratissoftwaresite.nl/downloads/pdf-sam-split-merge-pdf-maken-tool",
-        "pubDate": "30 oktober 2026"
-    },
-    {
         "title": "TeamViewer 15.83.5",
         "link": "https://www.gratissoftwaresite.nl/downloads/teamviewer-werktuigen-hulp-op-afstand-remote-desktop",
-        "pubDate": "30 oktober 2026"
-    },
-    {
-        "title": "Microsoft Edge 156.0.4314.56",
-        "link": "https://www.gratissoftwaresite.nl/downloads/edge-internet-browser-ie-opvolger",
         "pubDate": "30 oktober 2026"
     },
     {
@@ -190,11 +205,6 @@
         "pubDate": "30 oktober 2026"
     },
     {
-        "title": "Opera 139.0.6053.22",
-        "link": "https://www.gratissoftwaresite.nl/downloads/opera-internet-web-browser",
-        "pubDate": "30 oktober 2026"
-    },
-    {
         "title": "OBS Studio 33.0.1",
         "link": "https://www.gratissoftwaresite.nl/downloads/obs-studio-schermopnamen-opnemen-streamen-video-webcam",
         "pubDate": "30 oktober 2026"
@@ -203,11 +213,6 @@
         "title": "UniGetUI 26.3.3",
         "link": "https://www.gratissoftwaresite.nl/downloads/unigetui-software-update-controle-verwijderen",
         "pubDate": "30 oktober 2026"
-    },
-    {
-        "title": "Brave 1.98.62",
-        "link": "https://www.gratissoftwaresite.nl/downloads/brave-web-browser-internet-privacy-beveiliging-schilden-trackers-ads",
-        "pubDate": "29 oktober 2026"
     },
     {
         "title": "Tor Browser 16.0.0",
@@ -222,11 +227,6 @@
     {
         "title": "foobar2000 2.26.2",
         "link": "https://www.gratissoftwaresite.nl/downloads/foobar2000-muziekspeler-mp3",
-        "pubDate": "29 oktober 2026"
-    },
-    {
-        "title": "Vivaldi 8.2.4133.96",
-        "link": "https://www.gratissoftwaresite.nl/downloads/vivaldi-internet-web-browser",
         "pubDate": "29 oktober 2026"
     },
     {
@@ -493,10 +493,5 @@
         "title": "Kdenlive 26.08.2",
         "link": "https://www.gratissoftwaresite.nl/downloads/kdenlive-videobewerking-dvd-effecten-clips",
         "pubDate": "14 oktober 2026"
-    },
-    {
-        "title": "AVG Anti-Virus Free 26.10",
-        "link": "https://www.gratissoftwaresite.nl/downloads/avg-anti-virus-free-virusscanner",
-        "pubDate": "13 oktober 2026"
     }
 ]
