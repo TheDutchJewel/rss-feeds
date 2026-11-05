@@ -1,5 +1,10 @@
 [
   {
+    "title": "qBittorrent Portable 5.3.0 (lightweight bittorrent client) Released",
+    "link": "https://portableapps.com/news/2026-11-04--qbittorrent--portable-5.3.0-released",
+    "pubDate": "Thu, 05 Nov 2026 04:18:56 +0000"
+  },
+  {
     "title": "LibreWolf Portable 159.0-1 (web browser) Released",
     "link": "https://portableapps.com/news/2026-11-02--librewolf-portable-159.0-1-released",
     "pubDate": "Mon, 02 Nov 2026 18:32:29 +0000"
@@ -68,10 +73,5 @@
     "title": "Google Chrome Portable 156.0.8078.74 Stable (web browser) Released",
     "link": "https://portableapps.com/news/2026-10-28--google-chrome-portable-156.0.8078.74-released",
     "pubDate": "Wed, 28 Oct 2026 16:28:01 +0000"
-  },
-  {
-    "title": "Mozilla Firefox, Portable Edition Stable 159.0 (web browser) Released",
-    "link": "https://portableapps.com/news/2026-10-27--firefox-portable-159.0-released",
-    "pubDate": "Tue, 27 Oct 2026 19:53:33 +0000"
   }
 ]
