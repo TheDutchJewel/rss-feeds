@@ -1,5 +1,45 @@
 [
   {
+    "title": "Telegram Desktop 7.4.1",
+    "link": "https://www.computerbase.de/downloads/kommunikation/telegram-desktop/",
+    "pubDate": "2026-11-06T19:46:00.000Z"
+  },
+  {
+    "title": "FreeBSD 15.2 Beta 1",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/freebsd/",
+    "pubDate": "2026-11-06T19:45:00.000Z"
+  },
+  {
+    "title": "Linux Kernel 7.3.3 (Linux)",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/linux-kernel/",
+    "pubDate": "2026-11-06T19:18:00.000Z"
+  },
+  {
+    "title": "Linux Kernel 6.18.62 (Linux)",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/linux-kernel/",
+    "pubDate": "2026-11-06T19:17:00.000Z"
+  },
+  {
+    "title": "Microsoft Teams 26289.204.5281.6363",
+    "link": "https://www.computerbase.de/downloads/kommunikation/microsoft-teams/",
+    "pubDate": "2026-11-06T18:20:00.000Z"
+  },
+  {
+    "title": "K-Lite Codec Pack 20.2.0",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/k-lite-codec-pack/",
+    "pubDate": "2026-11-06T18:15:00.000Z"
+  },
+  {
+    "title": "Epic Games Launcher 0.113.0 Preview",
+    "link": "https://www.computerbase.de/downloads/games/epic-games-launcher/",
+    "pubDate": "2026-11-06T18:12:00.000Z"
+  },
+  {
+    "title": "Media Player Classic Home Cinema 2.8.5",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/media-player-classic-home-cinema/",
+    "pubDate": "2026-11-06T18:12:00.000Z"
+  },
+  {
     "title": "Spotify 1.3.8.620",
     "link": "https://www.computerbase.de/downloads/audio-und-video/spotify/",
     "pubDate": "2026-11-06T16:25:00.000Z"
@@ -120,11 +160,6 @@
     "pubDate": "2026-11-05T20:12:00.000Z"
   },
   {
-    "title": "Telegram Desktop 7.4.0",
-    "link": "https://www.computerbase.de/downloads/kommunikation/telegram-desktop/",
-    "pubDate": "2026-11-05T20:07:00.000Z"
-  },
-  {
     "title": "Corel PaintShop Pro 2023 v25 Update 3",
     "link": "https://www.computerbase.de/downloads/foto-und-grafik/corel-paintshop-pro/",
     "pubDate": "2026-11-05T19:22:00.000Z"
@@ -170,11 +205,6 @@
     "pubDate": "2026-11-05T19:10:00.000Z"
   },
   {
-    "title": "Epic Games Launcher 0.112.0 Preview",
-    "link": "https://www.computerbase.de/downloads/games/epic-games-launcher/",
-    "pubDate": "2026-11-05T19:07:00.000Z"
-  },
-  {
     "title": "Gigabyte Control Center 26.11.05.01",
     "link": "https://www.computerbase.de/downloads/systemtools/gigabyte-control-center/",
     "pubDate": "2026-11-05T19:07:00.000Z"
@@ -218,35 +248,5 @@
     "title": "OpenVPN 2.7.9",
     "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/openvpn/",
     "pubDate": "2026-11-05T15:54:00.000Z"
-  },
-  {
-    "title": "Signal 8.34.0",
-    "link": "https://www.computerbase.de/downloads/kommunikation/signal/",
-    "pubDate": "2026-11-05T15:52:00.000Z"
-  },
-  {
-    "title": "Intel Arc & Xe Grafiktreiber 32.0.101.9175",
-    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/intel-grafiktreiber/",
-    "pubDate": "2026-11-05T06:15:00.000Z"
-  },
-  {
-    "title": "Dropbox 279.3.5697 Beta",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/dropbox/",
-    "pubDate": "2026-11-05T06:02:00.000Z"
-  },
-  {
-    "title": "Wise Disk Cleaner 12.0.0",
-    "link": "https://www.computerbase.de/downloads/systemtools/festplatten/wise-disk-cleaner/",
-    "pubDate": "2026-11-05T06:00:00.000Z"
-  },
-  {
-    "title": "Mozilla Thunderbird 160.0 Beta 5",
-    "link": "https://www.computerbase.de/downloads/kommunikation/mozilla-thunderbird/",
-    "pubDate": "2026-11-05T05:58:00.000Z"
-  },
-  {
-    "title": "croc 11.6.4",
-    "link": "https://www.computerbase.de/downloads/office/dateitransfer/croc/",
-    "pubDate": "2026-11-05T05:57:00.000Z"
   }
 ]

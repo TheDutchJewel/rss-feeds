@@ -1,5 +1,40 @@
 [
   {
+    "title": "OneDrive updated to 26.198.1011.0006.",
+    "link": "https://ninite.com/onedrive/",
+    "pubDate": "Fri, 06 Nov 2026 19:43:25 -0000"
+  },
+  {
+    "title": "Telegram updated to 7.4.0.",
+    "link": "https://ninite.com/telegram/",
+    "pubDate": "Fri, 06 Nov 2026 18:58:31 -0000"
+  },
+  {
+    "title": "ShareX updated to 22.2.0.",
+    "link": "https://ninite.com/sharex/",
+    "pubDate": "Fri, 06 Nov 2026 18:55:58 -0000"
+  },
+  {
+    "title": "PowerToys updated to 0.102.3101.0.",
+    "link": "https://ninite.com/powertoys/",
+    "pubDate": "Fri, 06 Nov 2026 18:45:40 -0000"
+  },
+  {
+    "title": "Vivaldi updated to 8.3.4191.30.",
+    "link": "https://ninite.com/vivaldi/",
+    "pubDate": "Fri, 06 Nov 2026 18:45:09 -0000"
+  },
+  {
+    "title": "Spotify updated to 1.3.8.620.",
+    "link": "https://ninite.com/spotify/",
+    "pubDate": "Fri, 06 Nov 2026 18:28:47 -0000"
+  },
+  {
+    "title": "Notepad++ updated to 8.9.9.",
+    "link": "https://ninite.com/notepadplusplus/",
+    "pubDate": "Fri, 06 Nov 2026 17:32:46 -0000"
+  },
+  {
     "title": "PDF24 Creator updated to 11.33.0.",
     "link": "https://ninite.com/pdf24creator/",
     "pubDate": "Fri, 06 Nov 2026 15:52:11 -0000"
@@ -253,45 +288,5 @@
     "title": "Chrome updated to 156.0.8078.80.",
     "link": "https://ninite.com/chrome/",
     "pubDate": "Thu, 29 Oct 2026 22:07:09 -0000"
-  },
-  {
-    "title": "Java (AdoptOpenJDK) x64 21 updated to 21.0.13.",
-    "link": "https://ninite.com/adoptjavax21/",
-    "pubDate": "Thu, 29 Oct 2026 19:46:45 -0000"
-  },
-  {
-    "title": "JDK (AdoptOpenJDK) x64 21 updated to 21.0.13.",
-    "link": "https://ninite.com/adoptjdkx21/",
-    "pubDate": "Thu, 29 Oct 2026 19:46:28 -0000"
-  },
-  {
-    "title": "Opera Chromium updated to 139.0.6053.22.",
-    "link": "https://ninite.com/operaChromium/",
-    "pubDate": "Thu, 29 Oct 2026 19:46:01 -0000"
-  },
-  {
-    "title": "Discord updated to 1.0.9266.",
-    "link": "https://ninite.com/discord/",
-    "pubDate": "Thu, 29 Oct 2026 19:45:01 -0000"
-  },
-  {
-    "title": "OneDrive updated to 26.189.0928.0009.",
-    "link": "https://ninite.com/onedrive/",
-    "pubDate": "Thu, 29 Oct 2026 19:44:45 -0000"
-  },
-  {
-    "title": "LibreOffice updated to 26.8.2.",
-    "link": "https://ninite.com/libreoffice/",
-    "pubDate": "Thu, 29 Oct 2026 19:44:14 -0000"
-  },
-  {
-    "title": "Vivaldi updated to 8.2.4133.96.",
-    "link": "https://ninite.com/vivaldi/",
-    "pubDate": "Thu, 29 Oct 2026 15:19:20 -0000"
-  },
-  {
-    "title": "MusicBee updated to 3.7.9796.",
-    "link": "https://ninite.com/musicbee/",
-    "pubDate": "Thu, 29 Oct 2026 13:58:02 -0000"
   }
 ]
