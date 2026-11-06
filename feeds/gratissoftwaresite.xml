@@ -5,6 +5,54 @@
     <link>https://www.gratissoftwaresite.nl/downloads/nieuwe-updates</link>
     <description>Nieuwste software-updates van GratisSoftwareSite</description>
     <item>
+      <title>PDF24 Creator Tools 11.33.0</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/pdf24-creator-tools-pdf-werktuigen-bewerken</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/pdf24-creator-tools-pdf-werktuigen-bewerken</guid>
+      <pubDate>6 november 2026</pubDate>
+    </item>
+    <item>
+      <title>Mp3tag 3.37.0</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/Mp3tag-mp3-tool-audio</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/Mp3tag-mp3-tool-audio</guid>
+      <pubDate>6 november 2026</pubDate>
+    </item>
+    <item>
+      <title>IM-Magic Partition Resizer Free 7.9.6</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/im-magic-partition-resizer-partitiebeheer-os-migratie</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/im-magic-partition-resizer-partitiebeheer-os-migratie</guid>
+      <pubDate>6 november 2026</pubDate>
+    </item>
+    <item>
+      <title>Subtitle Edit 5.4.0</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/subtitle-edit-ondertitels-video</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/subtitle-edit-ondertitels-video</guid>
+      <pubDate>6 november 2026</pubDate>
+    </item>
+    <item>
+      <title>DaVinci Resolve 21.2.0</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/davinci-resolve-videobewerking-editor-kleur-correctie</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/davinci-resolve-videobewerking-editor-kleur-correctie</guid>
+      <pubDate>6 november 2026</pubDate>
+    </item>
+    <item>
+      <title>Brave 1.99.55</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/brave-web-browser-internet-privacy-beveiliging-schilden-trackers-ads</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/brave-web-browser-internet-privacy-beveiliging-schilden-trackers-ads</guid>
+      <pubDate>6 november 2026</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Edge 157.0.4341.42</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/edge-internet-browser-ie-opvolger</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/edge-internet-browser-ie-opvolger</guid>
+      <pubDate>6 november 2026</pubDate>
+    </item>
+    <item>
+      <title>Vivaldi 8.3.4191.30</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/vivaldi-internet-web-browser</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/vivaldi-internet-web-browser</guid>
+      <pubDate>6 november 2026</pubDate>
+    </item>
+    <item>
       <title>openSUSE 16.1</title>
       <link>https://www.gratissoftwaresite.nl/downloads/opensuse-linux-besturingssysteem</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/opensuse-linux-besturingssysteem</guid>
@@ -29,27 +77,9 @@
       <pubDate>5 november 2026</pubDate>
     </item>
     <item>
-      <title>Microsoft Edge 156.0.4314.58</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/edge-internet-browser-ie-opvolger</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/edge-internet-browser-ie-opvolger</guid>
-      <pubDate>5 november 2026</pubDate>
-    </item>
-    <item>
       <title>Opera 139.0.6053.38</title>
       <link>https://www.gratissoftwaresite.nl/downloads/opera-internet-web-browser</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/opera-internet-web-browser</guid>
-      <pubDate>5 november 2026</pubDate>
-    </item>
-    <item>
-      <title>Vivaldi 8.3.4191.26</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/vivaldi-internet-web-browser</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/vivaldi-internet-web-browser</guid>
-      <pubDate>5 november 2026</pubDate>
-    </item>
-    <item>
-      <title>Brave 1.98.63</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/brave-web-browser-internet-privacy-beveiliging-schilden-trackers-ads</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/brave-web-browser-internet-privacy-beveiliging-schilden-trackers-ads</guid>
       <pubDate>5 november 2026</pubDate>
     </item>
     <item>
@@ -146,12 +176,6 @@
       <title>Bitwarden 2026.10.3</title>
       <link>https://www.gratissoftwaresite.nl/downloads/bitwarden-wachtwoordbeheerder-online-kluis-versleuteld-privacy</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/bitwarden-wachtwoordbeheerder-online-kluis-versleuteld-privacy</guid>
-      <pubDate>3 november 2026</pubDate>
-    </item>
-    <item>
-      <title>PDF24 Creator Tools 11.32.0</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/pdf24-creator-tools-pdf-werktuigen-bewerken</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/pdf24-creator-tools-pdf-werktuigen-bewerken</guid>
       <pubDate>3 november 2026</pubDate>
     </item>
     <item>
@@ -296,12 +320,6 @@
       <title>LibreOffice 26.8.2</title>
       <link>https://www.gratissoftwaresite.nl/downloads/libreoffice-kantoorpakket-writer-calc-impress-draw-math</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/libreoffice-kantoorpakket-writer-calc-impress-draw-math</guid>
-      <pubDate>29 oktober 2026</pubDate>
-    </item>
-    <item>
-      <title>DaVinci Resolve 21.1.2</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/davinci-resolve-videobewerking-editor-kleur-correctie</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/davinci-resolve-videobewerking-editor-kleur-correctie</guid>
       <pubDate>29 oktober 2026</pubDate>
     </item>
     <item>
@@ -579,24 +597,6 @@
       <link>https://www.gratissoftwaresite.nl/downloads/mailstore-home-backup-outlook-webmail</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/mailstore-home-backup-outlook-webmail</guid>
       <pubDate>15 oktober 2026</pubDate>
-    </item>
-    <item>
-      <title>GeekUninstaller 1.6.0.200</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/geekuninstaller-werktuigen-de-installatie-software-verwijderen</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/geekuninstaller-werktuigen-de-installatie-software-verwijderen</guid>
-      <pubDate>15 oktober 2026</pubDate>
-    </item>
-    <item>
-      <title>Subtitle Edit 5.3.0</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/subtitle-edit-ondertitels-video</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/subtitle-edit-ondertitels-video</guid>
-      <pubDate>14 oktober 2026</pubDate>
-    </item>
-    <item>
-      <title>XnView MP 1.12.2  Cl...</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/xnview-fotobewerking-beeld</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/xnview-fotobewerking-beeld</guid>
-      <pubDate>14 oktober 2026</pubDate>
     </item>
   </channel>
 </rss>
