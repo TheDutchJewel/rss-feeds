@@ -1,5 +1,20 @@
 [
     {
+        "title": "openSUSE 16.1",
+        "link": "https://www.gratissoftwaresite.nl/downloads/opensuse-linux-besturingssysteem",
+        "pubDate": "6 november 2026"
+    },
+    {
+        "title": "VeraCrypt 1.26.31",
+        "link": "https://www.gratissoftwaresite.nl/downloads/veracrypt-encryptie-versleuteling-virtuele-kluis",
+        "pubDate": "6 november 2026"
+    },
+    {
+        "title": "Calibre 9.18.0",
+        "link": "https://www.gratissoftwaresite.nl/downloads/calibre-e-book-reader-epub-mobi-pdf",
+        "pubDate": "6 november 2026"
+    },
+    {
         "title": "Proton VPN 5.1.9",
         "link": "https://www.gratissoftwaresite.nl/downloads/proton-vpn-beveiligde-anonieme-verbinding-privacy-geen-ip",
         "pubDate": "5 november 2026"
@@ -185,11 +200,6 @@
         "pubDate": "31 oktober 2026"
     },
     {
-        "title": "VeraCrypt 1.26.29 & 1.26...",
-        "link": "https://www.gratissoftwaresite.nl/downloads/veracrypt-encryptie-versleuteling-virtuele-kluis",
-        "pubDate": "31 oktober 2026"
-    },
-    {
         "title": "TeamViewer 15.83.5",
         "link": "https://www.gratissoftwaresite.nl/downloads/teamviewer-werktuigen-hulp-op-afstand-remote-desktop",
         "pubDate": "30 oktober 2026"
@@ -332,11 +342,6 @@
     {
         "title": "Nextcloud Office 9.3.6",
         "link": "https://www.gratissoftwaresite.nl/downloads/nextcloud-office-kantoorpakket",
-        "pubDate": "23 oktober 2026"
-    },
-    {
-        "title": "Calibre 9.17.0",
-        "link": "https://www.gratissoftwaresite.nl/downloads/calibre-e-book-reader-epub-mobi-pdf",
         "pubDate": "23 oktober 2026"
     },
     {
@@ -487,11 +492,6 @@
     {
         "title": "XnView MP 1.12.2 & Cl...",
         "link": "https://www.gratissoftwaresite.nl/downloads/xnview-fotobewerking-beeld",
-        "pubDate": "14 oktober 2026"
-    },
-    {
-        "title": "Kdenlive 26.08.2",
-        "link": "https://www.gratissoftwaresite.nl/downloads/kdenlive-videobewerking-dvd-effecten-clips",
         "pubDate": "14 oktober 2026"
     }
 ]

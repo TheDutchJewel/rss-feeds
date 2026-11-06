@@ -5,6 +5,24 @@
     <link>https://www.gratissoftwaresite.nl/downloads/nieuwe-updates</link>
     <description>Nieuwste software-updates van GratisSoftwareSite</description>
     <item>
+      <title>openSUSE 16.1</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/opensuse-linux-besturingssysteem</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/opensuse-linux-besturingssysteem</guid>
+      <pubDate>6 november 2026</pubDate>
+    </item>
+    <item>
+      <title>VeraCrypt 1.26.31</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/veracrypt-encryptie-versleuteling-virtuele-kluis</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/veracrypt-encryptie-versleuteling-virtuele-kluis</guid>
+      <pubDate>6 november 2026</pubDate>
+    </item>
+    <item>
+      <title>Calibre 9.18.0</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/calibre-e-book-reader-epub-mobi-pdf</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/calibre-e-book-reader-epub-mobi-pdf</guid>
+      <pubDate>6 november 2026</pubDate>
+    </item>
+    <item>
       <title>Proton VPN 5.1.9</title>
       <link>https://www.gratissoftwaresite.nl/downloads/proton-vpn-beveiligde-anonieme-verbinding-privacy-geen-ip</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/proton-vpn-beveiligde-anonieme-verbinding-privacy-geen-ip</guid>
@@ -227,12 +245,6 @@
       <pubDate>31 oktober 2026</pubDate>
     </item>
     <item>
-      <title>VeraCrypt 1.26.29  1.26...</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/veracrypt-encryptie-versleuteling-virtuele-kluis</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/veracrypt-encryptie-versleuteling-virtuele-kluis</guid>
-      <pubDate>31 oktober 2026</pubDate>
-    </item>
-    <item>
       <title>TeamViewer 15.83.5</title>
       <link>https://www.gratissoftwaresite.nl/downloads/teamviewer-werktuigen-hulp-op-afstand-remote-desktop</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/teamviewer-werktuigen-hulp-op-afstand-remote-desktop</guid>
@@ -404,12 +416,6 @@
       <title>Nextcloud Office 9.3.6</title>
       <link>https://www.gratissoftwaresite.nl/downloads/nextcloud-office-kantoorpakket</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/nextcloud-office-kantoorpakket</guid>
-      <pubDate>23 oktober 2026</pubDate>
-    </item>
-    <item>
-      <title>Calibre 9.17.0</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/calibre-e-book-reader-epub-mobi-pdf</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/calibre-e-book-reader-epub-mobi-pdf</guid>
       <pubDate>23 oktober 2026</pubDate>
     </item>
     <item>
@@ -590,12 +596,6 @@
       <title>XnView MP 1.12.2  Cl...</title>
       <link>https://www.gratissoftwaresite.nl/downloads/xnview-fotobewerking-beeld</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/xnview-fotobewerking-beeld</guid>
-      <pubDate>14 oktober 2026</pubDate>
-    </item>
-    <item>
-      <title>Kdenlive 26.08.2</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/kdenlive-videobewerking-dvd-effecten-clips</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/kdenlive-videobewerking-dvd-effecten-clips</guid>
       <pubDate>14 oktober 2026</pubDate>
     </item>
   </channel>

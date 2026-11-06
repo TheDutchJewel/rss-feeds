@@ -1,5 +1,65 @@
 [
   {
+    "title": "Mumble 1.6.1001 RC 2",
+    "link": "https://www.computerbase.de/downloads/kommunikation/mumble/",
+    "pubDate": "2026-11-06T05:41:00.000Z"
+  },
+  {
+    "title": "Microsoft Edge 157.0.4341.42",
+    "link": "https://www.computerbase.de/downloads/browser/microsoft-edge/",
+    "pubDate": "2026-11-06T05:38:00.000Z"
+  },
+  {
+    "title": "Rocket.Chat Server 8.9.1 (Linux)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/rocket.chat/",
+    "pubDate": "2026-11-06T05:28:00.000Z"
+  },
+  {
+    "title": "PortableApps.com Platform 30.6.1",
+    "link": "https://www.computerbase.de/downloads/systemtools/portableapps-platform/",
+    "pubDate": "2026-11-06T05:27:00.000Z"
+  },
+  {
+    "title": "Visual Studio Code (VS Code) 1.145.1",
+    "link": "https://www.computerbase.de/downloads/office/editoren/visual-studio-code/",
+    "pubDate": "2026-11-06T05:24:00.000Z"
+  },
+  {
+    "title": "Windows Sysinternals 2026-11-05",
+    "link": "https://www.computerbase.de/downloads/systemtools/sysinternals/",
+    "pubDate": "2026-11-06T05:23:00.000Z"
+  },
+  {
+    "title": "Process Explorer 17.21",
+    "link": "https://www.computerbase.de/downloads/systemtools/process-explorer/",
+    "pubDate": "2026-11-06T05:21:00.000Z"
+  },
+  {
+    "title": "Process Monitor 4.13",
+    "link": "https://www.computerbase.de/downloads/systemtools/process-monitor/",
+    "pubDate": "2026-11-06T05:21:00.000Z"
+  },
+  {
+    "title": "Java SE Development Kit 28.0 Build 23 Dev",
+    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/java-se-development-kit/",
+    "pubDate": "2026-11-06T05:20:00.000Z"
+  },
+  {
+    "title": "ShareX 22.2.0 Pre-Release",
+    "link": "https://www.computerbase.de/downloads/foto-und-grafik/sharex/",
+    "pubDate": "2026-11-06T05:17:00.000Z"
+  },
+  {
+    "title": "calibre 9.18.0",
+    "link": "https://www.computerbase.de/downloads/office/calibre-ebook-management/",
+    "pubDate": "2026-11-06T05:16:00.000Z"
+  },
+  {
+    "title": "Bandizip 8.0 Beta 52",
+    "link": "https://www.computerbase.de/downloads/office/packprogramme/bandizip/",
+    "pubDate": "2026-11-06T05:15:00.000Z"
+  },
+  {
     "title": "Sandisk Dashboard 5.2.2.4",
     "link": "https://www.computerbase.de/downloads/systemtools/festplatten/sandisk-dashboard/",
     "pubDate": "2026-11-05T20:13:00.000Z"
@@ -8,11 +68,6 @@
     "title": "DaVinci Resolve 21.2",
     "link": "https://www.computerbase.de/downloads/audio-und-video/davinci-resolve/",
     "pubDate": "2026-11-05T20:12:00.000Z"
-  },
-  {
-    "title": "Microsoft Edge 156.0.4314.70",
-    "link": "https://www.computerbase.de/downloads/browser/microsoft-edge/",
-    "pubDate": "2026-11-05T20:08:00.000Z"
   },
   {
     "title": "Telegram Desktop 7.4.0",
@@ -193,60 +248,5 @@
     "title": "Mozilla Firefox 160.0 Beta 5",
     "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
     "pubDate": "2026-11-04T18:23:00.000Z"
-  },
-  {
-    "title": "Google Chrome 158.0.8127.18  Beta",
-    "link": "https://www.computerbase.de/downloads/browser/google-chrome/",
-    "pubDate": "2026-11-04T16:25:00.000Z"
-  },
-  {
-    "title": "Nvidia Linux Display Driver 620.70.06 (Linux)",
-    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/nvidia-linux-display-driver/",
-    "pubDate": "2026-11-04T16:18:00.000Z"
-  },
-  {
-    "title": "Nvidia Studio-Treiber 621.14",
-    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/nvidia-studio-treiber/",
-    "pubDate": "2026-11-04T16:09:00.000Z"
-  },
-  {
-    "title": "Nvidia GeForce-Treiber 621.14",
-    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/nvidia-geforce-treiber/",
-    "pubDate": "2026-11-04T16:09:00.000Z"
-  },
-  {
-    "title": "Adobe Acrobat Reader DC (26.003.22075)",
-    "link": "https://www.computerbase.de/downloads/office/pdf/adobe-acrobat-reader/",
-    "pubDate": "2026-11-04T16:01:00.000Z"
-  },
-  {
-    "title": "DriverMax 18.0.326",
-    "link": "https://www.computerbase.de/downloads/treiber/drivermax/",
-    "pubDate": "2026-11-04T16:00:00.000Z"
-  },
-  {
-    "title": "Opera 139.0.6053.38",
-    "link": "https://www.computerbase.de/downloads/browser/opera/",
-    "pubDate": "2026-11-04T15:59:00.000Z"
-  },
-  {
-    "title": "ProtonVPN 5.1.9",
-    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/protonvpn/",
-    "pubDate": "2026-11-04T15:58:00.000Z"
-  },
-  {
-    "title": "Ocenaudio 3.22.2",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/ocenaudio/",
-    "pubDate": "2026-11-04T15:57:00.000Z"
-  },
-  {
-    "title": "CPU-Z 3.02",
-    "link": "https://www.computerbase.de/downloads/systemtools/cpu-z/",
-    "pubDate": "2026-11-04T15:56:00.000Z"
-  },
-  {
-    "title": "HWiNFO 8.55 Build 6115 Beta",
-    "link": "https://www.computerbase.de/downloads/systemtools/hwinfo/",
-    "pubDate": "2026-11-04T15:53:00.000Z"
   }
 ]
