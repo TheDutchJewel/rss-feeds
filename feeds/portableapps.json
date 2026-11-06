@@ -1,5 +1,50 @@
 [
   {
+    "title": "LibreWolf Portable 159.0.1-1 (web browser) Released",
+    "link": "https://portableapps.com/news/2026-11-05--librewolf-portable-159.0.1-1-released",
+    "pubDate": "Fri, 06 Nov 2026 00:31:43 +0000"
+  },
+  {
+    "title": "Supermium Portable 150.0.7871.255 R2.02 (web browser with legacy support) Released",
+    "link": "https://portableapps.com/news/2026-11-05--supermium-portable-150.0.7871.255_R2.02-released",
+    "pubDate": "Fri, 06 Nov 2026 00:30:26 +0000"
+  },
+  {
+    "title": "Google Chrome Portable 157.0.8103.39 Stable (web browser) Released",
+    "link": "https://portableapps.com/news/2026-11-05--google-chrome-portable-157.0.8103.39-released",
+    "pubDate": "Thu, 05 Nov 2026 23:56:29 +0000"
+  },
+  {
+    "title": "Chromium Portable 157.0.8103.39 (web browser) Released",
+    "link": "https://portableapps.com/news/2026-11-05--chromium-portable-157.0.8103.39-released",
+    "pubDate": "Thu, 05 Nov 2026 23:53:44 +0000"
+  },
+  {
+    "title": "TeamViewer Portable 15.83.5 (pc control, screen sharing) Released",
+    "link": "https://portableapps.com/news/2026-11-05--teamviewer-portable-15.83.5-released",
+    "pubDate": "Thu, 05 Nov 2026 23:28:32 +0000"
+  },
+  {
+    "title": "Thunderbird, Portable Edition 160.0 Beta 2 (email client) Released",
+    "link": "https://portableapps.com/news/2026-11-05--thunderbird-portable-160.0-beta-2-released",
+    "pubDate": "Thu, 05 Nov 2026 22:58:54 +0000"
+  },
+  {
+    "title": "Thunderbird ESR, Portable Edition 153.6.0 (email client) Released",
+    "link": "https://portableapps.com/news/2026-11-05--thunderbird-portable-esr-153.6.0-released",
+    "pubDate": "Thu, 05 Nov 2026 22:56:34 +0000"
+  },
+  {
+    "title": "Thunderbird, Portable Edition 159.0 (email client) Released",
+    "link": "https://portableapps.com/news/2026-11-05--thunderbird-portable-159.0-released",
+    "pubDate": "Thu, 05 Nov 2026 22:54:38 +0000"
+  },
+  {
+    "title": "Mozilla Firefox, Portable Edition Stable 159.0.1 (web browser) Released",
+    "link": "https://portableapps.com/news/2026-11-05--firefox-portable-159.0.1-released",
+    "pubDate": "Thu, 05 Nov 2026 22:16:09 +0000"
+  },
+  {
     "title": "PortableApps.com AppCompactor 3.21 (shrink portable apps) Released",
     "link": "https://portableapps.com/news/2026-11-05--portableapps.com-appcompactor-3.21-released",
     "pubDate": "Thu, 05 Nov 2026 22:08:33 +0000"
@@ -28,50 +73,5 @@
     "title": "Supermium Portable 150.0.7871.255 R2.01 (web browser with legacy support) Released",
     "link": "https://portableapps.com/news/2026-10-31--supermium-portable-150.0.7871.255_R2.01-released",
     "pubDate": "Sat, 31 Oct 2026 21:54:40 +0000"
-  },
-  {
-    "title": "Chromium Portable 156.0.8078.80 (web browser) Released",
-    "link": "https://portableapps.com/news/2026-10-31--chromium-portable-156.0.8078.80-released",
-    "pubDate": "Sat, 31 Oct 2026 21:52:34 +0000"
-  },
-  {
-    "title": "Mozilla Firefox ESR, Portable Edition 153.6.0 (web browser) Released",
-    "link": "https://portableapps.com/news/2026-10-31--firefox-portable-esr-153.6.0-released",
-    "pubDate": "Sat, 31 Oct 2026 21:51:25 +0000"
-  },
-  {
-    "title": "Mozilla Firefox, Portable Edition Nightly 161 (web browser) Released",
-    "link": "https://portableapps.com/news/2026-10-31--firefox-portable-nightly-161-released",
-    "pubDate": "Sat, 31 Oct 2026 21:49:31 +0000"
-  },
-  {
-    "title": "Mozilla Firefox Developer Edition, Portable 160b2 (web browser) Released",
-    "link": "https://portableapps.com/news/2026-10-31--firefox-portable-developer-160b2-released",
-    "pubDate": "Sat, 31 Oct 2026 21:47:33 +0000"
-  },
-  {
-    "title": "Mozilla Firefox, Portable Edition 160.0 Beta 2 (web browser) Released",
-    "link": "https://portableapps.com/news/2026-10-31--firefox-portable-160.0-beta-2-released",
-    "pubDate": "Sat, 31 Oct 2026 21:44:18 +0000"
-  },
-  {
-    "title": "Mozilla Firefox, Portable Edition Stable 159.0 Rev 2 (web browser) Released",
-    "link": "https://portableapps.com/news/2026-10-31--firefox-portable-159.0-rev-2-released",
-    "pubDate": "Sat, 31 Oct 2026 21:37:45 +0000"
-  },
-  {
-    "title": "Google Chrome Portable 159 Dev (web browser) Released",
-    "link": "https://portableapps.com/news/2026-10-31--google-chrome-portable-159-dev-released",
-    "pubDate": "Sat, 31 Oct 2026 19:45:27 +0000"
-  },
-  {
-    "title": "Google Chrome Portable 156.0.8078.80 Stable (web browser) Released",
-    "link": "https://portableapps.com/news/2026-10-30--google-chrome-portable-156.0.8078.80-released",
-    "pubDate": "Fri, 30 Oct 2026 16:55:02 +0000"
-  },
-  {
-    "title": "Mozilla Firefox, Portable Edition Legacy 115.44.0 (web browser) Released",
-    "link": "https://portableapps.com/news/2026-10-29--firefox-portable-legacy-115.44.0-released",
-    "pubDate": "Fri, 30 Oct 2026 00:43:11 +0000"
   }
 ]
