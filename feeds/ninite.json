@@ -1,5 +1,15 @@
 [
   {
+    "title": "ShareX updated to 22.3.0.",
+    "link": "https://ninite.com/sharex/",
+    "pubDate": "Sat, 07 Nov 2026 19:40:01 -0000"
+  },
+  {
+    "title": "7-Zip updated to 26.06.",
+    "link": "https://ninite.com/7zip/",
+    "pubDate": "Sat, 07 Nov 2026 19:39:49 -0000"
+  },
+  {
     "title": "Telegram updated to 7.4.1.",
     "link": "https://ninite.com/telegram/",
     "pubDate": "Sat, 07 Nov 2026 18:11:14 -0000"
@@ -278,15 +288,5 @@
     "title": "Edge updated to 156.0.4314.58.",
     "link": "https://ninite.com/edge/",
     "pubDate": "Fri, 30 Oct 2026 21:35:16 -0000"
-  },
-  {
-    "title": "Claude updated to 4.4212.0.",
-    "link": "https://ninite.com/claude/",
-    "pubDate": "Fri, 30 Oct 2026 18:44:52 -0000"
-  },
-  {
-    "title": "Brave updated to 1.98.63.",
-    "link": "https://ninite.com/brave/",
-    "pubDate": "Fri, 30 Oct 2026 17:13:27 -0000"
   }
 ]
