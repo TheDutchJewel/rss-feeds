@@ -1,5 +1,35 @@
 [
   {
+    "title": "[UPDATE] Q-Dir v12.83",
+    "link": "https://www.portablefreeware.com/?id=1431&ts=1794009973",
+    "pubDate": "Sat, 07 Nov 2026 00:06:13 +0000"
+  },
+  {
+    "title": "[UPDATE] HashMyFiles v2.52",
+    "link": "https://www.portablefreeware.com/?id=1535&ts=1794009927",
+    "pubDate": "Sat, 07 Nov 2026 00:05:27 +0000"
+  },
+  {
+    "title": "[UPDATE] 7-Zip Portable v26.05",
+    "link": "https://www.portablefreeware.com/?id=796&ts=1794003560",
+    "pubDate": "Fri, 06 Nov 2026 22:19:20 +0000"
+  },
+  {
+    "title": "[UPDATE] jPortable v8 Update 511",
+    "link": "https://www.portablefreeware.com/?id=1996&ts=1794003343",
+    "pubDate": "Fri, 06 Nov 2026 22:15:43 +0000"
+  },
+  {
+    "title": "[UPDATE] ShareX v22.2.0",
+    "link": "https://www.portablefreeware.com/?id=2409&ts=1794003238",
+    "pubDate": "Fri, 06 Nov 2026 22:13:58 +0000"
+  },
+  {
+    "title": "[UPDATE] Notepad++ v8.9.9",
+    "link": "https://www.portablefreeware.com/?id=539&ts=1794003098",
+    "pubDate": "Fri, 06 Nov 2026 22:11:38 +0000"
+  },
+  {
     "title": "[UPDATE] Vivaldi v8.3.4191.30",
     "link": "https://www.portablefreeware.com/?id=2869&ts=1793976850",
     "pubDate": "Fri, 06 Nov 2026 14:54:10 +0000"
@@ -230,11 +260,6 @@
     "pubDate": "Sun, 25 Oct 2026 15:12:31 +0000"
   },
   {
-    "title": "[UPDATE] Q-Dir v12.82",
-    "link": "https://www.portablefreeware.com/?id=1431&ts=1792939416",
-    "pubDate": "Sun, 25 Oct 2026 14:43:36 +0000"
-  },
-  {
     "title": "[UPDATE] calibre v9.17",
     "link": "https://www.portablefreeware.com/?id=2119&ts=1792905203",
     "pubDate": "Sun, 25 Oct 2026 05:13:23 +0000"
@@ -338,11 +363,6 @@
     "title": "[UPDATE] BleachBit v6.0.6",
     "link": "https://www.portablefreeware.com/?id=1561&ts=1792342381",
     "pubDate": "Sun, 18 Oct 2026 16:53:01 +0000"
-  },
-  {
-    "title": "[UPDATE] 7-Zip Portable v26.04",
-    "link": "https://www.portablefreeware.com/?id=796&ts=1792312932",
-    "pubDate": "Sun, 18 Oct 2026 08:42:12 +0000"
   },
   {
     "title": "[UPDATE] TheAeroClock v9.41",
@@ -478,25 +498,5 @@
     "title": "[UPDATE] LiveTcpUdpWatch v1.59",
     "link": "https://www.portablefreeware.com/?id=2948&ts=1791346894",
     "pubDate": "Wed, 07 Oct 2026 04:21:34 +0000"
-  },
-  {
-    "title": "[UPDATE] Mozilla Thunderbird, Portable Edition v157.0.1",
-    "link": "https://www.portablefreeware.com/?id=133&ts=1791267279",
-    "pubDate": "Tue, 06 Oct 2026 06:14:39 +0000"
-  },
-  {
-    "title": "[UPDATE] Shutter Encoder v20.4",
-    "link": "https://www.portablefreeware.com/?id=3104&ts=1791267242",
-    "pubDate": "Tue, 06 Oct 2026 06:14:02 +0000"
-  },
-  {
-    "title": "[UPDATE] Quick Clipboard Editor v3.4.2.0",
-    "link": "https://www.portablefreeware.com/?id=3091&ts=1791130866",
-    "pubDate": "Sun, 04 Oct 2026 16:21:06 +0000"
-  },
-  {
-    "title": "[UPDATE] JSONedit v0.9.45",
-    "link": "https://www.portablefreeware.com/?id=2393&ts=1791086456",
-    "pubDate": "Sun, 04 Oct 2026 04:00:56 +0000"
   }
 ]

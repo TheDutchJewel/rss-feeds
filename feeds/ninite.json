@@ -1,5 +1,10 @@
 [
   {
+    "title": "ChatGPT updated to 26.1103.4239.",
+    "link": "https://ninite.com/chatgpt/",
+    "pubDate": "Sat, 07 Nov 2026 01:33:17 -0000"
+  },
+  {
     "title": "OneDrive updated to 26.198.1011.0006.",
     "link": "https://ninite.com/onedrive/",
     "pubDate": "Fri, 06 Nov 2026 19:43:25 -0000"
@@ -278,15 +283,5 @@
     "title": "ChatGPT updated to 26.1027.3384.",
     "link": "https://ninite.com/chatgpt/",
     "pubDate": "Thu, 29 Oct 2026 23:26:07 -0000"
-  },
-  {
-    "title": "Slack updated to 4.53.276.",
-    "link": "https://ninite.com/slack/",
-    "pubDate": "Thu, 29 Oct 2026 22:27:36 -0000"
-  },
-  {
-    "title": "Chrome updated to 156.0.8078.80.",
-    "link": "https://ninite.com/chrome/",
-    "pubDate": "Thu, 29 Oct 2026 22:07:09 -0000"
   }
 ]
