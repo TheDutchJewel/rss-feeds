@@ -1,5 +1,25 @@
 [
     {
+        "title": "Microsoft PowerToys 0.102.3101.0",
+        "link": "https://www.gratissoftwaresite.nl/downloads/microsoft-powertoys-gereedschap-tools-windows",
+        "pubDate": "7 november 2026"
+    },
+    {
+        "title": "CCleaner 7.13.1591",
+        "link": "https://www.gratissoftwaresite.nl/downloads/ccleaner-pc-opruimen-schoonmaken",
+        "pubDate": "7 november 2026"
+    },
+    {
+        "title": "Niubi Partition Editor Free 10.3.6",
+        "link": "https://www.gratissoftwaresite.nl/downloads/niubi-partition-editor-free-partitiebeheer",
+        "pubDate": "7 november 2026"
+    },
+    {
+        "title": "Media Player Classic - HC 2.8.5",
+        "link": "https://www.gratissoftwaresite.nl/downloads/media-player-classic-home-cinema-mediaspeler",
+        "pubDate": "7 november 2026"
+    },
+    {
         "title": "PDF24 Creator Tools 11.33.0",
         "link": "https://www.gratissoftwaresite.nl/downloads/pdf24-creator-tools-pdf-werktuigen-bewerken",
         "pubDate": "6 november 2026"
@@ -295,11 +315,6 @@
         "pubDate": "27 oktober 2026"
     },
     {
-        "title": "Microsoft PowerToys 0.102.3001.0",
-        "link": "https://www.gratissoftwaresite.nl/downloads/microsoft-powertoys-gereedschap-tools-windows",
-        "pubDate": "27 oktober 2026"
-    },
-    {
         "title": "Waterfox 6.7.7",
         "link": "https://www.gratissoftwaresite.nl/downloads/waterfox-web-browser",
         "pubDate": "27 oktober 2026"
@@ -390,11 +405,6 @@
         "pubDate": "23 oktober 2026"
     },
     {
-        "title": "CCleaner 7.13.1573",
-        "link": "https://www.gratissoftwaresite.nl/downloads/ccleaner-pc-opruimen-schoonmaken",
-        "pubDate": "22 oktober 2026"
-    },
-    {
         "title": "7-Zip 26.05",
         "link": "https://www.gratissoftwaresite.nl/downloads/7-zip-compressie-unzip",
         "pubDate": "22 oktober 2026"
@@ -440,11 +450,6 @@
         "pubDate": "19 oktober 2026"
     },
     {
-        "title": "Media Player Classic - HC 2.8.4",
-        "link": "https://www.gratissoftwaresite.nl/downloads/media-player-classic-home-cinema-mediaspeler",
-        "pubDate": "18 oktober 2026"
-    },
-    {
         "title": "LibreCAD 2.2.1.6",
         "link": "https://www.gratissoftwaresite.nl/downloads/librecad-computer-aided-design-grafische-vormgeving-ontwerpen-cad",
         "pubDate": "17 oktober 2026"
@@ -487,11 +492,6 @@
     {
         "title": "Workrave 1.11.5",
         "link": "https://www.gratissoftwaresite.nl/downloads/workrave-anti-rsi-tools",
-        "pubDate": "15 oktober 2026"
-    },
-    {
-        "title": "MailStore Home 26.4",
-        "link": "https://www.gratissoftwaresite.nl/downloads/mailstore-home-backup-outlook-webmail",
         "pubDate": "15 oktober 2026"
     }
 ]

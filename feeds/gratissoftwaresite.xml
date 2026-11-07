@@ -5,6 +5,30 @@
     <link>https://www.gratissoftwaresite.nl/downloads/nieuwe-updates</link>
     <description>Nieuwste software-updates van GratisSoftwareSite</description>
     <item>
+      <title>Microsoft PowerToys 0.102.3101.0</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/microsoft-powertoys-gereedschap-tools-windows</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/microsoft-powertoys-gereedschap-tools-windows</guid>
+      <pubDate>7 november 2026</pubDate>
+    </item>
+    <item>
+      <title>CCleaner 7.13.1591</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/ccleaner-pc-opruimen-schoonmaken</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/ccleaner-pc-opruimen-schoonmaken</guid>
+      <pubDate>7 november 2026</pubDate>
+    </item>
+    <item>
+      <title>Niubi Partition Editor Free 10.3.6</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/niubi-partition-editor-free-partitiebeheer</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/niubi-partition-editor-free-partitiebeheer</guid>
+      <pubDate>7 november 2026</pubDate>
+    </item>
+    <item>
+      <title>Media Player Classic - HC 2.8.5</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/media-player-classic-home-cinema-mediaspeler</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/media-player-classic-home-cinema-mediaspeler</guid>
+      <pubDate>7 november 2026</pubDate>
+    </item>
+    <item>
       <title>PDF24 Creator Tools 11.33.0</title>
       <link>https://www.gratissoftwaresite.nl/downloads/pdf24-creator-tools-pdf-werktuigen-bewerken</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/pdf24-creator-tools-pdf-werktuigen-bewerken</guid>
@@ -359,12 +383,6 @@
       <pubDate>27 oktober 2026</pubDate>
     </item>
     <item>
-      <title>Microsoft PowerToys 0.102.3001.0</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/microsoft-powertoys-gereedschap-tools-windows</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/microsoft-powertoys-gereedschap-tools-windows</guid>
-      <pubDate>27 oktober 2026</pubDate>
-    </item>
-    <item>
       <title>Waterfox 6.7.7</title>
       <link>https://www.gratissoftwaresite.nl/downloads/waterfox-web-browser</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/waterfox-web-browser</guid>
@@ -473,12 +491,6 @@
       <pubDate>23 oktober 2026</pubDate>
     </item>
     <item>
-      <title>CCleaner 7.13.1573</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/ccleaner-pc-opruimen-schoonmaken</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/ccleaner-pc-opruimen-schoonmaken</guid>
-      <pubDate>22 oktober 2026</pubDate>
-    </item>
-    <item>
       <title>7-Zip 26.05</title>
       <link>https://www.gratissoftwaresite.nl/downloads/7-zip-compressie-unzip</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/7-zip-compressie-unzip</guid>
@@ -533,12 +545,6 @@
       <pubDate>19 oktober 2026</pubDate>
     </item>
     <item>
-      <title>Media Player Classic - HC 2.8.4</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/media-player-classic-home-cinema-mediaspeler</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/media-player-classic-home-cinema-mediaspeler</guid>
-      <pubDate>18 oktober 2026</pubDate>
-    </item>
-    <item>
       <title>LibreCAD 2.2.1.6</title>
       <link>https://www.gratissoftwaresite.nl/downloads/librecad-computer-aided-design-grafische-vormgeving-ontwerpen-cad</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/librecad-computer-aided-design-grafische-vormgeving-ontwerpen-cad</guid>
@@ -590,12 +596,6 @@
       <title>Workrave 1.11.5</title>
       <link>https://www.gratissoftwaresite.nl/downloads/workrave-anti-rsi-tools</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/workrave-anti-rsi-tools</guid>
-      <pubDate>15 oktober 2026</pubDate>
-    </item>
-    <item>
-      <title>MailStore Home 26.4</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/mailstore-home-backup-outlook-webmail</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/mailstore-home-backup-outlook-webmail</guid>
       <pubDate>15 oktober 2026</pubDate>
     </item>
   </channel>
