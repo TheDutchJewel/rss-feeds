@@ -1,5 +1,50 @@
 [
   {
+    "title": "BetterTouchTool 6.1110 (macOS)",
+    "link": "https://www.computerbase.de/downloads/systemtools/bettertouchtool/",
+    "pubDate": "2026-11-07T13:59:00.000Z"
+  },
+  {
+    "title": "7-Zip 26.06",
+    "link": "https://www.computerbase.de/downloads/office/packprogramme/7-zip/",
+    "pubDate": "2026-11-07T13:57:00.000Z"
+  },
+  {
+    "title": "Nvidia RTX Enterprise Treiber 621.14",
+    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/nvidia-quadro-treiber/",
+    "pubDate": "2026-11-07T10:38:00.000Z"
+  },
+  {
+    "title": "be quiet! IO Center 1.4.1",
+    "link": "https://www.computerbase.de/downloads/treiber/eingabegeraete/io-center/",
+    "pubDate": "2026-11-07T09:45:00.000Z"
+  },
+  {
+    "title": "SystemRescue 13.03",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/systemrescue/",
+    "pubDate": "2026-11-07T09:43:00.000Z"
+  },
+  {
+    "title": "Intel Arc & Xe Grafiktreiber 32.0.101.9175 WHQL",
+    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/intel-grafiktreiber/",
+    "pubDate": "2026-11-07T09:41:00.000Z"
+  },
+  {
+    "title": "OnionShare 2.7.2",
+    "link": "https://www.computerbase.de/downloads/office/dateitransfer/onionshare/",
+    "pubDate": "2026-11-07T09:37:00.000Z"
+  },
+  {
+    "title": "HyperSnap 10.5.1",
+    "link": "https://www.computerbase.de/downloads/foto-und-grafik/hypersnap/",
+    "pubDate": "2026-11-07T09:35:00.000Z"
+  },
+  {
+    "title": "ShareX 22.3.0",
+    "link": "https://www.computerbase.de/downloads/foto-und-grafik/sharex/",
+    "pubDate": "2026-11-07T09:35:00.000Z"
+  },
+  {
     "title": "Telegram Desktop 7.4.1",
     "link": "https://www.computerbase.de/downloads/kommunikation/telegram-desktop/",
     "pubDate": "2026-11-06T19:46:00.000Z"
@@ -58,11 +103,6 @@
     "title": "UltraVNC 1.8.3.2",
     "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/ultravnc/",
     "pubDate": "2026-11-06T16:23:00.000Z"
-  },
-  {
-    "title": "ShareX 22.2.0",
-    "link": "https://www.computerbase.de/downloads/foto-und-grafik/sharex/",
-    "pubDate": "2026-11-06T16:19:00.000Z"
   },
   {
     "title": "Notepad++ 8.9.9",
@@ -150,7 +190,7 @@
     "pubDate": "2026-11-06T05:15:00.000Z"
   },
   {
-    "title": "Sandisk Dashboard 5.2.2.4",
+    "title": "Sandisk Dashboard 5.3.2.4",
     "link": "https://www.computerbase.de/downloads/systemtools/festplatten/sandisk-dashboard/",
     "pubDate": "2026-11-05T20:13:00.000Z"
   },
@@ -208,45 +248,5 @@
     "title": "Gigabyte Control Center 26.11.05.01",
     "link": "https://www.computerbase.de/downloads/systemtools/gigabyte-control-center/",
     "pubDate": "2026-11-05T19:07:00.000Z"
-  },
-  {
-    "title": "Brave 1.99.55",
-    "link": "https://www.computerbase.de/downloads/browser/brave/",
-    "pubDate": "2026-11-05T19:06:00.000Z"
-  },
-  {
-    "title": "Wipe 2613.00",
-    "link": "https://www.computerbase.de/downloads/systemtools/wipe/",
-    "pubDate": "2026-11-05T16:07:00.000Z"
-  },
-  {
-    "title": "Rocket.Chat Desktop 4.19.1",
-    "link": "https://www.computerbase.de/downloads/kommunikation/rocket.chat/",
-    "pubDate": "2026-11-05T16:05:00.000Z"
-  },
-  {
-    "title": "Screenpresso 2.4.1 (Win 11)",
-    "link": "https://www.computerbase.de/downloads/foto-und-grafik/screenpresso/",
-    "pubDate": "2026-11-05T16:03:00.000Z"
-  },
-  {
-    "title": "VeraCrypt 1.26.31",
-    "link": "https://www.computerbase.de/downloads/sicherheit/verschluesselung/veracrypt/",
-    "pubDate": "2026-11-05T15:59:00.000Z"
-  },
-  {
-    "title": "Nextcloud Client 35.0.3",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/nextcloud/",
-    "pubDate": "2026-11-05T15:57:00.000Z"
-  },
-  {
-    "title": "Opera GX 139.0.6053.42 Early Access",
-    "link": "https://www.computerbase.de/downloads/browser/opera-gx/",
-    "pubDate": "2026-11-05T15:56:00.000Z"
-  },
-  {
-    "title": "OpenVPN 2.7.9",
-    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/openvpn/",
-    "pubDate": "2026-11-05T15:54:00.000Z"
   }
 ]
