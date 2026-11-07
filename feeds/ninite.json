@@ -1,5 +1,20 @@
 [
   {
+    "title": "Telegram updated to 7.4.1.",
+    "link": "https://ninite.com/telegram/",
+    "pubDate": "Sat, 07 Nov 2026 18:11:14 -0000"
+  },
+  {
+    "title": "K-Lite Codecs updated to 20.2.0.",
+    "link": "https://ninite.com/klitecodecs/",
+    "pubDate": "Sat, 07 Nov 2026 18:10:45 -0000"
+  },
+  {
+    "title": "UltraVNC updated to 1.8.3.2.",
+    "link": "https://ninite.com/ultravnc/",
+    "pubDate": "Sat, 07 Nov 2026 18:10:13 -0000"
+  },
+  {
     "title": "Teams updated to 26288.2004.5269.3420.",
     "link": "https://ninite.com/teams/",
     "pubDate": "Sat, 07 Nov 2026 04:03:17 -0000"
@@ -273,15 +288,5 @@
     "title": "Brave updated to 1.98.63.",
     "link": "https://ninite.com/brave/",
     "pubDate": "Fri, 30 Oct 2026 17:13:27 -0000"
-  },
-  {
-    "title": "Edge updated to 156.0.4314.56.",
-    "link": "https://ninite.com/edge/",
-    "pubDate": "Fri, 30 Oct 2026 11:32:04 -0000"
-  },
-  {
-    "title": "TeamViewer 15 updated to 15.83.5.",
-    "link": "https://ninite.com/teamviewer15/",
-    "pubDate": "Fri, 30 Oct 2026 09:41:54 -0000"
   }
 ]

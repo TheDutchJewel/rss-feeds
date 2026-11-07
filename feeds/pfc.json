@@ -1,5 +1,10 @@
 [
   {
+    "title": "[UPDATE] Task Manager DeLuxe v5.3.0",
+    "link": "https://www.portablefreeware.com/?id=2345&ts=1794068238",
+    "pubDate": "Sat, 07 Nov 2026 16:17:18 +0000"
+  },
+  {
     "title": "[UPDATE] Q-Dir v12.83",
     "link": "https://www.portablefreeware.com/?id=1431&ts=1794009973",
     "pubDate": "Sat, 07 Nov 2026 00:06:13 +0000"
@@ -20,7 +25,7 @@
     "pubDate": "Fri, 06 Nov 2026 22:15:43 +0000"
   },
   {
-    "title": "[UPDATE] ShareX v22.2.0",
+    "title": "[UPDATE] ShareX v22.3.0",
     "link": "https://www.portablefreeware.com/?id=2409&ts=1794003238",
     "pubDate": "Fri, 06 Nov 2026 22:13:58 +0000"
   },
@@ -35,7 +40,7 @@
     "pubDate": "Fri, 06 Nov 2026 14:54:10 +0000"
   },
   {
-    "title": "[UPDATE] CudaText 1.239.0.0",
+    "title": "[UPDATE] CudaText 1.239.0.1",
     "link": "https://www.portablefreeware.com/?id=2890&ts=1793976459",
     "pubDate": "Fri, 06 Nov 2026 14:47:39 +0000"
   },
@@ -130,7 +135,7 @@
     "pubDate": "Mon, 02 Nov 2026 08:47:34 +0000"
   },
   {
-    "title": "[UPDATE] TreeSheets 2.22.7",
+    "title": "[UPDATE] TreeSheets 2.23.5",
     "link": "https://www.portablefreeware.com/?id=2741&ts=1793548926",
     "pubDate": "Sun, 01 Nov 2026 16:02:06 +0000"
   },
@@ -493,10 +498,5 @@
     "title": "[UPDATE] Quick Access Popup v12.4",
     "link": "https://www.portablefreeware.com/?id=2765&ts=1791346916",
     "pubDate": "Wed, 07 Oct 2026 04:21:56 +0000"
-  },
-  {
-    "title": "[UPDATE] LiveTcpUdpWatch v1.59",
-    "link": "https://www.portablefreeware.com/?id=2948&ts=1791346894",
-    "pubDate": "Wed, 07 Oct 2026 04:21:34 +0000"
   }
 ]

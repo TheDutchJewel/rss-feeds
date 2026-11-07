@@ -1,5 +1,10 @@
 [
   {
+    "title": "Dropbox 279.3.5701 Beta",
+    "link": "https://www.computerbase.de/downloads/office/dateimanager/dropbox/",
+    "pubDate": "2026-11-07T17:47:00.000Z"
+  },
+  {
     "title": "BetterTouchTool 6.1110 (macOS)",
     "link": "https://www.computerbase.de/downloads/systemtools/bettertouchtool/",
     "pubDate": "2026-11-07T13:59:00.000Z"
@@ -243,10 +248,5 @@
     "title": "Bitwarden 2026.10.4",
     "link": "https://www.computerbase.de/downloads/sicherheit/passwortmanager/bitwarden/",
     "pubDate": "2026-11-05T19:10:00.000Z"
-  },
-  {
-    "title": "Gigabyte Control Center 26.11.05.01",
-    "link": "https://www.computerbase.de/downloads/systemtools/gigabyte-control-center/",
-    "pubDate": "2026-11-05T19:07:00.000Z"
   }
 ]
