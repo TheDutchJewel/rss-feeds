@@ -1,5 +1,15 @@
 [
   {
+    "title": "Personal Backup 6.4.15.0",
+    "link": "https://www.computerbase.de/downloads/sicherheit/backup/personal-backup/",
+    "pubDate": "2026-11-08T16:40:00.000Z"
+  },
+  {
+    "title": "foobar2000 v2.26.3 preview 2026-11-08",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/foobar2000/",
+    "pubDate": "2026-11-08T16:40:00.000Z"
+  },
+  {
     "title": "FrostWire 7.1.3",
     "link": "https://www.computerbase.de/downloads/office/dateitransfer/frostwire/",
     "pubDate": "2026-11-08T08:42:00.000Z"
@@ -238,15 +248,5 @@
     "title": "Viber für Desktop 29.4.0.7 (Linux)",
     "link": "https://www.computerbase.de/downloads/kommunikation/viber-fuer-desktop/",
     "pubDate": "2026-11-05T19:18:00.000Z"
-  },
-  {
-    "title": "Rockstar Games Launcher 1.0.110.3150",
-    "link": "https://www.computerbase.de/downloads/games/rockstar-games-launcher/",
-    "pubDate": "2026-11-05T19:16:00.000Z"
-  },
-  {
-    "title": "TeamSpeak 6.0.0-beta5.1",
-    "link": "https://www.computerbase.de/downloads/kommunikation/teamspeak/",
-    "pubDate": "2026-11-05T19:15:00.000Z"
   }
 ]
