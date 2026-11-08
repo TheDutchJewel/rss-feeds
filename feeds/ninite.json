@@ -1,5 +1,10 @@
 [
   {
+    "title": "ShareX updated to 22.4.0.",
+    "link": "https://ninite.com/sharex/",
+    "pubDate": "Sun, 08 Nov 2026 08:37:45 -0000"
+  },
+  {
     "title": "ShareX updated to 22.3.0.",
     "link": "https://ninite.com/sharex/",
     "pubDate": "Sat, 07 Nov 2026 19:40:01 -0000"
@@ -273,15 +278,5 @@
     "title": "Zoom updated to 7.2.5.51704.",
     "link": "https://ninite.com/zoom/",
     "pubDate": "Sat, 31 Oct 2026 15:20:25 -0000"
-  },
-  {
-    "title": "OneDrive updated to 26.195.1006.0007.",
-    "link": "https://ninite.com/onedrive/",
-    "pubDate": "Fri, 30 Oct 2026 22:24:25 -0000"
-  },
-  {
-    "title": "OBS Studio updated to 33.0.1.",
-    "link": "https://ninite.com/obsstudio/",
-    "pubDate": "Fri, 30 Oct 2026 22:24:06 -0000"
   }
 ]

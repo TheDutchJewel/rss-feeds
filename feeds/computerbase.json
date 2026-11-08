@@ -1,5 +1,20 @@
 [
   {
+    "title": "FrostWire 7.1.3",
+    "link": "https://www.computerbase.de/downloads/office/dateitransfer/frostwire/",
+    "pubDate": "2026-11-08T08:42:00.000Z"
+  },
+  {
+    "title": "croc 11.6.5",
+    "link": "https://www.computerbase.de/downloads/office/dateitransfer/croc/",
+    "pubDate": "2026-11-08T08:40:00.000Z"
+  },
+  {
+    "title": "ShareX 22.4.0",
+    "link": "https://www.computerbase.de/downloads/foto-und-grafik/sharex/",
+    "pubDate": "2026-11-08T08:40:00.000Z"
+  },
+  {
     "title": "Tunnelblick 10.0.3 (macOS)",
     "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/tunnelblick/",
     "pubDate": "2026-11-07T21:14:00.000Z"
@@ -57,11 +72,6 @@
   {
     "title": "HyperSnap 10.5.1",
     "link": "https://www.computerbase.de/downloads/foto-und-grafik/hypersnap/",
-    "pubDate": "2026-11-07T09:35:00.000Z"
-  },
-  {
-    "title": "ShareX 22.3.0",
-    "link": "https://www.computerbase.de/downloads/foto-und-grafik/sharex/",
     "pubDate": "2026-11-07T09:35:00.000Z"
   },
   {
@@ -238,15 +248,5 @@
     "title": "TeamSpeak 6.0.0-beta5.1",
     "link": "https://www.computerbase.de/downloads/kommunikation/teamspeak/",
     "pubDate": "2026-11-05T19:15:00.000Z"
-  },
-  {
-    "title": "Evernote 11.41.9",
-    "link": "https://www.computerbase.de/downloads/office/evernote/",
-    "pubDate": "2026-11-05T19:14:00.000Z"
-  },
-  {
-    "title": "RoboForm 10.0.3",
-    "link": "https://www.computerbase.de/downloads/sicherheit/passwortmanager/roboform/",
-    "pubDate": "2026-11-05T19:13:00.000Z"
   }
 ]
