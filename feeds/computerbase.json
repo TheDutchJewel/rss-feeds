@@ -1,5 +1,70 @@
 [
   {
+    "title": "Razer Cortex 11.12.0.14",
+    "link": "https://www.computerbase.de/downloads/games/razer-cortex/",
+    "pubDate": "2026-11-09T19:03:00.000Z"
+  },
+  {
+    "title": "Razer Synapse 4 v4.0.896",
+    "link": "https://www.computerbase.de/downloads/treiber/eingabegeraete/razer-synapse/",
+    "pubDate": "2026-11-09T19:02:00.000Z"
+  },
+  {
+    "title": "LastPass 2.3.0 for Desktop",
+    "link": "https://www.computerbase.de/downloads/sicherheit/passwortmanager/lastpass/",
+    "pubDate": "2026-11-09T18:37:00.000Z"
+  },
+  {
+    "title": "Epic Games Launcher 0.113.1 Preview",
+    "link": "https://www.computerbase.de/downloads/games/epic-games-launcher/",
+    "pubDate": "2026-11-09T16:51:00.000Z"
+  },
+  {
+    "title": "Avast Free Antivirus 26.11.11250 Beta",
+    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/avast-free-antivirus/",
+    "pubDate": "2026-11-09T15:58:00.000Z"
+  },
+  {
+    "title": "eM Client 11.0.1577.0",
+    "link": "https://www.computerbase.de/downloads/kommunikation/em-client/",
+    "pubDate": "2026-11-09T15:56:00.000Z"
+  },
+  {
+    "title": "XnView MP 1.12.3",
+    "link": "https://www.computerbase.de/downloads/foto-und-grafik/xnview-mp/",
+    "pubDate": "2026-11-09T15:55:00.000Z"
+  },
+  {
+    "title": "AIDA64 v8.40.8533 Beta",
+    "link": "https://www.computerbase.de/downloads/systemtools/aida64/",
+    "pubDate": "2026-11-09T15:53:00.000Z"
+  },
+  {
+    "title": "LastPass 5.4.6 Universal",
+    "link": "https://www.computerbase.de/downloads/sicherheit/passwortmanager/lastpass/",
+    "pubDate": "2026-11-09T15:52:00.000Z"
+  },
+  {
+    "title": "WhatsApp 2.26.45.13 (macOS)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/whatsapp/",
+    "pubDate": "2026-11-09T15:50:00.000Z"
+  },
+  {
+    "title": "NZXT CAM 4.76.7",
+    "link": "https://www.computerbase.de/downloads/systemtools/nzxt-cam/",
+    "pubDate": "2026-11-09T15:50:00.000Z"
+  },
+  {
+    "title": "Glary Utilities 6.50.0.54",
+    "link": "https://www.computerbase.de/downloads/systemtools/glary-utilities/",
+    "pubDate": "2026-11-09T15:45:00.000Z"
+  },
+  {
+    "title": "Playnite 10.64",
+    "link": "https://www.computerbase.de/downloads/games/playnite/",
+    "pubDate": "2026-11-09T15:44:00.000Z"
+  },
+  {
     "title": "SeaMonkey 2.53.25 Beta 1",
     "link": "https://www.computerbase.de/downloads/browser/seamonkey/",
     "pubDate": "2026-11-09T06:10:00.000Z"
@@ -130,11 +195,6 @@
     "pubDate": "2026-11-06T18:15:00.000Z"
   },
   {
-    "title": "Epic Games Launcher 0.113.0 Preview",
-    "link": "https://www.computerbase.de/downloads/games/epic-games-launcher/",
-    "pubDate": "2026-11-06T18:12:00.000Z"
-  },
-  {
     "title": "Media Player Classic Home Cinema 2.8.5",
     "link": "https://www.computerbase.de/downloads/audio-und-video/media-player-classic-home-cinema/",
     "pubDate": "2026-11-06T18:12:00.000Z"
@@ -175,11 +235,6 @@
     "pubDate": "2026-11-06T16:14:00.000Z"
   },
   {
-    "title": "WhatsApp 2.26.44.21 (macOS)",
-    "link": "https://www.computerbase.de/downloads/kommunikation/whatsapp/",
-    "pubDate": "2026-11-06T16:12:00.000Z"
-  },
-  {
     "title": "Vivaldi 8.3 Build 4191.30",
     "link": "https://www.computerbase.de/downloads/browser/vivaldi/",
     "pubDate": "2026-11-06T16:12:00.000Z"
@@ -193,60 +248,5 @@
     "title": "mp3Tag 3.37",
     "link": "https://www.computerbase.de/downloads/audio-und-video/mp3tag/",
     "pubDate": "2026-11-06T16:09:00.000Z"
-  },
-  {
-    "title": "Mumble 1.6.1001 RC 2",
-    "link": "https://www.computerbase.de/downloads/kommunikation/mumble/",
-    "pubDate": "2026-11-06T05:41:00.000Z"
-  },
-  {
-    "title": "Microsoft Edge 157.0.4341.42",
-    "link": "https://www.computerbase.de/downloads/browser/microsoft-edge/",
-    "pubDate": "2026-11-06T05:38:00.000Z"
-  },
-  {
-    "title": "Rocket.Chat Server 8.9.1 (Linux)",
-    "link": "https://www.computerbase.de/downloads/kommunikation/rocket.chat/",
-    "pubDate": "2026-11-06T05:28:00.000Z"
-  },
-  {
-    "title": "PortableApps.com Platform 30.6.1",
-    "link": "https://www.computerbase.de/downloads/systemtools/portableapps-platform/",
-    "pubDate": "2026-11-06T05:27:00.000Z"
-  },
-  {
-    "title": "Windows Sysinternals 2026-11-05",
-    "link": "https://www.computerbase.de/downloads/systemtools/sysinternals/",
-    "pubDate": "2026-11-06T05:23:00.000Z"
-  },
-  {
-    "title": "Process Explorer 17.21",
-    "link": "https://www.computerbase.de/downloads/systemtools/process-explorer/",
-    "pubDate": "2026-11-06T05:21:00.000Z"
-  },
-  {
-    "title": "Process Monitor 4.13",
-    "link": "https://www.computerbase.de/downloads/systemtools/process-monitor/",
-    "pubDate": "2026-11-06T05:21:00.000Z"
-  },
-  {
-    "title": "Java SE Development Kit 28.0 Build 23 Dev",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/java-se-development-kit/",
-    "pubDate": "2026-11-06T05:20:00.000Z"
-  },
-  {
-    "title": "calibre 9.18.0",
-    "link": "https://www.computerbase.de/downloads/office/calibre-ebook-management/",
-    "pubDate": "2026-11-06T05:16:00.000Z"
-  },
-  {
-    "title": "Bandizip 8.0 Beta 52",
-    "link": "https://www.computerbase.de/downloads/office/packprogramme/bandizip/",
-    "pubDate": "2026-11-06T05:15:00.000Z"
-  },
-  {
-    "title": "Sandisk Dashboard 5.3.2.4",
-    "link": "https://www.computerbase.de/downloads/systemtools/festplatten/sandisk-dashboard/",
-    "pubDate": "2026-11-05T20:13:00.000Z"
   }
 ]

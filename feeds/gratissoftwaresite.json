@@ -1,5 +1,25 @@
 [
     {
+        "title": "eM Client 11.0.1577.0",
+        "link": "https://www.gratissoftwaresite.nl/downloads/em-client-e-mail",
+        "pubDate": "9 november 2026"
+    },
+    {
+        "title": "Glary Utilities 6.50.0.54",
+        "link": "https://www.gratissoftwaresite.nl/downloads/glary-utilities-pc-opruimen-cleaner",
+        "pubDate": "9 november 2026"
+    },
+    {
+        "title": "KNMI 5.5.0/5.5.2",
+        "link": "https://www.gratissoftwaresite.nl/downloads/knmi-weer-app-regen-buien-voorspellingen-waarschuwingen",
+        "pubDate": "9 november 2026"
+    },
+    {
+        "title": "Linux Lite 8.2",
+        "link": "https://www.gratissoftwaresite.nl/downloads/besturingssysteem-os-linux-lite",
+        "pubDate": "9 november 2026"
+    },
+    {
         "title": "Double Commander 1.2.11",
         "link": "https://www.gratissoftwaresite.nl/downloads/doublecommander-bestanden-beheer-verkenner-vensters-werktuigen",
         "pubDate": "8 november 2026"
@@ -225,11 +245,6 @@
         "pubDate": "2 november 2026"
     },
     {
-        "title": "KNMI 5.4.2/5.4.0",
-        "link": "https://www.gratissoftwaresite.nl/downloads/knmi-weer-app-regen-buien-voorspellingen-waarschuwingen",
-        "pubDate": "2 november 2026"
-    },
-    {
         "title": "iTunes 12.13.12.3",
         "link": "https://www.gratissoftwaresite.nl/downloads/itunes-mediaspeler-synchroniseer-iphone-ipad",
         "pubDate": "2 november 2026"
@@ -435,11 +450,6 @@
         "pubDate": "20 oktober 2026"
     },
     {
-        "title": "eM Client 11.0.1267.0",
-        "link": "https://www.gratissoftwaresite.nl/downloads/em-client-e-mail",
-        "pubDate": "20 oktober 2026"
-    },
-    {
         "title": "qBittorrent 5.3.0",
         "link": "https://www.gratissoftwaresite.nl/downloads/qbittorrent-bestanden-delen-downloaden-p2p",
         "pubDate": "20 oktober 2026"
@@ -447,11 +457,6 @@
     {
         "title": "Greenshot 1.3.328",
         "link": "https://www.gratissoftwaresite.nl/downloads/greenshot-schermafbeelding-venster-bewerking",
-        "pubDate": "19 oktober 2026"
-    },
-    {
-        "title": "Glary Utilities 6.49.0.53",
-        "link": "https://www.gratissoftwaresite.nl/downloads/glary-utilities-pc-opruimen-cleaner",
         "pubDate": "19 oktober 2026"
     },
     {
@@ -488,10 +493,5 @@
         "title": "Apache OpenOffice 4.1.17",
         "link": "https://www.gratissoftwaresite.nl/downloads/apache-openoffice-kantoorpakket-word-excel-vervanger",
         "pubDate": "16 oktober 2026"
-    },
-    {
-        "title": "WinSCP 6.7.0",
-        "link": "https://www.gratissoftwaresite.nl/downloads/winscp-ftp-sftp-webdav-amazon-s3-website-beheer",
-        "pubDate": "15 oktober 2026"
     }
 ]

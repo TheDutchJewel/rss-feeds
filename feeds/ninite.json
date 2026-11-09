@@ -1,5 +1,20 @@
 [
   {
+    "title": "Claude updated to 4.23118.1.",
+    "link": "https://ninite.com/claude/",
+    "pubDate": "Mon, 09 Nov 2026 20:14:27 -0000"
+  },
+  {
+    "title": "JDK (AdoptOpenJDK) x64 11 updated to 11.0.33.",
+    "link": "https://ninite.com/adoptjdkx11/",
+    "pubDate": "Mon, 09 Nov 2026 17:10:50 -0000"
+  },
+  {
+    "title": "Java (AdoptOpenJDK) x64 11 updated to 11.0.33.",
+    "link": "https://ninite.com/adoptjavax11/",
+    "pubDate": "Mon, 09 Nov 2026 17:10:01 -0000"
+  },
+  {
     "title": "Docker Desktop updated to 4.99.0.",
     "link": "https://ninite.com/dockerdesktop/",
     "pubDate": "Mon, 09 Nov 2026 10:18:02 -0000"
@@ -288,15 +303,5 @@
     "title": "Bitwarden updated to 2026.10.3.",
     "link": "https://ninite.com/bitwarden/",
     "pubDate": "Mon, 02 Nov 2026 19:56:30 -0000"
-  },
-  {
-    "title": "PDF24 Creator updated to 11.32.0.",
-    "link": "https://ninite.com/pdf24creator/",
-    "pubDate": "Mon, 02 Nov 2026 19:49:15 -0000"
-  },
-  {
-    "title": "RustDesk updated to 1.5.1.",
-    "link": "https://ninite.com/rustdesk/",
-    "pubDate": "Mon, 02 Nov 2026 18:11:21 -0000"
   }
 ]
