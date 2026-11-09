@@ -1,5 +1,20 @@
 [
   {
+    "title": "SeaMonkey 2.53.25 Beta 1",
+    "link": "https://www.computerbase.de/downloads/browser/seamonkey/",
+    "pubDate": "2026-11-09T06:10:00.000Z"
+  },
+  {
+    "title": "AIMP 5.40 Build 2730",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/aimp/",
+    "pubDate": "2026-11-09T06:06:00.000Z"
+  },
+  {
+    "title": "MediaMonkey 2027.0.0.3530 Beta",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/mediamonkey/",
+    "pubDate": "2026-11-09T06:03:00.000Z"
+  },
+  {
     "title": "Personal Backup 6.4.15.0",
     "link": "https://www.computerbase.de/downloads/sicherheit/backup/personal-backup/",
     "pubDate": "2026-11-08T16:40:00.000Z"
@@ -233,20 +248,5 @@
     "title": "Sandisk Dashboard 5.3.2.4",
     "link": "https://www.computerbase.de/downloads/systemtools/festplatten/sandisk-dashboard/",
     "pubDate": "2026-11-05T20:13:00.000Z"
-  },
-  {
-    "title": "DaVinci Resolve 21.2",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/davinci-resolve/",
-    "pubDate": "2026-11-05T20:12:00.000Z"
-  },
-  {
-    "title": "Corel PaintShop Pro 2023 v25 Update 3",
-    "link": "https://www.computerbase.de/downloads/foto-und-grafik/corel-paintshop-pro/",
-    "pubDate": "2026-11-05T19:22:00.000Z"
-  },
-  {
-    "title": "Viber für Desktop 29.4.0.7 (Linux)",
-    "link": "https://www.computerbase.de/downloads/kommunikation/viber-fuer-desktop/",
-    "pubDate": "2026-11-05T19:18:00.000Z"
   }
 ]
