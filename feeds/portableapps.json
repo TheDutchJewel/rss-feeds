@@ -1,5 +1,50 @@
 [
   {
+    "title": "HWiNFO 32+64 Portable 8.60.6120 (detailed info about your hardware and software) Released",
+    "link": "https://portableapps.com/news/2026-11-10--hwinfo-portable-8.60.6120-released",
+    "pubDate": "Tue, 10 Nov 2026 22:15:07 +0000"
+  },
+  {
+    "title": "Google Chrome Portable 157.0.8103.51 Stable (web browser) Released",
+    "link": "https://portableapps.com/news/2026-11-10--google-chrome-portable-157.0.8103.51-released",
+    "pubDate": "Tue, 10 Nov 2026 22:12:17 +0000"
+  },
+  {
+    "title": "Blender Portable Legacy GPU 4.2.23 (3D modeling, animation, rendering) Released",
+    "link": "https://portableapps.com/news/2026-11-10--blender-portable-legacy-gpu-4.2.23-released",
+    "pubDate": "Tue, 10 Nov 2026 21:19:46 +0000"
+  },
+  {
+    "title": "Transmission Portable 4.1.4 (bittorrent client) Released",
+    "link": "https://portableapps.com/news/2026-11-10--transmission-portable-4.1.4-released",
+    "pubDate": "Tue, 10 Nov 2026 21:00:32 +0000"
+  },
+  {
+    "title": "PortableApps.com AppCompactor 3.23 (shrink portable apps) Released",
+    "link": "https://portableapps.com/news/2026-11-10--portableapps.com-appcompactor-3.23-released",
+    "pubDate": "Tue, 10 Nov 2026 20:58:55 +0000"
+  },
+  {
+    "title": "FUPX Portable 3.2-6 (file compressor) Released",
+    "link": "https://portableapps.com/news/2026-11-10--free-upx-portable-3.2-6-released",
+    "pubDate": "Tue, 10 Nov 2026 20:37:16 +0000"
+  },
+  {
+    "title": "PortableApps.com AppCompactor 3.22 (shrink portable apps) Released",
+    "link": "https://portableapps.com/news/2026-11-10--portableapps.com-appcompactor-3.22-released",
+    "pubDate": "Tue, 10 Nov 2026 20:09:55 +0000"
+  },
+  {
+    "title": "7-Zip Portable 26.06 (file archiver) Released ",
+    "link": "https://portableapps.com/news/2026-11-10--7-zip-portable-26.06-released",
+    "pubDate": "Tue, 10 Nov 2026 20:08:42 +0000"
+  },
+  {
+    "title": "PortableApps.com Installer 3.9.24 (portable app packaging) Released",
+    "link": "https://portableapps.com/news/2026-11-10--portableapps.com-installer-3.9.24-released",
+    "pubDate": "Tue, 10 Nov 2026 20:07:03 +0000"
+  },
+  {
     "title": "Opera, Portable Edition 139.0.6053.38 (web browser) Released",
     "link": "https://portableapps.com/news/2026-11-05--opera-portable-139.0.6053.38-released",
     "pubDate": "Fri, 06 Nov 2026 04:27:27 +0000"
@@ -28,50 +73,5 @@
     "title": "Liberica JDK Portable LTS 21.0.13.3-5 (portable Java Development Kit) Released",
     "link": "https://portableapps.com/news/2026-11-05--liberica-jdk-portable-lts-21.0.13.3-5-released",
     "pubDate": "Fri, 06 Nov 2026 02:41:57 +0000"
-  },
-  {
-    "title": "OpenJDK Temurin Portable 25.0.5-8 (portable Java Development Kit) Released",
-    "link": "https://portableapps.com/news/2026-11-05--openjdk-portable-25.0.5-8-released",
-    "pubDate": "Fri, 06 Nov 2026 02:41:10 +0000"
-  },
-  {
-    "title": "Liberica JRE 21.0.13.0-3 LTS (portable Java runtime environment) Released",
-    "link": "https://portableapps.com/news/2026-11-05--liberica-jre-portable-21.0.13.0-3-released",
-    "pubDate": "Fri, 06 Nov 2026 02:37:29 +0000"
-  },
-  {
-    "title": "OpenJDK JRE 25.0.5-8 (portable Java runtime environment) Released",
-    "link": "https://portableapps.com/news/2026-11-05--openjdk-jre-portable-25.0.5-8-released",
-    "pubDate": "Fri, 06 Nov 2026 02:35:58 +0000"
-  },
-  {
-    "title": "jdkPortable 8 Update 511 (portable Java Development Kit) Released",
-    "link": "https://portableapps.com/news/2026-11-05--jdkportable-8-update-511-released",
-    "pubDate": "Fri, 06 Nov 2026 02:33:06 +0000"
-  },
-  {
-    "title": "jPortable 8 Update 511 (portable Java runtime) Released",
-    "link": "https://portableapps.com/news/2026-11-05--jportable-8-update-511-released",
-    "pubDate": "Fri, 06 Nov 2026 02:30:58 +0000"
-  },
-  {
-    "title": "LibreWolf Portable 159.0.1-1 (web browser) Released",
-    "link": "https://portableapps.com/news/2026-11-05--librewolf-portable-159.0.1-1-released",
-    "pubDate": "Fri, 06 Nov 2026 00:31:43 +0000"
-  },
-  {
-    "title": "Supermium Portable 150.0.7871.255 R2.02 (web browser with legacy support) Released",
-    "link": "https://portableapps.com/news/2026-11-05--supermium-portable-150.0.7871.255_R2.02-released",
-    "pubDate": "Fri, 06 Nov 2026 00:30:26 +0000"
-  },
-  {
-    "title": "Google Chrome Portable 157.0.8103.39 Stable (web browser) Released",
-    "link": "https://portableapps.com/news/2026-11-05--google-chrome-portable-157.0.8103.39-released",
-    "pubDate": "Thu, 05 Nov 2026 23:56:29 +0000"
-  },
-  {
-    "title": "Chromium Portable 157.0.8103.39 (web browser) Released",
-    "link": "https://portableapps.com/news/2026-11-05--chromium-portable-157.0.8103.39-released",
-    "pubDate": "Thu, 05 Nov 2026 23:53:44 +0000"
   }
 ]
