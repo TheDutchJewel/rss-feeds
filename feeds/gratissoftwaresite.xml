@@ -5,6 +5,18 @@
     <link>https://www.gratissoftwaresite.nl/downloads/nieuwe-updates</link>
     <description>Nieuwste software-updates van GratisSoftwareSite</description>
     <item>
+      <title>XnView MP 1.12.3  Cl...</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/xnview-fotobewerking-beeld</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/xnview-fotobewerking-beeld</guid>
+      <pubDate>10 november 2026</pubDate>
+    </item>
+    <item>
+      <title>Trilium 0.107.0</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/trilium-notes-notities-aantekeningen</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/trilium-notes-notities-aantekeningen</guid>
+      <pubDate>10 november 2026</pubDate>
+    </item>
+    <item>
       <title>eM Client 11.0.1577.0</title>
       <link>https://www.gratissoftwaresite.nl/downloads/em-client-e-mail</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/em-client-e-mail</guid>
@@ -585,18 +597,6 @@
       <link>https://www.gratissoftwaresite.nl/downloads/chasys-draw-image-editing-suite-tekenen-fotobewerking-batch-conversie-raw</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/chasys-draw-image-editing-suite-tekenen-fotobewerking-batch-conversie-raw</guid>
       <pubDate>17 oktober 2026</pubDate>
-    </item>
-    <item>
-      <title>FreeFileSync 14.13</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/freefilesync-backup-synchronisatie</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/freefilesync-backup-synchronisatie</guid>
-      <pubDate>17 oktober 2026</pubDate>
-    </item>
-    <item>
-      <title>Apache OpenOffice 4.1.17</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/apache-openoffice-kantoorpakket-word-excel-vervanger</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/apache-openoffice-kantoorpakket-word-excel-vervanger</guid>
-      <pubDate>16 oktober 2026</pubDate>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,15 @@
 [
     {
+        "title": "XnView MP 1.12.3 & Cl...",
+        "link": "https://www.gratissoftwaresite.nl/downloads/xnview-fotobewerking-beeld",
+        "pubDate": "10 november 2026"
+    },
+    {
+        "title": "Trilium 0.107.0",
+        "link": "https://www.gratissoftwaresite.nl/downloads/trilium-notes-notities-aantekeningen",
+        "pubDate": "10 november 2026"
+    },
+    {
         "title": "eM Client 11.0.1577.0",
         "link": "https://www.gratissoftwaresite.nl/downloads/em-client-e-mail",
         "pubDate": "9 november 2026"
@@ -483,15 +493,5 @@
         "title": "Chasys Photo 5.43.01",
         "link": "https://www.gratissoftwaresite.nl/downloads/chasys-draw-image-editing-suite-tekenen-fotobewerking-batch-conversie-raw",
         "pubDate": "17 oktober 2026"
-    },
-    {
-        "title": "FreeFileSync 14.13",
-        "link": "https://www.gratissoftwaresite.nl/downloads/freefilesync-backup-synchronisatie",
-        "pubDate": "17 oktober 2026"
-    },
-    {
-        "title": "Apache OpenOffice 4.1.17",
-        "link": "https://www.gratissoftwaresite.nl/downloads/apache-openoffice-kantoorpakket-word-excel-vervanger",
-        "pubDate": "16 oktober 2026"
     }
 ]
