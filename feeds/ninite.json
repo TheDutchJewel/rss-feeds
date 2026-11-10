@@ -1,5 +1,25 @@
 [
   {
+    "title": "Brave updated to 1.99.56.",
+    "link": "https://ninite.com/brave/",
+    "pubDate": "Tue, 10 Nov 2026 18:27:09 -0000"
+  },
+  {
+    "title": "Opera Chromium updated to 140.0.6074.17.",
+    "link": "https://ninite.com/operaChromium/",
+    "pubDate": "Tue, 10 Nov 2026 18:27:00 -0000"
+  },
+  {
+    "title": ".NET Desktop Runtime x64 8 updated to 8.0.34.36622.",
+    "link": "https://ninite.com/.netx8/",
+    "pubDate": "Tue, 10 Nov 2026 16:39:23 -0000"
+  },
+  {
+    "title": "Firefox updated to 160.0.",
+    "link": "https://ninite.com/firefox/",
+    "pubDate": "Tue, 10 Nov 2026 14:03:44 -0000"
+  },
+  {
     "title": "Edge updated to 157.0.4341.46.",
     "link": "https://ninite.com/edge/",
     "pubDate": "Tue, 10 Nov 2026 10:19:47 -0000"
@@ -248,40 +268,5 @@
     "title": "Claude updated to 4.16336.0.",
     "link": "https://ninite.com/claude/",
     "pubDate": "Wed, 04 Nov 2026 17:55:57 -0000"
-  },
-  {
-    "title": "Telegram updated to 7.3.5.",
-    "link": "https://ninite.com/telegram/",
-    "pubDate": "Wed, 04 Nov 2026 17:53:50 -0000"
-  },
-  {
-    "title": "Bambu Studio updated to 2.9.1.70.",
-    "link": "https://ninite.com/bambustudio/",
-    "pubDate": "Wed, 04 Nov 2026 17:53:10 -0000"
-  },
-  {
-    "title": "Opera Chromium updated to 139.0.6053.38.",
-    "link": "https://ninite.com/operaChromium/",
-    "pubDate": "Wed, 04 Nov 2026 17:52:42 -0000"
-  },
-  {
-    "title": "Audacity updated to 4.0.2.",
-    "link": "https://ninite.com/audacity/",
-    "pubDate": "Wed, 04 Nov 2026 17:51:13 -0000"
-  },
-  {
-    "title": "GIMP updated to 3.2.8.",
-    "link": "https://ninite.com/gimp/",
-    "pubDate": "Wed, 04 Nov 2026 17:51:00 -0000"
-  },
-  {
-    "title": "WhatsApp updated to 2.2642.101.",
-    "link": "https://ninite.com/whatsapp/",
-    "pubDate": "Wed, 04 Nov 2026 13:39:28 -0000"
-  },
-  {
-    "title": "Visual Studio Code updated to 1.145.0.",
-    "link": "https://ninite.com/vscode/",
-    "pubDate": "Wed, 04 Nov 2026 08:12:17 -0000"
   }
 ]

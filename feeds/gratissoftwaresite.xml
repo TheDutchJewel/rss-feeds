@@ -5,6 +5,12 @@
     <link>https://www.gratissoftwaresite.nl/downloads/nieuwe-updates</link>
     <description>Nieuwste software-updates van GratisSoftwareSite</description>
     <item>
+      <title>Firefox 160.0</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/firefox-internet-web-browser</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/firefox-internet-web-browser</guid>
+      <pubDate>10 november 2026</pubDate>
+    </item>
+    <item>
       <title>XnView MP 1.12.3  Cl...</title>
       <link>https://www.gratissoftwaresite.nl/downloads/xnview-fotobewerking-beeld</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/xnview-fotobewerking-beeld</guid>
@@ -249,12 +255,6 @@
       <link>https://www.gratissoftwaresite.nl/downloads/gimp-fotobewerking-image-editor-tekenen</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/gimp-fotobewerking-image-editor-tekenen</guid>
       <pubDate>4 november 2026</pubDate>
-    </item>
-    <item>
-      <title>Firefox 159.0.1</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/firefox-internet-web-browser</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/firefox-internet-web-browser</guid>
-      <pubDate>3 november 2026</pubDate>
     </item>
     <item>
       <title>Fedora 45</title>

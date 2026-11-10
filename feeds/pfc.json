@@ -1,5 +1,20 @@
 [
   {
+    "title": "[UPDATE] PDF-XChange Editor v11.1.2.0",
+    "link": "https://www.portablefreeware.com/?id=2832&ts=1794324880",
+    "pubDate": "Tue, 10 Nov 2026 15:34:40 +0000"
+  },
+  {
+    "title": "[UPDATE] Blender v5.3.0",
+    "link": "https://www.portablefreeware.com/?id=660&ts=1794324359",
+    "pubDate": "Tue, 10 Nov 2026 15:25:59 +0000"
+  },
+  {
+    "title": "[UPDATE] Tor Browser v16.0.1",
+    "link": "https://www.portablefreeware.com/?id=2392&ts=1794324290",
+    "pubDate": "Tue, 10 Nov 2026 15:24:50 +0000"
+  },
+  {
     "title": "[UPDATE] OpenCloseDriveEject v3.61",
     "link": "https://www.portablefreeware.com/?id=3079&ts=1794291606",
     "pubDate": "Tue, 10 Nov 2026 06:20:06 +0000"
@@ -65,12 +80,12 @@
     "pubDate": "Fri, 06 Nov 2026 22:11:38 +0000"
   },
   {
-    "title": "[UPDATE] Vivaldi v8.3.4191.30",
+    "title": "[UPDATE] Vivaldi v8.3.4191.35",
     "link": "https://www.portablefreeware.com/?id=2869&ts=1793976850",
     "pubDate": "Fri, 06 Nov 2026 14:54:10 +0000"
   },
   {
-    "title": "[UPDATE] CudaText 1.239.0.1",
+    "title": "[UPDATE] CudaText 1.239.1.0",
     "link": "https://www.portablefreeware.com/?id=2890&ts=1793976459",
     "pubDate": "Fri, 06 Nov 2026 14:47:39 +0000"
   },
@@ -350,16 +365,6 @@
     "pubDate": "Wed, 21 Oct 2026 17:01:53 +0000"
   },
   {
-    "title": "[UPDATE] PDF-XChange Editor v11.1.1.0",
-    "link": "https://www.portablefreeware.com/?id=2832&ts=1792601967",
-    "pubDate": "Wed, 21 Oct 2026 16:59:27 +0000"
-  },
-  {
-    "title": "[UPDATE] Tor Browser v15.0.26",
-    "link": "https://www.portablefreeware.com/?id=2392&ts=1792601662",
-    "pubDate": "Wed, 21 Oct 2026 16:54:22 +0000"
-  },
-  {
     "title": "[UPDATE] Executor v2.4.4",
     "link": "https://www.portablefreeware.com/?id=1308&ts=1792507513",
     "pubDate": "Tue, 20 Oct 2026 14:45:13 +0000"
@@ -418,11 +423,6 @@
     "title": "[UPDATE] Registry Finder v2.63",
     "link": "https://www.portablefreeware.com/?id=2676&ts=1792253915",
     "pubDate": "Sat, 17 Oct 2026 16:18:35 +0000"
-  },
-  {
-    "title": "[UPDATE] Blender v5.2.3",
-    "link": "https://www.portablefreeware.com/?id=660&ts=1792124465",
-    "pubDate": "Fri, 16 Oct 2026 04:21:05 +0000"
   },
   {
     "title": "[UPDATE] SoftMaker FreeOffice Rev 1238",
