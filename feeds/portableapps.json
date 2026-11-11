@@ -1,5 +1,45 @@
 [
   {
+    "title": " Mozilla Firefox, Portable Edition Legacy 115.45.0 (web browser) Released",
+    "link": "https://portableapps.com/news/2026-11-10--firefox-portable-legacy-115.45.0-released",
+    "pubDate": "Wed, 11 Nov 2026 02:25:14 +0000"
+  },
+  {
+    "title": "Mozilla Firefox ESR, Portable Edition 153.7.0 (web browser) Released",
+    "link": "https://portableapps.com/news/2026-11-10--firefox-portable-esr-153.7.0-released",
+    "pubDate": "Wed, 11 Nov 2026 01:41:11 +0000"
+  },
+  {
+    "title": "Mozilla Firefox, Portable Edition Nightly 162 (web browser) Released",
+    "link": "https://portableapps.com/news/2026-11-10--firefox-portable-nightly-162-released",
+    "pubDate": "Wed, 11 Nov 2026 01:39:09 +0000"
+  },
+  {
+    "title": "Mozilla Firefox Developer Edition, Portable 161b1 (web browser) Released",
+    "link": "https://portableapps.com/news/2026-11-10--firefox-portable-developer-161b1-released",
+    "pubDate": "Wed, 11 Nov 2026 01:37:12 +0000"
+  },
+  {
+    "title": "Mozilla Firefox, Portable Edition 161.0 Beta 1 (web browser) Released",
+    "link": "https://portableapps.com/news/2026-11-10--firefox-portable-161.0-beta-1-released",
+    "pubDate": "Wed, 11 Nov 2026 01:35:00 +0000"
+  },
+  {
+    "title": "Mozilla Firefox, Portable Edition Stable 160.0 (web browser) Released",
+    "link": "https://portableapps.com/news/2026-11-10--firefox-portable-160.0-released",
+    "pubDate": "Wed, 11 Nov 2026 01:32:43 +0000"
+  },
+  {
+    "title": "PortableApps.com Platform 30.6.2: Component Update",
+    "link": "https://portableapps.com/news/2026-11-10--portableapps.com-platform-30.6.2-released",
+    "pubDate": "Wed, 11 Nov 2026 01:27:14 +0000"
+  },
+  {
+    "title": "Notepad++ Portable 8.9.9 (developer's text editor) Released",
+    "link": "https://portableapps.com/news/2026-11-10--notepadpp-portable-8.9.9-released",
+    "pubDate": "Wed, 11 Nov 2026 01:19:44 +0000"
+  },
+  {
     "title": "HWiNFO 32+64 Portable 8.60.6120 (detailed info about your hardware and software) Released",
     "link": "https://portableapps.com/news/2026-11-10--hwinfo-portable-8.60.6120-released",
     "pubDate": "Tue, 10 Nov 2026 22:15:07 +0000"
@@ -33,45 +73,5 @@
     "title": "PortableApps.com AppCompactor 3.22 (shrink portable apps) Released",
     "link": "https://portableapps.com/news/2026-11-10--portableapps.com-appcompactor-3.22-released",
     "pubDate": "Tue, 10 Nov 2026 20:09:55 +0000"
-  },
-  {
-    "title": "7-Zip Portable 26.06 (file archiver) Released ",
-    "link": "https://portableapps.com/news/2026-11-10--7-zip-portable-26.06-released",
-    "pubDate": "Tue, 10 Nov 2026 20:08:42 +0000"
-  },
-  {
-    "title": "PortableApps.com Installer 3.9.24 (portable app packaging) Released",
-    "link": "https://portableapps.com/news/2026-11-10--portableapps.com-installer-3.9.24-released",
-    "pubDate": "Tue, 10 Nov 2026 20:07:03 +0000"
-  },
-  {
-    "title": "Opera, Portable Edition 139.0.6053.38 (web browser) Released",
-    "link": "https://portableapps.com/news/2026-11-05--opera-portable-139.0.6053.38-released",
-    "pubDate": "Fri, 06 Nov 2026 04:27:27 +0000"
-  },
-  {
-    "title": "Opera GX, Portable Edition 139.0.6053.42 (gaming browser) Released",
-    "link": "https://portableapps.com/news/2026-11-05--opera-gx-portable-139.0.6053.42-released",
-    "pubDate": "Fri, 06 Nov 2026 04:24:36 +0000"
-  },
-  {
-    "title": "PortableApps.com Platform 30.6.1: Component Update",
-    "link": "https://portableapps.com/news/2026-11-05--portableapps.com-platform-30.6.1-released",
-    "pubDate": "Fri, 06 Nov 2026 03:12:00 +0000"
-  },
-  {
-    "title": "MicroSIP Portable 3.22.23 (lightweight SIP softphone) Released",
-    "link": "https://portableapps.com/news/2026-11-05--microsip-portable-3.22.23-released",
-    "pubDate": "Fri, 06 Nov 2026 02:45:05 +0000"
-  },
-  {
-    "title": "Telegram Desktop Portable 7.4.0 (secure instant messaging) Released",
-    "link": "https://portableapps.com/news/2026-11-05--telegram-desktop-portable-7.4.0-released",
-    "pubDate": "Fri, 06 Nov 2026 02:43:29 +0000"
-  },
-  {
-    "title": "Liberica JDK Portable LTS 21.0.13.3-5 (portable Java Development Kit) Released",
-    "link": "https://portableapps.com/news/2026-11-05--liberica-jdk-portable-lts-21.0.13.3-5-released",
-    "pubDate": "Fri, 06 Nov 2026 02:41:57 +0000"
   }
 ]
