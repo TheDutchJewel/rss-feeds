@@ -1,5 +1,95 @@
 [
   {
+    "title": "Viber für Desktop 29.5.0.0",
+    "link": "https://www.computerbase.de/downloads/kommunikation/viber-fuer-desktop/",
+    "pubDate": "2026-11-11T18:20:00.000Z"
+  },
+  {
+    "title": "FrostWire 7.1.4",
+    "link": "https://www.computerbase.de/downloads/office/dateitransfer/frostwire/",
+    "pubDate": "2026-11-11T18:17:00.000Z"
+  },
+  {
+    "title": "Epic Games Launcher 0.115.0 Preview",
+    "link": "https://www.computerbase.de/downloads/games/epic-games-launcher/",
+    "pubDate": "2026-11-11T18:16:00.000Z"
+  },
+  {
+    "title": "PDF24 Creator 11.34.0",
+    "link": "https://www.computerbase.de/downloads/office/pdf/pdf24-creator/",
+    "pubDate": "2026-11-11T18:16:00.000Z"
+  },
+  {
+    "title": "WinSCP 6.7.1",
+    "link": "https://www.computerbase.de/downloads/office/dateitransfer/winscp/",
+    "pubDate": "2026-11-11T16:08:00.000Z"
+  },
+  {
+    "title": "Element 1.12.34",
+    "link": "https://www.computerbase.de/downloads/kommunikation/element/",
+    "pubDate": "2026-11-11T16:04:00.000Z"
+  },
+  {
+    "title": "Mozilla Firefox 161.0 Beta 2",
+    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
+    "pubDate": "2026-11-11T16:01:00.000Z"
+  },
+  {
+    "title": "AVG AntiVirus Free 26.11.11250",
+    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/avg-antivirus-free/",
+    "pubDate": "2026-11-11T16:01:00.000Z"
+  },
+  {
+    "title": "Avast Free Antivirus 26.11.11250",
+    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/avast-free-antivirus/",
+    "pubDate": "2026-11-11T16:00:00.000Z"
+  },
+  {
+    "title": "Snagit 2027.0.0 (macOS)",
+    "link": "https://www.computerbase.de/downloads/foto-und-grafik/snagit/",
+    "pubDate": "2026-11-11T15:59:00.000Z"
+  },
+  {
+    "title": "Zoom Player 23.0 RC 3",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/zoom-player/",
+    "pubDate": "2026-11-11T15:58:00.000Z"
+  },
+  {
+    "title": "Opera 140.0.6074.18",
+    "link": "https://www.computerbase.de/downloads/browser/opera/",
+    "pubDate": "2026-11-11T15:57:00.000Z"
+  },
+  {
+    "title": "Apache HTTP Server 2.4.71 (Linux)",
+    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/apache-http-server/",
+    "pubDate": "2026-11-11T15:57:00.000Z"
+  },
+  {
+    "title": "Trellix Stinger 26.11.46.2",
+    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/mcafee-labs-stinger/",
+    "pubDate": "2026-11-11T15:55:00.000Z"
+  },
+  {
+    "title": "Bandizip 8.0 Beta 53",
+    "link": "https://www.computerbase.de/downloads/office/packprogramme/bandizip/",
+    "pubDate": "2026-11-11T15:55:00.000Z"
+  },
+  {
+    "title": "RustDesk 1.5.3",
+    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/rustdesk/",
+    "pubDate": "2026-11-11T15:54:00.000Z"
+  },
+  {
+    "title": "Visual Studio Code (VS Code) 1.146.0",
+    "link": "https://www.computerbase.de/downloads/office/editoren/visual-studio-code/",
+    "pubDate": "2026-11-11T15:53:00.000Z"
+  },
+  {
+    "title": "NZXT CAM 4.76.8",
+    "link": "https://www.computerbase.de/downloads/systemtools/nzxt-cam/",
+    "pubDate": "2026-11-11T15:52:00.000Z"
+  },
+  {
     "title": "Paint.NET 5.2",
     "link": "https://www.computerbase.de/downloads/foto-und-grafik/paint.net/",
     "pubDate": "2026-11-11T05:40:00.000Z"
@@ -90,11 +180,6 @@
     "pubDate": "2026-11-10T18:47:00.000Z"
   },
   {
-    "title": "Epic Games Launcher 0.114.0 Preview",
-    "link": "https://www.computerbase.de/downloads/games/epic-games-launcher/",
-    "pubDate": "2026-11-10T18:46:00.000Z"
-  },
-  {
     "title": "Windows 11 Kumulatives Update 24H2/25H2/26H2 (Build 26300.9974) KB5132061 (Win 11)",
     "link": "https://www.computerbase.de/downloads/betriebssysteme/windows-11-kumulatives-update/",
     "pubDate": "2026-11-10T18:45:00.000Z"
@@ -155,11 +240,6 @@
     "pubDate": "2026-11-10T18:13:00.000Z"
   },
   {
-    "title": "Visual Studio Code (VS Code) 1.145.3",
-    "link": "https://www.computerbase.de/downloads/office/editoren/visual-studio-code/",
-    "pubDate": "2026-11-10T18:12:00.000Z"
-  },
-  {
     "title": "Logi Options+ 2.9.1013853",
     "link": "https://www.computerbase.de/downloads/treiber/eingabegeraete/logi-options/",
     "pubDate": "2026-11-10T18:12:00.000Z"
@@ -168,85 +248,5 @@
     "title": "Microsoft Power Automate for desktop 2.74.191.26302",
     "link": "https://www.computerbase.de/downloads/systemtools/microsoft-power-automate-desktop/",
     "pubDate": "2026-11-10T18:07:00.000Z"
-  },
-  {
-    "title": "Rocket.Chat Server 9.0.0 (Linux)",
-    "link": "https://www.computerbase.de/downloads/kommunikation/rocket.chat/",
-    "pubDate": "2026-11-10T18:05:00.000Z"
-  },
-  {
-    "title": "RealVNC Connect Viewer 8.6.1",
-    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/vnc-connect/",
-    "pubDate": "2026-11-10T18:04:00.000Z"
-  },
-  {
-    "title": "Trellix Stinger 26.11.46.1",
-    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/mcafee-labs-stinger/",
-    "pubDate": "2026-11-10T17:57:00.000Z"
-  },
-  {
-    "title": "Microsoft .NET Windows Desktop Runtime 11.0.0",
-    "link": "https://www.computerbase.de/downloads/systemtools/microsoft-.net/",
-    "pubDate": "2026-11-10T16:30:00.000Z"
-  },
-  {
-    "title": "Microsoft .NET Windows Desktop Runtime 10.0.15",
-    "link": "https://www.computerbase.de/downloads/systemtools/microsoft-.net/",
-    "pubDate": "2026-11-10T16:28:00.000Z"
-  },
-  {
-    "title": "Microsoft .NET Windows Desktop Runtime 9.0.23",
-    "link": "https://www.computerbase.de/downloads/systemtools/microsoft-.net/",
-    "pubDate": "2026-11-10T16:27:00.000Z"
-  },
-  {
-    "title": "Microsoft .NET Windows Desktop Runtime 8.0.34",
-    "link": "https://www.computerbase.de/downloads/systemtools/microsoft-.net/",
-    "pubDate": "2026-11-10T16:26:00.000Z"
-  },
-  {
-    "title": "Tor Browser 16.0.1",
-    "link": "https://www.computerbase.de/downloads/browser/tor-browser/",
-    "pubDate": "2026-11-10T15:54:00.000Z"
-  },
-  {
-    "title": "Opera 140.0.6074.17",
-    "link": "https://www.computerbase.de/downloads/browser/opera/",
-    "pubDate": "2026-11-10T15:53:00.000Z"
-  },
-  {
-    "title": "Mozilla Firefox 160.0",
-    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
-    "pubDate": "2026-11-10T14:53:00.000Z"
-  },
-  {
-    "title": "Mozilla Firefox 153.7.0 ESR",
-    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
-    "pubDate": "2026-11-10T14:52:00.000Z"
-  },
-  {
-    "title": "Mozilla Firefox 115.45.0 ESR",
-    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
-    "pubDate": "2026-11-10T14:51:00.000Z"
-  },
-  {
-    "title": "Camtasia 2027.0.0",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/camtasia-studio/",
-    "pubDate": "2026-11-10T14:51:00.000Z"
-  },
-  {
-    "title": "Camtasia 2027.0.0 (macOS)",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/camtasia-studio/",
-    "pubDate": "2026-11-10T14:50:00.000Z"
-  },
-  {
-    "title": "Malwarebytes 5.29.2.4310 (macOS)",
-    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/malwarebytes/",
-    "pubDate": "2026-11-10T14:48:00.000Z"
-  },
-  {
-    "title": "Kodi 22.0 „Piers“ RC2",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/kodi-entertainment-center/",
-    "pubDate": "2026-11-10T13:17:00.000Z"
   }
 ]
