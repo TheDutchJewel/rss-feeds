@@ -1,5 +1,40 @@
 [
   {
+    "title": "Google Chrome 157.0.8103.78/.79",
+    "link": "https://www.computerbase.de/downloads/browser/google-chrome/",
+    "pubDate": "2026-11-11T22:13:00.000Z"
+  },
+  {
+    "title": "LibreOffice 26.8.3 RC1",
+    "link": "https://www.computerbase.de/downloads/office/libreoffice/",
+    "pubDate": "2026-11-11T22:12:00.000Z"
+  },
+  {
+    "title": "Steam 2026-11-11",
+    "link": "https://www.computerbase.de/downloads/games/steam/",
+    "pubDate": "2026-11-11T22:10:00.000Z"
+  },
+  {
+    "title": "Freeplane 1.13.5",
+    "link": "https://www.computerbase.de/downloads/office/freeplane/",
+    "pubDate": "2026-11-11T19:48:00.000Z"
+  },
+  {
+    "title": "Snagit 2027.0.0",
+    "link": "https://www.computerbase.de/downloads/foto-und-grafik/snagit/",
+    "pubDate": "2026-11-11T19:46:00.000Z"
+  },
+  {
+    "title": "CapFrameX 1.9.2",
+    "link": "https://www.computerbase.de/downloads/systemtools/grafikkarten/capframex-tool/",
+    "pubDate": "2026-11-11T19:45:00.000Z"
+  },
+  {
+    "title": "Rufus 4.16 Beta 2",
+    "link": "https://www.computerbase.de/downloads/systemtools/festplatten/rufus/",
+    "pubDate": "2026-11-11T19:10:00.000Z"
+  },
+  {
     "title": "Viber für Desktop 29.5.0.0",
     "link": "https://www.computerbase.de/downloads/kommunikation/viber-fuer-desktop/",
     "pubDate": "2026-11-11T18:20:00.000Z"
@@ -213,40 +248,5 @@
     "title": "Visual C++ Redistributable Runtimes v14 v14.52.37029.0",
     "link": "https://www.computerbase.de/downloads/systemtools/visual-c-redistributable-runtimes/",
     "pubDate": "2026-11-10T18:19:00.000Z"
-  },
-  {
-    "title": "Visual Studio 2026 v18.13.12409.143 Insider",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/visual-studio-2026/",
-    "pubDate": "2026-11-10T18:18:00.000Z"
-  },
-  {
-    "title": "Visual Studio 2026 v18.12.0",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/visual-studio-2026/",
-    "pubDate": "2026-11-10T18:17:00.000Z"
-  },
-  {
-    "title": "Samsung Smart Switch 5.0.75.1 (macOS)",
-    "link": "https://www.computerbase.de/downloads/office/dateitransfer/samsung-smart-switch/",
-    "pubDate": "2026-11-10T18:15:00.000Z"
-  },
-  {
-    "title": "Brave 1.99.56",
-    "link": "https://www.computerbase.de/downloads/browser/brave/",
-    "pubDate": "2026-11-10T18:13:00.000Z"
-  },
-  {
-    "title": "Visual Studio 2022 v17.14.45",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/visual-studio-2022/",
-    "pubDate": "2026-11-10T18:13:00.000Z"
-  },
-  {
-    "title": "Logi Options+ 2.9.1013853",
-    "link": "https://www.computerbase.de/downloads/treiber/eingabegeraete/logi-options/",
-    "pubDate": "2026-11-10T18:12:00.000Z"
-  },
-  {
-    "title": "Microsoft Power Automate for desktop 2.74.191.26302",
-    "link": "https://www.computerbase.de/downloads/systemtools/microsoft-power-automate-desktop/",
-    "pubDate": "2026-11-10T18:07:00.000Z"
   }
 ]

@@ -1,5 +1,15 @@
 [
   {
+    "title": "QOwnNotes Portable 26.11.7 (markdown note taker) Released",
+    "link": "https://portableapps.com/news/2026-11-11--qownnotes-portable-26.11.7-released",
+    "pubDate": "Wed, 11 Nov 2026 19:06:35 +0000"
+  },
+  {
+    "title": "gVim Portable 9.2.1320 (advanced text editor) Released",
+    "link": "https://portableapps.com/news/2026-11-11--gvim-portable-9.2.1320-released",
+    "pubDate": "Wed, 11 Nov 2026 19:05:20 +0000"
+  },
+  {
     "title": "Telegram Desktop Portable 7.4.2 (secure instant messaging) Released",
     "link": "https://portableapps.com/news/2026-11-11--telegram-desktop-portable-7.4.2-released",
     "pubDate": "Wed, 11 Nov 2026 16:53:45 +0000"
@@ -63,15 +73,5 @@
     "title": "Google Chrome Portable 157.0.8103.51 Stable (web browser) Released",
     "link": "https://portableapps.com/news/2026-11-10--google-chrome-portable-157.0.8103.51-released",
     "pubDate": "Tue, 10 Nov 2026 22:12:17 +0000"
-  },
-  {
-    "title": "Blender Portable Legacy GPU 4.2.23 (3D modeling, animation, rendering) Released",
-    "link": "https://portableapps.com/news/2026-11-10--blender-portable-legacy-gpu-4.2.23-released",
-    "pubDate": "Tue, 10 Nov 2026 21:19:46 +0000"
-  },
-  {
-    "title": "Transmission Portable 4.1.4 (bittorrent client) Released",
-    "link": "https://portableapps.com/news/2026-11-10--transmission-portable-4.1.4-released",
-    "pubDate": "Tue, 10 Nov 2026 21:00:32 +0000"
   }
 ]
