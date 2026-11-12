@@ -1,5 +1,35 @@
 [
   {
+    "title": "Thunderbird ESR, Portable Edition 153.7.0 (email client) Released",
+    "link": "https://portableapps.com/news/2026-11-11--thunderbird-portable-esr-153.7.0-released",
+    "pubDate": "Thu, 12 Nov 2026 03:19:12 +0000"
+  },
+  {
+    "title": "Thunderbird, Portable Edition 161.0 Beta 1 (email client) Released",
+    "link": "https://portableapps.com/news/2026-11-11--thunderbird-portable-161.0-beta-1-released",
+    "pubDate": "Thu, 12 Nov 2026 03:17:11 +0000"
+  },
+  {
+    "title": "Thunderbird, Portable Edition 160.0 (email client) Released",
+    "link": "https://portableapps.com/news/2026-11-11--thunderbird-portable-160.0-released",
+    "pubDate": "Thu, 12 Nov 2026 03:14:48 +0000"
+  },
+  {
+    "title": "LibreWolf Portable 160.0-1 (web browser) Released",
+    "link": "https://portableapps.com/news/2026-11-11--librewolf-portable-160.0-1-released",
+    "pubDate": "Thu, 12 Nov 2026 03:08:34 +0000"
+  },
+  {
+    "title": "NVDA Portable 2026.3.1 (screen reader) Released",
+    "link": "https://portableapps.com/news/2026-11-11--nvda-portable-2026.3.1-released",
+    "pubDate": "Thu, 12 Nov 2026 03:07:04 +0000"
+  },
+  {
+    "title": "WinSCP Portable 6.7.1 (ftp, sftp, scp client) Released",
+    "link": "https://portableapps.com/news/2026-11-11--winscp-portable-6.7.1-released",
+    "pubDate": "Thu, 12 Nov 2026 03:05:28 +0000"
+  },
+  {
     "title": "QOwnNotes Portable 26.11.7 (markdown note taker) Released",
     "link": "https://portableapps.com/news/2026-11-11--qownnotes-portable-26.11.7-released",
     "pubDate": "Wed, 11 Nov 2026 19:06:35 +0000"
@@ -43,35 +73,5 @@
     "title": "Mozilla Firefox Developer Edition, Portable 161b1 (web browser) Released",
     "link": "https://portableapps.com/news/2026-11-10--firefox-portable-developer-161b1-released",
     "pubDate": "Wed, 11 Nov 2026 01:37:12 +0000"
-  },
-  {
-    "title": "Mozilla Firefox, Portable Edition 161.0 Beta 1 (web browser) Released",
-    "link": "https://portableapps.com/news/2026-11-10--firefox-portable-161.0-beta-1-released",
-    "pubDate": "Wed, 11 Nov 2026 01:35:00 +0000"
-  },
-  {
-    "title": "Mozilla Firefox, Portable Edition Stable 160.0 (web browser) Released",
-    "link": "https://portableapps.com/news/2026-11-10--firefox-portable-160.0-released",
-    "pubDate": "Wed, 11 Nov 2026 01:32:43 +0000"
-  },
-  {
-    "title": "PortableApps.com Platform 30.6.2: Component Update",
-    "link": "https://portableapps.com/news/2026-11-10--portableapps.com-platform-30.6.2-released",
-    "pubDate": "Wed, 11 Nov 2026 01:27:14 +0000"
-  },
-  {
-    "title": "Notepad++ Portable 8.9.9 (developer's text editor) Released",
-    "link": "https://portableapps.com/news/2026-11-10--notepadpp-portable-8.9.9-released",
-    "pubDate": "Wed, 11 Nov 2026 01:19:44 +0000"
-  },
-  {
-    "title": "HWiNFO 32+64 Portable 8.60.6120 (detailed info about your hardware and software) Released",
-    "link": "https://portableapps.com/news/2026-11-10--hwinfo-portable-8.60.6120-released",
-    "pubDate": "Tue, 10 Nov 2026 22:15:07 +0000"
-  },
-  {
-    "title": "Google Chrome Portable 157.0.8103.51 Stable (web browser) Released",
-    "link": "https://portableapps.com/news/2026-11-10--google-chrome-portable-157.0.8103.51-released",
-    "pubDate": "Tue, 10 Nov 2026 22:12:17 +0000"
   }
 ]
