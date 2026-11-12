@@ -5,6 +5,72 @@
     <link>https://www.gratissoftwaresite.nl/downloads/nieuwe-updates</link>
     <description>Nieuwste software-updates van GratisSoftwareSite</description>
     <item>
+      <title>Zen Browser 1.24.2b</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/zen-browser-web-internet</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/zen-browser-web-internet</guid>
+      <pubDate>12 november 2026</pubDate>
+    </item>
+    <item>
+      <title>HWiNFO 8.60</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/hwinfo-werktuigen-systeeminformatie</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/hwinfo-werktuigen-systeeminformatie</guid>
+      <pubDate>12 november 2026</pubDate>
+    </item>
+    <item>
+      <title>Opera 140.0.6074.18</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/opera-internet-web-browser</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/opera-internet-web-browser</guid>
+      <pubDate>12 november 2026</pubDate>
+    </item>
+    <item>
+      <title>Proton Mail Web</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/protonmail-beveiliging-versleuteling-end-to-end-encryption-anoniem-ip-webmail-e-mail</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/protonmail-beveiliging-versleuteling-end-to-end-encryption-anoniem-ip-webmail-e-mail</guid>
+      <pubDate>12 november 2026</pubDate>
+    </item>
+    <item>
+      <title>Franz 6.11.1</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/franz-chat-instant-messenger-whatsapp-facebook-skype-hangouts-telegram</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/franz-chat-instant-messenger-whatsapp-facebook-skype-hangouts-telegram</guid>
+      <pubDate>12 november 2026</pubDate>
+    </item>
+    <item>
+      <title>Dropbox 279.4.5723</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/dropbox-online-opslag-sync</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/dropbox-online-opslag-sync</guid>
+      <pubDate>12 november 2026</pubDate>
+    </item>
+    <item>
+      <title>Tor Browser 16.0.1</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/tor-browser-internet-web-anoniem-surfen-ip-verbergen</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/tor-browser-internet-web-anoniem-surfen-ip-verbergen</guid>
+      <pubDate>12 november 2026</pubDate>
+    </item>
+    <item>
+      <title>Mullvad Browser 16.0.1</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/mullvad-browser-privacy</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/mullvad-browser-privacy</guid>
+      <pubDate>12 november 2026</pubDate>
+    </item>
+    <item>
+      <title>Vivaldi 8.3.4191.35</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/vivaldi-internet-web-browser</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/vivaldi-internet-web-browser</guid>
+      <pubDate>12 november 2026</pubDate>
+    </item>
+    <item>
+      <title>Brave 1.99.56</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/brave-web-browser-internet-privacy-beveiliging-schilden-trackers-ads</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/brave-web-browser-internet-privacy-beveiliging-schilden-trackers-ads</guid>
+      <pubDate>12 november 2026</pubDate>
+    </item>
+    <item>
+      <title>Google Chrome 157.0.8103.78/79</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/google-chrome-internet-web-browser</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/google-chrome-internet-web-browser</guid>
+      <pubDate>12 november 2026</pubDate>
+    </item>
+    <item>
       <title>WinScript 2.28.2</title>
       <link>https://www.gratissoftwaresite.nl/downloads/winscript-tweaks-werktuigen-optimalisatie</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/winscript-tweaks-werktuigen-optimalisatie</guid>
@@ -209,21 +275,9 @@
       <pubDate>6 november 2026</pubDate>
     </item>
     <item>
-      <title>Brave 1.99.55</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/brave-web-browser-internet-privacy-beveiliging-schilden-trackers-ads</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/brave-web-browser-internet-privacy-beveiliging-schilden-trackers-ads</guid>
-      <pubDate>6 november 2026</pubDate>
-    </item>
-    <item>
       <title>Microsoft Edge 157.0.4341.42</title>
       <link>https://www.gratissoftwaresite.nl/downloads/edge-internet-browser-ie-opvolger</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/edge-internet-browser-ie-opvolger</guid>
-      <pubDate>6 november 2026</pubDate>
-    </item>
-    <item>
-      <title>Vivaldi 8.3.4191.30</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/vivaldi-internet-web-browser</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/vivaldi-internet-web-browser</guid>
       <pubDate>6 november 2026</pubDate>
     </item>
     <item>
@@ -242,12 +296,6 @@
       <title>Proton VPN 5.1.9</title>
       <link>https://www.gratissoftwaresite.nl/downloads/proton-vpn-beveiligde-anonieme-verbinding-privacy-geen-ip</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/proton-vpn-beveiligde-anonieme-verbinding-privacy-geen-ip</guid>
-      <pubDate>5 november 2026</pubDate>
-    </item>
-    <item>
-      <title>Opera 139.0.6053.38</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/opera-internet-web-browser</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/opera-internet-web-browser</guid>
       <pubDate>5 november 2026</pubDate>
     </item>
     <item>
@@ -281,21 +329,9 @@
       <pubDate>4 november 2026</pubDate>
     </item>
     <item>
-      <title>Google Chrome 157.0.8103.38/39</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/google-chrome-internet-web-browser</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/google-chrome-internet-web-browser</guid>
-      <pubDate>4 november 2026</pubDate>
-    </item>
-    <item>
       <title>Malwarebytes 5.8.0</title>
       <link>https://www.gratissoftwaresite.nl/downloads/malwarebytes-anti-malware-anti-spyware-virussen</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/malwarebytes-anti-malware-anti-spyware-virussen</guid>
-      <pubDate>4 november 2026</pubDate>
-    </item>
-    <item>
-      <title>Dropbox 278.4.3944</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/dropbox-online-opslag-sync</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/dropbox-online-opslag-sync</guid>
       <pubDate>4 november 2026</pubDate>
     </item>
     <item>
@@ -437,18 +473,6 @@
       <pubDate>30 oktober 2026</pubDate>
     </item>
     <item>
-      <title>Tor Browser 16.0.0</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/tor-browser-internet-web-anoniem-surfen-ip-verbergen</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/tor-browser-internet-web-anoniem-surfen-ip-verbergen</guid>
-      <pubDate>29 oktober 2026</pubDate>
-    </item>
-    <item>
-      <title>Mullvad Browser 16.0.0</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/mullvad-browser-privacy</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/mullvad-browser-privacy</guid>
-      <pubDate>29 oktober 2026</pubDate>
-    </item>
-    <item>
       <title>foobar2000 2.26.2</title>
       <link>https://www.gratissoftwaresite.nl/downloads/foobar2000-muziekspeler-mp3</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/foobar2000-muziekspeler-mp3</guid>
@@ -494,12 +518,6 @@
       <title>Pale Moon 35.0.3</title>
       <link>https://www.gratissoftwaresite.nl/downloads/pale-moon-web-browser-internet</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/pale-moon-web-browser-internet</guid>
-      <pubDate>27 oktober 2026</pubDate>
-    </item>
-    <item>
-      <title>Franz 6.10.2</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/franz-chat-instant-messenger-whatsapp-facebook-skype-hangouts-telegram</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/franz-chat-instant-messenger-whatsapp-facebook-skype-hangouts-telegram</guid>
       <pubDate>27 oktober 2026</pubDate>
     </item>
     <item>
@@ -557,12 +575,6 @@
       <pubDate>23 oktober 2026</pubDate>
     </item>
     <item>
-      <title>Zen Browser 1.23.4b</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/zen-browser-web-internet</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/zen-browser-web-internet</guid>
-      <pubDate>23 oktober 2026</pubDate>
-    </item>
-    <item>
       <title>VirtualDJ Home 2026 build 9729</title>
       <link>https://www.gratissoftwaresite.nl/downloads/virtualdj-muziek-mp3-mixen-geluidsbewerking-audio-dj-vj</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/virtualdj-muziek-mp3-mixen-geluidsbewerking-audio-dj-vj</guid>
@@ -585,18 +597,6 @@
       <link>https://www.gratissoftwaresite.nl/downloads/drawpile-tekenen-collaboration-open-raster-netwerk-samenwerken</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/drawpile-tekenen-collaboration-open-raster-netwerk-samenwerken</guid>
       <pubDate>22 oktober 2026</pubDate>
-    </item>
-    <item>
-      <title>VirtualBox 7.2.22</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/virtualbox-virtualisatie-os-virtuele-machine</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/virtualbox-virtualisatie-os-virtuele-machine</guid>
-      <pubDate>20 oktober 2026</pubDate>
-    </item>
-    <item>
-      <title>Java 8 update 511</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/java-jre-plugin</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/java-jre-plugin</guid>
-      <pubDate>20 oktober 2026</pubDate>
     </item>
   </channel>
 </rss>

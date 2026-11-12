@@ -1,5 +1,60 @@
 [
     {
+        "title": "Zen Browser 1.24.2b",
+        "link": "https://www.gratissoftwaresite.nl/downloads/zen-browser-web-internet",
+        "pubDate": "12 november 2026"
+    },
+    {
+        "title": "HWiNFO 8.60",
+        "link": "https://www.gratissoftwaresite.nl/downloads/hwinfo-werktuigen-systeeminformatie",
+        "pubDate": "12 november 2026"
+    },
+    {
+        "title": "Opera 140.0.6074.18",
+        "link": "https://www.gratissoftwaresite.nl/downloads/opera-internet-web-browser",
+        "pubDate": "12 november 2026"
+    },
+    {
+        "title": "Proton Mail Web",
+        "link": "https://www.gratissoftwaresite.nl/downloads/protonmail-beveiliging-versleuteling-end-to-end-encryption-anoniem-ip-webmail-e-mail",
+        "pubDate": "12 november 2026"
+    },
+    {
+        "title": "Franz 6.11.1",
+        "link": "https://www.gratissoftwaresite.nl/downloads/franz-chat-instant-messenger-whatsapp-facebook-skype-hangouts-telegram",
+        "pubDate": "12 november 2026"
+    },
+    {
+        "title": "Dropbox 279.4.5723",
+        "link": "https://www.gratissoftwaresite.nl/downloads/dropbox-online-opslag-sync",
+        "pubDate": "12 november 2026"
+    },
+    {
+        "title": "Tor Browser 16.0.1",
+        "link": "https://www.gratissoftwaresite.nl/downloads/tor-browser-internet-web-anoniem-surfen-ip-verbergen",
+        "pubDate": "12 november 2026"
+    },
+    {
+        "title": "Mullvad Browser 16.0.1",
+        "link": "https://www.gratissoftwaresite.nl/downloads/mullvad-browser-privacy",
+        "pubDate": "12 november 2026"
+    },
+    {
+        "title": "Vivaldi 8.3.4191.35",
+        "link": "https://www.gratissoftwaresite.nl/downloads/vivaldi-internet-web-browser",
+        "pubDate": "12 november 2026"
+    },
+    {
+        "title": "Brave 1.99.56",
+        "link": "https://www.gratissoftwaresite.nl/downloads/brave-web-browser-internet-privacy-beveiliging-schilden-trackers-ads",
+        "pubDate": "12 november 2026"
+    },
+    {
+        "title": "Google Chrome 157.0.8103.78/79",
+        "link": "https://www.gratissoftwaresite.nl/downloads/google-chrome-internet-web-browser",
+        "pubDate": "12 november 2026"
+    },
+    {
         "title": "WinScript 2.28.2",
         "link": "https://www.gratissoftwaresite.nl/downloads/winscript-tweaks-werktuigen-optimalisatie",
         "pubDate": "12 november 2026"
@@ -170,18 +225,8 @@
         "pubDate": "6 november 2026"
     },
     {
-        "title": "Brave 1.99.55",
-        "link": "https://www.gratissoftwaresite.nl/downloads/brave-web-browser-internet-privacy-beveiliging-schilden-trackers-ads",
-        "pubDate": "6 november 2026"
-    },
-    {
         "title": "Microsoft Edge 157.0.4341.42",
         "link": "https://www.gratissoftwaresite.nl/downloads/edge-internet-browser-ie-opvolger",
-        "pubDate": "6 november 2026"
-    },
-    {
-        "title": "Vivaldi 8.3.4191.30",
-        "link": "https://www.gratissoftwaresite.nl/downloads/vivaldi-internet-web-browser",
         "pubDate": "6 november 2026"
     },
     {
@@ -197,11 +242,6 @@
     {
         "title": "Proton VPN 5.1.9",
         "link": "https://www.gratissoftwaresite.nl/downloads/proton-vpn-beveiligde-anonieme-verbinding-privacy-geen-ip",
-        "pubDate": "5 november 2026"
-    },
-    {
-        "title": "Opera 139.0.6053.38",
-        "link": "https://www.gratissoftwaresite.nl/downloads/opera-internet-web-browser",
         "pubDate": "5 november 2026"
     },
     {
@@ -230,18 +270,8 @@
         "pubDate": "4 november 2026"
     },
     {
-        "title": "Google Chrome 157.0.8103.38/39",
-        "link": "https://www.gratissoftwaresite.nl/downloads/google-chrome-internet-web-browser",
-        "pubDate": "4 november 2026"
-    },
-    {
         "title": "Malwarebytes 5.8.0",
         "link": "https://www.gratissoftwaresite.nl/downloads/malwarebytes-anti-malware-anti-spyware-virussen",
-        "pubDate": "4 november 2026"
-    },
-    {
-        "title": "Dropbox 278.4.3944",
-        "link": "https://www.gratissoftwaresite.nl/downloads/dropbox-online-opslag-sync",
         "pubDate": "4 november 2026"
     },
     {
@@ -360,16 +390,6 @@
         "pubDate": "30 oktober 2026"
     },
     {
-        "title": "Tor Browser 16.0.0",
-        "link": "https://www.gratissoftwaresite.nl/downloads/tor-browser-internet-web-anoniem-surfen-ip-verbergen",
-        "pubDate": "29 oktober 2026"
-    },
-    {
-        "title": "Mullvad Browser 16.0.0",
-        "link": "https://www.gratissoftwaresite.nl/downloads/mullvad-browser-privacy",
-        "pubDate": "29 oktober 2026"
-    },
-    {
         "title": "foobar2000 2.26.2",
         "link": "https://www.gratissoftwaresite.nl/downloads/foobar2000-muziekspeler-mp3",
         "pubDate": "29 oktober 2026"
@@ -407,11 +427,6 @@
     {
         "title": "Pale Moon 35.0.3",
         "link": "https://www.gratissoftwaresite.nl/downloads/pale-moon-web-browser-internet",
-        "pubDate": "27 oktober 2026"
-    },
-    {
-        "title": "Franz 6.10.2",
-        "link": "https://www.gratissoftwaresite.nl/downloads/franz-chat-instant-messenger-whatsapp-facebook-skype-hangouts-telegram",
         "pubDate": "27 oktober 2026"
     },
     {
@@ -460,11 +475,6 @@
         "pubDate": "23 oktober 2026"
     },
     {
-        "title": "Zen Browser 1.23.4b",
-        "link": "https://www.gratissoftwaresite.nl/downloads/zen-browser-web-internet",
-        "pubDate": "23 oktober 2026"
-    },
-    {
         "title": "VirtualDJ Home 2026 build 9729",
         "link": "https://www.gratissoftwaresite.nl/downloads/virtualdj-muziek-mp3-mixen-geluidsbewerking-audio-dj-vj",
         "pubDate": "23 oktober 2026"
@@ -483,15 +493,5 @@
         "title": "Drawpile 2.3.1",
         "link": "https://www.gratissoftwaresite.nl/downloads/drawpile-tekenen-collaboration-open-raster-netwerk-samenwerken",
         "pubDate": "22 oktober 2026"
-    },
-    {
-        "title": "VirtualBox 7.2.22",
-        "link": "https://www.gratissoftwaresite.nl/downloads/virtualbox-virtualisatie-os-virtuele-machine",
-        "pubDate": "20 oktober 2026"
-    },
-    {
-        "title": "Java 8 update 511",
-        "link": "https://www.gratissoftwaresite.nl/downloads/java-jre-plugin",
-        "pubDate": "20 oktober 2026"
     }
 ]

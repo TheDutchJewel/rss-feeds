@@ -1,5 +1,40 @@
 [
   {
+    "title": "Obsidian 1.15.1",
+    "link": "https://www.computerbase.de/downloads/office/obsidian/",
+    "pubDate": "2026-11-12T16:18:00.000Z"
+  },
+  {
+    "title": "Lexar DiskMaster 2.0.0",
+    "link": "https://www.computerbase.de/downloads/systemtools/festplatten/lexar-diskmaster/",
+    "pubDate": "2026-11-12T16:14:00.000Z"
+  },
+  {
+    "title": "Nvidia GeForce-Treiber 621.24",
+    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/nvidia-geforce-treiber/",
+    "pubDate": "2026-11-12T16:10:00.000Z"
+  },
+  {
+    "title": "Nvidia Studio-Treiber 621.24",
+    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/nvidia-studio-treiber/",
+    "pubDate": "2026-11-12T16:10:00.000Z"
+  },
+  {
+    "title": "LibreOffice 26.8.3",
+    "link": "https://www.computerbase.de/downloads/office/libreoffice/",
+    "pubDate": "2026-11-12T16:01:00.000Z"
+  },
+  {
+    "title": "ProtonVPN 5.1.10 Early Access",
+    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/protonvpn/",
+    "pubDate": "2026-11-12T15:59:00.000Z"
+  },
+  {
+    "title": "WhatsApp 2.26.45.21 (macOS)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/whatsapp/",
+    "pubDate": "2026-11-12T15:58:00.000Z"
+  },
+  {
     "title": "Dropbox 280.3.5012 Beta",
     "link": "https://www.computerbase.de/downloads/office/dateimanager/dropbox/",
     "pubDate": "2026-11-12T05:24:00.000Z"
@@ -23,11 +58,6 @@
     "title": "Google Chrome 157.0.8103.78/.79",
     "link": "https://www.computerbase.de/downloads/browser/google-chrome/",
     "pubDate": "2026-11-11T22:13:00.000Z"
-  },
-  {
-    "title": "LibreOffice 26.8.3 RC1",
-    "link": "https://www.computerbase.de/downloads/office/libreoffice/",
-    "pubDate": "2026-11-11T22:12:00.000Z"
   },
   {
     "title": "Steam 2026-11-11",
@@ -218,35 +248,5 @@
     "title": "Mozilla Thunderbird 153.7.0esr",
     "link": "https://www.computerbase.de/downloads/kommunikation/mozilla-thunderbird/",
     "pubDate": "2026-11-10T19:25:00.000Z"
-  },
-  {
-    "title": "Linux Kernel 7.3.4 (Linux)",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/linux-kernel/",
-    "pubDate": "2026-11-10T18:48:00.000Z"
-  },
-  {
-    "title": "HyperSnap 10.5.2",
-    "link": "https://www.computerbase.de/downloads/foto-und-grafik/hypersnap/",
-    "pubDate": "2026-11-10T18:47:00.000Z"
-  },
-  {
-    "title": "Linux Kernel 6.18.63 (Linux)",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/linux-kernel/",
-    "pubDate": "2026-11-10T18:47:00.000Z"
-  },
-  {
-    "title": "Windows 11 Kumulatives Update 24H2/25H2/26H2 (Build 26300.9974) KB5132061 (Win 11)",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/windows-11-kumulatives-update/",
-    "pubDate": "2026-11-10T18:45:00.000Z"
-  },
-  {
-    "title": "Windows 11 Kumulatives Update 26H1 (Build 28000.3501) KB5132059 (Win 11)",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/windows-11-kumulatives-update/",
-    "pubDate": "2026-11-10T18:44:00.000Z"
-  },
-  {
-    "title": "Windows 11 Kumulatives Update 23H2 (Build 22631.7711) KB5131087 (Win 11)",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/windows-11-kumulatives-update/",
-    "pubDate": "2026-11-10T18:43:00.000Z"
   }
 ]
