@@ -1,5 +1,20 @@
 [
   {
+    "title": "Telegram updated to 7.4.3.",
+    "link": "https://ninite.com/telegram/",
+    "pubDate": "Thu, 12 Nov 2026 23:51:39 -0000"
+  },
+  {
+    "title": "Claude updated to 5.11492.0.",
+    "link": "https://ninite.com/claude/",
+    "pubDate": "Thu, 12 Nov 2026 23:51:31 -0000"
+  },
+  {
+    "title": "Tailscale updated to 1.104.7.",
+    "link": "https://ninite.com/tailscale/",
+    "pubDate": "Thu, 12 Nov 2026 23:51:18 -0000"
+  },
+  {
     "title": "PDF24 Creator updated to 11.34.0.",
     "link": "https://ninite.com/pdf24creator/",
     "pubDate": "Thu, 12 Nov 2026 19:43:01 -0000"
@@ -318,25 +333,5 @@
     "title": "Docker Desktop updated to 4.99.0.",
     "link": "https://ninite.com/dockerdesktop/",
     "pubDate": "Mon, 09 Nov 2026 10:18:02 -0000"
-  },
-  {
-    "title": "AIMP updated to 5.40.2730.",
-    "link": "https://ninite.com/aimp/",
-    "pubDate": "Mon, 09 Nov 2026 09:37:54 -0000"
-  },
-  {
-    "title": "Cursor updated to 3.29.15.",
-    "link": "https://ninite.com/cursor/",
-    "pubDate": "Mon, 09 Nov 2026 09:37:10 -0000"
-  },
-  {
-    "title": "NVDA updated to 2026.3.1.",
-    "link": "https://ninite.com/nvda/",
-    "pubDate": "Mon, 09 Nov 2026 09:36:41 -0000"
-  },
-  {
-    "title": "Glary updated to 6.50.0.54.",
-    "link": "https://ninite.com/glary/",
-    "pubDate": "Mon, 09 Nov 2026 09:36:24 -0000"
   }
 ]
