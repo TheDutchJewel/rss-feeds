@@ -1,5 +1,20 @@
 [
   {
+    "title": "Claude updated to 5.11492.2.",
+    "link": "https://ninite.com/claude/",
+    "pubDate": "Fri, 13 Nov 2026 10:17:43 -0000"
+  },
+  {
+    "title": "Edge updated to 157.0.4341.57.",
+    "link": "https://ninite.com/edge/",
+    "pubDate": "Fri, 13 Nov 2026 10:11:49 -0000"
+  },
+  {
+    "title": "AIMP updated to 5.40.2731.",
+    "link": "https://ninite.com/aimp/",
+    "pubDate": "Fri, 13 Nov 2026 10:05:02 -0000"
+  },
+  {
     "title": "Telegram updated to 7.4.3.",
     "link": "https://ninite.com/telegram/",
     "pubDate": "Thu, 12 Nov 2026 23:51:39 -0000"
@@ -328,10 +343,5 @@
     "title": "Java (AdoptOpenJDK) x64 11 updated to 11.0.33.",
     "link": "https://ninite.com/adoptjavax11/",
     "pubDate": "Mon, 09 Nov 2026 17:10:01 -0000"
-  },
-  {
-    "title": "Docker Desktop updated to 4.99.0.",
-    "link": "https://ninite.com/dockerdesktop/",
-    "pubDate": "Mon, 09 Nov 2026 10:18:02 -0000"
   }
 ]

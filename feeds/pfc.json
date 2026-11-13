@@ -1,5 +1,25 @@
 [
   {
+    "title": "[UPDATE] Mozilla Firefox, Portable Edition v160.0",
+    "link": "https://www.portablefreeware.com/?id=132&ts=1794554678",
+    "pubDate": "Fri, 13 Nov 2026 07:24:38 +0000"
+  },
+  {
+    "title": "[UPDATE] paint.net v5.2",
+    "link": "https://www.portablefreeware.com/?id=2904&ts=1794546933",
+    "pubDate": "Fri, 13 Nov 2026 05:15:33 +0000"
+  },
+  {
+    "title": "[UPDATE] MACAddressView v1.56",
+    "link": "https://www.portablefreeware.com/?id=1631&ts=1794546900",
+    "pubDate": "Fri, 13 Nov 2026 05:15:00 +0000"
+  },
+  {
+    "title": "[UPDATE] Media Player Classic - Home Cinema v2.8.5",
+    "link": "https://www.portablefreeware.com/?id=2054&ts=1794546857",
+    "pubDate": "Fri, 13 Nov 2026 05:14:17 +0000"
+  },
+  {
     "title": "[UPDATE] PhraseExpress v18.0.85",
     "link": "https://www.portablefreeware.com/?id=2208&ts=1794413593",
     "pubDate": "Wed, 11 Nov 2026 16:13:13 +0000"
@@ -275,11 +295,6 @@
     "pubDate": "Wed, 28 Oct 2026 04:41:58 +0000"
   },
   {
-    "title": "[UPDATE] Mozilla Firefox, Portable Edition v159.0 Rev 2",
-    "link": "https://www.portablefreeware.com/?id=132&ts=1793132489",
-    "pubDate": "Tue, 27 Oct 2026 20:21:29 +0000"
-  },
-  {
     "title": "[UPDATE] MobaXterm Home Edition v26.6",
     "link": "https://www.portablefreeware.com/?id=1952&ts=1793113787",
     "pubDate": "Tue, 27 Oct 2026 15:09:47 +0000"
@@ -483,20 +498,5 @@
     "title": "[UPDATE] TcpLogView v1.42",
     "link": "https://www.portablefreeware.com/?id=2419&ts=1791867611",
     "pubDate": "Tue, 13 Oct 2026 05:00:11 +0000"
-  },
-  {
-    "title": "[UPDATE] MJ Registry Watcher v1.2.9.1",
-    "link": "https://www.portablefreeware.com/?id=703&ts=1791867572",
-    "pubDate": "Tue, 13 Oct 2026 04:59:32 +0000"
-  },
-  {
-    "title": "[UPDATE] CHK v6.21",
-    "link": "https://www.portablefreeware.com/?id=2359&ts=1791727619",
-    "pubDate": "Sun, 11 Oct 2026 14:06:59 +0000"
-  },
-  {
-    "title": "[UPDATE] darktable v5.6.2",
-    "link": "https://www.portablefreeware.com/?id=3082&ts=1791688821",
-    "pubDate": "Sun, 11 Oct 2026 03:20:21 +0000"
   }
 ]

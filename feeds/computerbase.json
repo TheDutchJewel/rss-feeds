@@ -1,5 +1,25 @@
 [
   {
+    "title": "Microsoft Edge 157.0.4341.57",
+    "link": "https://www.computerbase.de/downloads/browser/microsoft-edge/",
+    "pubDate": "2026-11-13T05:28:00.000Z"
+  },
+  {
+    "title": "YUMI Py 1.1.11",
+    "link": "https://www.computerbase.de/downloads/systemtools/festplatten/yumi/",
+    "pubDate": "2026-11-13T05:26:00.000Z"
+  },
+  {
+    "title": "pdfFactory 9.36",
+    "link": "https://www.computerbase.de/downloads/office/pdf/pdffactory/",
+    "pubDate": "2026-11-13T05:24:00.000Z"
+  },
+  {
+    "title": "Java SE Development Kit 28.0 Build 24 Dev",
+    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/java-se-development-kit/",
+    "pubDate": "2026-11-13T05:23:00.000Z"
+  },
+  {
     "title": "Telegram Desktop 7.4.3",
     "link": "https://www.computerbase.de/downloads/kommunikation/telegram-desktop/",
     "pubDate": "2026-11-12T21:25:00.000Z"
@@ -50,7 +70,7 @@
     "pubDate": "2026-11-12T19:22:00.000Z"
   },
   {
-    "title": "RoboForm 10.0.5",
+    "title": "RoboForm 10.0.4",
     "link": "https://www.computerbase.de/downloads/sicherheit/passwortmanager/roboform/",
     "pubDate": "2026-11-12T19:22:00.000Z"
   },
@@ -228,25 +248,5 @@
     "title": "Trellix Stinger 26.11.46.2",
     "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/mcafee-labs-stinger/",
     "pubDate": "2026-11-11T15:55:00.000Z"
-  },
-  {
-    "title": "Bandizip 8.0 Beta 53",
-    "link": "https://www.computerbase.de/downloads/office/packprogramme/bandizip/",
-    "pubDate": "2026-11-11T15:55:00.000Z"
-  },
-  {
-    "title": "RustDesk 1.5.3",
-    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/rustdesk/",
-    "pubDate": "2026-11-11T15:54:00.000Z"
-  },
-  {
-    "title": "Visual Studio Code (VS Code) 1.146.0",
-    "link": "https://www.computerbase.de/downloads/office/editoren/visual-studio-code/",
-    "pubDate": "2026-11-11T15:53:00.000Z"
-  },
-  {
-    "title": "NZXT CAM 4.76.8",
-    "link": "https://www.computerbase.de/downloads/systemtools/nzxt-cam/",
-    "pubDate": "2026-11-11T15:52:00.000Z"
   }
 ]
