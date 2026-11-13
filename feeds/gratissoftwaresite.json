@@ -1,5 +1,35 @@
 [
     {
+        "title": "KNMI 5.5.2/5.5.4",
+        "link": "https://www.gratissoftwaresite.nl/downloads/knmi-weer-app-regen-buien-voorspellingen-waarschuwingen",
+        "pubDate": "13 november 2026"
+    },
+    {
+        "title": "Lightworks 2026.1",
+        "link": "https://www.gratissoftwaresite.nl/downloads/lightworks-videobewerking-conversie",
+        "pubDate": "13 november 2026"
+    },
+    {
+        "title": "HomeBank 5.10.4",
+        "link": "https://www.gratissoftwaresite.nl/downloads/homebank-boekhouding-financieel",
+        "pubDate": "13 november 2026"
+    },
+    {
+        "title": "VirtualDJ Home 2026 build 9746",
+        "link": "https://www.gratissoftwaresite.nl/downloads/virtualdj-muziek-mp3-mixen-geluidsbewerking-audio-dj-vj",
+        "pubDate": "13 november 2026"
+    },
+    {
+        "title": "Brave 1.99.57",
+        "link": "https://www.gratissoftwaresite.nl/downloads/brave-web-browser-internet-privacy-beveiliging-schilden-trackers-ads",
+        "pubDate": "13 november 2026"
+    },
+    {
+        "title": "Obsidian 1.15.1",
+        "link": "https://www.gratissoftwaresite.nl/downloads/obsidian-notities-aantekeningen-maken",
+        "pubDate": "13 november 2026"
+    },
+    {
         "title": "HopToDesk 1.46.82",
         "link": "https://www.gratissoftwaresite.nl/downloads/hoptodesk-pc-hulp-op-afstand-remote-desktop",
         "pubDate": "13 november 2026"
@@ -57,11 +87,6 @@
     {
         "title": "Vivaldi 8.3.4191.35",
         "link": "https://www.gratissoftwaresite.nl/downloads/vivaldi-internet-web-browser",
-        "pubDate": "12 november 2026"
-    },
-    {
-        "title": "Brave 1.99.56",
-        "link": "https://www.gratissoftwaresite.nl/downloads/brave-web-browser-internet-privacy-beveiliging-schilden-trackers-ads",
         "pubDate": "12 november 2026"
     },
     {
@@ -152,11 +177,6 @@
     {
         "title": "Glary Utilities 6.50.0.54",
         "link": "https://www.gratissoftwaresite.nl/downloads/glary-utilities-pc-opruimen-cleaner",
-        "pubDate": "9 november 2026"
-    },
-    {
-        "title": "KNMI 5.5.0/5.5.2",
-        "link": "https://www.gratissoftwaresite.nl/downloads/knmi-weer-app-regen-buien-voorspellingen-waarschuwingen",
         "pubDate": "9 november 2026"
     },
     {
@@ -310,11 +330,6 @@
         "pubDate": "3 november 2026"
     },
     {
-        "title": "Obsidian 1.15.0",
-        "link": "https://www.gratissoftwaresite.nl/downloads/obsidian-notities-aantekeningen-maken",
-        "pubDate": "3 november 2026"
-    },
-    {
         "title": "Bitwarden 2026.10.3",
         "link": "https://www.gratissoftwaresite.nl/downloads/bitwarden-wachtwoordbeheerder-online-kluis-versleuteld-privacy",
         "pubDate": "3 november 2026"
@@ -440,11 +455,6 @@
         "pubDate": "25 oktober 2026"
     },
     {
-        "title": "Lightworks 2026.0",
-        "link": "https://www.gratissoftwaresite.nl/downloads/lightworks-videobewerking-conversie",
-        "pubDate": "25 oktober 2026"
-    },
-    {
         "title": "draw.io 32.6.1",
         "link": "https://www.gratissoftwaresite.nl/downloads/draw.io-diagrammen-flowcharts-mindmaps-organigrammen",
         "pubDate": "25 oktober 2026"
@@ -475,11 +485,6 @@
         "pubDate": "23 oktober 2026"
     },
     {
-        "title": "VirtualDJ Home 2026 build 9729",
-        "link": "https://www.gratissoftwaresite.nl/downloads/virtualdj-muziek-mp3-mixen-geluidsbewerking-audio-dj-vj",
-        "pubDate": "23 oktober 2026"
-    },
-    {
         "title": "Blender 5.2.3 LTS & 4....",
         "link": "https://www.gratissoftwaresite.nl/downloads/blender-3d-animatie-films",
         "pubDate": "23 oktober 2026"
@@ -488,10 +493,5 @@
         "title": "Bitdefender Antivirus Free 27.0.64.366",
         "link": "https://www.gratissoftwaresite.nl/downloads/bitdefender-antivirus-free-edition-virusscanner",
         "pubDate": "23 oktober 2026"
-    },
-    {
-        "title": "Drawpile 2.3.1",
-        "link": "https://www.gratissoftwaresite.nl/downloads/drawpile-tekenen-collaboration-open-raster-netwerk-samenwerken",
-        "pubDate": "22 oktober 2026"
     }
 ]

@@ -1,5 +1,15 @@
 [
   {
+    "title": "[UPDATE] Data Crow v5.2.0",
+    "link": "https://www.portablefreeware.com/?id=1865&ts=1794589594",
+    "pubDate": "Fri, 13 Nov 2026 17:06:34 +0000"
+  },
+  {
+    "title": "[UPDATE] Multi Commander v16.6.3238",
+    "link": "https://www.portablefreeware.com/?id=2304&ts=1794583263",
+    "pubDate": "Fri, 13 Nov 2026 15:21:03 +0000"
+  },
+  {
     "title": "[UPDATE] Mozilla Firefox, Portable Edition v160.0",
     "link": "https://www.portablefreeware.com/?id=132&ts=1794554678",
     "pubDate": "Fri, 13 Nov 2026 07:24:38 +0000"
@@ -25,7 +35,7 @@
     "pubDate": "Wed, 11 Nov 2026 16:13:13 +0000"
   },
   {
-    "title": "[UPDATE] Telegram Desktop v7.4.2",
+    "title": "[UPDATE] Telegram Desktop v7.4.3",
     "link": "https://www.portablefreeware.com/?id=2964&ts=1794413378",
     "pubDate": "Wed, 11 Nov 2026 16:09:38 +0000"
   },
@@ -90,7 +100,7 @@
     "pubDate": "Sat, 07 Nov 2026 16:17:18 +0000"
   },
   {
-    "title": "[UPDATE] Q-Dir v12.83",
+    "title": "[UPDATE] Q-Dir v12.84",
     "link": "https://www.portablefreeware.com/?id=1431&ts=1794009973",
     "pubDate": "Sat, 07 Nov 2026 00:06:13 +0000"
   },
@@ -115,7 +125,7 @@
     "pubDate": "Fri, 06 Nov 2026 22:13:58 +0000"
   },
   {
-    "title": "[UPDATE] Notepad++ v8.9.9",
+    "title": "[UPDATE] Notepad++ v8.9.9.1",
     "link": "https://www.portablefreeware.com/?id=539&ts=1794003098",
     "pubDate": "Fri, 06 Nov 2026 22:11:38 +0000"
   },
@@ -253,11 +263,6 @@
     "title": "[UPDATE] Slimjet v51.0.2.0",
     "link": "https://www.portablefreeware.com/?id=2633&ts=1793384800",
     "pubDate": "Fri, 30 Oct 2026 18:26:40 +0000"
-  },
-  {
-    "title": "[UPDATE] Multi Commander v16.6.3233",
-    "link": "https://www.portablefreeware.com/?id=2304&ts=1793384649",
-    "pubDate": "Fri, 30 Oct 2026 18:24:09 +0000"
   },
   {
     "title": "[UPDATE] Freeplane v1.13.4",
@@ -493,10 +498,5 @@
     "title": "[UPDATE] InnoUnpacker v2.2.13",
     "link": "https://www.portablefreeware.com/?id=3132&ts=1791902931",
     "pubDate": "Tue, 13 Oct 2026 14:48:51 +0000"
-  },
-  {
-    "title": "[UPDATE] TcpLogView v1.42",
-    "link": "https://www.portablefreeware.com/?id=2419&ts=1791867611",
-    "pubDate": "Tue, 13 Oct 2026 05:00:11 +0000"
   }
 ]

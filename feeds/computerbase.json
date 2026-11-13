@@ -1,5 +1,65 @@
 [
   {
+    "title": "Asus GPU Tweak III v2.2.2.3",
+    "link": "https://www.computerbase.de/downloads/systemtools/grafikkarten/asus-gpu-tweak/",
+    "pubDate": "2026-11-13T16:24:00.000Z"
+  },
+  {
+    "title": "DU Meter 10.0",
+    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/du-meter/",
+    "pubDate": "2026-11-13T16:10:00.000Z"
+  },
+  {
+    "title": "Wise Disk Cleaner 12.0.1",
+    "link": "https://www.computerbase.de/downloads/systemtools/festplatten/wise-disk-cleaner/",
+    "pubDate": "2026-11-13T16:08:00.000Z"
+  },
+  {
+    "title": "Screenpresso 2.4.2 (Win 11)",
+    "link": "https://www.computerbase.de/downloads/foto-und-grafik/screenpresso/",
+    "pubDate": "2026-11-13T16:06:00.000Z"
+  },
+  {
+    "title": "Nextcloud Server 35.0.3 (Linux)",
+    "link": "https://www.computerbase.de/downloads/office/dateimanager/nextcloud/",
+    "pubDate": "2026-11-13T16:04:00.000Z"
+  },
+  {
+    "title": "Mozilla Firefox 161.0 Beta 3",
+    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
+    "pubDate": "2026-11-13T16:03:00.000Z"
+  },
+  {
+    "title": "Vivaldi 8.3 Build 4191.44",
+    "link": "https://www.computerbase.de/downloads/browser/vivaldi/",
+    "pubDate": "2026-11-13T16:02:00.000Z"
+  },
+  {
+    "title": "WhatsApp 2.26.45.23 (macOS)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/whatsapp/",
+    "pubDate": "2026-11-13T16:00:00.000Z"
+  },
+  {
+    "title": "Bitdefender Antivirus Free 27.0.65.370",
+    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/bitdefender-antivirus/",
+    "pubDate": "2026-11-13T15:59:00.000Z"
+  },
+  {
+    "title": "NZXT CAM 4.76.9",
+    "link": "https://www.computerbase.de/downloads/systemtools/nzxt-cam/",
+    "pubDate": "2026-11-13T15:59:00.000Z"
+  },
+  {
+    "title": "Multi Commander 16.6 Build 3238",
+    "link": "https://www.computerbase.de/downloads/office/dateimanager/multi-commander/",
+    "pubDate": "2026-11-13T15:58:00.000Z"
+  },
+  {
+    "title": "UniGetUI 2026.3.4",
+    "link": "https://www.computerbase.de/downloads/systemtools/unigetui/",
+    "pubDate": "2026-11-13T15:57:00.000Z"
+  },
+  {
     "title": "Microsoft Edge 157.0.4341.57",
     "link": "https://www.computerbase.de/downloads/browser/microsoft-edge/",
     "pubDate": "2026-11-13T05:28:00.000Z"
@@ -130,11 +190,6 @@
     "pubDate": "2026-11-12T15:59:00.000Z"
   },
   {
-    "title": "WhatsApp 2.26.45.21 (macOS)",
-    "link": "https://www.computerbase.de/downloads/kommunikation/whatsapp/",
-    "pubDate": "2026-11-12T15:58:00.000Z"
-  },
-  {
     "title": "Dropbox 280.3.5012 Beta",
     "link": "https://www.computerbase.de/downloads/office/dateimanager/dropbox/",
     "pubDate": "2026-11-12T05:24:00.000Z"
@@ -193,60 +248,5 @@
     "title": "FrostWire 7.1.4",
     "link": "https://www.computerbase.de/downloads/office/dateitransfer/frostwire/",
     "pubDate": "2026-11-11T18:17:00.000Z"
-  },
-  {
-    "title": "Epic Games Launcher 0.115.0 Preview",
-    "link": "https://www.computerbase.de/downloads/games/epic-games-launcher/",
-    "pubDate": "2026-11-11T18:16:00.000Z"
-  },
-  {
-    "title": "PDF24 Creator 11.34.0",
-    "link": "https://www.computerbase.de/downloads/office/pdf/pdf24-creator/",
-    "pubDate": "2026-11-11T18:16:00.000Z"
-  },
-  {
-    "title": "WinSCP 6.7.1",
-    "link": "https://www.computerbase.de/downloads/office/dateitransfer/winscp/",
-    "pubDate": "2026-11-11T16:08:00.000Z"
-  },
-  {
-    "title": "Mozilla Firefox 161.0 Beta 2",
-    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
-    "pubDate": "2026-11-11T16:01:00.000Z"
-  },
-  {
-    "title": "AVG AntiVirus Free 26.11.11250",
-    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/avg-antivirus-free/",
-    "pubDate": "2026-11-11T16:01:00.000Z"
-  },
-  {
-    "title": "Avast Free Antivirus 26.11.11250",
-    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/avast-free-antivirus/",
-    "pubDate": "2026-11-11T16:00:00.000Z"
-  },
-  {
-    "title": "Snagit 2027.0.0 (macOS)",
-    "link": "https://www.computerbase.de/downloads/foto-und-grafik/snagit/",
-    "pubDate": "2026-11-11T15:59:00.000Z"
-  },
-  {
-    "title": "Zoom Player 23.0 RC 3",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/zoom-player/",
-    "pubDate": "2026-11-11T15:58:00.000Z"
-  },
-  {
-    "title": "Opera 140.0.6074.18",
-    "link": "https://www.computerbase.de/downloads/browser/opera/",
-    "pubDate": "2026-11-11T15:57:00.000Z"
-  },
-  {
-    "title": "Apache HTTP Server 2.4.71 (Linux)",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/apache-http-server/",
-    "pubDate": "2026-11-11T15:57:00.000Z"
-  },
-  {
-    "title": "Trellix Stinger 26.11.46.2",
-    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/mcafee-labs-stinger/",
-    "pubDate": "2026-11-11T15:55:00.000Z"
   }
 ]

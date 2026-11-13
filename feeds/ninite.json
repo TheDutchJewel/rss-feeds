@@ -1,5 +1,15 @@
 [
   {
+    "title": "Edge WebView2 updated to 157.0.4341.57.",
+    "link": "https://ninite.com/edgewebview2/",
+    "pubDate": "Fri, 13 Nov 2026 17:18:45 -0000"
+  },
+  {
+    "title": "Vivaldi updated to 8.3.4191.44.",
+    "link": "https://ninite.com/vivaldi/",
+    "pubDate": "Fri, 13 Nov 2026 16:38:34 -0000"
+  },
+  {
     "title": "Claude updated to 5.11492.2.",
     "link": "https://ninite.com/claude/",
     "pubDate": "Fri, 13 Nov 2026 10:17:43 -0000"
@@ -305,6 +315,11 @@
     "pubDate": "Tue, 10 Nov 2026 10:14:20 -0000"
   },
   {
+    "title": "Edge WebView2 updated to 157.0.4341.46.",
+    "link": "https://ninite.com/edgewebview2/",
+    "pubDate": "Tue, 10 Nov 2026 10:13:44 -0000"
+  },
+  {
     "title": "Grammarly updated to 1.2.311.2002.",
     "link": "https://ninite.com/grammarly/",
     "pubDate": "Tue, 10 Nov 2026 10:07:41 -0000"
@@ -338,10 +353,5 @@
     "title": "JDK (AdoptOpenJDK) x64 11 updated to 11.0.33.",
     "link": "https://ninite.com/adoptjdkx11/",
     "pubDate": "Mon, 09 Nov 2026 17:10:50 -0000"
-  },
-  {
-    "title": "Java (AdoptOpenJDK) x64 11 updated to 11.0.33.",
-    "link": "https://ninite.com/adoptjavax11/",
-    "pubDate": "Mon, 09 Nov 2026 17:10:01 -0000"
   }
 ]
