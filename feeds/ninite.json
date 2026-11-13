@@ -1,5 +1,10 @@
 [
   {
+    "title": "Discord updated to 1.0.9268.",
+    "link": "https://ninite.com/discord/",
+    "pubDate": "Fri, 13 Nov 2026 18:27:41 -0000"
+  },
+  {
     "title": "Edge WebView2 updated to 157.0.4341.57.",
     "link": "https://ninite.com/edgewebview2/",
     "pubDate": "Fri, 13 Nov 2026 17:18:45 -0000"
@@ -348,10 +353,5 @@
     "title": "Claude updated to 4.23118.1.",
     "link": "https://ninite.com/claude/",
     "pubDate": "Mon, 09 Nov 2026 20:14:27 -0000"
-  },
-  {
-    "title": "JDK (AdoptOpenJDK) x64 11 updated to 11.0.33.",
-    "link": "https://ninite.com/adoptjdkx11/",
-    "pubDate": "Mon, 09 Nov 2026 17:10:50 -0000"
   }
 ]
