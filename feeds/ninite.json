@@ -1,5 +1,30 @@
 [
   {
+    "title": "Claude updated to 5.11492.5.",
+    "link": "https://ninite.com/claude/",
+    "pubDate": "Sat, 14 Nov 2026 00:36:29 -0000"
+  },
+  {
+    "title": "Cursor updated to 3.30.14.",
+    "link": "https://ninite.com/cursor/",
+    "pubDate": "Sat, 14 Nov 2026 00:31:31 -0000"
+  },
+  {
+    "title": "Telegram updated to 7.4.4.",
+    "link": "https://ninite.com/telegram/",
+    "pubDate": "Sat, 14 Nov 2026 00:31:05 -0000"
+  },
+  {
+    "title": "Edge WebView2 updated to 157.0.4341.60.",
+    "link": "https://ninite.com/edgewebview2/",
+    "pubDate": "Sat, 14 Nov 2026 00:30:52 -0000"
+  },
+  {
+    "title": "Edge updated to 157.0.4341.60.",
+    "link": "https://ninite.com/edge/",
+    "pubDate": "Fri, 13 Nov 2026 23:44:08 -0000"
+  },
+  {
     "title": "Discord updated to 1.0.9268.",
     "link": "https://ninite.com/discord/",
     "pubDate": "Fri, 13 Nov 2026 18:27:41 -0000"
@@ -338,20 +363,5 @@
     "title": "ChatGPT updated to 26.1103.7773.",
     "link": "https://ninite.com/chatgpt/",
     "pubDate": "Tue, 10 Nov 2026 00:38:19 -0000"
-  },
-  {
-    "title": "Slack updated to 4.53.287.",
-    "link": "https://ninite.com/slack/",
-    "pubDate": "Tue, 10 Nov 2026 00:00:04 -0000"
-  },
-  {
-    "title": "Chrome updated to 157.0.8103.51.",
-    "link": "https://ninite.com/chrome/",
-    "pubDate": "Mon, 09 Nov 2026 21:22:56 -0000"
-  },
-  {
-    "title": "Claude updated to 4.23118.1.",
-    "link": "https://ninite.com/claude/",
-    "pubDate": "Mon, 09 Nov 2026 20:14:27 -0000"
   }
 ]
