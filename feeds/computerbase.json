@@ -1,5 +1,10 @@
 [
   {
+    "title": "Display Driver Uninstaller (DDU) 18.1.6.3",
+    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/display-driver-uninstaller-ddu/",
+    "pubDate": "2026-11-14T16:07:00.000Z"
+  },
+  {
     "title": "Dropbox 280.3.5020 Beta",
     "link": "https://www.computerbase.de/downloads/office/dateimanager/dropbox/",
     "pubDate": "2026-11-14T10:03:00.000Z"
@@ -220,13 +225,13 @@
     "pubDate": "2026-11-12T16:14:00.000Z"
   },
   {
-    "title": "Nvidia Studio-Treiber 621.24",
-    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/nvidia-studio-treiber/",
+    "title": "Nvidia GeForce-Treiber 621.24",
+    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/nvidia-geforce-treiber/",
     "pubDate": "2026-11-12T16:10:00.000Z"
   },
   {
-    "title": "Nvidia GeForce-Treiber 621.24",
-    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/nvidia-geforce-treiber/",
+    "title": "Nvidia Studio-Treiber 621.24",
+    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/nvidia-studio-treiber/",
     "pubDate": "2026-11-12T16:10:00.000Z"
   },
   {
@@ -243,10 +248,5 @@
     "title": "Notepad++ 8.9.9.1",
     "link": "https://www.computerbase.de/downloads/office/editoren/notepad-plus-plus/",
     "pubDate": "2026-11-12T05:23:00.000Z"
-  },
-  {
-    "title": "Signal 8.35.0",
-    "link": "https://www.computerbase.de/downloads/kommunikation/signal/",
-    "pubDate": "2026-11-12T05:21:00.000Z"
   }
 ]
