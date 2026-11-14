@@ -5,6 +5,12 @@
     <link>https://www.gratissoftwaresite.nl/downloads/nieuwe-updates</link>
     <description>Nieuwste software-updates van GratisSoftwareSite</description>
     <item>
+      <title>PrivaZer 5.0.0</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/privazer-pc-opruimen-cleaner</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/privazer-pc-opruimen-cleaner</guid>
+      <pubDate>14 november 2026</pubDate>
+    </item>
+    <item>
       <title>KNMI 5.5.2/5.5.4</title>
       <link>https://www.gratissoftwaresite.nl/downloads/knmi-weer-app-regen-buien-voorspellingen-waarschuwingen</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/knmi-weer-app-regen-buien-voorspellingen-waarschuwingen</guid>
@@ -590,12 +596,6 @@
       <title>Blender 5.2.3 LTS  4....</title>
       <link>https://www.gratissoftwaresite.nl/downloads/blender-3d-animatie-films</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/blender-3d-animatie-films</guid>
-      <pubDate>23 oktober 2026</pubDate>
-    </item>
-    <item>
-      <title>Bitdefender Antivirus Free 27.0.64.366</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/bitdefender-antivirus-free-edition-virusscanner</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/bitdefender-antivirus-free-edition-virusscanner</guid>
       <pubDate>23 oktober 2026</pubDate>
     </item>
   </channel>

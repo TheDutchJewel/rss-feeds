@@ -1,5 +1,15 @@
 [
   {
+    "title": "Dropbox 280.3.5020 Beta",
+    "link": "https://www.computerbase.de/downloads/office/dateimanager/dropbox/",
+    "pubDate": "2026-11-14T10:03:00.000Z"
+  },
+  {
+    "title": "Microsoft Edge 157.0.4341.60",
+    "link": "https://www.computerbase.de/downloads/browser/microsoft-edge/",
+    "pubDate": "2026-11-14T10:02:00.000Z"
+  },
+  {
     "title": "Wine 11.22 Beta (Linux)",
     "link": "https://www.computerbase.de/downloads/systemtools/wine/",
     "pubDate": "2026-11-13T23:01:00.000Z"
@@ -108,11 +118,6 @@
     "title": "UniGetUI 2026.3.4",
     "link": "https://www.computerbase.de/downloads/systemtools/unigetui/",
     "pubDate": "2026-11-13T15:57:00.000Z"
-  },
-  {
-    "title": "Microsoft Edge 157.0.4341.57",
-    "link": "https://www.computerbase.de/downloads/browser/microsoft-edge/",
-    "pubDate": "2026-11-13T05:28:00.000Z"
   },
   {
     "title": "YUMI Py 1.1.11",
@@ -233,11 +238,6 @@
     "title": "ProtonVPN 5.1.10 Early Access",
     "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/protonvpn/",
     "pubDate": "2026-11-12T15:59:00.000Z"
-  },
-  {
-    "title": "Dropbox 280.3.5012 Beta",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/dropbox/",
-    "pubDate": "2026-11-12T05:24:00.000Z"
   },
   {
     "title": "Notepad++ 8.9.9.1",
