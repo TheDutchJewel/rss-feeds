@@ -1,5 +1,25 @@
 [
   {
+    "title": "[UPDATE] WinPing v2.92",
+    "link": "https://www.portablefreeware.com/?id=2199&ts=1794715383",
+    "pubDate": "Sun, 15 Nov 2026 04:03:03 +0000"
+  },
+  {
+    "title": "[UPDATE] NonCompressibleFiles v5.15",
+    "link": "https://www.portablefreeware.com/?id=2277&ts=1794715356",
+    "pubDate": "Sun, 15 Nov 2026 04:02:36 +0000"
+  },
+  {
+    "title": "[UPDATE] PortableApps.com AppCompactor v3.23",
+    "link": "https://www.portablefreeware.com/?id=1472&ts=1794715333",
+    "pubDate": "Sun, 15 Nov 2026 04:02:13 +0000"
+  },
+  {
+    "title": "[UPDATE] Transmission Portable v4.1.4",
+    "link": "https://www.portablefreeware.com/?id=2725&ts=1794715300",
+    "pubDate": "Sun, 15 Nov 2026 04:01:40 +0000"
+  },
+  {
     "title": "[UPDATE] PolyHostInterface v3.5.6",
     "link": "https://www.portablefreeware.com/?id=3149&ts=1794659166",
     "pubDate": "Sat, 14 Nov 2026 12:26:06 +0000"
@@ -465,11 +485,6 @@
     "pubDate": "Fri, 16 Oct 2026 04:20:25 +0000"
   },
   {
-    "title": "[UPDATE] PortableApps.com AppCompactor v3.20",
-    "link": "https://www.portablefreeware.com/?id=1472&ts=1792124400",
-    "pubDate": "Fri, 16 Oct 2026 04:20:00 +0000"
-  },
-  {
     "title": "[UPDATE] Letos v4.0.5",
     "link": "https://www.portablefreeware.com/?id=3087&ts=1792070719",
     "pubDate": "Thu, 15 Oct 2026 13:25:19 +0000"
@@ -483,20 +498,5 @@
     "title": "[UPDATE] phiola v2.11.1",
     "link": "https://www.portablefreeware.com/?id=3124&ts=1792038040",
     "pubDate": "Thu, 15 Oct 2026 04:20:40 +0000"
-  },
-  {
-    "title": "[UPDATE] Core Temp v1.21",
-    "link": "https://www.portablefreeware.com/?id=2347&ts=1791946169",
-    "pubDate": "Wed, 14 Oct 2026 02:49:29 +0000"
-  },
-  {
-    "title": "[UPDATE] Rainmeter v4.5.28",
-    "link": "https://www.portablefreeware.com/?id=586&ts=1791903126",
-    "pubDate": "Tue, 13 Oct 2026 14:52:06 +0000"
-  },
-  {
-    "title": "[UPDATE] InnoUnpacker v2.2.13",
-    "link": "https://www.portablefreeware.com/?id=3132&ts=1791902931",
-    "pubDate": "Tue, 13 Oct 2026 14:48:51 +0000"
   }
 ]
