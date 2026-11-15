@@ -1,5 +1,10 @@
 [
   {
+    "title": "Bazzite 45.20261115",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/bazzite/",
+    "pubDate": "2026-11-15T21:30:00.000Z"
+  },
+  {
     "title": "CrystalDiskInfo 9.9.5",
     "link": "https://www.computerbase.de/downloads/systemtools/festplatten/crystaldiskinfo/",
     "pubDate": "2026-11-15T13:45:00.000Z"
@@ -243,10 +248,5 @@
     "title": "LibreOffice 26.8.3",
     "link": "https://www.computerbase.de/downloads/office/libreoffice/",
     "pubDate": "2026-11-12T16:01:00.000Z"
-  },
-  {
-    "title": "ProtonVPN 5.1.10 Early Access",
-    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/protonvpn/",
-    "pubDate": "2026-11-12T15:59:00.000Z"
   }
 ]
