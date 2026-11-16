@@ -1,5 +1,25 @@
 [
   {
+    "title": "foobar2000 updated to 2.26.3.",
+    "link": "https://ninite.com/foobar/",
+    "pubDate": "Mon, 16 Nov 2026 20:49:59 -0000"
+  },
+  {
+    "title": "Slack updated to 4.53.292.",
+    "link": "https://ninite.com/slack/",
+    "pubDate": "Mon, 16 Nov 2026 17:19:00 -0000"
+  },
+  {
+    "title": "FileZilla updated to 3.72.1.",
+    "link": "https://ninite.com/filezilla/",
+    "pubDate": "Mon, 16 Nov 2026 14:49:13 -0000"
+  },
+  {
+    "title": "Grammarly updated to 1.2.313.2008.",
+    "link": "https://ninite.com/grammarly/",
+    "pubDate": "Mon, 16 Nov 2026 14:49:02 -0000"
+  },
+  {
     "title": "FileZilla updated to 3.72.0.",
     "link": "https://ninite.com/filezilla/",
     "pubDate": "Sat, 14 Nov 2026 14:34:04 -0000"
@@ -283,40 +303,5 @@
     "title": "Windows App updated to 2.0.1489.",
     "link": "https://ninite.com/windowsapp/",
     "pubDate": "Wed, 11 Nov 2026 11:41:29 -0000"
-  },
-  {
-    "title": "Visual Studio Code updated to 1.146.0.",
-    "link": "https://ninite.com/vscode/",
-    "pubDate": "Wed, 11 Nov 2026 11:40:50 -0000"
-  },
-  {
-    "title": "Thunderbird updated to 160.0.",
-    "link": "https://ninite.com/thunderbird/",
-    "pubDate": "Wed, 11 Nov 2026 11:39:43 -0000"
-  },
-  {
-    "title": "Dropbox updated to 278.4.4020.",
-    "link": "https://ninite.com/dropbox/",
-    "pubDate": "Wed, 11 Nov 2026 11:38:59 -0000"
-  },
-  {
-    "title": "Git updated to 2.56.1.",
-    "link": "https://ninite.com/git/",
-    "pubDate": "Wed, 11 Nov 2026 11:38:01 -0000"
-  },
-  {
-    "title": "Tailscale updated to 1.104.6.",
-    "link": "https://ninite.com/tailscale/",
-    "pubDate": "Wed, 11 Nov 2026 11:37:50 -0000"
-  },
-  {
-    "title": "GitHub Desktop updated to 3.6.11.",
-    "link": "https://ninite.com/githubdesktop/",
-    "pubDate": "Wed, 11 Nov 2026 11:37:42 -0000"
-  },
-  {
-    "title": "Opera Chromium updated to 140.0.6074.18.",
-    "link": "https://ninite.com/operaChromium/",
-    "pubDate": "Wed, 11 Nov 2026 11:36:39 -0000"
   }
 ]
