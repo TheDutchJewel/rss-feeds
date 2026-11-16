@@ -1,12 +1,27 @@
 [
     {
-        "title": "HomeBank 5.10.4",
-        "link": "https://www.gratissoftwaresite.nl/downloads/homebank-boekhouding-financieel",
-        "pubDate": "15 november 2026"
+        "title": "RapidRaw 1.7.0",
+        "link": "https://www.gratissoftwaresite.nl/downloads/rapidraw-fotobewerking-beheer-workflow",
+        "pubDate": "16 november 2026"
     },
     {
-        "title": "Windows Firewall Control 6.39.0.0",
+        "title": "Nextcloud Office 9.3.8",
+        "link": "https://www.gratissoftwaresite.nl/downloads/nextcloud-office-kantoorpakket",
+        "pubDate": "16 november 2026"
+    },
+    {
+        "title": "KillerPDF 1.9.4",
+        "link": "https://www.gratissoftwaresite.nl/downloads/killerpdf-bewerken-pdf",
+        "pubDate": "16 november 2026"
+    },
+    {
+        "title": "Windows Firewall Control 6.40.0.0",
         "link": "https://www.gratissoftwaresite.nl/downloads/windows-firewall-control-malwarebytes-internet-toegang-applicaties",
+        "pubDate": "16 november 2026"
+    },
+    {
+        "title": "HomeBank 5.10.4",
+        "link": "https://www.gratissoftwaresite.nl/downloads/homebank-boekhouding-financieel",
         "pubDate": "15 november 2026"
     },
     {
@@ -37,11 +52,6 @@
     {
         "title": "Euro-Office 9.3.8",
         "link": "https://www.gratissoftwaresite.nl/downloads/euro-office-kantoorpakket",
-        "pubDate": "14 november 2026"
-    },
-    {
-        "title": "Nextcloud Office 9.3.8",
-        "link": "https://www.gratissoftwaresite.nl/downloads/nextcloud-office-kantoorpakket",
         "pubDate": "14 november 2026"
     },
     {
@@ -235,11 +245,6 @@
         "pubDate": "8 november 2026"
     },
     {
-        "title": "RapidRaw 1.6.8",
-        "link": "https://www.gratissoftwaresite.nl/downloads/rapidraw-fotobewerking-beheer-workflow",
-        "pubDate": "8 november 2026"
-    },
-    {
         "title": "Kdenlive 26.08.3",
         "link": "https://www.gratissoftwaresite.nl/downloads/kdenlive-videobewerking-dvd-effecten-clips",
         "pubDate": "8 november 2026"
@@ -372,11 +377,6 @@
     {
         "title": "Bitwarden 2026.10.3",
         "link": "https://www.gratissoftwaresite.nl/downloads/bitwarden-wachtwoordbeheerder-online-kluis-versleuteld-privacy",
-        "pubDate": "3 november 2026"
-    },
-    {
-        "title": "KillerPDF 1.9.2",
-        "link": "https://www.gratissoftwaresite.nl/downloads/killerpdf-bewerken-pdf",
         "pubDate": "3 november 2026"
     },
     {

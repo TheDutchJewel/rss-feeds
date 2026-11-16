@@ -1,5 +1,15 @@
 [
   {
+    "title": "DriverMax 18.0.337",
+    "link": "https://www.computerbase.de/downloads/treiber/drivermax/",
+    "pubDate": "2026-11-16T10:35:00.000Z"
+  },
+  {
+    "title": "Multi Commander 16.6 Build 3240",
+    "link": "https://www.computerbase.de/downloads/office/dateimanager/multi-commander/",
+    "pubDate": "2026-11-16T10:34:00.000Z"
+  },
+  {
     "title": "Bazzite 45.20261115",
     "link": "https://www.computerbase.de/downloads/betriebssysteme/bazzite/",
     "pubDate": "2026-11-15T21:30:00.000Z"
@@ -125,11 +135,6 @@
     "pubDate": "2026-11-13T15:59:00.000Z"
   },
   {
-    "title": "Multi Commander 16.6 Build 3238",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/multi-commander/",
-    "pubDate": "2026-11-13T15:58:00.000Z"
-  },
-  {
     "title": "UniGetUI 2026.3.4",
     "link": "https://www.computerbase.de/downloads/systemtools/unigetui/",
     "pubDate": "2026-11-13T15:57:00.000Z"
@@ -243,10 +248,5 @@
     "title": "Nvidia GeForce-Treiber 621.24",
     "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/nvidia-geforce-treiber/",
     "pubDate": "2026-11-12T16:10:00.000Z"
-  },
-  {
-    "title": "LibreOffice 26.8.3",
-    "link": "https://www.computerbase.de/downloads/office/libreoffice/",
-    "pubDate": "2026-11-12T16:01:00.000Z"
   }
 ]
