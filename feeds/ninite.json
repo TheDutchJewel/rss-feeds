@@ -1,5 +1,10 @@
 [
   {
+    "title": "WizTree updated to 4.34.",
+    "link": "https://ninite.com/wiztree/",
+    "pubDate": "Tue, 17 Nov 2026 12:12:34 -0000"
+  },
+  {
     "title": "foobar2000 updated to 2.26.3.",
     "link": "https://ninite.com/foobar/",
     "pubDate": "Mon, 16 Nov 2026 20:49:59 -0000"
@@ -283,20 +288,5 @@
     "title": "ASP.NET Core Runtime x64 8 updated to 8.0.34.26523.",
     "link": "https://ninite.com/aspnetx8/",
     "pubDate": "Wed, 11 Nov 2026 11:48:48 -0000"
-  },
-  {
-    "title": ".NET Desktop Runtime 9 updated to 9.0.23.36622.",
-    "link": "https://ninite.com/.net9/",
-    "pubDate": "Wed, 11 Nov 2026 11:48:41 -0000"
-  },
-  {
-    "title": ".NET Desktop Runtime x64 9 updated to 9.0.23.36622.",
-    "link": "https://ninite.com/.netx9/",
-    "pubDate": "Wed, 11 Nov 2026 11:48:30 -0000"
-  },
-  {
-    "title": ".NET Desktop Runtime 8 updated to 8.0.34.36622.",
-    "link": "https://ninite.com/.net8/",
-    "pubDate": "Wed, 11 Nov 2026 11:48:18 -0000"
   }
 ]

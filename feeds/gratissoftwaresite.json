@@ -1,5 +1,30 @@
 [
     {
+        "title": "CoMaps 2026.11.07",
+        "link": "https://www.gratissoftwaresite.nl/downloads/comaps-navigatie-kaarten-offline-reizen-route",
+        "pubDate": "17 november 2026"
+    },
+    {
+        "title": "HopToDesk 1.46.85",
+        "link": "https://www.gratissoftwaresite.nl/downloads/hoptodesk-pc-hulp-op-afstand-remote-desktop",
+        "pubDate": "17 november 2026"
+    },
+    {
+        "title": "TeamViewer 15.83.7",
+        "link": "https://www.gratissoftwaresite.nl/downloads/teamviewer-werktuigen-hulp-op-afstand-remote-desktop",
+        "pubDate": "17 november 2026"
+    },
+    {
+        "title": "Shotcut 26.11.15",
+        "link": "https://www.gratissoftwaresite.nl/downloads/shotcut-videobewerking-editor-tijdlijn-key-frames",
+        "pubDate": "17 november 2026"
+    },
+    {
+        "title": "foobar2000 2.26.3",
+        "link": "https://www.gratissoftwaresite.nl/downloads/foobar2000-muziekspeler-mp3",
+        "pubDate": "17 november 2026"
+    },
+    {
         "title": "Franz 6.11.3",
         "link": "https://www.gratissoftwaresite.nl/downloads/franz-chat-instant-messenger-whatsapp-facebook-skype-hangouts-telegram",
         "pubDate": "16 november 2026"
@@ -82,11 +107,6 @@
     {
         "title": "Obsidian 1.15.1",
         "link": "https://www.gratissoftwaresite.nl/downloads/obsidian-notities-aantekeningen-maken",
-        "pubDate": "13 november 2026"
-    },
-    {
-        "title": "HopToDesk 1.46.82",
-        "link": "https://www.gratissoftwaresite.nl/downloads/hoptodesk-pc-hulp-op-afstand-remote-desktop",
         "pubDate": "13 november 2026"
     },
     {
@@ -425,11 +445,6 @@
         "pubDate": "31 oktober 2026"
     },
     {
-        "title": "TeamViewer 15.83.5",
-        "link": "https://www.gratissoftwaresite.nl/downloads/teamviewer-werktuigen-hulp-op-afstand-remote-desktop",
-        "pubDate": "30 oktober 2026"
-    },
-    {
         "title": "macOS 27.2 & 26.7.2...",
         "link": "https://www.gratissoftwaresite.nl/downloads/macos-besturingssysteem",
         "pubDate": "30 oktober 2026"
@@ -443,11 +458,6 @@
         "title": "OBS Studio 33.0.1",
         "link": "https://www.gratissoftwaresite.nl/downloads/obs-studio-schermopnamen-opnemen-streamen-video-webcam",
         "pubDate": "30 oktober 2026"
-    },
-    {
-        "title": "foobar2000 2.26.2",
-        "link": "https://www.gratissoftwaresite.nl/downloads/foobar2000-muziekspeler-mp3",
-        "pubDate": "29 oktober 2026"
     },
     {
         "title": "Prey 1.13.42",
@@ -483,15 +493,5 @@
         "title": "DuckDuckGo Private Browser 0.177.4",
         "link": "https://www.gratissoftwaresite.nl/downloads/duckduckgo-private-web-browser-privacy",
         "pubDate": "25 oktober 2026"
-    },
-    {
-        "title": "draw.io 32.6.1",
-        "link": "https://www.gratissoftwaresite.nl/downloads/draw.io-diagrammen-flowcharts-mindmaps-organigrammen",
-        "pubDate": "25 oktober 2026"
-    },
-    {
-        "title": "balena Etcher 2.1.9",
-        "link": "https://www.gratissoftwaresite.nl/downloads/etcher-opstartbare-usb-sd-maken-os-installeren",
-        "pubDate": "24 oktober 2026"
     }
 ]

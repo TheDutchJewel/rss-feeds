@@ -5,6 +5,36 @@
     <link>https://www.gratissoftwaresite.nl/downloads/nieuwe-updates</link>
     <description>Nieuwste software-updates van GratisSoftwareSite</description>
     <item>
+      <title>CoMaps 2026.11.07</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/comaps-navigatie-kaarten-offline-reizen-route</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/comaps-navigatie-kaarten-offline-reizen-route</guid>
+      <pubDate>17 november 2026</pubDate>
+    </item>
+    <item>
+      <title>HopToDesk 1.46.85</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/hoptodesk-pc-hulp-op-afstand-remote-desktop</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/hoptodesk-pc-hulp-op-afstand-remote-desktop</guid>
+      <pubDate>17 november 2026</pubDate>
+    </item>
+    <item>
+      <title>TeamViewer 15.83.7</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/teamviewer-werktuigen-hulp-op-afstand-remote-desktop</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/teamviewer-werktuigen-hulp-op-afstand-remote-desktop</guid>
+      <pubDate>17 november 2026</pubDate>
+    </item>
+    <item>
+      <title>Shotcut 26.11.15</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/shotcut-videobewerking-editor-tijdlijn-key-frames</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/shotcut-videobewerking-editor-tijdlijn-key-frames</guid>
+      <pubDate>17 november 2026</pubDate>
+    </item>
+    <item>
+      <title>foobar2000 2.26.3</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/foobar2000-muziekspeler-mp3</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/foobar2000-muziekspeler-mp3</guid>
+      <pubDate>17 november 2026</pubDate>
+    </item>
+    <item>
       <title>Franz 6.11.3</title>
       <link>https://www.gratissoftwaresite.nl/downloads/franz-chat-instant-messenger-whatsapp-facebook-skype-hangouts-telegram</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/franz-chat-instant-messenger-whatsapp-facebook-skype-hangouts-telegram</guid>
@@ -104,12 +134,6 @@
       <title>Obsidian 1.15.1</title>
       <link>https://www.gratissoftwaresite.nl/downloads/obsidian-notities-aantekeningen-maken</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/obsidian-notities-aantekeningen-maken</guid>
-      <pubDate>13 november 2026</pubDate>
-    </item>
-    <item>
-      <title>HopToDesk 1.46.82</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/hoptodesk-pc-hulp-op-afstand-remote-desktop</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/hoptodesk-pc-hulp-op-afstand-remote-desktop</guid>
       <pubDate>13 november 2026</pubDate>
     </item>
     <item>
@@ -515,12 +539,6 @@
       <pubDate>31 oktober 2026</pubDate>
     </item>
     <item>
-      <title>TeamViewer 15.83.5</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/teamviewer-werktuigen-hulp-op-afstand-remote-desktop</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/teamviewer-werktuigen-hulp-op-afstand-remote-desktop</guid>
-      <pubDate>30 oktober 2026</pubDate>
-    </item>
-    <item>
       <title>macOS 27.2  26.7.2...</title>
       <link>https://www.gratissoftwaresite.nl/downloads/macos-besturingssysteem</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/macos-besturingssysteem</guid>
@@ -537,12 +555,6 @@
       <link>https://www.gratissoftwaresite.nl/downloads/obs-studio-schermopnamen-opnemen-streamen-video-webcam</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/obs-studio-schermopnamen-opnemen-streamen-video-webcam</guid>
       <pubDate>30 oktober 2026</pubDate>
-    </item>
-    <item>
-      <title>foobar2000 2.26.2</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/foobar2000-muziekspeler-mp3</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/foobar2000-muziekspeler-mp3</guid>
-      <pubDate>29 oktober 2026</pubDate>
     </item>
     <item>
       <title>Prey 1.13.42</title>
@@ -585,18 +597,6 @@
       <link>https://www.gratissoftwaresite.nl/downloads/duckduckgo-private-web-browser-privacy</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/duckduckgo-private-web-browser-privacy</guid>
       <pubDate>25 oktober 2026</pubDate>
-    </item>
-    <item>
-      <title>draw.io 32.6.1</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/draw.io-diagrammen-flowcharts-mindmaps-organigrammen</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/draw.io-diagrammen-flowcharts-mindmaps-organigrammen</guid>
-      <pubDate>25 oktober 2026</pubDate>
-    </item>
-    <item>
-      <title>balena Etcher 2.1.9</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/etcher-opstartbare-usb-sd-maken-os-installeren</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/etcher-opstartbare-usb-sd-maken-os-installeren</guid>
-      <pubDate>24 oktober 2026</pubDate>
     </item>
   </channel>
 </rss>
