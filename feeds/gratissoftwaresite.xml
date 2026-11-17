@@ -5,6 +5,12 @@
     <link>https://www.gratissoftwaresite.nl/downloads/nieuwe-updates</link>
     <description>Nieuwste software-updates van GratisSoftwareSite</description>
     <item>
+      <title>Firefox 160.0.1</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/firefox-internet-web-browser</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/firefox-internet-web-browser</guid>
+      <pubDate>17 november 2026</pubDate>
+    </item>
+    <item>
       <title>CoMaps 2026.11.07</title>
       <link>https://www.gratissoftwaresite.nl/downloads/comaps-navigatie-kaarten-offline-reizen-route</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/comaps-navigatie-kaarten-offline-reizen-route</guid>
@@ -273,12 +279,6 @@
       <link>https://www.gratissoftwaresite.nl/downloads/aldfaer-stamboomonderzoek-genealogie-hobby</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/aldfaer-stamboomonderzoek-genealogie-hobby</guid>
       <pubDate>11 november 2026</pubDate>
-    </item>
-    <item>
-      <title>Firefox 160.0</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/firefox-internet-web-browser</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/firefox-internet-web-browser</guid>
-      <pubDate>10 november 2026</pubDate>
     </item>
     <item>
       <title>XnView MP 1.12.3  Cl...</title>

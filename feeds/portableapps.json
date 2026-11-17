@@ -1,5 +1,25 @@
 [
   {
+    "title": "KeePass Pro Password Safe Portable 2.62 (secure password manager) Released",
+    "link": "https://portableapps.com/news/2026-11-17--keepass-professional-portable-2.62-released",
+    "pubDate": "Tue, 17 Nov 2026 19:21:40 +0000"
+  },
+  {
+    "title": "KeePass Classic Password Safe Portable 1.44 (secure password manager) Released",
+    "link": "https://portableapps.com/news/2026-11-17--keepass-classic-portable-1.44-released",
+    "pubDate": "Tue, 17 Nov 2026 19:15:17 +0000"
+  },
+  {
+    "title": "r3dfox Portable 153.7.0 (web browser for XP, Vista, 7, and 8) Released",
+    "link": "https://portableapps.com/news/2026-11-17--r3dfox-portable-153.7.0-released",
+    "pubDate": "Tue, 17 Nov 2026 19:00:24 +0000"
+  },
+  {
+    "title": "Google Chrome Portable 160 Dev (web browser) Released",
+    "link": "https://portableapps.com/news/2026-11-17--google-chrome-portable-160-dev-released",
+    "pubDate": "Tue, 17 Nov 2026 18:47:09 +0000"
+  },
+  {
     "title": "Chromium Portable 157.0.8103.51 (web browser) Released",
     "link": "https://portableapps.com/news/2026-11-16--chromium-portable-157.0.8103.51-released",
     "pubDate": "Mon, 16 Nov 2026 22:35:51 +0000"
@@ -53,25 +73,5 @@
     "title": "LibreWolf Portable 160.0-1 (web browser) Released",
     "link": "https://portableapps.com/news/2026-11-11--librewolf-portable-160.0-1-released",
     "pubDate": "Thu, 12 Nov 2026 03:08:34 +0000"
-  },
-  {
-    "title": "NVDA Portable 2026.3.1 (screen reader) Released",
-    "link": "https://portableapps.com/news/2026-11-11--nvda-portable-2026.3.1-released",
-    "pubDate": "Thu, 12 Nov 2026 03:07:04 +0000"
-  },
-  {
-    "title": "WinSCP Portable 6.7.1 (ftp, sftp, scp client) Released",
-    "link": "https://portableapps.com/news/2026-11-11--winscp-portable-6.7.1-released",
-    "pubDate": "Thu, 12 Nov 2026 03:05:28 +0000"
-  },
-  {
-    "title": "QOwnNotes Portable 26.11.7 (markdown note taker) Released",
-    "link": "https://portableapps.com/news/2026-11-11--qownnotes-portable-26.11.7-released",
-    "pubDate": "Wed, 11 Nov 2026 19:06:35 +0000"
-  },
-  {
-    "title": "gVim Portable 9.2.1320 (advanced text editor) Released",
-    "link": "https://portableapps.com/news/2026-11-11--gvim-portable-9.2.1320-released",
-    "pubDate": "Wed, 11 Nov 2026 19:05:20 +0000"
   }
 ]

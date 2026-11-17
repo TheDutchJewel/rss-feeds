@@ -1,5 +1,30 @@
 [
   {
+    "title": "[UPDATE] WizTree v4.34",
+    "link": "https://www.portablefreeware.com/?id=2360&ts=1794932778",
+    "pubDate": "Tue, 17 Nov 2026 16:26:18 +0000"
+  },
+  {
+    "title": "[UPDATE] KCleaner v4.0.5",
+    "link": "https://www.portablefreeware.com/?id=3030&ts=1794932689",
+    "pubDate": "Tue, 17 Nov 2026 16:24:49 +0000"
+  },
+  {
+    "title": "[UPDATE] ColorConsole v7.47",
+    "link": "https://www.portablefreeware.com/?id=1960&ts=1794932458",
+    "pubDate": "Tue, 17 Nov 2026 16:20:58 +0000"
+  },
+  {
+    "title": "[UPDATE] Rufus v4.16",
+    "link": "https://www.portablefreeware.com/?id=2253&ts=1794932342",
+    "pubDate": "Tue, 17 Nov 2026 16:19:02 +0000"
+  },
+  {
+    "title": "[UPDATE] Chromium Portable v157.0.8103.51",
+    "link": "https://www.portablefreeware.com/?id=2169&ts=1794932262",
+    "pubDate": "Tue, 17 Nov 2026 16:17:42 +0000"
+  },
+  {
     "title": "[UPDATE] DesktopOK v12.84",
     "link": "https://www.portablefreeware.com/?id=1692&ts=1794847576",
     "pubDate": "Mon, 16 Nov 2026 16:46:16 +0000"
@@ -360,11 +385,6 @@
     "pubDate": "Mon, 26 Oct 2026 15:12:00 +0000"
   },
   {
-    "title": "[UPDATE] Chromium Portable v156.0.8078.80",
-    "link": "https://www.portablefreeware.com/?id=2169&ts=1792976154",
-    "pubDate": "Mon, 26 Oct 2026 00:55:54 +0000"
-  },
-  {
     "title": "[UPDATE] 3D Youtube Downloader v1.26.9",
     "link": "https://www.portablefreeware.com/?id=2634&ts=1792945699",
     "pubDate": "Sun, 25 Oct 2026 16:28:19 +0000"
@@ -478,25 +498,5 @@
     "title": "[UPDATE] Homedale v2.27",
     "link": "https://www.portablefreeware.com/?id=3053&ts=1792284835",
     "pubDate": "Sun, 18 Oct 2026 00:53:55 +0000"
-  },
-  {
-    "title": "[UPDATE] Unicodia v3.2.7",
-    "link": "https://www.portablefreeware.com/?id=3102&ts=1792284811",
-    "pubDate": "Sun, 18 Oct 2026 00:53:31 +0000"
-  },
-  {
-    "title": "[UPDATE] Registry Finder v2.63",
-    "link": "https://www.portablefreeware.com/?id=2676&ts=1792253915",
-    "pubDate": "Sat, 17 Oct 2026 16:18:35 +0000"
-  },
-  {
-    "title": "[UPDATE] SoftMaker FreeOffice Rev 1238",
-    "link": "https://www.portablefreeware.com/?id=1463&ts=1792124425",
-    "pubDate": "Fri, 16 Oct 2026 04:20:25 +0000"
-  },
-  {
-    "title": "[UPDATE] Letos v4.0.5",
-    "link": "https://www.portablefreeware.com/?id=3087&ts=1792070719",
-    "pubDate": "Thu, 15 Oct 2026 13:25:19 +0000"
   }
 ]
