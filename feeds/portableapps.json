@@ -1,5 +1,10 @@
 [
   {
+    "title": "Chromium Portable 157.0.8103.51 (web browser) Released",
+    "link": "https://portableapps.com/news/2026-11-16--chromium-portable-157.0.8103.51-released",
+    "pubDate": "Mon, 16 Nov 2026 22:35:51 +0000"
+  },
+  {
     "title": "XnView MP Portable 1.12.3 (image viewer) Released",
     "link": "https://portableapps.com/news/2026-11-13--xnview-mp-portable-1.12.3-released",
     "pubDate": "Fri, 13 Nov 2026 19:34:41 +0000"
@@ -68,10 +73,5 @@
     "title": "gVim Portable 9.2.1320 (advanced text editor) Released",
     "link": "https://portableapps.com/news/2026-11-11--gvim-portable-9.2.1320-released",
     "pubDate": "Wed, 11 Nov 2026 19:05:20 +0000"
-  },
-  {
-    "title": "Telegram Desktop Portable 7.4.2 (secure instant messaging) Released",
-    "link": "https://portableapps.com/news/2026-11-11--telegram-desktop-portable-7.4.2-released",
-    "pubDate": "Wed, 11 Nov 2026 16:53:45 +0000"
   }
 ]
