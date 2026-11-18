@@ -1,5 +1,40 @@
 [
   {
+    "title": "Visual Studio Code updated to 1.147.0.",
+    "link": "https://ninite.com/vscode/",
+    "pubDate": "Wed, 18 Nov 2026 10:07:18 -0000"
+  },
+  {
+    "title": "Opera Chromium updated to 140.0.6074.36.",
+    "link": "https://ninite.com/operaChromium/",
+    "pubDate": "Wed, 18 Nov 2026 10:00:53 -0000"
+  },
+  {
+    "title": "JRE (Amazon Corretto) x64 8 updated to 8u514-b01.",
+    "link": "https://ninite.com/correttojrex8/",
+    "pubDate": "Wed, 18 Nov 2026 09:10:16 -0000"
+  },
+  {
+    "title": "JDK (Amazon Corretto) x64 11 updated to 11.0.33.1.1.",
+    "link": "https://ninite.com/correttojdkx11/",
+    "pubDate": "Wed, 18 Nov 2026 09:09:49 -0000"
+  },
+  {
+    "title": "JRE (Amazon Corretto) 8 updated to 8u514-b01.",
+    "link": "https://ninite.com/correttojre8/",
+    "pubDate": "Wed, 18 Nov 2026 09:09:40 -0000"
+  },
+  {
+    "title": "JDK (Amazon Corretto) 8 updated to 8u514-b01.",
+    "link": "https://ninite.com/correttojdk8/",
+    "pubDate": "Wed, 18 Nov 2026 09:09:32 -0000"
+  },
+  {
+    "title": "JDK (Amazon Corretto) x64 8 updated to 8u514-b01.",
+    "link": "https://ninite.com/correttojdkx8/",
+    "pubDate": "Wed, 18 Nov 2026 09:09:01 -0000"
+  },
+  {
     "title": "JDK (Amazon Corretto) x64 21 updated to 21.0.13.1.2.",
     "link": "https://ninite.com/correttojdkx21/",
     "pubDate": "Wed, 18 Nov 2026 00:06:55 -0000"
@@ -193,50 +228,5 @@
     "title": "Cursor updated to 3.30.8.",
     "link": "https://ninite.com/cursor/",
     "pubDate": "Thu, 12 Nov 2026 12:07:54 -0000"
-  },
-  {
-    "title": "Spotify updated to 1.3.9.2055.",
-    "link": "https://ninite.com/spotify/",
-    "pubDate": "Thu, 12 Nov 2026 12:06:44 -0000"
-  },
-  {
-    "title": "ASP.NET Core Runtime arm64 8 updated to 8.0.34.26523.",
-    "link": "https://ninite.com/aspneta8/",
-    "pubDate": "Wed, 11 Nov 2026 18:25:42 -0000"
-  },
-  {
-    "title": "Node.js 26 updated to 26.13.1.",
-    "link": "https://ninite.com/node.js26/",
-    "pubDate": "Wed, 11 Nov 2026 17:41:32 -0000"
-  },
-  {
-    "title": "Node.js 24 updated to 24.22.3.",
-    "link": "https://ninite.com/node.js24/",
-    "pubDate": "Wed, 11 Nov 2026 17:41:25 -0000"
-  },
-  {
-    "title": "Node.js 22 updated to 22.23.5.",
-    "link": "https://ninite.com/node.js22/",
-    "pubDate": "Wed, 11 Nov 2026 17:41:17 -0000"
-  },
-  {
-    "title": "WinSCP updated to 6.7.1.",
-    "link": "https://ninite.com/winscp/",
-    "pubDate": "Wed, 11 Nov 2026 17:39:36 -0000"
-  },
-  {
-    "title": "ASP.NET Core Runtime x64 9 updated to 9.0.23.26523.",
-    "link": "https://ninite.com/aspnetx9/",
-    "pubDate": "Wed, 11 Nov 2026 17:37:45 -0000"
-  },
-  {
-    "title": "Claude updated to 5.1231.2.",
-    "link": "https://ninite.com/claude/",
-    "pubDate": "Wed, 11 Nov 2026 14:24:33 -0000"
-  },
-  {
-    "title": "Paint.NET updated to 5.200.9810.35277.",
-    "link": "https://ninite.com/paint.net/",
-    "pubDate": "Wed, 11 Nov 2026 14:22:50 -0000"
   }
 ]

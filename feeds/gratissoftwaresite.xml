@@ -5,6 +5,30 @@
     <link>https://www.gratissoftwaresite.nl/downloads/nieuwe-updates</link>
     <description>Nieuwste software-updates van GratisSoftwareSite</description>
     <item>
+      <title>WizTree 4.34.0</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/wiztree-schijfruimte-werktuig-tools</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/wiztree-schijfruimte-werktuig-tools</guid>
+      <pubDate>18 november 2026</pubDate>
+    </item>
+    <item>
+      <title>Java 8 update 513</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/java-jre-plugin</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/java-jre-plugin</guid>
+      <pubDate>18 november 2026</pubDate>
+    </item>
+    <item>
+      <title>Google Chrome 158.0.8127.36/37</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/google-chrome-internet-web-browser</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/google-chrome-internet-web-browser</guid>
+      <pubDate>18 november 2026</pubDate>
+    </item>
+    <item>
+      <title>Rufus 4.16</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/rufus-werktuigen-tools-usb-opstartbaar-os</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/rufus-werktuigen-tools-usb-opstartbaar-os</guid>
+      <pubDate>18 november 2026</pubDate>
+    </item>
+    <item>
       <title>Firefox 160.0.1</title>
       <link>https://www.gratissoftwaresite.nl/downloads/firefox-internet-web-browser</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/firefox-internet-web-browser</guid>
@@ -200,12 +224,6 @@
       <title>Vivaldi 8.3.4191.35</title>
       <link>https://www.gratissoftwaresite.nl/downloads/vivaldi-internet-web-browser</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/vivaldi-internet-web-browser</guid>
-      <pubDate>12 november 2026</pubDate>
-    </item>
-    <item>
-      <title>Google Chrome 157.0.8103.78/79</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/google-chrome-internet-web-browser</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/google-chrome-internet-web-browser</guid>
       <pubDate>12 november 2026</pubDate>
     </item>
     <item>
@@ -567,36 +585,6 @@
       <link>https://www.gratissoftwaresite.nl/downloads/losslesscut-videobewerking-knippen-film-fragmenten</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/losslesscut-videobewerking-knippen-film-fragmenten</guid>
       <pubDate>28 oktober 2026</pubDate>
-    </item>
-    <item>
-      <title>Scribus 1.6.7</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/Scribus-dtp-desktop-publishing</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/Scribus-dtp-desktop-publishing</guid>
-      <pubDate>28 oktober 2026</pubDate>
-    </item>
-    <item>
-      <title>AnyDesk 9.8.3</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/anydesk-remote-desktop-pc-hulp-op-afstand</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/anydesk-remote-desktop-pc-hulp-op-afstand</guid>
-      <pubDate>27 oktober 2026</pubDate>
-    </item>
-    <item>
-      <title>Pale Moon 35.0.3</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/pale-moon-web-browser-internet</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/pale-moon-web-browser-internet</guid>
-      <pubDate>27 oktober 2026</pubDate>
-    </item>
-    <item>
-      <title>PicPick 7.6.2</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/picpick-fotobewerking-screenshot</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/picpick-fotobewerking-screenshot</guid>
-      <pubDate>27 oktober 2026</pubDate>
-    </item>
-    <item>
-      <title>DuckDuckGo Private Browser 0.177.4</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/duckduckgo-private-web-browser-privacy</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/duckduckgo-private-web-browser-privacy</guid>
-      <pubDate>25 oktober 2026</pubDate>
     </item>
   </channel>
 </rss>

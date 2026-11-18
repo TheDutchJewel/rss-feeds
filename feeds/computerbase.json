@@ -1,5 +1,15 @@
 [
   {
+    "title": "Dropbox 281.3.5375 Beta",
+    "link": "https://www.computerbase.de/downloads/office/dateimanager/dropbox/",
+    "pubDate": "2026-11-18T05:17:00.000Z"
+  },
+  {
+    "title": "Dropbox 280.4.5053",
+    "link": "https://www.computerbase.de/downloads/office/dateimanager/dropbox/",
+    "pubDate": "2026-11-18T05:16:00.000Z"
+  },
+  {
     "title": "Google Chrome 158.0.8127.36/.37",
     "link": "https://www.computerbase.de/downloads/browser/google-chrome/",
     "pubDate": "2026-11-17T19:29:00.000Z"
@@ -238,15 +248,5 @@
     "title": "DriverMax 18.0.337",
     "link": "https://www.computerbase.de/downloads/treiber/drivermax/",
     "pubDate": "2026-11-16T10:35:00.000Z"
-  },
-  {
-    "title": "Multi Commander 16.6 Build 3240",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/multi-commander/",
-    "pubDate": "2026-11-16T10:34:00.000Z"
-  },
-  {
-    "title": "CrystalDiskInfo 9.9.5",
-    "link": "https://www.computerbase.de/downloads/systemtools/festplatten/crystaldiskinfo/",
-    "pubDate": "2026-11-15T13:45:00.000Z"
   }
 ]
