@@ -1,5 +1,10 @@
 [
   {
+    "title": "Joplin Portable 3.7.24 (note-taking and todo) Released",
+    "link": "https://portableapps.com/news/2026-11-19--joplin-portable-3.7.24-released",
+    "pubDate": "Thu, 19 Nov 2026 21:27:05 +0000"
+  },
+  {
     "title": "qTox Portable 1.18.6 (secure instant messaging) Released",
     "link": "https://portableapps.com/news/2026-11-17--qtox-portable-1.18.6-released",
     "pubDate": "Tue, 17 Nov 2026 23:20:22 +0000"
@@ -68,10 +73,5 @@
     "title": "Google Chrome Portable 157.0.8103.79 Stable (web browser) Released",
     "link": "https://portableapps.com/news/2026-11-13--google-chrome-portable-157.0.8103.79-released",
     "pubDate": "Fri, 13 Nov 2026 18:39:49 +0000"
-  },
-  {
-    "title": "Process Monitor Portable 4.13 (real-time file, registry and process monitor) Released",
-    "link": "https://portableapps.com/news/2026-11-12--process-monitor-portable-4.13-released",
-    "pubDate": "Fri, 13 Nov 2026 00:34:19 +0000"
   }
 ]

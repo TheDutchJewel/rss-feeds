@@ -1,5 +1,50 @@
 [
   {
+    "title": "Windows 11 Kumulatives Update 25H2/26H2 (Build 26300.10075) KB5132057 Preview (Win 11)",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/windows-11-kumulatives-update/",
+    "pubDate": "2026-11-19T20:51:00.000Z"
+  },
+  {
+    "title": "Windows 11 Kumulatives Update 26H1 (Build 28000.3620) KB5132265 Preview (Win 11)",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/windows-11-kumulatives-update/",
+    "pubDate": "2026-11-19T20:50:00.000Z"
+  },
+  {
+    "title": "RealVNC Connect Server 7.19.1",
+    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/vnc-connect/",
+    "pubDate": "2026-11-19T19:41:00.000Z"
+  },
+  {
+    "title": "Discord 1.0.9269",
+    "link": "https://www.computerbase.de/downloads/kommunikation/discord/",
+    "pubDate": "2026-11-19T19:39:00.000Z"
+  },
+  {
+    "title": "Emsisoft Anti-Malware 2026.11.0.12705",
+    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/emsisoft-anti-malware/",
+    "pubDate": "2026-11-19T19:39:00.000Z"
+  },
+  {
+    "title": "Discord 0.0.423 (macOS)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/discord/",
+    "pubDate": "2026-11-19T19:38:00.000Z"
+  },
+  {
+    "title": "Discord 1.0.170 (Linux)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/discord/",
+    "pubDate": "2026-11-19T19:37:00.000Z"
+  },
+  {
+    "title": "Joplin 3.7.24",
+    "link": "https://www.computerbase.de/downloads/office/joplin/",
+    "pubDate": "2026-11-19T19:36:00.000Z"
+  },
+  {
+    "title": "Java SE Development Kit 28.0 Build 25 Dev",
+    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/java-se-development-kit/",
+    "pubDate": "2026-11-19T19:35:00.000Z"
+  },
+  {
     "title": "TV-Browser 4.2.7 Update 2",
     "link": "https://www.computerbase.de/downloads/audio-und-video/tv-browser/",
     "pubDate": "2026-11-19T16:19:00.000Z"
@@ -203,50 +248,5 @@
     "title": "GOG Galaxy 2.1.13.83/.85 Beta",
     "link": "https://www.computerbase.de/downloads/games/gog-galaxy/",
     "pubDate": "2026-11-18T16:10:00.000Z"
-  },
-  {
-    "title": "CCleaner 7.14.1609",
-    "link": "https://www.computerbase.de/downloads/systemtools/ccleaner/",
-    "pubDate": "2026-11-18T16:06:00.000Z"
-  },
-  {
-    "title": "HWiNFO 8.61 Build 6125 Beta",
-    "link": "https://www.computerbase.de/downloads/systemtools/hwinfo/",
-    "pubDate": "2026-11-18T16:05:00.000Z"
-  },
-  {
-    "title": "Visual Studio Code (VS Code) 1.147.0",
-    "link": "https://www.computerbase.de/downloads/office/editoren/visual-studio-code/",
-    "pubDate": "2026-11-18T16:01:00.000Z"
-  },
-  {
-    "title": "WhatsApp 2.26.46.17 (macOS)",
-    "link": "https://www.computerbase.de/downloads/kommunikation/whatsapp/",
-    "pubDate": "2026-11-18T16:00:00.000Z"
-  },
-  {
-    "title": "NTLite Free 2026.11.13094",
-    "link": "https://www.computerbase.de/downloads/systemtools/ntlite-free/",
-    "pubDate": "2026-11-18T16:00:00.000Z"
-  },
-  {
-    "title": "LibreWolf 160.0.1-1",
-    "link": "https://www.computerbase.de/downloads/browser/librewolf/",
-    "pubDate": "2026-11-18T15:59:00.000Z"
-  },
-  {
-    "title": "Dropbox 281.3.5375 Beta",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/dropbox/",
-    "pubDate": "2026-11-18T05:17:00.000Z"
-  },
-  {
-    "title": "Dropbox 280.4.5053",
-    "link": "https://www.computerbase.de/downloads/office/dateimanager/dropbox/",
-    "pubDate": "2026-11-18T05:16:00.000Z"
-  },
-  {
-    "title": "Google Chrome 158.0.8127.36/.37",
-    "link": "https://www.computerbase.de/downloads/browser/google-chrome/",
-    "pubDate": "2026-11-17T19:29:00.000Z"
   }
 ]

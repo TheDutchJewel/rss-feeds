@@ -1,5 +1,50 @@
 [
     {
+        "title": "SUPERAntiSpyware 27.0.1292",
+        "link": "https://www.gratissoftwaresite.nl/downloads/superantispyware-anti-spyware-adware-rogue",
+        "pubDate": "19 november 2026"
+    },
+    {
+        "title": "Evernote 11.43.4",
+        "link": "https://www.gratissoftwaresite.nl/downloads/evernote-online-notitieboek",
+        "pubDate": "19 november 2026"
+    },
+    {
+        "title": "Clementine 1.4.6",
+        "link": "https://www.gratissoftwaresite.nl/downloads/clementine-audio-muziekspeler-online",
+        "pubDate": "19 november 2026"
+    },
+    {
+        "title": "Adobe Reader 26.003.22110",
+        "link": "https://www.gratissoftwaresite.nl/downloads/reader-pdf-bekijken",
+        "pubDate": "19 november 2026"
+    },
+    {
+        "title": "draw.io 32.7.4",
+        "link": "https://www.gratissoftwaresite.nl/downloads/draw.io-diagrammen-flowcharts-mindmaps-organigrammen",
+        "pubDate": "19 november 2026"
+    },
+    {
+        "title": "Microsoft PC Manager 3.23.3",
+        "link": "https://www.gratissoftwaresite.nl/downloads/pc-manager-cleaner-opschonen-beheer",
+        "pubDate": "19 november 2026"
+    },
+    {
+        "title": "EPIM Mail 26.6.0",
+        "link": "https://www.gratissoftwaresite.nl/downloads/essentialpim-agenda-e-mail-taken-to-do",
+        "pubDate": "19 november 2026"
+    },
+    {
+        "title": "Joplin 3.7.24",
+        "link": "https://www.gratissoftwaresite.nl/downloads/joplin-notitie-blok-aantekeningen-takenlijst-sync",
+        "pubDate": "19 november 2026"
+    },
+    {
+        "title": "AnyDesk 9.8.4",
+        "link": "https://www.gratissoftwaresite.nl/downloads/anydesk-remote-desktop-pc-hulp-op-afstand",
+        "pubDate": "19 november 2026"
+    },
+    {
         "title": "WinScript 2.29.0",
         "link": "https://www.gratissoftwaresite.nl/downloads/winscript-tweaks-werktuigen-optimalisatie",
         "pubDate": "19 november 2026"
@@ -375,16 +420,6 @@
         "pubDate": "5 november 2026"
     },
     {
-        "title": "Clementine 1.4.4",
-        "link": "https://www.gratissoftwaresite.nl/downloads/clementine-audio-muziekspeler-online",
-        "pubDate": "5 november 2026"
-    },
-    {
-        "title": "Evernote 11.41.7",
-        "link": "https://www.gratissoftwaresite.nl/downloads/evernote-online-notitieboek",
-        "pubDate": "5 november 2026"
-    },
-    {
         "title": "KeePass Password Safe 2.62 & 1.44",
         "link": "https://www.gratissoftwaresite.nl/downloads/keepass-password-safe-wachtwoordbeheer-kluis-inloggegevens",
         "pubDate": "4 november 2026"
@@ -425,11 +460,6 @@
         "pubDate": "2 november 2026"
     },
     {
-        "title": "Joplin 3.7.22",
-        "link": "https://www.gratissoftwaresite.nl/downloads/joplin-notitie-blok-aantekeningen-takenlijst-sync",
-        "pubDate": "2 november 2026"
-    },
-    {
         "title": "iTunes 12.13.12.3",
         "link": "https://www.gratissoftwaresite.nl/downloads/itunes-mediaspeler-synchroniseer-iphone-ipad",
         "pubDate": "2 november 2026"
@@ -453,35 +483,5 @@
         "title": "FotoSketcher 4.70",
         "link": "https://www.gratissoftwaresite.nl/downloads/fotosketcher-fotobewerking-effecten-filters",
         "pubDate": "1 november 2026"
-    },
-    {
-        "title": "Gaia Sky 3.9.2",
-        "link": "https://www.gratissoftwaresite.nl/downloads/gaia-sky-satellietbeelden-sterrenkaart-planeten",
-        "pubDate": "31 oktober 2026"
-    },
-    {
-        "title": "MusicBee 3.7.9697",
-        "link": "https://www.gratissoftwaresite.nl/downloads/musicbee-muziekspeler-audio-jukebox",
-        "pubDate": "31 oktober 2026"
-    },
-    {
-        "title": "macOS 27.2 & 26.7.2...",
-        "link": "https://www.gratissoftwaresite.nl/downloads/macos-besturingssysteem",
-        "pubDate": "30 oktober 2026"
-    },
-    {
-        "title": "iOS en iPadOS 27.2 & 26.7.2...",
-        "link": "https://www.gratissoftwaresite.nl/downloads/ios-mobiel-besturingssysteem-os-iphone",
-        "pubDate": "30 oktober 2026"
-    },
-    {
-        "title": "OBS Studio 33.0.1",
-        "link": "https://www.gratissoftwaresite.nl/downloads/obs-studio-schermopnamen-opnemen-streamen-video-webcam",
-        "pubDate": "30 oktober 2026"
-    },
-    {
-        "title": "Prey 1.13.42",
-        "link": "https://www.gratissoftwaresite.nl/downloads/prey-pc-beveiliging-anti-diefstal-laptop-smartphone",
-        "pubDate": "29 oktober 2026"
     }
 ]
