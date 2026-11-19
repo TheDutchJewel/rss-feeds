@@ -1,5 +1,35 @@
 [
   {
+    "title": "Discord updated to 1.0.9269.",
+    "link": "https://ninite.com/discord/",
+    "pubDate": "Thu, 19 Nov 2026 17:06:48 -0000"
+  },
+  {
+    "title": "Cursor updated to 3.31.11.",
+    "link": "https://ninite.com/cursor/",
+    "pubDate": "Thu, 19 Nov 2026 16:58:04 -0000"
+  },
+  {
+    "title": "Super updated to 27.0.1292.",
+    "link": "https://ninite.com/super/",
+    "pubDate": "Thu, 19 Nov 2026 13:34:14 -0000"
+  },
+  {
+    "title": "AnyDesk updated to 9.8.4.",
+    "link": "https://ninite.com/anydesk/",
+    "pubDate": "Thu, 19 Nov 2026 12:55:43 -0000"
+  },
+  {
+    "title": "Grammarly updated to 1.2.314.2010.",
+    "link": "https://ninite.com/grammarly/",
+    "pubDate": "Thu, 19 Nov 2026 09:58:03 -0000"
+  },
+  {
+    "title": "ChatGPT updated to 26.1111.9664.",
+    "link": "https://ninite.com/chatgpt/",
+    "pubDate": "Thu, 19 Nov 2026 09:47:18 -0000"
+  },
+  {
     "title": "Wireshark updated to 4.6.10.",
     "link": "https://ninite.com/wireshark/",
     "pubDate": "Thu, 19 Nov 2026 08:31:53 -0000"
@@ -148,15 +178,5 @@
     "title": "Grammarly updated to 1.2.313.2008.",
     "link": "https://ninite.com/grammarly/",
     "pubDate": "Mon, 16 Nov 2026 14:49:02 -0000"
-  },
-  {
-    "title": "FileZilla updated to 3.72.0.",
-    "link": "https://ninite.com/filezilla/",
-    "pubDate": "Sat, 14 Nov 2026 14:34:04 -0000"
-  },
-  {
-    "title": "OneDrive updated to 26.204.1019.0007.",
-    "link": "https://ninite.com/onedrive/",
-    "pubDate": "Sat, 14 Nov 2026 14:33:20 -0000"
   }
 ]

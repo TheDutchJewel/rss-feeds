@@ -1,5 +1,85 @@
 [
   {
+    "title": "TV-Browser 4.2.7 Update 2",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/tv-browser/",
+    "pubDate": "2026-11-19T16:19:00.000Z"
+  },
+  {
+    "title": "AnyDesk 8.1.1 (Linux)",
+    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/anydesk/",
+    "pubDate": "2026-11-19T16:15:00.000Z"
+  },
+  {
+    "title": "HyperSnap 10.5.3",
+    "link": "https://www.computerbase.de/downloads/foto-und-grafik/hypersnap/",
+    "pubDate": "2026-11-19T16:14:00.000Z"
+  },
+  {
+    "title": "Signal 8.36.0",
+    "link": "https://www.computerbase.de/downloads/kommunikation/signal/",
+    "pubDate": "2026-11-19T16:13:00.000Z"
+  },
+  {
+    "title": "PHP 8.6.0",
+    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/php/",
+    "pubDate": "2026-11-19T16:10:00.000Z"
+  },
+  {
+    "title": "PHP 8.5.13",
+    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/php/",
+    "pubDate": "2026-11-19T16:09:00.000Z"
+  },
+  {
+    "title": "PHP 8.4.28",
+    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/php/",
+    "pubDate": "2026-11-19T16:08:00.000Z"
+  },
+  {
+    "title": "PHP 8.3.37",
+    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/php/",
+    "pubDate": "2026-11-19T16:07:00.000Z"
+  },
+  {
+    "title": "PHP 8.2.36",
+    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/php/",
+    "pubDate": "2026-11-19T16:06:00.000Z"
+  },
+  {
+    "title": "GPU-Z 2.72.0",
+    "link": "https://www.computerbase.de/downloads/systemtools/grafikkarten/gpu-z/",
+    "pubDate": "2026-11-19T14:20:00.000Z"
+  },
+  {
+    "title": "Crucial Storage Executive 12.11",
+    "link": "https://www.computerbase.de/downloads/systemtools/festplatten/crucial-storage-executive/",
+    "pubDate": "2026-11-19T11:00:00.000Z"
+  },
+  {
+    "title": "EA-App 13.832.0.6345",
+    "link": "https://www.computerbase.de/downloads/games/ea-app/",
+    "pubDate": "2026-11-19T10:59:00.000Z"
+  },
+  {
+    "title": "Opera GX 140.0.6074.48 Early Access",
+    "link": "https://www.computerbase.de/downloads/browser/opera-gx/",
+    "pubDate": "2026-11-19T10:58:00.000Z"
+  },
+  {
+    "title": "RealVNC Connect Viewer 8.6.2",
+    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/vnc-connect/",
+    "pubDate": "2026-11-19T10:58:00.000Z"
+  },
+  {
+    "title": "AnyDesk 9.8.4",
+    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/anydesk/",
+    "pubDate": "2026-11-19T10:57:00.000Z"
+  },
+  {
+    "title": "Wing FTP Server 8.2.8",
+    "link": "https://www.computerbase.de/downloads/office/dateitransfer/wing-ftp-server/",
+    "pubDate": "2026-11-19T10:56:00.000Z"
+  },
+  {
     "title": "Screenpresso 2.4.3 (Win 11)",
     "link": "https://www.computerbase.de/downloads/foto-und-grafik/screenpresso/",
     "pubDate": "2026-11-19T05:43:00.000Z"
@@ -168,85 +248,5 @@
     "title": "Google Chrome 158.0.8127.36/.37",
     "link": "https://www.computerbase.de/downloads/browser/google-chrome/",
     "pubDate": "2026-11-17T19:29:00.000Z"
-  },
-  {
-    "title": "Visual Studio 2026 v18.12.1",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/visual-studio-2026/",
-    "pubDate": "2026-11-17T19:28:00.000Z"
-  },
-  {
-    "title": "Visual Studio 2026 v18.13.12412.241 Insider",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/visual-studio-2026/",
-    "pubDate": "2026-11-17T19:28:00.000Z"
-  },
-  {
-    "title": "Java SE Development Kit 27.0.1.1",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/java-se-development-kit/",
-    "pubDate": "2026-11-17T19:05:00.000Z"
-  },
-  {
-    "title": "Java SE Development Kit 25.0.5.1 (LTS)",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/java-se-development-kit/",
-    "pubDate": "2026-11-17T19:04:00.000Z"
-  },
-  {
-    "title": "Java SE Development Kit 21.0.13.1 (LTS)",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/java-se-development-kit/",
-    "pubDate": "2026-11-17T19:03:00.000Z"
-  },
-  {
-    "title": "Java SE Development Kit 17.0.21.1 (LTS)",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/java-se-development-kit/",
-    "pubDate": "2026-11-17T19:02:00.000Z"
-  },
-  {
-    "title": "Java SE Development Kit 11.0.33.1 (LTS)",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/java-se-development-kit/",
-    "pubDate": "2026-11-17T19:01:00.000Z"
-  },
-  {
-    "title": "Java SE Development Kit 8.0 Update 513 (LTS)",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/java-se-development-kit/",
-    "pubDate": "2026-11-17T19:00:00.000Z"
-  },
-  {
-    "title": "Java SE Runtime Environment 8.0 Update 513",
-    "link": "https://www.computerbase.de/downloads/systemtools/java-se-runtime-environment/",
-    "pubDate": "2026-11-17T18:59:00.000Z"
-  },
-  {
-    "title": "Evernote 11.43.4",
-    "link": "https://www.computerbase.de/downloads/office/evernote/",
-    "pubDate": "2026-11-17T18:58:00.000Z"
-  },
-  {
-    "title": "Adobe Acrobat Reader DC (26.003.22110)",
-    "link": "https://www.computerbase.de/downloads/office/pdf/adobe-acrobat-reader/",
-    "pubDate": "2026-11-17T18:57:00.000Z"
-  },
-  {
-    "title": "SteelSeries GG 124.0.0",
-    "link": "https://www.computerbase.de/downloads/treiber/eingabegeraete/steelseries-gg/",
-    "pubDate": "2026-11-17T18:56:00.000Z"
-  },
-  {
-    "title": "XMPlay 4.1.0.19 Beta",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/xmplay/",
-    "pubDate": "2026-11-17T16:08:00.000Z"
-  },
-  {
-    "title": "ProtonVPN 4.19.1 (Linux)",
-    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/protonvpn/",
-    "pubDate": "2026-11-17T16:07:00.000Z"
-  },
-  {
-    "title": "AIDA64 v8.40.8538 Beta",
-    "link": "https://www.computerbase.de/downloads/systemtools/aida64/",
-    "pubDate": "2026-11-17T16:06:00.000Z"
-  },
-  {
-    "title": "HyperX NGENUITY 3.2.0",
-    "link": "https://www.computerbase.de/downloads/treiber/eingabegeraete/hyperx-ngenuity/",
-    "pubDate": "2026-11-17T16:05:00.000Z"
   }
 ]
