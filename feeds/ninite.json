@@ -1,5 +1,15 @@
 [
   {
+    "title": "Wireshark updated to 4.6.10.",
+    "link": "https://ninite.com/wireshark/",
+    "pubDate": "Thu, 19 Nov 2026 08:31:53 -0000"
+  },
+  {
+    "title": "Cursor updated to 3.31.10.",
+    "link": "https://ninite.com/cursor/",
+    "pubDate": "Thu, 19 Nov 2026 05:35:46 -0000"
+  },
+  {
     "title": "Brave updated to 1.100.58.",
     "link": "https://ninite.com/brave/",
     "pubDate": "Wed, 18 Nov 2026 17:40:07 -0000"
@@ -148,25 +158,5 @@
     "title": "OneDrive updated to 26.204.1019.0007.",
     "link": "https://ninite.com/onedrive/",
     "pubDate": "Sat, 14 Nov 2026 14:33:20 -0000"
-  },
-  {
-    "title": "ChatGPT updated to 26.1111.2228.",
-    "link": "https://ninite.com/chatgpt/",
-    "pubDate": "Sat, 14 Nov 2026 12:36:50 -0000"
-  },
-  {
-    "title": "Claude updated to 5.11492.5.",
-    "link": "https://ninite.com/claude/",
-    "pubDate": "Sat, 14 Nov 2026 00:36:29 -0000"
-  },
-  {
-    "title": "Cursor updated to 3.30.14.",
-    "link": "https://ninite.com/cursor/",
-    "pubDate": "Sat, 14 Nov 2026 00:31:31 -0000"
-  },
-  {
-    "title": "Telegram updated to 7.4.4.",
-    "link": "https://ninite.com/telegram/",
-    "pubDate": "Sat, 14 Nov 2026 00:31:05 -0000"
   }
 ]
