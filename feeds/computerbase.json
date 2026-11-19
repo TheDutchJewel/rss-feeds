@@ -1,5 +1,20 @@
 [
   {
+    "title": "AMD Radeon Treiber für Linux 26.17 (Linux)",
+    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/amd-radeon-treiber-linux/",
+    "pubDate": "2026-11-18T22:17:00.000Z"
+  },
+  {
+    "title": "AMD Adrenalin Radeon-Treiber 26.11.2 (WHQL)",
+    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/amd-adrenalin-treiber/",
+    "pubDate": "2026-11-18T22:11:00.000Z"
+  },
+  {
+    "title": "Corsair iCUE 5.54.46",
+    "link": "https://www.computerbase.de/downloads/systemtools/corsair-utility-engine/",
+    "pubDate": "2026-11-18T19:55:00.000Z"
+  },
+  {
     "title": "Brave 1.100.58",
     "link": "https://www.computerbase.de/downloads/browser/brave/",
     "pubDate": "2026-11-18T18:58:00.000Z"
@@ -233,20 +248,5 @@
     "title": "Linux Kernel 6.18.64 (Linux)",
     "link": "https://www.computerbase.de/downloads/betriebssysteme/linux-kernel/",
     "pubDate": "2026-11-17T16:01:00.000Z"
-  },
-  {
-    "title": "1Password 8.12.46",
-    "link": "https://www.computerbase.de/downloads/sicherheit/passwortmanager/1password/",
-    "pubDate": "2026-11-17T16:00:00.000Z"
-  },
-  {
-    "title": "Trellix Stinger 26.11.47.1",
-    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/mcafee-labs-stinger/",
-    "pubDate": "2026-11-17T15:58:00.000Z"
-  },
-  {
-    "title": "Rufus 4.16",
-    "link": "https://www.computerbase.de/downloads/systemtools/festplatten/rufus/",
-    "pubDate": "2026-11-17T15:57:00.000Z"
   }
 ]
