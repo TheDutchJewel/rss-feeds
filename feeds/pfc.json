@@ -1,5 +1,10 @@
 [
   {
+    "title": "[UPDATE] InnoUnpacker v2.2.14",
+    "link": "https://www.portablefreeware.com/?id=3132&ts=1795189799",
+    "pubDate": "Fri, 20 Nov 2026 15:49:59 +0000"
+  },
+  {
     "title": "[UPDATE] CudaText 1.240.0.0",
     "link": "https://www.portablefreeware.com/?id=2890&ts=1795169603",
     "pubDate": "Fri, 20 Nov 2026 10:13:23 +0000"
@@ -175,7 +180,7 @@
     "pubDate": "Sun, 15 Nov 2026 04:01:40 +0000"
   },
   {
-    "title": "[UPDATE] PolyHostInterface v3.5.8",
+    "title": "[UPDATE] PolyHostInterface v3.5.9",
     "link": "https://www.portablefreeware.com/?id=3149&ts=1794659166",
     "pubDate": "Sat, 14 Nov 2026 12:26:06 +0000"
   },
@@ -493,10 +498,5 @@
     "title": "[UPDATE] AppNetworkCounter v1.62",
     "link": "https://www.portablefreeware.com/?id=2952&ts=1792824524",
     "pubDate": "Sat, 24 Oct 2026 06:48:44 +0000"
-  },
-  {
-    "title": "[UPDATE] AutoHideMouseCursor v6.29",
-    "link": "https://www.portablefreeware.com/?id=2249&ts=1792824474",
-    "pubDate": "Sat, 24 Oct 2026 06:47:54 +0000"
   }
 ]
