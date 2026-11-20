@@ -1,5 +1,40 @@
 [
   {
+    "title": "Edge WebView2 updated to 158.0.4370.33.",
+    "link": "https://ninite.com/edgewebview2/",
+    "pubDate": "Fri, 20 Nov 2026 12:36:30 -0000"
+  },
+  {
+    "title": "ZeroTier One updated to 1.16.2.",
+    "link": "https://ninite.com/zerotierone/",
+    "pubDate": "Fri, 20 Nov 2026 11:24:42 -0000"
+  },
+  {
+    "title": "Oracle VirtualBox updated to 7.2.22.",
+    "link": "https://ninite.com/virtualbox/",
+    "pubDate": "Fri, 20 Nov 2026 11:24:16 -0000"
+  },
+  {
+    "title": "Edge updated to 158.0.4370.33.",
+    "link": "https://ninite.com/edge/",
+    "pubDate": "Fri, 20 Nov 2026 11:18:26 -0000"
+  },
+  {
+    "title": "Vivaldi updated to 8.3.4191.47.",
+    "link": "https://ninite.com/vivaldi/",
+    "pubDate": "Fri, 20 Nov 2026 10:13:22 -0000"
+  },
+  {
+    "title": "ChatGPT updated to 26.1117.3838.",
+    "link": "https://ninite.com/chatgpt/",
+    "pubDate": "Fri, 20 Nov 2026 08:41:31 -0000"
+  },
+  {
+    "title": "Bitwarden updated to 2026.11.0.",
+    "link": "https://ninite.com/bitwarden/",
+    "pubDate": "Fri, 20 Nov 2026 06:28:44 -0000"
+  },
+  {
     "title": "GitHub Desktop updated to 3.7.0.",
     "link": "https://ninite.com/githubdesktop/",
     "pubDate": "Thu, 19 Nov 2026 23:19:46 -0000"
@@ -128,55 +163,5 @@
     "title": "JDK (Amazon Corretto) x64 17 updated to 17.0.21.1.2.",
     "link": "https://ninite.com/correttojdkx17/",
     "pubDate": "Tue, 17 Nov 2026 22:22:28 -0000"
-  },
-  {
-    "title": "Chrome updated to 158.0.8127.37.",
-    "link": "https://ninite.com/chrome/",
-    "pubDate": "Tue, 17 Nov 2026 19:42:16 -0000"
-  },
-  {
-    "title": "Evernote updated to 11.43.4.",
-    "link": "https://ninite.com/evernote/",
-    "pubDate": "Tue, 17 Nov 2026 17:24:42 -0000"
-  },
-  {
-    "title": "TeamViewer 15 updated to 15.83.7.",
-    "link": "https://ninite.com/teamviewer15/",
-    "pubDate": "Tue, 17 Nov 2026 15:41:37 -0000"
-  },
-  {
-    "title": "Firefox updated to 160.0.1.",
-    "link": "https://ninite.com/firefox/",
-    "pubDate": "Tue, 17 Nov 2026 14:55:55 -0000"
-  },
-  {
-    "title": "Evernote updated to 11.43.3.",
-    "link": "https://ninite.com/evernote/",
-    "pubDate": "Tue, 17 Nov 2026 14:08:47 -0000"
-  },
-  {
-    "title": "1Password updated to 8.12.46.",
-    "link": "https://ninite.com/1password/",
-    "pubDate": "Tue, 17 Nov 2026 12:55:18 -0000"
-  },
-  {
-    "title": "Windows App updated to 2.0.1601.",
-    "link": "https://ninite.com/windowsapp/",
-    "pubDate": "Tue, 17 Nov 2026 12:24:43 -0000"
-  },
-  {
-    "title": "WizTree updated to 4.34.",
-    "link": "https://ninite.com/wiztree/",
-    "pubDate": "Tue, 17 Nov 2026 12:12:34 -0000"
-  },
-  {
-    "title": "foobar2000 updated to 2.26.3.",
-    "link": "https://ninite.com/foobar/",
-    "pubDate": "Mon, 16 Nov 2026 20:49:59 -0000"
-  },
-  {
-    "title": "Slack updated to 4.53.292.",
-    "link": "https://ninite.com/slack/",
-    "pubDate": "Mon, 16 Nov 2026 17:19:00 -0000"
   }
 ]
