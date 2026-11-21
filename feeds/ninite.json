@@ -1,5 +1,30 @@
 [
   {
+    "title": "OneDrive updated to 26.212.1029.0006.",
+    "link": "https://ninite.com/onedrive/",
+    "pubDate": "Sat, 21 Nov 2026 02:27:52 -0000"
+  },
+  {
+    "title": "Claude updated to 6.28899.2.",
+    "link": "https://ninite.com/claude/",
+    "pubDate": "Sat, 21 Nov 2026 02:15:59 -0000"
+  },
+  {
+    "title": "OBS Studio updated to 33.0.2.",
+    "link": "https://ninite.com/obsstudio/",
+    "pubDate": "Sat, 21 Nov 2026 02:15:09 -0000"
+  },
+  {
+    "title": "PDF24 Creator updated to 11.35.0.",
+    "link": "https://ninite.com/pdf24creator/",
+    "pubDate": "Sat, 21 Nov 2026 02:14:55 -0000"
+  },
+  {
+    "title": "Cursor updated to 3.31.15.",
+    "link": "https://ninite.com/cursor/",
+    "pubDate": "Fri, 20 Nov 2026 22:54:20 -0000"
+  },
+  {
     "title": "Edge WebView2 updated to 158.0.4370.33.",
     "link": "https://ninite.com/edgewebview2/",
     "pubDate": "Fri, 20 Nov 2026 12:36:30 -0000"
@@ -148,10 +173,5 @@
     "title": "JDK (Amazon Corretto) x64 8 updated to 8u514-b01.",
     "link": "https://ninite.com/correttojdkx8/",
     "pubDate": "Wed, 18 Nov 2026 09:09:01 -0000"
-  },
-  {
-    "title": "JDK (Amazon Corretto) x64 21 updated to 21.0.13.1.2.",
-    "link": "https://ninite.com/correttojdkx21/",
-    "pubDate": "Wed, 18 Nov 2026 00:06:55 -0000"
   }
 ]
