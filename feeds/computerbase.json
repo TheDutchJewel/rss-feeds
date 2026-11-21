@@ -1,5 +1,40 @@
 [
   {
+    "title": "croc 11.6.6",
+    "link": "https://www.computerbase.de/downloads/office/dateitransfer/croc/",
+    "pubDate": "2026-11-21T19:08:00.000Z"
+  },
+  {
+    "title": "NTLite Free 2026.11.13137",
+    "link": "https://www.computerbase.de/downloads/systemtools/ntlite-free/",
+    "pubDate": "2026-11-21T19:08:00.000Z"
+  },
+  {
+    "title": "YUMI Py 1.1.13",
+    "link": "https://www.computerbase.de/downloads/systemtools/festplatten/yumi/",
+    "pubDate": "2026-11-21T19:07:00.000Z"
+  },
+  {
+    "title": "Betterbird 153.8.0esr-bb14",
+    "link": "https://www.computerbase.de/downloads/kommunikation/betterbird/",
+    "pubDate": "2026-11-21T19:06:00.000Z"
+  },
+  {
+    "title": "Sandboxie Plus 1.19.1",
+    "link": "https://www.computerbase.de/downloads/sicherheit/sandboxie/",
+    "pubDate": "2026-11-21T19:05:00.000Z"
+  },
+  {
+    "title": "Sandboxie Classic 5.74.1",
+    "link": "https://www.computerbase.de/downloads/sicherheit/sandboxie/",
+    "pubDate": "2026-11-21T19:04:00.000Z"
+  },
+  {
+    "title": "Debian 13.8.0 „Trixie“",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/debian/",
+    "pubDate": "2026-11-21T19:02:00.000Z"
+  },
+  {
     "title": "Dropbox 281.3.5397 Beta",
     "link": "https://www.computerbase.de/downloads/office/dateimanager/dropbox/",
     "pubDate": "2026-11-21T09:41:00.000Z"
@@ -43,11 +78,6 @@
     "title": "mp3Tag 3.37.1 Beta 1",
     "link": "https://www.computerbase.de/downloads/audio-und-video/mp3tag/",
     "pubDate": "2026-11-20T17:45:00.000Z"
-  },
-  {
-    "title": "YUMI Py 1.1.12",
-    "link": "https://www.computerbase.de/downloads/systemtools/festplatten/yumi/",
-    "pubDate": "2026-11-20T17:43:00.000Z"
   },
   {
     "title": "FreeBSD 15.2 Beta 3",
@@ -218,35 +248,5 @@
     "title": "Opera GX 140.0.6074.48 Early Access",
     "link": "https://www.computerbase.de/downloads/browser/opera-gx/",
     "pubDate": "2026-11-19T10:58:00.000Z"
-  },
-  {
-    "title": "RealVNC Connect Viewer 8.6.2",
-    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/vnc-connect/",
-    "pubDate": "2026-11-19T10:58:00.000Z"
-  },
-  {
-    "title": "AnyDesk 9.8.4",
-    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/anydesk/",
-    "pubDate": "2026-11-19T10:57:00.000Z"
-  },
-  {
-    "title": "Wing FTP Server 8.2.8",
-    "link": "https://www.computerbase.de/downloads/office/dateitransfer/wing-ftp-server/",
-    "pubDate": "2026-11-19T10:56:00.000Z"
-  },
-  {
-    "title": "Screenpresso 2.4.3 (Win 11)",
-    "link": "https://www.computerbase.de/downloads/foto-und-grafik/screenpresso/",
-    "pubDate": "2026-11-19T05:43:00.000Z"
-  },
-  {
-    "title": "DriverMax 18.0.339",
-    "link": "https://www.computerbase.de/downloads/treiber/drivermax/",
-    "pubDate": "2026-11-19T05:42:00.000Z"
-  },
-  {
-    "title": "Wireshark 4.6.10",
-    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/wireshark/",
-    "pubDate": "2026-11-19T05:33:00.000Z"
   }
 ]
