@@ -1,5 +1,25 @@
 [
     {
+        "title": "Vivaldi 8.3.4191.47",
+        "link": "https://www.gratissoftwaresite.nl/downloads/vivaldi-internet-web-browser",
+        "pubDate": "21 november 2026"
+    },
+    {
+        "title": "Calibre 9.19.0",
+        "link": "https://www.gratissoftwaresite.nl/downloads/calibre-e-book-reader-epub-mobi-pdf",
+        "pubDate": "21 november 2026"
+    },
+    {
+        "title": "Bitwarden 2026.11.0",
+        "link": "https://www.gratissoftwaresite.nl/downloads/bitwarden-wachtwoordbeheerder-online-kluis-versleuteld-privacy",
+        "pubDate": "21 november 2026"
+    },
+    {
+        "title": "OBS Studio 33.0.2",
+        "link": "https://www.gratissoftwaresite.nl/downloads/obs-studio-schermopnamen-opnemen-streamen-video-webcam",
+        "pubDate": "21 november 2026"
+    },
+    {
         "title": "PDF24 Creator 11.35.0",
         "link": "https://www.gratissoftwaresite.nl/downloads/pdf24-creator-tools-pdf-werktuigen-bewerken",
         "pubDate": "20 november 2026"
@@ -82,11 +102,6 @@
     {
         "title": "Opera 140.0.6074.36",
         "link": "https://www.gratissoftwaresite.nl/downloads/opera-internet-web-browser",
-        "pubDate": "19 november 2026"
-    },
-    {
-        "title": "Vivaldi 8.3.4191.45",
-        "link": "https://www.gratissoftwaresite.nl/downloads/vivaldi-internet-web-browser",
         "pubDate": "19 november 2026"
     },
     {
@@ -405,11 +420,6 @@
         "pubDate": "6 november 2026"
     },
     {
-        "title": "Calibre 9.18.0",
-        "link": "https://www.gratissoftwaresite.nl/downloads/calibre-e-book-reader-epub-mobi-pdf",
-        "pubDate": "6 november 2026"
-    },
-    {
         "title": "Proton VPN 5.1.9",
         "link": "https://www.gratissoftwaresite.nl/downloads/proton-vpn-beveiligde-anonieme-verbinding-privacy-geen-ip",
         "pubDate": "5 november 2026"
@@ -450,11 +460,6 @@
         "pubDate": "3 november 2026"
     },
     {
-        "title": "Bitwarden 2026.10.3",
-        "link": "https://www.gratissoftwaresite.nl/downloads/bitwarden-wachtwoordbeheerder-online-kluis-versleuteld-privacy",
-        "pubDate": "3 november 2026"
-    },
-    {
         "title": "Audacity 4.0.2",
         "link": "https://www.gratissoftwaresite.nl/downloads/audacity-geluidsbewerking-mp3-wav-editor",
         "pubDate": "2 november 2026"
@@ -478,10 +483,5 @@
         "title": "f.lux 4.148",
         "link": "https://www.gratissoftwaresite.nl/downloads/f.lux-gezondheid-slapen-blauwe-licht",
         "pubDate": "2 november 2026"
-    },
-    {
-        "title": "FotoSketcher 4.70",
-        "link": "https://www.gratissoftwaresite.nl/downloads/fotosketcher-fotobewerking-effecten-filters",
-        "pubDate": "1 november 2026"
     }
 ]

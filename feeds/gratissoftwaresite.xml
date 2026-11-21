@@ -5,6 +5,30 @@
     <link>https://www.gratissoftwaresite.nl/downloads/nieuwe-updates</link>
     <description>Nieuwste software-updates van GratisSoftwareSite</description>
     <item>
+      <title>Vivaldi 8.3.4191.47</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/vivaldi-internet-web-browser</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/vivaldi-internet-web-browser</guid>
+      <pubDate>21 november 2026</pubDate>
+    </item>
+    <item>
+      <title>Calibre 9.19.0</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/calibre-e-book-reader-epub-mobi-pdf</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/calibre-e-book-reader-epub-mobi-pdf</guid>
+      <pubDate>21 november 2026</pubDate>
+    </item>
+    <item>
+      <title>Bitwarden 2026.11.0</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/bitwarden-wachtwoordbeheerder-online-kluis-versleuteld-privacy</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/bitwarden-wachtwoordbeheerder-online-kluis-versleuteld-privacy</guid>
+      <pubDate>21 november 2026</pubDate>
+    </item>
+    <item>
+      <title>OBS Studio 33.0.2</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/obs-studio-schermopnamen-opnemen-streamen-video-webcam</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/obs-studio-schermopnamen-opnemen-streamen-video-webcam</guid>
+      <pubDate>21 november 2026</pubDate>
+    </item>
+    <item>
       <title>PDF24 Creator 11.35.0</title>
       <link>https://www.gratissoftwaresite.nl/downloads/pdf24-creator-tools-pdf-werktuigen-bewerken</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/pdf24-creator-tools-pdf-werktuigen-bewerken</guid>
@@ -104,12 +128,6 @@
       <title>Opera 140.0.6074.36</title>
       <link>https://www.gratissoftwaresite.nl/downloads/opera-internet-web-browser</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/opera-internet-web-browser</guid>
-      <pubDate>19 november 2026</pubDate>
-    </item>
-    <item>
-      <title>Vivaldi 8.3.4191.45</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/vivaldi-internet-web-browser</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/vivaldi-internet-web-browser</guid>
       <pubDate>19 november 2026</pubDate>
     </item>
     <item>
@@ -491,12 +509,6 @@
       <pubDate>6 november 2026</pubDate>
     </item>
     <item>
-      <title>Calibre 9.18.0</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/calibre-e-book-reader-epub-mobi-pdf</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/calibre-e-book-reader-epub-mobi-pdf</guid>
-      <pubDate>6 november 2026</pubDate>
-    </item>
-    <item>
       <title>Proton VPN 5.1.9</title>
       <link>https://www.gratissoftwaresite.nl/downloads/proton-vpn-beveiligde-anonieme-verbinding-privacy-geen-ip</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/proton-vpn-beveiligde-anonieme-verbinding-privacy-geen-ip</guid>
@@ -545,12 +557,6 @@
       <pubDate>3 november 2026</pubDate>
     </item>
     <item>
-      <title>Bitwarden 2026.10.3</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/bitwarden-wachtwoordbeheerder-online-kluis-versleuteld-privacy</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/bitwarden-wachtwoordbeheerder-online-kluis-versleuteld-privacy</guid>
-      <pubDate>3 november 2026</pubDate>
-    </item>
-    <item>
       <title>Audacity 4.0.2</title>
       <link>https://www.gratissoftwaresite.nl/downloads/audacity-geluidsbewerking-mp3-wav-editor</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/audacity-geluidsbewerking-mp3-wav-editor</guid>
@@ -579,12 +585,6 @@
       <link>https://www.gratissoftwaresite.nl/downloads/f.lux-gezondheid-slapen-blauwe-licht</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/f.lux-gezondheid-slapen-blauwe-licht</guid>
       <pubDate>2 november 2026</pubDate>
-    </item>
-    <item>
-      <title>FotoSketcher 4.70</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/fotosketcher-fotobewerking-effecten-filters</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/fotosketcher-fotobewerking-effecten-filters</guid>
-      <pubDate>1 november 2026</pubDate>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,25 @@
 [
   {
+    "title": "[UPDATE] Q-Dir v12.85",
+    "link": "https://www.portablefreeware.com/?id=1431&ts=1795280433",
+    "pubDate": "Sat, 21 Nov 2026 17:00:33 +0000"
+  },
+  {
+    "title": "[UPDATE] Windows System Control Center v10.0.5.2",
+    "link": "https://www.portablefreeware.com/?id=1666&ts=1795280249",
+    "pubDate": "Sat, 21 Nov 2026 16:57:29 +0000"
+  },
+  {
+    "title": "[UPDATE] Sandboxie Plus v1.19.1",
+    "link": "https://www.portablefreeware.com/?id=3129&ts=1795280163",
+    "pubDate": "Sat, 21 Nov 2026 16:56:03 +0000"
+  },
+  {
+    "title": "[UPDATE] OBS Studio v33.0.2",
+    "link": "https://www.portablefreeware.com/?id=2962&ts=1795274461",
+    "pubDate": "Sat, 21 Nov 2026 15:21:01 +0000"
+  },
+  {
     "title": "[UPDATE] AutoHotkey v2.0.32",
     "link": "https://www.portablefreeware.com/?id=217&ts=1795249958",
     "pubDate": "Sat, 21 Nov 2026 08:32:38 +0000"
@@ -30,7 +50,7 @@
     "pubDate": "Fri, 20 Nov 2026 15:49:59 +0000"
   },
   {
-    "title": "[UPDATE] CudaText 1.240.0.0",
+    "title": "[UPDATE] CudaText 1.240.0.5",
     "link": "https://www.portablefreeware.com/?id=2890&ts=1795169603",
     "pubDate": "Fri, 20 Nov 2026 10:13:23 +0000"
   },
@@ -125,7 +145,7 @@
     "pubDate": "Tue, 17 Nov 2026 16:26:18 +0000"
   },
   {
-    "title": "[UPDATE] KCleaner v4.0.5",
+    "title": "[UPDATE] KCleaner v4.0.6",
     "link": "https://www.portablefreeware.com/?id=3030&ts=1794932689",
     "pubDate": "Tue, 17 Nov 2026 16:24:49 +0000"
   },
@@ -175,7 +195,7 @@
     "pubDate": "Mon, 16 Nov 2026 04:30:43 +0000"
   },
   {
-    "title": "[UPDATE] TreeSheets 2.23.11",
+    "title": "[UPDATE] TreeSheets 2.24.2",
     "link": "https://www.portablefreeware.com/?id=2741&ts=1794761197",
     "pubDate": "Sun, 15 Nov 2026 16:46:37 +0000"
   },
@@ -305,11 +325,6 @@
     "pubDate": "Sat, 07 Nov 2026 16:17:18 +0000"
   },
   {
-    "title": "[UPDATE] Q-Dir v12.84",
-    "link": "https://www.portablefreeware.com/?id=1431&ts=1794009973",
-    "pubDate": "Sat, 07 Nov 2026 00:06:13 +0000"
-  },
-  {
     "title": "[UPDATE] HashMyFiles v2.52",
     "link": "https://www.portablefreeware.com/?id=1535&ts=1794009927",
     "pubDate": "Sat, 07 Nov 2026 00:05:27 +0000"
@@ -420,11 +435,6 @@
     "pubDate": "Sun, 01 Nov 2026 04:05:37 +0000"
   },
   {
-    "title": "[UPDATE] OBS Studio v33.0.1",
-    "link": "https://www.portablefreeware.com/?id=2962&ts=1793384931",
-    "pubDate": "Fri, 30 Oct 2026 18:28:51 +0000"
-  },
-  {
     "title": "[UPDATE] Slimjet v51.0.2.0",
     "link": "https://www.portablefreeware.com/?id=2633&ts=1793384800",
     "pubDate": "Fri, 30 Oct 2026 18:26:40 +0000"
@@ -488,15 +498,5 @@
     "title": "[UPDATE] Youtube Downloader HD v6.2",
     "link": "https://www.portablefreeware.com/?id=1581&ts=1792945042",
     "pubDate": "Sun, 25 Oct 2026 16:17:22 +0000"
-  },
-  {
-    "title": "[UPDATE] HeidiSQL v12.22",
-    "link": "https://www.portablefreeware.com/?id=1809&ts=1792941151",
-    "pubDate": "Sun, 25 Oct 2026 15:12:31 +0000"
-  },
-  {
-    "title": "[UPDATE] calibre v9.17",
-    "link": "https://www.portablefreeware.com/?id=2119&ts=1792905203",
-    "pubDate": "Sun, 25 Oct 2026 05:13:23 +0000"
   }
 ]
