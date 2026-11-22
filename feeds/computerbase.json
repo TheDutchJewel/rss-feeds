@@ -1,5 +1,15 @@
 [
   {
+    "title": "MKVToolnix 104.0 “Chimera”",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/mkvtoolnix/",
+    "pubDate": "2026-11-22T16:22:00.000Z"
+  },
+  {
+    "title": "CachyOS November 2026",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/cachyos/",
+    "pubDate": "2026-11-22T13:35:00.000Z"
+  },
+  {
     "title": "OBS Studio 33.0.3",
     "link": "https://www.computerbase.de/downloads/audio-und-video/obs-studio/",
     "pubDate": "2026-11-22T09:18:00.000Z"
@@ -238,15 +248,5 @@
     "title": "Crucial Storage Executive 12.11",
     "link": "https://www.computerbase.de/downloads/systemtools/festplatten/crucial-storage-executive/",
     "pubDate": "2026-11-19T11:00:00.000Z"
-  },
-  {
-    "title": "EA-App 13.832.0.6345",
-    "link": "https://www.computerbase.de/downloads/games/ea-app/",
-    "pubDate": "2026-11-19T10:59:00.000Z"
-  },
-  {
-    "title": "Opera GX 140.0.6074.48 Early Access",
-    "link": "https://www.computerbase.de/downloads/browser/opera-gx/",
-    "pubDate": "2026-11-19T10:58:00.000Z"
   }
 ]
