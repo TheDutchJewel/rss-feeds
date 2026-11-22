@@ -5,6 +5,36 @@
     <link>https://www.gratissoftwaresite.nl/downloads/nieuwe-updates</link>
     <description>Nieuwste software-updates van GratisSoftwareSite</description>
     <item>
+      <title>KillerPDF 1.9.5</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/killerpdf-bewerken-pdf</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/killerpdf-bewerken-pdf</guid>
+      <pubDate>22 november 2026</pubDate>
+    </item>
+    <item>
+      <title>WizTree 4.34.0</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/wiztree-schijfruimte-werktuig-tools</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/wiztree-schijfruimte-werktuig-tools</guid>
+      <pubDate>22 november 2026</pubDate>
+    </item>
+    <item>
+      <title>Super Productivity 20.1.0</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/super-productivity-taken-plannen-workflow-projectbeheer</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/super-productivity-taken-plannen-workflow-projectbeheer</guid>
+      <pubDate>22 november 2026</pubDate>
+    </item>
+    <item>
+      <title>Audacious 4.6.2</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/audacious-muziekspeler-cd-audio-mp3</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/audacious-muziekspeler-cd-audio-mp3</guid>
+      <pubDate>22 november 2026</pubDate>
+    </item>
+    <item>
+      <title>Debian 13.8.0</title>
+      <link>https://www.gratissoftwaresite.nl/downloads/debian-besturingssysteem</link>
+      <guid>https://www.gratissoftwaresite.nl/downloads/debian-besturingssysteem</guid>
+      <pubDate>22 november 2026</pubDate>
+    </item>
+    <item>
       <title>Vivaldi 8.3.4191.47</title>
       <link>https://www.gratissoftwaresite.nl/downloads/vivaldi-internet-web-browser</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/vivaldi-internet-web-browser</guid>
@@ -149,12 +179,6 @@
       <pubDate>18 november 2026</pubDate>
     </item>
     <item>
-      <title>WizTree 4.34.0</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/wiztree-schijfruimte-werktuig-tools</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/wiztree-schijfruimte-werktuig-tools</guid>
-      <pubDate>18 november 2026</pubDate>
-    </item>
-    <item>
       <title>Java 8 update 513</title>
       <link>https://www.gratissoftwaresite.nl/downloads/java-jre-plugin</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/java-jre-plugin</guid>
@@ -230,12 +254,6 @@
       <title>Nextcloud Office 9.3.8</title>
       <link>https://www.gratissoftwaresite.nl/downloads/nextcloud-office-kantoorpakket</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/nextcloud-office-kantoorpakket</guid>
-      <pubDate>16 november 2026</pubDate>
-    </item>
-    <item>
-      <title>KillerPDF 1.9.4</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/killerpdf-bewerken-pdf</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/killerpdf-bewerken-pdf</guid>
       <pubDate>16 november 2026</pubDate>
     </item>
     <item>
@@ -455,12 +473,6 @@
       <pubDate>7 november 2026</pubDate>
     </item>
     <item>
-      <title>Super Productivity 20.0.0</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/super-productivity-taken-plannen-workflow-projectbeheer</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/super-productivity-taken-plannen-workflow-projectbeheer</guid>
-      <pubDate>7 november 2026</pubDate>
-    </item>
-    <item>
       <title>Microsoft PowerToys 0.102.3101.0</title>
       <link>https://www.gratissoftwaresite.nl/downloads/microsoft-powertoys-gereedschap-tools-windows</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/microsoft-powertoys-gereedschap-tools-windows</guid>
@@ -572,18 +584,6 @@
       <title>OpenShot Video Editor 4.1.1</title>
       <link>https://www.gratissoftwaresite.nl/downloads/openshot-video-editor-videobewerking-video-dvd-uploaden</link>
       <guid>https://www.gratissoftwaresite.nl/downloads/openshot-video-editor-videobewerking-video-dvd-uploaden</guid>
-      <pubDate>2 november 2026</pubDate>
-    </item>
-    <item>
-      <title>Zoom 7.2.5</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/zoom-videobellen-groepen-teleconferentie-online-les</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/zoom-videobellen-groepen-teleconferentie-online-les</guid>
-      <pubDate>2 november 2026</pubDate>
-    </item>
-    <item>
-      <title>f.lux 4.148</title>
-      <link>https://www.gratissoftwaresite.nl/downloads/f.lux-gezondheid-slapen-blauwe-licht</link>
-      <guid>https://www.gratissoftwaresite.nl/downloads/f.lux-gezondheid-slapen-blauwe-licht</guid>
       <pubDate>2 november 2026</pubDate>
     </item>
   </channel>

@@ -1,5 +1,30 @@
 [
     {
+        "title": "KillerPDF 1.9.5",
+        "link": "https://www.gratissoftwaresite.nl/downloads/killerpdf-bewerken-pdf",
+        "pubDate": "22 november 2026"
+    },
+    {
+        "title": "WizTree 4.34.0",
+        "link": "https://www.gratissoftwaresite.nl/downloads/wiztree-schijfruimte-werktuig-tools",
+        "pubDate": "22 november 2026"
+    },
+    {
+        "title": "Super Productivity 20.1.0",
+        "link": "https://www.gratissoftwaresite.nl/downloads/super-productivity-taken-plannen-workflow-projectbeheer",
+        "pubDate": "22 november 2026"
+    },
+    {
+        "title": "Audacious 4.6.2",
+        "link": "https://www.gratissoftwaresite.nl/downloads/audacious-muziekspeler-cd-audio-mp3",
+        "pubDate": "22 november 2026"
+    },
+    {
+        "title": "Debian 13.8.0",
+        "link": "https://www.gratissoftwaresite.nl/downloads/debian-besturingssysteem",
+        "pubDate": "22 november 2026"
+    },
+    {
         "title": "Vivaldi 8.3.4191.47",
         "link": "https://www.gratissoftwaresite.nl/downloads/vivaldi-internet-web-browser",
         "pubDate": "21 november 2026"
@@ -120,11 +145,6 @@
         "pubDate": "18 november 2026"
     },
     {
-        "title": "WizTree 4.34.0",
-        "link": "https://www.gratissoftwaresite.nl/downloads/wiztree-schijfruimte-werktuig-tools",
-        "pubDate": "18 november 2026"
-    },
-    {
         "title": "Java 8 update 513",
         "link": "https://www.gratissoftwaresite.nl/downloads/java-jre-plugin",
         "pubDate": "18 november 2026"
@@ -187,11 +207,6 @@
     {
         "title": "Nextcloud Office 9.3.8",
         "link": "https://www.gratissoftwaresite.nl/downloads/nextcloud-office-kantoorpakket",
-        "pubDate": "16 november 2026"
-    },
-    {
-        "title": "KillerPDF 1.9.4",
-        "link": "https://www.gratissoftwaresite.nl/downloads/killerpdf-bewerken-pdf",
         "pubDate": "16 november 2026"
     },
     {
@@ -375,11 +390,6 @@
         "pubDate": "7 november 2026"
     },
     {
-        "title": "Super Productivity 20.0.0",
-        "link": "https://www.gratissoftwaresite.nl/downloads/super-productivity-taken-plannen-workflow-projectbeheer",
-        "pubDate": "7 november 2026"
-    },
-    {
         "title": "Microsoft PowerToys 0.102.3101.0",
         "link": "https://www.gratissoftwaresite.nl/downloads/microsoft-powertoys-gereedschap-tools-windows",
         "pubDate": "7 november 2026"
@@ -472,16 +482,6 @@
     {
         "title": "OpenShot Video Editor 4.1.1",
         "link": "https://www.gratissoftwaresite.nl/downloads/openshot-video-editor-videobewerking-video-dvd-uploaden",
-        "pubDate": "2 november 2026"
-    },
-    {
-        "title": "Zoom 7.2.5",
-        "link": "https://www.gratissoftwaresite.nl/downloads/zoom-videobellen-groepen-teleconferentie-online-les",
-        "pubDate": "2 november 2026"
-    },
-    {
-        "title": "f.lux 4.148",
-        "link": "https://www.gratissoftwaresite.nl/downloads/f.lux-gezondheid-slapen-blauwe-licht",
         "pubDate": "2 november 2026"
     }
 ]

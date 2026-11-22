@@ -1,5 +1,10 @@
 [
   {
+    "title": "OBS Studio 33.0.3",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/obs-studio/",
+    "pubDate": "2026-11-22T09:18:00.000Z"
+  },
+  {
     "title": "croc 11.6.6",
     "link": "https://www.computerbase.de/downloads/office/dateitransfer/croc/",
     "pubDate": "2026-11-21T19:08:00.000Z"
@@ -68,11 +73,6 @@
     "title": "XAMPP 8.3.37",
     "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/xampp/",
     "pubDate": "2026-11-20T19:18:00.000Z"
-  },
-  {
-    "title": "OBS Studio 33.0.2",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/obs-studio/",
-    "pubDate": "2026-11-20T19:14:00.000Z"
   },
   {
     "title": "mp3Tag 3.37.1 Beta 1",

@@ -1,5 +1,10 @@
 [
   {
+    "title": "[UPDATE] calibre v9.19",
+    "link": "https://www.portablefreeware.com/?id=2119&ts=1795319836",
+    "pubDate": "Sun, 22 Nov 2026 03:57:16 +0000"
+  },
+  {
     "title": "[UPDATE] Q-Dir v12.85",
     "link": "https://www.portablefreeware.com/?id=1431&ts=1795280433",
     "pubDate": "Sat, 21 Nov 2026 17:00:33 +0000"
@@ -15,7 +20,7 @@
     "pubDate": "Sat, 21 Nov 2026 16:56:03 +0000"
   },
   {
-    "title": "[UPDATE] OBS Studio v33.0.2",
+    "title": "[UPDATE] OBS Studio v33.0.3",
     "link": "https://www.portablefreeware.com/?id=2962&ts=1795274461",
     "pubDate": "Sat, 21 Nov 2026 15:21:01 +0000"
   },
@@ -493,10 +498,5 @@
     "title": "[UPDATE] 3D Youtube Downloader v1.26.9",
     "link": "https://www.portablefreeware.com/?id=2634&ts=1792945699",
     "pubDate": "Sun, 25 Oct 2026 16:28:19 +0000"
-  },
-  {
-    "title": "[UPDATE] Youtube Downloader HD v6.2",
-    "link": "https://www.portablefreeware.com/?id=1581&ts=1792945042",
-    "pubDate": "Sun, 25 Oct 2026 16:17:22 +0000"
   }
 ]
