@@ -1,5 +1,15 @@
 [
   {
+    "title": "PicPick 7.7.0",
+    "link": "https://www.computerbase.de/downloads/foto-und-grafik/picpick/",
+    "pubDate": "2026-11-22T18:41:00.000Z"
+  },
+  {
+    "title": "BetterTouchTool 6.1116 (macOS)",
+    "link": "https://www.computerbase.de/downloads/systemtools/bettertouchtool/",
+    "pubDate": "2026-11-22T18:40:00.000Z"
+  },
+  {
     "title": "MKVToolnix 104.0 “Chimera”",
     "link": "https://www.computerbase.de/downloads/audio-und-video/mkvtoolnix/",
     "pubDate": "2026-11-22T16:22:00.000Z"
@@ -238,15 +248,5 @@
     "title": "PHP 8.2.36",
     "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/php/",
     "pubDate": "2026-11-19T16:06:00.000Z"
-  },
-  {
-    "title": "GPU-Z 2.72.0",
-    "link": "https://www.computerbase.de/downloads/systemtools/grafikkarten/gpu-z/",
-    "pubDate": "2026-11-19T14:20:00.000Z"
-  },
-  {
-    "title": "Crucial Storage Executive 12.11",
-    "link": "https://www.computerbase.de/downloads/systemtools/festplatten/crucial-storage-executive/",
-    "pubDate": "2026-11-19T11:00:00.000Z"
   }
 ]
