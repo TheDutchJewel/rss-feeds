@@ -1,5 +1,15 @@
 [
   {
+    "title": "Bazzite 45.20261123",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/bazzite/",
+    "pubDate": "2026-11-23T05:47:00.000Z"
+  },
+  {
+    "title": "OnionShare 2.7.3",
+    "link": "https://www.computerbase.de/downloads/office/dateitransfer/onionshare/",
+    "pubDate": "2026-11-23T05:16:00.000Z"
+  },
+  {
     "title": "PicPick 7.7.0",
     "link": "https://www.computerbase.de/downloads/foto-und-grafik/picpick/",
     "pubDate": "2026-11-22T18:41:00.000Z"
@@ -238,15 +248,5 @@
     "title": "PHP 8.4.28",
     "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/php/",
     "pubDate": "2026-11-19T16:08:00.000Z"
-  },
-  {
-    "title": "PHP 8.3.37",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/php/",
-    "pubDate": "2026-11-19T16:07:00.000Z"
-  },
-  {
-    "title": "PHP 8.2.36",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/php/",
-    "pubDate": "2026-11-19T16:06:00.000Z"
   }
 ]
