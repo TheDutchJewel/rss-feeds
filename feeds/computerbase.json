@@ -1,5 +1,20 @@
 [
   {
+    "title": "Rocket.Chat Desktop 4.19.4",
+    "link": "https://www.computerbase.de/downloads/kommunikation/rocket.chat/",
+    "pubDate": "2026-11-24T05:56:00.000Z"
+  },
+  {
+    "title": "Google Chrome 158.0.8127.88/.89",
+    "link": "https://www.computerbase.de/downloads/browser/google-chrome/",
+    "pubDate": "2026-11-24T05:52:00.000Z"
+  },
+  {
+    "title": "Bazzite 45.20261123.1",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/bazzite/",
+    "pubDate": "2026-11-24T05:50:00.000Z"
+  },
+  {
     "title": "Mozilla Thunderbird 162.0 Beta 1",
     "link": "https://www.computerbase.de/downloads/kommunikation/mozilla-thunderbird/",
     "pubDate": "2026-11-23T22:59:00.000Z"
@@ -68,11 +83,6 @@
     "title": "Gigabyte Control Center 26.11.19.01",
     "link": "https://www.computerbase.de/downloads/systemtools/gigabyte-control-center/",
     "pubDate": "2026-11-23T15:43:00.000Z"
-  },
-  {
-    "title": "Bazzite 45.20261123",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/bazzite/",
-    "pubDate": "2026-11-23T05:47:00.000Z"
   },
   {
     "title": "OnionShare 2.7.3",
@@ -238,15 +248,5 @@
     "title": "RealVNC Connect Server 7.19.1",
     "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/vnc-connect/",
     "pubDate": "2026-11-19T19:41:00.000Z"
-  },
-  {
-    "title": "Discord 1.0.9269",
-    "link": "https://www.computerbase.de/downloads/kommunikation/discord/",
-    "pubDate": "2026-11-19T19:39:00.000Z"
-  },
-  {
-    "title": "Emsisoft Anti-Malware 2026.11.0.12705",
-    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/emsisoft-anti-malware/",
-    "pubDate": "2026-11-19T19:39:00.000Z"
   }
 ]

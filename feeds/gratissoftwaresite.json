@@ -1,5 +1,30 @@
 [
     {
+        "title": "OBS Studio 33.0.3",
+        "link": "https://www.gratissoftwaresite.nl/downloads/obs-studio-schermopnamen-opnemen-streamen-video-webcam",
+        "pubDate": "24 november 2026"
+    },
+    {
+        "title": "Google Chrome 158.0.8127.88/89",
+        "link": "https://www.gratissoftwaresite.nl/downloads/google-chrome-internet-web-browser",
+        "pubDate": "24 november 2026"
+    },
+    {
+        "title": "Waterfox 6.7.9",
+        "link": "https://www.gratissoftwaresite.nl/downloads/waterfox-web-browser",
+        "pubDate": "24 november 2026"
+    },
+    {
+        "title": "PicPick 7.7.0",
+        "link": "https://www.gratissoftwaresite.nl/downloads/picpick-fotobewerking-screenshot",
+        "pubDate": "24 november 2026"
+    },
+    {
+        "title": "PDFsam 6.0.11",
+        "link": "https://www.gratissoftwaresite.nl/downloads/pdf-sam-split-merge-pdf-maken-tool",
+        "pubDate": "24 november 2026"
+    },
+    {
         "title": "RapidRaw 1.7.1",
         "link": "https://www.gratissoftwaresite.nl/downloads/rapidraw-fotobewerking-beheer-workflow",
         "pubDate": "23 november 2026"
@@ -47,11 +72,6 @@
     {
         "title": "Bitwarden 2026.11.0",
         "link": "https://www.gratissoftwaresite.nl/downloads/bitwarden-wachtwoordbeheerder-online-kluis-versleuteld-privacy",
-        "pubDate": "21 november 2026"
-    },
-    {
-        "title": "OBS Studio 33.0.2",
-        "link": "https://www.gratissoftwaresite.nl/downloads/obs-studio-schermopnamen-opnemen-streamen-video-webcam",
         "pubDate": "21 november 2026"
     },
     {
@@ -157,11 +177,6 @@
     {
         "title": "Java 8 update 513",
         "link": "https://www.gratissoftwaresite.nl/downloads/java-jre-plugin",
-        "pubDate": "18 november 2026"
-    },
-    {
-        "title": "Google Chrome 158.0.8127.36/37",
-        "link": "https://www.gratissoftwaresite.nl/downloads/google-chrome-internet-web-browser",
         "pubDate": "18 november 2026"
     },
     {
@@ -380,11 +395,6 @@
         "pubDate": "8 november 2026"
     },
     {
-        "title": "Waterfox 6.7.8",
-        "link": "https://www.gratissoftwaresite.nl/downloads/waterfox-web-browser",
-        "pubDate": "8 november 2026"
-    },
-    {
         "title": "7-Zip 26.06",
         "link": "https://www.gratissoftwaresite.nl/downloads/7-zip-compressie-unzip",
         "pubDate": "7 november 2026"
@@ -435,11 +445,6 @@
         "pubDate": "5 november 2026"
     },
     {
-        "title": "PDFsam 6.0.10",
-        "link": "https://www.gratissoftwaresite.nl/downloads/pdf-sam-split-merge-pdf-maken-tool",
-        "pubDate": "5 november 2026"
-    },
-    {
         "title": "ocenaudio 3.22.2",
         "link": "https://www.gratissoftwaresite.nl/downloads/ocenaudio-geluidsbewerking-mp3-audio-editor",
         "pubDate": "5 november 2026"
@@ -477,11 +482,6 @@
     {
         "title": "iTunes 12.13.12.3",
         "link": "https://www.gratissoftwaresite.nl/downloads/itunes-mediaspeler-synchroniseer-iphone-ipad",
-        "pubDate": "2 november 2026"
-    },
-    {
-        "title": "OpenShot Video Editor 4.1.1",
-        "link": "https://www.gratissoftwaresite.nl/downloads/openshot-video-editor-videobewerking-video-dvd-uploaden",
         "pubDate": "2 november 2026"
     }
 ]
