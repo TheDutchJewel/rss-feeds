@@ -1,5 +1,75 @@
 [
   {
+    "title": "Mozilla Thunderbird 162.0 Beta 1",
+    "link": "https://www.computerbase.de/downloads/kommunikation/mozilla-thunderbird/",
+    "pubDate": "2026-11-23T22:59:00.000Z"
+  },
+  {
+    "title": "Mozilla Firefox 162.0 Beta 1",
+    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
+    "pubDate": "2026-11-23T22:59:00.000Z"
+  },
+  {
+    "title": "ownCloud Client 7.2.0",
+    "link": "https://www.computerbase.de/downloads/office/dateimanager/owncloud/",
+    "pubDate": "2026-11-23T18:41:00.000Z"
+  },
+  {
+    "title": "MSI Center 2.0.76.0",
+    "link": "https://www.computerbase.de/downloads/systemtools/msi-center/",
+    "pubDate": "2026-11-23T18:01:00.000Z"
+  },
+  {
+    "title": "Epic Games Launcher 0.121.0 Preview",
+    "link": "https://www.computerbase.de/downloads/games/epic-games-launcher/",
+    "pubDate": "2026-11-23T16:51:00.000Z"
+  },
+  {
+    "title": "MediaMonkey 2027.0.0.3531 Beta",
+    "link": "https://www.computerbase.de/downloads/audio-und-video/mediamonkey/",
+    "pubDate": "2026-11-23T15:57:00.000Z"
+  },
+  {
+    "title": "EPIM Mail 26.7.0",
+    "link": "https://www.computerbase.de/downloads/office/essentialpim-free/",
+    "pubDate": "2026-11-23T15:55:00.000Z"
+  },
+  {
+    "title": "Avast Free Antivirus 26.12.11269 Beta",
+    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/avast-free-antivirus/",
+    "pubDate": "2026-11-23T15:54:00.000Z"
+  },
+  {
+    "title": "Linux Kernel 7.3.6 (Linux)",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/linux-kernel/",
+    "pubDate": "2026-11-23T15:51:00.000Z"
+  },
+  {
+    "title": "CachyOS November 2026 (261123)",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/cachyos/",
+    "pubDate": "2026-11-23T15:51:00.000Z"
+  },
+  {
+    "title": "Linux Kernel 6.18.65 (Linux)",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/linux-kernel/",
+    "pubDate": "2026-11-23T15:50:00.000Z"
+  },
+  {
+    "title": "WhatsApp 2.26.47.12 (macOS)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/whatsapp/",
+    "pubDate": "2026-11-23T15:49:00.000Z"
+  },
+  {
+    "title": "Telegram Desktop 7.4.6",
+    "link": "https://www.computerbase.de/downloads/kommunikation/telegram-desktop/",
+    "pubDate": "2026-11-23T15:48:00.000Z"
+  },
+  {
+    "title": "Gigabyte Control Center 26.11.19.01",
+    "link": "https://www.computerbase.de/downloads/systemtools/gigabyte-control-center/",
+    "pubDate": "2026-11-23T15:43:00.000Z"
+  },
+  {
     "title": "Bazzite 45.20261123",
     "link": "https://www.computerbase.de/downloads/betriebssysteme/bazzite/",
     "pubDate": "2026-11-23T05:47:00.000Z"
@@ -23,11 +93,6 @@
     "title": "MKVToolnix 104.0 “Chimera”",
     "link": "https://www.computerbase.de/downloads/audio-und-video/mkvtoolnix/",
     "pubDate": "2026-11-22T16:22:00.000Z"
-  },
-  {
-    "title": "CachyOS November 2026",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/cachyos/",
-    "pubDate": "2026-11-22T13:35:00.000Z"
   },
   {
     "title": "OBS Studio 33.0.3",
@@ -120,16 +185,6 @@
     "pubDate": "2026-11-20T17:33:00.000Z"
   },
   {
-    "title": "Epic Games Launcher 0.120.0 Preview",
-    "link": "https://www.computerbase.de/downloads/games/epic-games-launcher/",
-    "pubDate": "2026-11-20T17:32:00.000Z"
-  },
-  {
-    "title": "WhatsApp 2.26.46.21 (macOS)",
-    "link": "https://www.computerbase.de/downloads/kommunikation/whatsapp/",
-    "pubDate": "2026-11-20T16:37:00.000Z"
-  },
-  {
     "title": "Vivaldi 8.3 Build 4191.47",
     "link": "https://www.computerbase.de/downloads/browser/vivaldi/",
     "pubDate": "2026-11-20T16:36:00.000Z"
@@ -193,60 +248,5 @@
     "title": "Emsisoft Anti-Malware 2026.11.0.12705",
     "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/emsisoft-anti-malware/",
     "pubDate": "2026-11-19T19:39:00.000Z"
-  },
-  {
-    "title": "Discord 0.0.423 (macOS)",
-    "link": "https://www.computerbase.de/downloads/kommunikation/discord/",
-    "pubDate": "2026-11-19T19:38:00.000Z"
-  },
-  {
-    "title": "Discord 1.0.170 (Linux)",
-    "link": "https://www.computerbase.de/downloads/kommunikation/discord/",
-    "pubDate": "2026-11-19T19:37:00.000Z"
-  },
-  {
-    "title": "Joplin 3.7.24",
-    "link": "https://www.computerbase.de/downloads/office/joplin/",
-    "pubDate": "2026-11-19T19:36:00.000Z"
-  },
-  {
-    "title": "Java SE Development Kit 28.0 Build 25 Dev",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/java-se-development-kit/",
-    "pubDate": "2026-11-19T19:35:00.000Z"
-  },
-  {
-    "title": "TV-Browser 4.2.7 Update 2",
-    "link": "https://www.computerbase.de/downloads/audio-und-video/tv-browser/",
-    "pubDate": "2026-11-19T16:19:00.000Z"
-  },
-  {
-    "title": "AnyDesk 8.1.1 (Linux)",
-    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/anydesk/",
-    "pubDate": "2026-11-19T16:15:00.000Z"
-  },
-  {
-    "title": "HyperSnap 10.5.3",
-    "link": "https://www.computerbase.de/downloads/foto-und-grafik/hypersnap/",
-    "pubDate": "2026-11-19T16:14:00.000Z"
-  },
-  {
-    "title": "Signal 8.36.0",
-    "link": "https://www.computerbase.de/downloads/kommunikation/signal/",
-    "pubDate": "2026-11-19T16:13:00.000Z"
-  },
-  {
-    "title": "PHP 8.6.0",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/php/",
-    "pubDate": "2026-11-19T16:10:00.000Z"
-  },
-  {
-    "title": "PHP 8.5.13",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/php/",
-    "pubDate": "2026-11-19T16:09:00.000Z"
-  },
-  {
-    "title": "PHP 8.4.28",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/php/",
-    "pubDate": "2026-11-19T16:08:00.000Z"
   }
 ]

@@ -1,5 +1,25 @@
 [
   {
+    "title": "[UPDATE] Quick Access Popup v12.4.3",
+    "link": "https://www.portablefreeware.com/?id=2765&ts=1795453562",
+    "pubDate": "Mon, 23 Nov 2026 17:06:02 +0000"
+  },
+  {
+    "title": "[UPDATE] PicPick v7.7.0",
+    "link": "https://www.portablefreeware.com/?id=1496&ts=1795453270",
+    "pubDate": "Mon, 23 Nov 2026 17:01:10 +0000"
+  },
+  {
+    "title": "[UPDATE] Executor v2.5.2",
+    "link": "https://www.portablefreeware.com/?id=1308&ts=1795453193",
+    "pubDate": "Mon, 23 Nov 2026 16:59:53 +0000"
+  },
+  {
+    "title": "[UPDATE] Quick Clipboard Editor v3.4.3.0",
+    "link": "https://www.portablefreeware.com/?id=3091&ts=1795453121",
+    "pubDate": "Mon, 23 Nov 2026 16:58:41 +0000"
+  },
+  {
     "title": "[UPDATE] MKVToolNix v104.0",
     "link": "https://www.portablefreeware.com/?id=3004&ts=1795408832",
     "pubDate": "Mon, 23 Nov 2026 04:40:32 +0000"
@@ -105,7 +125,7 @@
     "pubDate": "Thu, 19 Nov 2026 09:05:36 +0000"
   },
   {
-    "title": "[UPDATE] Unicodia v3.2.9",
+    "title": "[UPDATE] Unicodia v3.3.0",
     "link": "https://www.portablefreeware.com/?id=3102&ts=1795079112",
     "pubDate": "Thu, 19 Nov 2026 09:05:12 +0000"
   },
@@ -135,7 +155,7 @@
     "pubDate": "Wed, 18 Nov 2026 18:21:42 +0000"
   },
   {
-    "title": "[UPDATE] Telegram Desktop v7.4.4",
+    "title": "[UPDATE] Telegram Desktop v7.4.6",
     "link": "https://www.portablefreeware.com/?id=2964&ts=1795019200",
     "pubDate": "Wed, 18 Nov 2026 16:26:40 +0000"
   },
@@ -193,11 +213,6 @@
     "title": "[UPDATE] FileZilla v3.72.1",
     "link": "https://www.portablefreeware.com/?id=9&ts=1794847502",
     "pubDate": "Mon, 16 Nov 2026 16:45:02 +0000"
-  },
-  {
-    "title": "[UPDATE] Executor v2.5.0",
-    "link": "https://www.portablefreeware.com/?id=1308&ts=1794847406",
-    "pubDate": "Mon, 16 Nov 2026 16:43:26 +0000"
   },
   {
     "title": "[UPDATE] WinScan2PDF v9.81",
@@ -483,20 +498,5 @@
     "title": "[UPDATE] NAPS2 v8.6.0",
     "link": "https://www.portablefreeware.com/?id=3020&ts=1793162545",
     "pubDate": "Wed, 28 Oct 2026 04:42:25 +0000"
-  },
-  {
-    "title": "[UPDATE] VeraCrypt v1.26.30",
-    "link": "https://www.portablefreeware.com/?id=2703&ts=1793162518",
-    "pubDate": "Wed, 28 Oct 2026 04:41:58 +0000"
-  },
-  {
-    "title": "[UPDATE] MobaXterm Home Edition v26.6",
-    "link": "https://www.portablefreeware.com/?id=1952&ts=1793113787",
-    "pubDate": "Tue, 27 Oct 2026 15:09:47 +0000"
-  },
-  {
-    "title": "[UPDATE] ZoomIt Portable v12.30",
-    "link": "https://www.portablefreeware.com/?id=2580&ts=1793069235",
-    "pubDate": "Tue, 27 Oct 2026 02:47:15 +0000"
   }
 ]
