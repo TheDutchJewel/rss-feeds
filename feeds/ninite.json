@@ -1,5 +1,35 @@
 [
   {
+    "title": "Brave updated to 1.100.59.",
+    "link": "https://ninite.com/brave/",
+    "pubDate": "Tue, 24 Nov 2026 18:59:35 -0000"
+  },
+  {
+    "title": "Bambu Studio updated to 2.9.2.62.",
+    "link": "https://ninite.com/bambustudio/",
+    "pubDate": "Tue, 24 Nov 2026 18:32:44 -0000"
+  },
+  {
+    "title": "qBittorrent updated to 5.3.1.",
+    "link": "https://ninite.com/qbittorrent/",
+    "pubDate": "Tue, 24 Nov 2026 18:32:28 -0000"
+  },
+  {
+    "title": "Thunderbird updated to 161.0.",
+    "link": "https://ninite.com/thunderbird/",
+    "pubDate": "Tue, 24 Nov 2026 18:32:19 -0000"
+  },
+  {
+    "title": "Firefox updated to 161.0.",
+    "link": "https://ninite.com/firefox/",
+    "pubDate": "Tue, 24 Nov 2026 14:24:03 -0000"
+  },
+  {
+    "title": "Cursor updated to 3.32.4.",
+    "link": "https://ninite.com/cursor/",
+    "pubDate": "Tue, 24 Nov 2026 12:13:12 -0000"
+  },
+  {
     "title": "Evernote updated to 11.44.6.",
     "link": "https://ninite.com/evernote/",
     "pubDate": "Tue, 24 Nov 2026 09:34:18 -0000"
@@ -123,30 +153,5 @@
     "title": "GitHub Desktop updated to 3.7.0.",
     "link": "https://ninite.com/githubdesktop/",
     "pubDate": "Thu, 19 Nov 2026 23:19:46 -0000"
-  },
-  {
-    "title": "Dropbox updated to 280.4.5053.",
-    "link": "https://ninite.com/dropbox/",
-    "pubDate": "Thu, 19 Nov 2026 18:54:37 -0000"
-  },
-  {
-    "title": "Discord updated to 1.0.9269.",
-    "link": "https://ninite.com/discord/",
-    "pubDate": "Thu, 19 Nov 2026 17:06:48 -0000"
-  },
-  {
-    "title": "Cursor updated to 3.31.11.",
-    "link": "https://ninite.com/cursor/",
-    "pubDate": "Thu, 19 Nov 2026 16:58:04 -0000"
-  },
-  {
-    "title": "Super updated to 27.0.1292.",
-    "link": "https://ninite.com/super/",
-    "pubDate": "Thu, 19 Nov 2026 13:34:14 -0000"
-  },
-  {
-    "title": "AnyDesk updated to 9.8.4.",
-    "link": "https://ninite.com/anydesk/",
-    "pubDate": "Thu, 19 Nov 2026 12:55:43 -0000"
   }
 ]

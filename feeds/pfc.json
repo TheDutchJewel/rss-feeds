@@ -1,5 +1,20 @@
 [
   {
+    "title": "[UPDATE] LocalSend v1.19.0",
+    "link": "https://www.portablefreeware.com/?id=3099&ts=1795541672",
+    "pubDate": "Tue, 24 Nov 2026 17:34:32 +0000"
+  },
+  {
+    "title": "[UPDATE] Tor Browser v16.0.3",
+    "link": "https://www.portablefreeware.com/?id=2392&ts=1795541613",
+    "pubDate": "Tue, 24 Nov 2026 17:33:33 +0000"
+  },
+  {
+    "title": "[UPDATE] ocenaudio v3.22.3",
+    "link": "https://www.portablefreeware.com/?id=2799&ts=1795541553",
+    "pubDate": "Tue, 24 Nov 2026 17:32:33 +0000"
+  },
+  {
     "title": "[UPDATE] ChromeCacheView v2.55",
     "link": "https://www.portablefreeware.com/?id=1593&ts=1795494822",
     "pubDate": "Tue, 24 Nov 2026 04:33:42 +0000"
@@ -335,11 +350,6 @@
     "pubDate": "Tue, 10 Nov 2026 15:25:59 +0000"
   },
   {
-    "title": "[UPDATE] Tor Browser v16.0.1",
-    "link": "https://www.portablefreeware.com/?id=2392&ts=1794324290",
-    "pubDate": "Tue, 10 Nov 2026 15:24:50 +0000"
-  },
-  {
     "title": "[UPDATE] OpenCloseDriveEject v3.61",
     "link": "https://www.portablefreeware.com/?id=3079&ts=1794291606",
     "pubDate": "Tue, 10 Nov 2026 06:20:06 +0000"
@@ -425,11 +435,6 @@
     "pubDate": "Thu, 05 Nov 2026 03:23:05 +0000"
   },
   {
-    "title": "[UPDATE] ocenaudio v3.22.2",
-    "link": "https://www.portablefreeware.com/?id=2799&ts=1793811285",
-    "pubDate": "Wed, 04 Nov 2026 16:54:45 +0000"
-  },
-  {
     "title": "[UPDATE] IsMyLcdOK v6.27",
     "link": "https://www.portablefreeware.com/?id=1932&ts=1793773220",
     "pubDate": "Wed, 04 Nov 2026 06:20:20 +0000"
@@ -493,10 +498,5 @@
     "title": "[UPDATE] NewFileTime v8.33",
     "link": "https://www.portablefreeware.com/?id=1695&ts=1793384547",
     "pubDate": "Fri, 30 Oct 2026 18:22:27 +0000"
-  },
-  {
-    "title": "[UPDATE] Blank And Secure v8.56",
-    "link": "https://www.portablefreeware.com/?id=1691&ts=1793332487",
-    "pubDate": "Fri, 30 Oct 2026 03:54:47 +0000"
   }
 ]
