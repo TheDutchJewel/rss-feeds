@@ -1,5 +1,10 @@
 [
   {
+    "title": "Teams updated to 26304.1207.5384.858.",
+    "link": "https://ninite.com/teams/",
+    "pubDate": "Tue, 24 Nov 2026 22:08:12 -0000"
+  },
+  {
     "title": "Brave updated to 1.100.59.",
     "link": "https://ninite.com/brave/",
     "pubDate": "Tue, 24 Nov 2026 18:59:35 -0000"
@@ -148,10 +153,5 @@
     "title": "Bitwarden updated to 2026.11.0.",
     "link": "https://ninite.com/bitwarden/",
     "pubDate": "Fri, 20 Nov 2026 06:28:44 -0000"
-  },
-  {
-    "title": "GitHub Desktop updated to 3.7.0.",
-    "link": "https://ninite.com/githubdesktop/",
-    "pubDate": "Thu, 19 Nov 2026 23:19:46 -0000"
   }
 ]
