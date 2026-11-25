@@ -1,5 +1,15 @@
 [
   {
+    "title": "Edge updated to 158.0.4370.45.",
+    "link": "https://ninite.com/edge/",
+    "pubDate": "Wed, 25 Nov 2026 22:14:22 -0000"
+  },
+  {
+    "title": "Discord updated to 1.0.9270.",
+    "link": "https://ninite.com/discord/",
+    "pubDate": "Wed, 25 Nov 2026 18:39:06 -0000"
+  },
+  {
     "title": "Krita updated to 5.3.5.",
     "link": "https://ninite.com/krita/",
     "pubDate": "Wed, 25 Nov 2026 12:48:28 -0000"
@@ -143,15 +153,5 @@
     "title": "Edge WebView2 updated to 158.0.4370.33.",
     "link": "https://ninite.com/edgewebview2/",
     "pubDate": "Fri, 20 Nov 2026 12:36:30 -0000"
-  },
-  {
-    "title": "ZeroTier One updated to 1.16.2.",
-    "link": "https://ninite.com/zerotierone/",
-    "pubDate": "Fri, 20 Nov 2026 11:24:42 -0000"
-  },
-  {
-    "title": "Oracle VirtualBox updated to 7.2.22.",
-    "link": "https://ninite.com/virtualbox/",
-    "pubDate": "Fri, 20 Nov 2026 11:24:16 -0000"
   }
 ]

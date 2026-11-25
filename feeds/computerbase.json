@@ -1,7 +1,62 @@
 [
   {
+    "title": "Viber für Desktop 29.7.0.0",
+    "link": "https://www.computerbase.de/downloads/kommunikation/viber-fuer-desktop/",
+    "pubDate": "2026-11-25T17:25:00.000Z"
+  },
+  {
+    "title": "ShareMouse for Windows 7.0.32",
+    "link": "https://www.computerbase.de/downloads/treiber/eingabegeraete/sharemouse/",
+    "pubDate": "2026-11-25T17:24:00.000Z"
+  },
+  {
+    "title": "ShareMouse for Mac 7.0.32 (macOS)",
+    "link": "https://www.computerbase.de/downloads/treiber/eingabegeraete/sharemouse/",
+    "pubDate": "2026-11-25T17:23:00.000Z"
+  },
+  {
+    "title": "Mozilla Firefox 162.0 Beta 2",
+    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
+    "pubDate": "2026-11-25T17:13:00.000Z"
+  },
+  {
+    "title": "Epic Games Launcher 0.123.0 Preview",
+    "link": "https://www.computerbase.de/downloads/games/epic-games-launcher/",
+    "pubDate": "2026-11-25T17:12:00.000Z"
+  },
+  {
+    "title": "AMD Adrenalin Radeon-Treiber 26.11.2 (WHQL) Vega/Polaris",
+    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/amd-adrenalin-treiber/",
+    "pubDate": "2026-11-25T17:09:00.000Z"
+  },
+  {
+    "title": "Duplicati 2.4.1.1",
+    "link": "https://www.computerbase.de/downloads/sicherheit/backup/duplicati/",
+    "pubDate": "2026-11-25T17:03:00.000Z"
+  },
+  {
+    "title": "Mozilla Thunderbird 162.0 Beta 2",
+    "link": "https://www.computerbase.de/downloads/kommunikation/mozilla-thunderbird/",
+    "pubDate": "2026-11-25T15:58:00.000Z"
+  },
+  {
+    "title": "Avira Free Security 1.1.118",
+    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/avira-free-security/",
+    "pubDate": "2026-11-25T15:57:00.000Z"
+  },
+  {
+    "title": "Krita 6.0.5",
+    "link": "https://www.computerbase.de/downloads/foto-und-grafik/krita/",
+    "pubDate": "2026-11-25T13:43:00.000Z"
+  },
+  {
     "title": "EA-App 13.836.0.6349",
     "link": "https://www.computerbase.de/downloads/games/ea-app/",
+    "pubDate": "2026-11-25T13:42:00.000Z"
+  },
+  {
+    "title": "Krita 5.3.5",
+    "link": "https://www.computerbase.de/downloads/foto-und-grafik/krita/",
     "pubDate": "2026-11-25T13:42:00.000Z"
   },
   {
@@ -105,11 +160,6 @@
     "pubDate": "2026-11-24T18:52:00.000Z"
   },
   {
-    "title": "Epic Games Launcher 0.122.0 Preview",
-    "link": "https://www.computerbase.de/downloads/games/epic-games-launcher/",
-    "pubDate": "2026-11-24T18:05:00.000Z"
-  },
-  {
     "title": "Mozilla Thunderbird 161.0",
     "link": "https://www.computerbase.de/downloads/kommunikation/mozilla-thunderbird/",
     "pubDate": "2026-11-24T18:05:00.000Z"
@@ -198,55 +248,5 @@
     "title": "AIDA64 v8.40.8544 Beta",
     "link": "https://www.computerbase.de/downloads/systemtools/aida64/",
     "pubDate": "2026-11-24T11:28:00.000Z"
-  },
-  {
-    "title": "qBittorrent 5.3.1",
-    "link": "https://www.computerbase.de/downloads/office/dateitransfer/qbittorrent/",
-    "pubDate": "2026-11-24T11:27:00.000Z"
-  },
-  {
-    "title": "Ability FTP Server 3.1.3",
-    "link": "https://www.computerbase.de/downloads/office/dateitransfer/ability-ftp-server/",
-    "pubDate": "2026-11-24T11:25:00.000Z"
-  },
-  {
-    "title": "GitHub Desktop 3.7.1 Beta 1",
-    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/github-desktop/",
-    "pubDate": "2026-11-24T11:24:00.000Z"
-  },
-  {
-    "title": "Evernote 11.44.6",
-    "link": "https://www.computerbase.de/downloads/office/evernote/",
-    "pubDate": "2026-11-24T11:23:00.000Z"
-  },
-  {
-    "title": "The Bat! 12.4.1",
-    "link": "https://www.computerbase.de/downloads/kommunikation/the-bat/",
-    "pubDate": "2026-11-24T11:23:00.000Z"
-  },
-  {
-    "title": "HFS – HTTP File Server 3.4.2",
-    "link": "https://www.computerbase.de/downloads/office/dateitransfer/hfs-http-file-server/",
-    "pubDate": "2026-11-24T11:23:00.000Z"
-  },
-  {
-    "title": "Rocket.Chat Desktop 4.19.4",
-    "link": "https://www.computerbase.de/downloads/kommunikation/rocket.chat/",
-    "pubDate": "2026-11-24T05:56:00.000Z"
-  },
-  {
-    "title": "Google Chrome 158.0.8127.88/.89",
-    "link": "https://www.computerbase.de/downloads/browser/google-chrome/",
-    "pubDate": "2026-11-24T05:52:00.000Z"
-  },
-  {
-    "title": "Bazzite 45.20261123.1",
-    "link": "https://www.computerbase.de/downloads/betriebssysteme/bazzite/",
-    "pubDate": "2026-11-24T05:50:00.000Z"
-  },
-  {
-    "title": "Mozilla Thunderbird 162.0 Beta 1",
-    "link": "https://www.computerbase.de/downloads/kommunikation/mozilla-thunderbird/",
-    "pubDate": "2026-11-23T22:59:00.000Z"
   }
 ]
