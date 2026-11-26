@@ -1,5 +1,10 @@
 [
   {
+    "title": "Edge WebView2 updated to 158.0.4370.45.",
+    "link": "https://ninite.com/edgewebview2/",
+    "pubDate": "Wed, 25 Nov 2026 23:58:35 -0000"
+  },
+  {
     "title": "Edge updated to 158.0.4370.45.",
     "link": "https://ninite.com/edge/",
     "pubDate": "Wed, 25 Nov 2026 22:14:22 -0000"
@@ -148,10 +153,5 @@
     "title": "Cursor updated to 3.31.15.",
     "link": "https://ninite.com/cursor/",
     "pubDate": "Fri, 20 Nov 2026 22:54:20 -0000"
-  },
-  {
-    "title": "Edge WebView2 updated to 158.0.4370.33.",
-    "link": "https://ninite.com/edgewebview2/",
-    "pubDate": "Fri, 20 Nov 2026 12:36:30 -0000"
   }
 ]
