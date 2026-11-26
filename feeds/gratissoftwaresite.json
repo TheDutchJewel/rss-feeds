@@ -1,5 +1,30 @@
 [
     {
+        "title": "Windscribe 2.25.8",
+        "link": "https://www.gratissoftwaresite.nl/downloads/windscribe-vpn-anoniem-beveiligd-ip-geo",
+        "pubDate": "26 november 2026"
+    },
+    {
+        "title": "LibreWolf 161.0-1",
+        "link": "https://www.gratissoftwaresite.nl/downloads/librewolf-web-browser-privacy",
+        "pubDate": "26 november 2026"
+    },
+    {
+        "title": "ocenaudio 3.22.3",
+        "link": "https://www.gratissoftwaresite.nl/downloads/ocenaudio-geluidsbewerking-mp3-audio-editor",
+        "pubDate": "26 november 2026"
+    },
+    {
+        "title": "Photoflare 1.7.6",
+        "link": "https://www.gratissoftwaresite.nl/downloads/photoflare-fotobewerking-beheer",
+        "pubDate": "26 november 2026"
+    },
+    {
+        "title": "LocalSend 1.19.0",
+        "link": "https://www.gratissoftwaresite.nl/downloads/localsend-bestandsoverdracht-apparaten-airdrop",
+        "pubDate": "26 november 2026"
+    },
+    {
         "title": "Thunderbird 161.0 Release...",
         "link": "https://www.gratissoftwaresite.nl/downloads/thunderbird-mailprogramma-pop3-imap",
         "pubDate": "25 november 2026"
@@ -172,11 +197,6 @@
     {
         "title": "Brave 1.100.58",
         "link": "https://www.gratissoftwaresite.nl/downloads/brave-web-browser-internet-privacy-beveiliging-schilden-trackers-ads",
-        "pubDate": "19 november 2026"
-    },
-    {
-        "title": "LibreWolf 160.0.1-1",
-        "link": "https://www.gratissoftwaresite.nl/downloads/librewolf-web-browser-privacy",
         "pubDate": "19 november 2026"
     },
     {
@@ -445,11 +465,6 @@
         "pubDate": "5 november 2026"
     },
     {
-        "title": "ocenaudio 3.22.2",
-        "link": "https://www.gratissoftwaresite.nl/downloads/ocenaudio-geluidsbewerking-mp3-audio-editor",
-        "pubDate": "5 november 2026"
-    },
-    {
         "title": "KeePass Password Safe 2.62 & 1.44",
         "link": "https://www.gratissoftwaresite.nl/downloads/keepass-password-safe-wachtwoordbeheer-kluis-inloggegevens",
         "pubDate": "4 november 2026"
@@ -468,20 +483,5 @@
         "title": "Fedora 45",
         "link": "https://www.gratissoftwaresite.nl/downloads/fedora-linux-besturingssysteem-os",
         "pubDate": "3 november 2026"
-    },
-    {
-        "title": "Xubuntu 26.04.1 LTS &...",
-        "link": "https://www.gratissoftwaresite.nl/downloads/xubuntu-linux-besturingssysteem",
-        "pubDate": "3 november 2026"
-    },
-    {
-        "title": "Audacity 4.0.2",
-        "link": "https://www.gratissoftwaresite.nl/downloads/audacity-geluidsbewerking-mp3-wav-editor",
-        "pubDate": "2 november 2026"
-    },
-    {
-        "title": "iTunes 12.13.12.3",
-        "link": "https://www.gratissoftwaresite.nl/downloads/itunes-mediaspeler-synchroniseer-iphone-ipad",
-        "pubDate": "2 november 2026"
     }
 ]

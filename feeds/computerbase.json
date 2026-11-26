@@ -1,5 +1,65 @@
 [
   {
+    "title": "Heroic Games Launcher 3.0.0 Beta 1",
+    "link": "https://www.computerbase.de/downloads/games/heroic-games-launcher/",
+    "pubDate": "2026-11-26T06:33:00.000Z"
+  },
+  {
+    "title": "Linux Mint 27 „Adrien“ Beta",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/linux-mint/",
+    "pubDate": "2026-11-26T06:15:00.000Z"
+  },
+  {
+    "title": "Microsoft Edge 158.0.4370.45",
+    "link": "https://www.computerbase.de/downloads/browser/microsoft-edge/",
+    "pubDate": "2026-11-26T06:12:00.000Z"
+  },
+  {
+    "title": "Bazzite 45.20261125",
+    "link": "https://www.computerbase.de/downloads/betriebssysteme/bazzite/",
+    "pubDate": "2026-11-26T06:10:00.000Z"
+  },
+  {
+    "title": "ProtonVPN 5.1.10",
+    "link": "https://www.computerbase.de/downloads/systemtools/netzwerk/protonvpn/",
+    "pubDate": "2026-11-26T06:09:00.000Z"
+  },
+  {
+    "title": "MemTest86 Free 11.7 Build 2000",
+    "link": "https://www.computerbase.de/downloads/systemtools/memtest86/",
+    "pubDate": "2026-11-26T06:07:00.000Z"
+  },
+  {
+    "title": "Internet Download Manager 6.43 Build 19",
+    "link": "https://www.computerbase.de/downloads/office/dateitransfer/internet-download-manager/",
+    "pubDate": "2026-11-26T05:59:00.000Z"
+  },
+  {
+    "title": "Discord 1.0.9270",
+    "link": "https://www.computerbase.de/downloads/kommunikation/discord/",
+    "pubDate": "2026-11-26T05:56:00.000Z"
+  },
+  {
+    "title": "Discord 0.0.424 (macOS)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/discord/",
+    "pubDate": "2026-11-26T05:55:00.000Z"
+  },
+  {
+    "title": "Discord 1.0.171 (Linux)",
+    "link": "https://www.computerbase.de/downloads/kommunikation/discord/",
+    "pubDate": "2026-11-26T05:54:00.000Z"
+  },
+  {
+    "title": "ZenTimings 143.751 Beta",
+    "link": "https://www.computerbase.de/downloads/systemtools/zentimings/",
+    "pubDate": "2026-11-26T05:54:00.000Z"
+  },
+  {
+    "title": "Lutris 0.5.23 (Linux)",
+    "link": "https://www.computerbase.de/downloads/games/lutris/",
+    "pubDate": "2026-11-26T05:52:00.000Z"
+  },
+  {
     "title": "Viber für Desktop 29.7.0.0",
     "link": "https://www.computerbase.de/downloads/kommunikation/viber-fuer-desktop/",
     "pubDate": "2026-11-25T17:25:00.000Z"
@@ -188,65 +248,5 @@
     "title": "Blender 4.5.17 LTS",
     "link": "https://www.computerbase.de/downloads/foto-und-grafik/blender/",
     "pubDate": "2026-11-24T16:35:00.000Z"
-  },
-  {
-    "title": "Nvidia Studio-Treiber 621.40",
-    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/nvidia-studio-treiber/",
-    "pubDate": "2026-11-24T16:26:00.000Z"
-  },
-  {
-    "title": "Nvidia GeForce-Treiber 621.40",
-    "link": "https://www.computerbase.de/downloads/treiber/grafikkarten/nvidia-geforce-treiber/",
-    "pubDate": "2026-11-24T16:25:00.000Z"
-  },
-  {
-    "title": "Element 1.12.36",
-    "link": "https://www.computerbase.de/downloads/kommunikation/element/",
-    "pubDate": "2026-11-24T16:21:00.000Z"
-  },
-  {
-    "title": "Tor Browser 16.0.3",
-    "link": "https://www.computerbase.de/downloads/browser/tor-browser/",
-    "pubDate": "2026-11-24T16:19:00.000Z"
-  },
-  {
-    "title": "Mozilla Firefox 161.0",
-    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
-    "pubDate": "2026-11-24T16:18:00.000Z"
-  },
-  {
-    "title": "Trellix Stinger 26.11.48.2",
-    "link": "https://www.computerbase.de/downloads/sicherheit/antimalware/mcafee-labs-stinger/",
-    "pubDate": "2026-11-24T16:18:00.000Z"
-  },
-  {
-    "title": "Mozilla Firefox 153.8.0 ESR",
-    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
-    "pubDate": "2026-11-24T16:17:00.000Z"
-  },
-  {
-    "title": "Mozilla Firefox 115.46.0 ESR",
-    "link": "https://www.computerbase.de/downloads/browser/mozilla-firefox/",
-    "pubDate": "2026-11-24T16:16:00.000Z"
-  },
-  {
-    "title": "LocalSend 1.19.0",
-    "link": "https://www.computerbase.de/downloads/office/dateitransfer/localsend/",
-    "pubDate": "2026-11-24T16:15:00.000Z"
-  },
-  {
-    "title": "eM Client 11.0.1725.0",
-    "link": "https://www.computerbase.de/downloads/kommunikation/em-client/",
-    "pubDate": "2026-11-24T13:00:00.000Z"
-  },
-  {
-    "title": "HyperX NGENUITY 2.39.0.0",
-    "link": "https://www.computerbase.de/downloads/treiber/eingabegeraete/hyperx-ngenuity/",
-    "pubDate": "2026-11-24T13:00:00.000Z"
-  },
-  {
-    "title": "AIDA64 v8.40.8544 Beta",
-    "link": "https://www.computerbase.de/downloads/systemtools/aida64/",
-    "pubDate": "2026-11-24T11:28:00.000Z"
   }
 ]
