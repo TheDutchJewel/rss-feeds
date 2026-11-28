@@ -1,5 +1,25 @@
 [
   {
+    "title": "WinMerge updated to 2.16.60.2.",
+    "link": "https://ninite.com/winmerge/",
+    "pubDate": "Sat, 28 Nov 2026 04:22:18 -0000"
+  },
+  {
+    "title": "Opera Chromium updated to 141.0.6089.33.",
+    "link": "https://ninite.com/operaChromium/",
+    "pubDate": "Sat, 28 Nov 2026 04:21:36 -0000"
+  },
+  {
+    "title": "PDF24 Creator updated to 11.36.1.",
+    "link": "https://ninite.com/pdf24creator/",
+    "pubDate": "Sat, 28 Nov 2026 03:48:32 -0000"
+  },
+  {
+    "title": "TightVNC updated to 2.8.91.",
+    "link": "https://ninite.com/tightvnc/",
+    "pubDate": "Sat, 28 Nov 2026 03:48:13 -0000"
+  },
+  {
     "title": "WhatsApp updated to 2.2646.103.",
     "link": "https://ninite.com/whatsapp/",
     "pubDate": "Fri, 27 Nov 2026 16:58:40 -0000"
@@ -168,20 +188,5 @@
     "title": "Claude updated to 6.28899.2.",
     "link": "https://ninite.com/claude/",
     "pubDate": "Sat, 21 Nov 2026 02:15:59 -0000"
-  },
-  {
-    "title": "OBS Studio updated to 33.0.2.",
-    "link": "https://ninite.com/obsstudio/",
-    "pubDate": "Sat, 21 Nov 2026 02:15:09 -0000"
-  },
-  {
-    "title": "PDF24 Creator updated to 11.35.0.",
-    "link": "https://ninite.com/pdf24creator/",
-    "pubDate": "Sat, 21 Nov 2026 02:14:55 -0000"
-  },
-  {
-    "title": "Cursor updated to 3.31.15.",
-    "link": "https://ninite.com/cursor/",
-    "pubDate": "Fri, 20 Nov 2026 22:54:20 -0000"
   }
 ]
