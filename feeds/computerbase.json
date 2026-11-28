@@ -1,5 +1,20 @@
 [
   {
+    "title": "Apache NetBeans IDE 32 (Inoffiziell)",
+    "link": "https://www.computerbase.de/downloads/systemtools/entwicklung/netbeans/",
+    "pubDate": "2026-11-28T10:40:00.000Z"
+  },
+  {
+    "title": "Wine 11.23 Beta (Linux)",
+    "link": "https://www.computerbase.de/downloads/systemtools/wine/",
+    "pubDate": "2026-11-28T08:44:00.000Z"
+  },
+  {
+    "title": "Fan Control V287",
+    "link": "https://www.computerbase.de/downloads/systemtools/fan-control/",
+    "pubDate": "2026-11-28T08:44:00.000Z"
+  },
+  {
     "title": "PDF24 Creator 11.36.1",
     "link": "https://www.computerbase.de/downloads/office/pdf/pdf24-creator/",
     "pubDate": "2026-11-27T20:52:00.000Z"
@@ -233,20 +248,5 @@
     "title": "ZenTimings 143.751 Beta",
     "link": "https://www.computerbase.de/downloads/systemtools/zentimings/",
     "pubDate": "2026-11-26T05:54:00.000Z"
-  },
-  {
-    "title": "Lutris 0.5.23 (Linux)",
-    "link": "https://www.computerbase.de/downloads/games/lutris/",
-    "pubDate": "2026-11-26T05:52:00.000Z"
-  },
-  {
-    "title": "Viber für Desktop 29.7.0.0",
-    "link": "https://www.computerbase.de/downloads/kommunikation/viber-fuer-desktop/",
-    "pubDate": "2026-11-25T17:25:00.000Z"
-  },
-  {
-    "title": "ShareMouse for Windows 7.0.32",
-    "link": "https://www.computerbase.de/downloads/treiber/eingabegeraete/sharemouse/",
-    "pubDate": "2026-11-25T17:24:00.000Z"
   }
 ]
